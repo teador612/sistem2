@@ -23,6 +23,7 @@ const dateObject = (value) => new Date(`${value}T00:00:00`);
 const daysBetween = (a, b) => Math.round((dateObject(a) - dateObject(b)) / 86400000);
 const pct = (value) => value == null ? "—" : `%${Math.round(value)}`;
 const lastItem = (items) => items[items.length - 1];
+const formatOdds = (value) => value == null ? "—" : Number(value).toFixed(2);
 
 function lowerBound(items, value) {
   let left = 0;
@@ -93,7 +94,13 @@ function renderStats(selected, dayMatches) {
     const recs = recommendationFor(match);
     return recs.length && match.status === "finished" ? [{ won: outcome(match, recs) === "won" }] : [];
   });
-  const overall = matches.flatMap((match) => {
+  const selectedDate = dateObject(selected);
+  const windowStart = new Date(selectedDate);
+  windowStart.setDate(windowStart.getDate() - WINDOW_DAYS);
+  const overall = matches.filter((match) => {
+    const matchDate = dateObject(match.date);
+    return matchDate >= windowStart && matchDate <= selectedDate;
+  }).flatMap((match) => {
     const recs = recommendationFor(match);
     const primary = recs[0];
     if (!primary || match.status !== "finished") return [];
@@ -103,7 +110,7 @@ function renderStats(selected, dayMatches) {
   $("daySuccess").textContent = pct(ratio(settled));
   $("daySuccessMeta").textContent = settled.length ? `${settled.length} tamamlanan öneri` : "Tamamlanan öneri yok";
   $("overallSuccess").textContent = pct(ratio(overall));
-  $("overallSuccessMeta").textContent = overall.length ? `${overall.length} tamamlanan öneri` : "Tamamlanan öneri yok";
+  $("overallSuccessMeta").textContent = overall.length ? `Son ${WINDOW_DAYS} gündeki ${overall.length} öneri` : "Son 60 günde tamamlanan öneri yok";
   $("matchCount").textContent = dayMatches.length;
   const dates = matches.map((item) => item.date).sort();
   $("dataRange").textContent = dates.length ? `${dates[0]} – ${lastItem(dates)}` : "—";
@@ -137,10 +144,10 @@ function renderMatches(dayMatches) {
     fragment.querySelector(".time").textContent = match.time || "—";
     fragment.querySelector(".home").textContent = match.homeTeam;
     fragment.querySelector(".away").textContent = match.awayTeam;
-    fragment.querySelector(".ht-score").textContent = match.status === "finished" ? (match.halfTimeScore || "—") : "—";
+    fragment.querySelector(".ht-score").textContent = ["finished", "live"].includes(match.status) ? (match.halfTimeScore || "—") : "—";
     fragment.querySelector(".ft-score").textContent = match.status === "finished" ? (match.fullTimeScore || "—") : "—";
     fragment.querySelector(".recommendation").innerHTML = recs.length
-      ? recs.map(({ market, rate, count }) => `<span class="pill">${market.label} <b>${pct(rate)}</b> <small>${count} eşleşme</small></span>`).join("")
+      ? recs.map(({ market, rate, count }) => `<span class="pill">${market.label} <em>${formatOdds(match.openingOdds?.[market.odds])}</em> <b>${pct(rate)}</b> <small>${count} eşleşme</small></span>`).join("")
       : `<span class="no-recommendation">%70 üzerinde ve en az ${MIN_SAMPLES} geçmiş eşleşmesi olan oran bulunamadı</span>`;
     const button = fragment.querySelector(".expand");
     const details = fragment.querySelector(".details");
@@ -184,3 +191,7 @@ async function init() {
 }
 
 init();
+
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+}

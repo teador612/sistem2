@@ -46,6 +46,7 @@ input { min-height: 42px; border: 1px solid var(--border); border-radius: 10px; 
 .scores b { color: var(--text); }
 .recommendation { display: inline-flex; flex-wrap: wrap; gap: 7px; margin-top: 13px; }
 .pill { display: inline-flex; align-items: center; gap: 7px; border-radius: 8px; padding: 7px 9px; background: var(--panel-2); color: #d9e8ff; font-size: 12px; font-weight: 700; }
+.pill em { color: #ffd47a; font-style: normal; }
 .pill b { color: var(--green); }
 .no-recommendation { color: var(--muted); font-size: 12px; }
 .expand { align-self: center; margin: 15px; width: 34px; height: 34px; border: 1px solid var(--border); border-radius: 50%; background: transparent; color: var(--text); cursor: pointer; font-size: 22px; line-height: 1; }
