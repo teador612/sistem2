@@ -18,6 +18,12 @@ const number = (value) => {
 };
 const scoreValue = (value) => /^\d+$/.test(clean(value)) ? clean(value) : null;
 const scoreText = (home, away) => scoreValue(home) != null && scoreValue(away) != null ? `${scoreValue(home)}-${scoreValue(away)}` : null;
+const sameTeam = (left, right) => {
+  if (!left || !right) return false;
+  if (left === right) return true;
+  if (left.length < 5 || right.length < 5) return false;
+  return left.startsWith(right) || right.startsWith(left);
+};
 const isoDate = (value) => {
   const [day, month, year] = clean(value).split(".");
   return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
@@ -78,18 +84,29 @@ function toMatch(row) {
 const existing = JSON.parse(await fs.readFile(dataPath, "utf8"));
 if (!Array.isArray(existing)) throw new Error("data/matches.json bir dizi olmalı.");
 const byId = new Map(existing.map((item) => [String(item.id), item]));
-const byComposite = new Map(existing.map((item) => [`${item.date}|${item.time}|${item.normalizedHomeTeam}|${item.normalizedAwayTeam}`, item]));
+const byDateTime = new Map();
+for (const item of existing) {
+  const key = `${item.date}|${item.time}`;
+  if (!byDateTime.has(key)) byDateTime.set(key, []);
+  byDateTime.get(key).push(item);
+}
+const candidatesFor = (match) => (byDateTime.get(`${match.date}|${match.time}`) ?? []).filter((item) =>
+  sameTeam(item.normalizedHomeTeam, match.normalizedHomeTeam) && sameTeam(item.normalizedAwayTeam, match.normalizedAwayTeam)
+);
+const removeItems = new Set();
 let added = 0;
 let updated = 0;
 
 for (const row of await fetchRows()) {
   const incoming = toMatch(row);
-  const key = `${incoming.date}|${incoming.time}|${incoming.normalizedHomeTeam}|${incoming.normalizedAwayTeam}`;
-  const current = byId.get(incoming.id) ?? byComposite.get(key);
+  const candidates = candidatesFor(incoming);
+  const current = candidates.find((item) => String(item.id).startsWith("OLD-")) ?? byId.get(incoming.id) ?? candidates[0];
   if (!current) {
     existing.push(incoming);
     byId.set(incoming.id, incoming);
-    byComposite.set(key, incoming);
+    const bucketKey = `${incoming.date}|${incoming.time}`;
+    if (!byDateTime.has(bucketKey)) byDateTime.set(bucketKey, []);
+    byDateTime.get(bucketKey).push(incoming);
     added++;
     continue;
   }
@@ -100,10 +117,14 @@ for (const row of await fetchRows()) {
   current.status = incoming.status;
   current.lastUpdated = incoming.lastUpdated;
   if (!current.league) current.league = incoming.league;
+  for (const duplicate of candidates) {
+    if (duplicate !== current) removeItems.add(duplicate);
+  }
   updated++;
 }
 
-existing.sort((a, b) => `${a.date}${a.time}${a.homeTeam}`.localeCompare(`${b.date}${b.time}${b.homeTeam}`));
-await fs.writeFile(dataPath, JSON.stringify(existing), "utf8");
-console.log(`Maçkolik satırı: ${added} yeni, ${updated} güncellenen kayıt`);
-console.log(`Toplam kayıt: ${existing.length}`);
+const merged = existing.filter((item) => !removeItems.has(item));
+merged.sort((a, b) => `${a.date}${a.time}${a.homeTeam}`.localeCompare(`${b.date}${b.time}${b.homeTeam}`));
+await fs.writeFile(dataPath, JSON.stringify(merged), "utf8");
+console.log(`Maçkolik satırı: ${added} yeni, ${updated} güncellenen kayıt, ${removeItems.size} kopya birleştirildi`);
+console.log(`Toplam kayıt: ${merged.length}`);
