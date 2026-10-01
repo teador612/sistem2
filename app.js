@@ -14,6 +14,7 @@ const MARKETS = [
 ];
 
 let matches = [];
+let historyIndexes = new Map();
 
 const $ = (id) => document.getElementById(id);
 const dateKey = (value) => value.slice(0, 10);
@@ -22,16 +23,54 @@ const daysBetween = (a, b) => Math.round((dateObject(a) - dateObject(b)) / 86400
 const pct = (value) => value == null ? "—" : `%${Math.round(value)}`;
 const lastItem = (items) => items[items.length - 1];
 
+function lowerBound(items, value) {
+  let left = 0;
+  let right = items.length;
+  while (left < right) {
+    const middle = Math.floor((left + right) / 2);
+    if (items[middle].date < value) left = middle + 1;
+    else right = middle;
+  }
+  return left;
+}
+
+function buildHistoryIndexes() {
+  historyIndexes = new Map();
+  MARKETS.forEach((market) => {
+    const marketIndex = new Map();
+    matches.forEach((match) => {
+      const odds = match.openingOdds?.[market.odds];
+      const result = match.results?.[market.result];
+      if (odds == null || result == null || result === "") return;
+      const key = String(Number(odds));
+      if (!marketIndex.has(key)) marketIndex.set(key, []);
+      marketIndex.get(key).push({ date: match.date, success: result === market.expected ? 1 : 0 });
+    });
+    marketIndex.forEach((items) => {
+      items.sort((a, b) => a.date.localeCompare(b.date));
+      let total = 0;
+      items.forEach((item) => {
+        total += item.success;
+        item.total = total;
+      });
+    });
+    historyIndexes.set(market.key, marketIndex);
+  });
+}
+
 function getHistory(match, market) {
+  const odds = match.openingOdds?.[market.odds];
+  if (odds == null) return { count: 0, successful: 0, rate: null };
+  const items = historyIndexes.get(market.key)?.get(String(Number(odds))) || [];
   const start = new Date(dateObject(match.date));
   start.setDate(start.getDate() - WINDOW_DAYS);
-  const candidates = matches.filter((item) => {
-    const itemDate = dateObject(item.date);
-    return itemDate >= start && itemDate < dateObject(match.date) && item.openingOdds?.[market.odds] != null && item.results?.[market.result];
-  });
-  const sameOdds = candidates.filter((item) => Number(item.openingOdds[market.odds]) === Number(match.openingOdds?.[market.odds]));
-  const successful = sameOdds.filter((item) => item.results[market.result] === market.expected).length;
-  return { count: sameOdds.length, successful, rate: sameOdds.length ? successful / sameOdds.length * 100 : null };
+  const startDate = start.toISOString().slice(0, 10);
+  const from = lowerBound(items, startDate);
+  const to = lowerBound(items, match.date);
+  const count = to - from;
+  const before = from ? items[from - 1].total : 0;
+  const successful = (to ? items[to - 1].total : 0) - before;
+  return { count, successful, rate: count ? successful / count * 100 : null };
 }
 
 function analyze(match) {
@@ -120,6 +159,7 @@ async function init() {
     const response = await fetch("data/matches.json");
     matches = await response.json();
     matches.sort((a, b) => `${a.date}${a.time}`.localeCompare(`${b.date}${b.time}`));
+    buildHistoryIndexes();
     const dates = matches.map((item) => item.date).sort();
     $("dateInput").min = dates[0];
     $("dateInput").max = lastItem(dates);
