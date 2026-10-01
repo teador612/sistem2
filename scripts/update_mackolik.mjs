@@ -64,6 +64,7 @@ function toMatch(row) {
   const home = clean(row[1]);
   const away = clean(row[3]);
   const finished = finishedStatuses.has(status) && !specialStatuses.has(status);
+  const live = !finished && status >= 2 && !specialStatuses.has(status);
   return {
     id: `mackolik-${row[0]}`,
     date: isoDate(row[7]), time: clean(row[6]), league: clean(row[26]),
@@ -75,10 +76,10 @@ function toMatch(row) {
       iy15Under: number(row[42]), iy15Over: number(row[43]),
       under25: number(row[22]), over25: number(row[23]),
     },
-    halfTimeScore: finished ? scoreText(row[11], row[12]) : null,
+    halfTimeScore: finished || live ? scoreText(row[11], row[12]) : null,
     fullTimeScore: finished ? scoreText(row[8], row[9]) : null,
     results: finished ? resultValues(row) : { msResult: "", kgResult: "", iy15Result: "", over25Result: "" },
-    status: finished ? "finished" : "not_started",
+    status: finished ? "finished" : live ? "live" : "not_started",
     lastUpdated: new Date().toISOString(),
   };
 }
