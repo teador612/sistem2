@@ -5,6 +5,10 @@ on:
     types: [mackolik-update]
   workflow_dispatch:
 
+concurrency:
+  group: mackolik-data-update
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -14,11 +18,16 @@ jobs:
     steps:
       - name: Repository'i al
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Node.js kurulumu
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+
+      - name: Uzak main dalını güncelle
+        run: git pull --rebase --autostash origin main
 
       - name: Maçkolik verisini al ve birleştir
         run: node scripts/update_mackolik.mjs
@@ -27,10 +36,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin main
           git add data/history data/manifest.json
           if git diff --cached --quiet; then
             echo "Yeni veri değişikliği yok."
           else
             git commit -m "Maçkolik verisini güncelle"
-            git push
+            git push origin HEAD:main
           fi
