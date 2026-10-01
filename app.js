@@ -110,8 +110,9 @@ function renderStats(selected, dayMatches) {
 }
 
 function detailMarkup(analysis) {
-  if (!analysis.length) return `<p class="muted">Son 60 günde aynı açılış oranıyla eşleşen veri bulunamadı.</p>`;
-  return `<div class="detail-grid">${analysis.sort((a, b) => (b.rate ?? -1) - (a.rate ?? -1)).map(({ market, count, rate }) => `
+  const eligible = analysis.filter(({ count, rate }) => count >= MIN_SAMPLES && rate >= THRESHOLD);
+  if (!eligible.length) return `<p class="muted">%70 veya üzeri ve en az ${MIN_SAMPLES} geçmiş eşleşmesi olan öneri bulunamadı.</p>`;
+  return `<div class="detail-grid">${eligible.sort((a, b) => (b.rate ?? -1) - (a.rate ?? -1)).map(({ market, count, rate }) => `
     <div class="detail-item ${rate >= THRESHOLD ? "good" : ""}"><span>${market.label}</span><b>${pct(rate)} <small>(${count} maç)</small></b></div>`).join("")}</div>`;
 }
 
@@ -166,7 +167,9 @@ async function init() {
     const dates = matches.map((item) => item.date).sort();
     $("dateInput").min = dates[0];
     $("dateInput").max = lastItem(dates);
-    $("dateInput").value = lastItem(dates) || "";
+    const now = new Date();
+    const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
+    $("dateInput").value = today;
     $("dateInput").addEventListener("change", render);
     render();
   } catch (error) {
