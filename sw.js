@@ -1,5 +1,5 @@
-const CACHE_NAME = "oran-analiz-v1";
-const APP_FILES = ["./", "./index.html", "./styles.css", "./app.js?v=4", "./manifest.webmanifest", "./icon.svg"];
+const CACHE_NAME = "oran-analiz-v2";
+const APP_FILES = ["./", "./index.html", "./styles.css", "./app.js?v=5", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_FILES)));
@@ -12,7 +12,7 @@ self.addEventListener("activate", (event) => {
 });
 
 self.addEventListener("fetch", (event) => {
-  if (event.request.url.includes("/data/matches.json")) {
+  if (event.request.url.includes("/data/")) {
     event.respondWith(fetch(event.request).then((response) => {
       const copy = response.clone();
       caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));

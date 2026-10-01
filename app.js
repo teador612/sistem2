@@ -16,10 +16,13 @@ const MARKETS = [
 
 let matches = [];
 let historyIndexes = new Map();
+let manifest = null;
+let loadedDataKey = "";
 
 const $ = (id) => document.getElementById(id);
 const dateKey = (value) => value.slice(0, 10);
 const dateObject = (value) => new Date(`${value}T00:00:00`);
+const localDateKey = (value) => `${value.getFullYear()}-${String(value.getMonth() + 1).padStart(2, "0")}-${String(value.getDate()).padStart(2, "0")}`;
 const daysBetween = (a, b) => Math.round((dateObject(a) - dateObject(b)) / 86400000);
 const pct = (value) => value == null ? "—" : `%${Math.round(value)}`;
 const lastItem = (items) => items[items.length - 1];
@@ -66,7 +69,7 @@ function getHistory(match, market) {
   const items = historyIndexes.get(market.key)?.get(String(Number(odds))) || [];
   const start = new Date(dateObject(match.date));
   start.setDate(start.getDate() - WINDOW_DAYS);
-  const startDate = start.toISOString().slice(0, 10);
+  const startDate = localDateKey(start);
   const from = lowerBound(items, startDate);
   const to = lowerBound(items, match.date);
   const count = to - from;
@@ -170,20 +173,65 @@ function render() {
   renderMatches(dayMatches);
 }
 
+function monthsForDate(selected) {
+  const end = dateObject(selected);
+  const start = new Date(end);
+  start.setDate(start.getDate() - WINDOW_DAYS);
+  const cursor = new Date(start.getFullYear(), start.getMonth(), 1);
+  const last = new Date(end.getFullYear(), end.getMonth(), 1);
+  const months = [];
+  while (cursor <= last) {
+    months.push(`${cursor.getFullYear()}-${String(cursor.getMonth() + 1).padStart(2, "0")}`);
+    cursor.setMonth(cursor.getMonth() + 1);
+  }
+  return months;
+}
+
+async function loadForDate(selected) {
+  const monthKeys = monthsForDate(selected);
+  const available = monthKeys.filter((month) => manifest?.files?.[month]);
+  const dataKey = available.join(",");
+  if (dataKey !== loadedDataKey) {
+    const lists = await Promise.all(available.map(async (month) => {
+      const response = await fetch(manifest.files[month]);
+      if (!response.ok) throw new Error(`Veri dosyası yüklenemedi: ${month}`);
+      return response.json();
+    }));
+    matches = lists.flat();
+    matches.sort((a, b) => `${a.date}${a.time}${a.homeTeam}`.localeCompare(`${b.date}${b.time}${b.homeTeam}`));
+    buildHistoryIndexes();
+    loadedDataKey = dataKey;
+  }
+  render();
+}
+
 async function init() {
   try {
-    const response = await fetch("data/matches.json");
-    matches = await response.json();
-    matches.sort((a, b) => `${a.date}${a.time}`.localeCompare(`${b.date}${b.time}`));
-    buildHistoryIndexes();
-    const dates = matches.map((item) => item.date).sort();
-    $("dateInput").min = dates[0];
-    $("dateInput").max = lastItem(dates);
+    const manifestResponse = await fetch("data/manifest.json");
+    if (manifestResponse.ok) {
+      manifest = await manifestResponse.json();
+    } else {
+      const legacyResponse = await fetch("data/matches.json");
+      matches = await legacyResponse.json();
+      matches.sort((a, b) => `${a.date}${a.time}${a.homeTeam}`.localeCompare(`${b.date}${b.time}${b.homeTeam}`));
+      buildHistoryIndexes();
+    }
+    $("dateInput").min = manifest?.minDate || matches[0]?.date || "";
+    $("dateInput").max = manifest?.maxDate || lastItem(matches.map((item) => item.date).sort()) || "";
     const now = new Date();
     const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
     $("dateInput").value = today;
-    $("dateInput").addEventListener("change", render);
-    render();
+    $("dateInput").addEventListener("change", async () => {
+      $("resultSummary").textContent = "Veriler yükleniyor...";
+      try {
+        await loadForDate($("dateInput").value);
+      } catch (error) {
+        $("matches").innerHTML = `<div class="empty">Seçilen tarih verileri yüklenemedi.</div>`;
+        console.error(error);
+      }
+    });
+    if (manifest) await loadForDate(today);
+    else render();
   } catch (error) {
     $("matches").innerHTML = `<div class="empty">Veri dosyası yüklenemedi. Önce veri dönüştürme scriptini çalıştırın.</div>`;
     console.error(error);
