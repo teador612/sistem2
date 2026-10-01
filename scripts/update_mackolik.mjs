@@ -5,6 +5,9 @@ import { fileURLToPath } from "node:url";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dataPath = process.env.MATCHES_PATH ? path.resolve(process.env.MATCHES_PATH) : path.join(root, "data", "matches.json");
+const dataDir = path.join(root, "data");
+const historyDir = path.join(dataDir, "history");
+const manifestPath = path.join(dataDir, "manifest.json");
 const sourceUrl = "https://arsiv.mackolik.com/AjaxHandlers/ProgramDataHandler.ashx";
 const finishedStatuses = new Set([4, 5, 6, 7, 8, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20]);
 const specialStatuses = new Set([9, 11, 21, 22, 23]);
@@ -84,7 +87,37 @@ function toMatch(row) {
   };
 }
 
-const existing = JSON.parse(await fs.readFile(dataPath, "utf8"));
+async function loadExisting() {
+  try {
+    const manifest = JSON.parse(await fs.readFile(manifestPath, "utf8"));
+    const files = Object.values(manifest.files ?? {});
+    const chunks = await Promise.all(files.map(async (file) => JSON.parse(await fs.readFile(path.join(root, file), "utf8"))));
+    return chunks.flat();
+  } catch {
+    return JSON.parse(await fs.readFile(dataPath, "utf8"));
+  }
+}
+
+async function writePartitioned(items) {
+  const groups = new Map();
+  for (const item of items) {
+    const month = String(item.date).slice(0, 7);
+    if (!groups.has(month)) groups.set(month, []);
+    groups.get(month).push(item);
+  }
+  await fs.mkdir(historyDir, { recursive: true });
+  const files = {};
+  for (const [month, monthItems] of groups) {
+    monthItems.sort((a, b) => `${a.date}${a.time}${a.homeTeam}`.localeCompare(`${b.date}${b.time}${b.homeTeam}`));
+    const relative = `data/history/${month}.json`;
+    await fs.writeFile(path.join(root, relative), JSON.stringify(monthItems), "utf8");
+    files[month] = relative;
+  }
+  const dates = items.map((item) => item.date).sort();
+  await fs.writeFile(manifestPath, JSON.stringify({ files, minDate: dates[0], maxDate: dates.at(-1), updatedAt: new Date().toISOString() }), "utf8");
+}
+
+const existing = await loadExisting();
 if (!Array.isArray(existing)) throw new Error("data/matches.json bir dizi olmalı.");
 const byId = new Map(existing.map((item) => [String(item.id), item]));
 const byDateTime = new Map();
@@ -136,6 +169,6 @@ for (const row of await fetchRows()) {
 
 const merged = existing.filter((item) => !removeItems.has(item));
 merged.sort((a, b) => `${a.date}${a.time}${a.homeTeam}`.localeCompare(`${b.date}${b.time}${b.homeTeam}`));
-await fs.writeFile(dataPath, JSON.stringify(merged), "utf8");
+await writePartitioned(merged);
 console.log(`Maçkolik satırı: ${added} yeni, ${updated} güncellenen kayıt, ${removeItems.size} kopya birleştirildi`);
 console.log(`Toplam kayıt: ${merged.length}`);
