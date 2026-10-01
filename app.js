@@ -1,5 +1,6 @@
 const THRESHOLD = 70;
 const WINDOW_DAYS = 60;
+const MIN_SAMPLES = 5;
 
 const MARKETS = [
   { key: "ms1", label: "MS 1", odds: "ms1", result: "msResult", expected: "1" },
@@ -78,7 +79,7 @@ function analyze(match) {
 }
 
 function recommendationFor(match) {
-  return analyze(match).filter((item) => item.rate >= THRESHOLD).sort((a, b) => b.rate - a.rate || b.count - a.count);
+  return analyze(match).filter((item) => item.count >= MIN_SAMPLES && item.rate >= THRESHOLD).sort((a, b) => b.rate - a.rate || b.count - a.count);
 }
 
 function outcome(match, recommendations) {
@@ -94,7 +95,9 @@ function renderStats(selected, dayMatches) {
   });
   const overall = matches.flatMap((match) => {
     const recs = recommendationFor(match);
-    return recs.length && match.status === "finished" ? [{ won: outcome(match, recs) === "won" }] : [];
+    const primary = recs[0];
+    if (!primary || match.status !== "finished") return [];
+    return [{ won: match.results?.[primary.market.result] === primary.market.expected }];
   });
   const ratio = (list) => list.length ? list.filter((item) => item.won).length / list.length * 100 : null;
   $("daySuccess").textContent = pct(ratio(settled));
@@ -132,7 +135,7 @@ function renderMatches(dayMatches) {
     fragment.querySelector(".ft-score").textContent = match.fullTimeScore || "—";
     fragment.querySelector(".recommendation").innerHTML = recs.length
       ? recs.map(({ market, rate, count }) => `<span class="pill">${market.label} <b>${pct(rate)}</b> <small>${count} eşleşme</small></span>`).join("")
-      : `<span class="no-recommendation">%70 üzerinde eşleşen tek oran bulunamadı</span>`;
+      : `<span class="no-recommendation">%70 üzerinde ve en az ${MIN_SAMPLES} geçmiş eşleşmesi olan oran bulunamadı</span>`;
     const button = fragment.querySelector(".expand");
     const details = fragment.querySelector(".details");
     details.innerHTML = detailMarkup(analyze(match));
