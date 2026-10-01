@@ -42,7 +42,7 @@ function buildHistoryIndexes() {
     matches.forEach((match) => {
       const odds = match.openingOdds?.[market.odds];
       const result = match.results?.[market.result];
-      if (odds == null || result == null || result === "") return;
+      if (match.status !== "finished" || odds == null || result == null || result === "") return;
       const key = String(Number(odds));
       if (!marketIndex.has(key)) marketIndex.set(key, []);
       marketIndex.get(key).push({ date: match.date, success: result === market.expected ? 1 : 0 });
@@ -107,6 +107,11 @@ function renderStats(selected, dayMatches) {
   $("matchCount").textContent = dayMatches.length;
   const dates = matches.map((item) => item.date).sort();
   $("dataRange").textContent = dates.length ? `${dates[0]} – ${lastItem(dates)}` : "—";
+  const updated = matches.map((item) => item.lastUpdated).filter(Boolean).sort();
+  if (updated.length) {
+    const parsed = new Date(lastItem(updated));
+    $("lastUpdated").textContent = `Veri güncelleme zamanı: ${Number.isNaN(parsed.getTime()) ? lastItem(updated) : parsed.toLocaleString("tr-TR")}`;
+  }
 }
 
 function detailMarkup(analysis) {
@@ -132,8 +137,8 @@ function renderMatches(dayMatches) {
     fragment.querySelector(".time").textContent = match.time || "—";
     fragment.querySelector(".home").textContent = match.homeTeam;
     fragment.querySelector(".away").textContent = match.awayTeam;
-    fragment.querySelector(".ht-score").textContent = match.halfTimeScore || "—";
-    fragment.querySelector(".ft-score").textContent = match.fullTimeScore || "—";
+    fragment.querySelector(".ht-score").textContent = match.status === "finished" ? (match.halfTimeScore || "—") : "—";
+    fragment.querySelector(".ft-score").textContent = match.status === "finished" ? (match.fullTimeScore || "—") : "—";
     fragment.querySelector(".recommendation").innerHTML = recs.length
       ? recs.map(({ market, rate, count }) => `<span class="pill">${market.label} <b>${pct(rate)}</b> <small>${count} eşleşme</small></span>`).join("")
       : `<span class="no-recommendation">%70 üzerinde ve en az ${MIN_SAMPLES} geçmiş eşleşmesi olan oran bulunamadı</span>`;

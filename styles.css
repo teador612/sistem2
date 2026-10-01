@@ -20,6 +20,7 @@ h1, h2, p { margin-top: 0; }
 h1 { margin-bottom: 4px; font-size: clamp(26px, 4vw, 42px); letter-spacing: -.04em; }
 h2 { margin-bottom: 3px; font-size: 21px; }
 .muted { color: var(--muted); }
+.updated-at { margin: 9px 0 0; color: #b9d7ff; font-size: 12px; }
 .date-picker { display: grid; gap: 6px; color: var(--muted); font-size: 12px; font-weight: 700; }
 input { min-height: 42px; border: 1px solid var(--border); border-radius: 10px; background: var(--panel); color: var(--text); padding: 0 12px; font: inherit; }
 .container { max-width: 1180px; margin: 0 auto; padding: 0 22px 48px; }
