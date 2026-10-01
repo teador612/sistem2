@@ -1,0 +1,32 @@
+name: Maçkolik verisini güncelle
+
+on:
+  repository_dispatch:
+    types: [mackolik-update]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository'i al
+        uses: actions/checkout@v4
+
+      - name: Node.js kurulumu
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Maçkolik verisini al ve birleştir
+        run: node scripts/update_mackolik.mjs
+
+      - name: Değişen veriyi kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/matches.json
+          git diff --cached --quiet || git commit -m "Maçkolik verisini güncelle"
+          git diff --cached --quiet || git push
