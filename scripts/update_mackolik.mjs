@@ -63,6 +63,7 @@ function toMatch(row) {
   const status = Number(row[5]);
   const home = clean(row[1]);
   const away = clean(row[3]);
+  const finished = finishedStatuses.has(status) && !specialStatuses.has(status);
   return {
     id: `mackolik-${row[0]}`,
     date: isoDate(row[7]), time: clean(row[6]), league: clean(row[26]),
@@ -74,9 +75,10 @@ function toMatch(row) {
       iy15Under: number(row[42]), iy15Over: number(row[43]),
       under25: number(row[22]), over25: number(row[23]),
     },
-    halfTimeScore: scoreText(row[11], row[12]), fullTimeScore: scoreText(row[8], row[9]),
-    results: resultValues(row),
-    status: finishedStatuses.has(status) && !specialStatuses.has(status) ? "finished" : "not_started",
+    halfTimeScore: finished ? scoreText(row[11], row[12]) : null,
+    fullTimeScore: finished ? scoreText(row[8], row[9]) : null,
+    results: finished ? resultValues(row) : { msResult: "", kgResult: "", iy15Result: "", over25Result: "" },
+    status: finished ? "finished" : "not_started",
     lastUpdated: new Date().toISOString(),
   };
 }
@@ -85,14 +87,20 @@ const existing = JSON.parse(await fs.readFile(dataPath, "utf8"));
 if (!Array.isArray(existing)) throw new Error("data/matches.json bir dizi olmalı.");
 const byId = new Map(existing.map((item) => [String(item.id), item]));
 const byDateTime = new Map();
+const byDate = new Map();
 for (const item of existing) {
   const key = `${item.date}|${item.time}`;
   if (!byDateTime.has(key)) byDateTime.set(key, []);
   byDateTime.get(key).push(item);
+  if (!byDate.has(item.date)) byDate.set(item.date, []);
+  byDate.get(item.date).push(item);
 }
-const candidatesFor = (match) => (byDateTime.get(`${match.date}|${match.time}`) ?? []).filter((item) =>
-  sameTeam(item.normalizedHomeTeam, match.normalizedHomeTeam) && sameTeam(item.normalizedAwayTeam, match.normalizedAwayTeam)
-);
+const teamMatches = (item, match) => sameTeam(item.normalizedHomeTeam, match.normalizedHomeTeam) && sameTeam(item.normalizedAwayTeam, match.normalizedAwayTeam);
+const candidatesFor = (match) => {
+  const exactTime = (byDateTime.get(`${match.date}|${match.time}`) ?? []).filter((item) => teamMatches(item, match));
+  if (exactTime.length) return exactTime;
+  return (byDate.get(match.date) ?? []).filter((item) => teamMatches(item, match));
+};
 const removeItems = new Set();
 let added = 0;
 let updated = 0;
@@ -107,6 +115,8 @@ for (const row of await fetchRows()) {
     const bucketKey = `${incoming.date}|${incoming.time}`;
     if (!byDateTime.has(bucketKey)) byDateTime.set(bucketKey, []);
     byDateTime.get(bucketKey).push(incoming);
+    if (!byDate.has(incoming.date)) byDate.set(incoming.date, []);
+    byDate.get(incoming.date).push(incoming);
     added++;
     continue;
   }
