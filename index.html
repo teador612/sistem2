@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Oran Analiz Sistemi</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">ORAN ANALİZ SİSTEMİ</p>
+      <h1>Günün maçları</h1>
+      <p class="muted">Açılış oranları ve son 60 günlük eşleşmeler</p>
+    </div>
+    <label class="date-picker">
+      <span>Tarih seç</span>
+      <input id="dateInput" type="date">
+    </label>
+  </header>
+
+  <main class="container">
+    <section class="stats" aria-label="Başarı istatistikleri">
+      <article class="stat-card">
+        <span class="stat-label">Günün başarısı</span>
+        <strong id="daySuccess">—</strong>
+        <small id="daySuccessMeta">Tamamlanan öneri yok</small>
+      </article>
+      <article class="stat-card">
+        <span class="stat-label">Genel başarı</span>
+        <strong id="overallSuccess">—</strong>
+        <small id="overallSuccessMeta">Veri hazırlanıyor</small>
+      </article>
+      <article class="stat-card compact">
+        <span class="stat-label">Listelenen maç</span>
+        <strong id="matchCount">0</strong>
+        <small id="dataRange">—</small>
+      </article>
+    </section>
+
+    <div class="toolbar">
+      <div>
+        <h2>Maç analizleri</h2>
+        <p id="resultSummary" class="muted">Veriler yükleniyor...</p>
+      </div>
+      <span class="threshold">Başarı eşiği: %70</span>
+    </div>
+
+    <section id="matches" class="match-list" aria-live="polite"></section>
+  </main>
+
+  <template id="matchTemplate">
+    <article class="match-card">
+      <div class="match-main">
+        <div class="match-meta"><span class="league"></span><span class="time"></span></div>
+        <div class="teams"><span class="home"></span><span class="versus">-</span><span class="away"></span></div>
+        <div class="scores"><span>İY <b class="ht-score">—</b></span><span>MS <b class="ft-score">—</b></span></div>
+        <div class="recommendation"></div>
+      </div>
+      <button class="expand" type="button" aria-expanded="false" aria-label="Diğer oranları göster">+</button>
+      <div class="details" hidden></div>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
