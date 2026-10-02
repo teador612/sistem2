@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T22:01:21.397Z",
+  "updatedAt": "2026-10-02T22:15:49.556Z",
   "matches": [
     {
       "code": "5847028",
@@ -611924,10 +611924,10 @@
       "home": "St. Kitts And ",
       "away": "Küba",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -612071,10 +612071,10 @@
       "home": "Ferro Carril O",
       "away": "Deportivo Madry",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -612169,10 +612169,10 @@
       "home": "Atletico Fc",
       "away": "Real Cundinamar",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
