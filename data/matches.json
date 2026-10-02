@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T20:31:01.635Z",
+  "updatedAt": "2026-10-02T20:45:46.897Z",
   "matches": [
     {
       "code": "5847028",
@@ -610454,9 +610454,9 @@
       "home": "Eldense",
       "away": "Oviedo",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "4",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -610503,7 +610503,7 @@
       "home": "Carmarthen",
       "away": "Llantwit Major",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -610552,7 +610552,7 @@
       "home": "Sevilla",
       "away": "Aston Villa",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "3"
@@ -610601,7 +610601,7 @@
       "home": "Llanelli Town",
       "away": "Baglan Dragons",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -610653,7 +610653,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "4"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -610699,7 +610699,7 @@
       "home": "Treaty Unt.",
       "away": "Ucd",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "3"
@@ -610799,7 +610799,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "6",
+        "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
@@ -610946,7 +610946,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -610995,7 +610995,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "3",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -611044,7 +611044,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
@@ -611143,7 +611143,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "4"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "2",
@@ -611192,7 +611192,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -611388,7 +611388,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -611534,7 +611534,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -611630,7 +611630,7 @@
       "home": "Real Madrid Ii",
       "away": "Atl Madrid Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
@@ -611780,7 +611780,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -611826,10 +611826,10 @@
       "home": "Deportivo Cuen",
       "away": "Independiente J",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -611875,10 +611875,10 @@
       "home": "San Antonio",
       "away": "Cuniburo Fc",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
