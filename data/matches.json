@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T22:45:47.205Z",
+  "updatedAt": "2026-10-02T23:01:14.540Z",
   "matches": [
     {
       "code": "5847028",
@@ -611924,7 +611924,7 @@
       "home": "St. Kitts And ",
       "away": "Küba",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "3"
@@ -612071,14 +612071,14 @@
       "home": "Ferro Carril O",
       "away": "Deportivo Madry",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.71,
@@ -612120,14 +612120,14 @@
       "home": "Surinam",
       "away": "Guatemala",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.98,
@@ -612169,14 +612169,14 @@
       "home": "Atletico Fc",
       "away": "Real Cundinamar",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.28,
