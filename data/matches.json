@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T22:15:49.556Z",
+  "updatedAt": "2026-10-02T22:31:04.667Z",
   "matches": [
     {
       "code": "5847028",
@@ -611826,10 +611826,10 @@
       "home": "Deportivo Cuen",
       "away": "Independiente J",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -611875,7 +611875,7 @@
       "home": "San Antonio",
       "away": "Cuniburo Fc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -611973,14 +611973,14 @@
       "home": "Sportivo Carap",
       "away": "Depor Capiata",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.96,
@@ -612218,10 +612218,10 @@
       "home": "Independiente",
       "away": "Instituto Cordo",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
