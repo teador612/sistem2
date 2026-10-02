@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T13:31:05.191Z",
+  "updatedAt": "2026-10-02T13:45:46.809Z",
   "matches": [
     {
       "code": "5847028",
@@ -606975,7 +606975,7 @@
       "home": "Augsburg",
       "away": "Hertha Berlin",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -607073,10 +607073,10 @@
       "home": "Çin",
       "away": "Filistin",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "4"
+        "away": "5"
       },
       "halfTimeScore": {
         "home": "0",
@@ -607171,7 +607171,7 @@
       "home": "Kahraba Ismail",
       "away": "Mega Sport",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -607269,7 +607269,7 @@
       "home": "Baladiyyat",
       "away": "Team",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -607318,7 +607318,7 @@
       "home": "El Daklyeh",
       "away": "Maleyet Kafr El",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -607367,7 +607367,7 @@
       "home": "Tanta",
       "away": "Haras El Hodood",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -607516,7 +607516,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -607563,10 +607563,10 @@
       "home": "Arnavutluk U19",
       "away": "Litvanya (U19)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -607612,10 +607612,10 @@
       "home": "Belçika (U19)",
       "away": "Kuzey İrlanda U",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -641559,6 +641559,55 @@
         "iy2": 5.52
       },
       "openingRecordedAt": "2026-10-02T13:31:05.191Z"
+    },
+    {
+      "code": "4505034",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "12:00",
+      "league": "MAC3",
+      "home": "Honved Ii",
+      "away": "Iii Keruleti Tv",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.51,
+        "msX": 3.63,
+        "ms2": 1.51,
+        "cs1X": 1.72,
+        "cs12": 1.07,
+        "csX2": 1.08,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.37,
+        "kgYok": 2.03,
+        "iy15Alt": 1.41,
+        "iy15Ust": 1.94,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.37,
+        "au35Ust": 2.03,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.88,
+        "iyX": 2.19,
+        "iy2": 1.97
+      },
+      "openingRecordedAt": "2026-10-02T13:45:46.808Z"
     }
   ]
 }
