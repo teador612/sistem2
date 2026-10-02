@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T14:45:49.201Z",
+  "updatedAt": "2026-10-02T15:01:13.935Z",
   "matches": [
     {
       "code": "5847028",
@@ -607467,7 +607467,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -607565,7 +607565,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -607661,14 +607661,14 @@
       "home": "Usm Annaba",
       "away": "Paradou",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.16,
@@ -607710,14 +607710,14 @@
       "home": "Minija",
       "away": "Kauno Zalgiris ",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
@@ -607808,14 +607808,14 @@
       "home": "Gürcistan (U19",
       "away": "Letonya U19",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.88,
@@ -607857,14 +607857,14 @@
       "home": "Mo Constantine",
       "away": "B. Thour",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.33,
@@ -607906,14 +607906,14 @@
       "home": "Teleghma",
       "away": "Magra",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.85,
@@ -607955,7 +607955,7 @@
       "home": "Ca Batna",
       "away": "Msp Batna",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
@@ -608004,14 +608004,14 @@
       "home": "Us Chaouia",
       "away": "As Khroub",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.39,
@@ -608053,14 +608053,14 @@
       "home": "Kazakistan",
       "away": "Moldova",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.69,
