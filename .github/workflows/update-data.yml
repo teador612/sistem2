@@ -15,6 +15,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Repository'i al
         uses: actions/checkout@v4
@@ -27,17 +28,24 @@ jobs:
           node-version: "20"
 
       - name: Uzak main dalını güncelle
-        run: git pull --rebase --autostash origin main
+        run: |
+          git pull --rebase --autostash origin main
 
       - name: Maçkolik verisini al ve birleştir
-        run: node scripts/update_mackolik.mjs
+        run: |
+          node scripts/update_mackolik.mjs
 
-      - name: Değişen veriyi kaydet
+      - name: Verileri kaydet
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git pull --rebase --autostash origin main
-          git add data/history data/manifest.json
+
+          git add data/matches.json
+          git add data/history
+          git add data/manifest.json
+
           if git diff --cached --quiet; then
             echo "Yeni veri değişikliği yok."
           else
