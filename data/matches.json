@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T15:45:47.839Z",
+  "updatedAt": "2026-10-02T16:01:12.246Z",
   "matches": [
     {
       "code": "5847028",
@@ -607661,7 +607661,7 @@
       "home": "Usm Annaba",
       "away": "Paradou",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -607710,7 +607710,7 @@
       "home": "Minija",
       "away": "Kauno Zalgiris ",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "5",
         "away": "0"
@@ -607808,7 +607808,7 @@
       "home": "Gürcistan (U19",
       "away": "Letonya U19",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -607857,7 +607857,7 @@
       "home": "Mo Constantine",
       "away": "B. Thour",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -607955,7 +607955,7 @@
       "home": "Ca Batna",
       "away": "Msp Batna",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -608004,7 +608004,7 @@
       "home": "Us Chaouia",
       "away": "As Khroub",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -608053,7 +608053,7 @@
       "home": "Kazakistan",
       "away": "Moldova",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -608151,14 +608151,14 @@
       "home": "Tammeka Tartu",
       "away": "Viimsi Mrjk",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.37,
@@ -608203,7 +608203,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -608249,10 +608249,10 @@
       "home": "Khorfakkan Clu",
       "away": "Al Jazira",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -608298,10 +608298,10 @@
       "home": "Fus Rabat",
       "away": "Amal Tiznit",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -608347,10 +608347,10 @@
       "home": "Hay Al-Amir Ha",
       "away": "Al Hashemeya",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -608396,10 +608396,10 @@
       "home": "Slovenya (U21)",
       "away": "Hollanda (U21)",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -608445,10 +608445,10 @@
       "home": "Al Sareeh",
       "away": "Maan",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -608592,10 +608592,10 @@
       "home": "İngiltere (U19",
       "away": "Abd U19",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -608641,10 +608641,10 @@
       "home": "Ukrayna (U21)",
       "away": "Hirvatistan (U2",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -608788,10 +608788,10 @@
       "home": "Dukla Prag",
       "away": "Jablonec",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -643862,6 +643862,153 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-02T15:45:47.839Z"
+    },
+    {
+      "code": "4562426",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "08:00",
+      "league": "JKLK",
+      "home": "Urawa Red (K)",
+      "away": "Ntv Beleza (K)",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.03,
+        "msX": 3.19,
+        "ms2": 2.41,
+        "cs1X": 1.23,
+        "cs12": 1.12,
+        "csX2": 1.35,
+        "au25Alt": 1.95,
+        "au25Ust": 1.41,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.34,
+        "kgYok": 2.09,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T16:01:12.245Z"
+    },
+    {
+      "code": "4429772",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "15:00",
+      "league": "NOR4",
+      "home": "Gneist",
+      "away": "Djerv",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 5.83,
+        "msX": 4.82,
+        "ms2": 1.18,
+        "cs1X": 2.41,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T16:01:12.245Z"
+    },
+    {
+      "code": "4567181",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "17:00",
+      "league": "HAZ",
+      "home": "Kirgizistan",
+      "away": "Lübnan",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.89,
+        "msX": 2.85,
+        "ms2": 2.92,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T16:01:12.246Z"
     }
   ]
 }
