@@ -3,69 +3,15 @@ const WINDOW_DAYS = 60;
 const MIN_SAMPLES = 5;
 
 const MARKETS = [
-  {
-    key: "ms1",
-    label: "MS 1",
-    odds: "ms1",
-    result: "msResult",
-    expected: "1"
-  },
-  {
-    key: "ms0",
-    label: "MS 0",
-    odds: "ms0",
-    result: "msResult",
-    expected: "0"
-  },
-  {
-    key: "ms2",
-    label: "MS 2",
-    odds: "ms2",
-    result: "msResult",
-    expected: "2"
-  },
-  {
-    key: "iy15Over",
-    label: "İY 1.5 Üst",
-    odds: "iy15Over",
-    result: "iy15Result",
-    expected: "ÜST"
-  },
-  {
-    key: "iy15Under",
-    label: "İY 1.5 Alt",
-    odds: "iy15Under",
-    result: "iy15Result",
-    expected: "ALT"
-  },
-  {
-    key: "kgYes",
-    label: "KG Var",
-    odds: "kgYes",
-    result: "kgResult",
-    expected: "VAR"
-  },
-  {
-    key: "kgNo",
-    label: "KG Yok",
-    odds: "kgNo",
-    result: "kgResult",
-    expected: "YOK"
-  },
-  {
-    key: "over25",
-    label: "2.5 Üst",
-    odds: "over25",
-    result: "over25Result",
-    expected: "ÜST"
-  },
-  {
-    key: "under25",
-    label: "2.5 Alt",
-    odds: "under25",
-    result: "over25Result",
-    expected: "ALT"
-  }
+  { key: "ms1", label: "MS 1", odds: "ms1", result: "msResult", expected: "1" },
+  { key: "ms0", label: "MS 0", odds: "ms0", result: "msResult", expected: "0" },
+  { key: "ms2", label: "MS 2", odds: "ms2", result: "msResult", expected: "2" },
+  { key: "iy15Over", label: "İY 1.5 Üst", odds: "iy15Over", result: "iy15Result", expected: "ÜST" },
+  { key: "iy15Under", label: "İY 1.5 Alt", odds: "iy15Under", result: "iy15Result", expected: "ALT" },
+  { key: "kgYes", label: "KG Var", odds: "kgYes", result: "kgResult", expected: "VAR" },
+  { key: "kgNo", label: "KG Yok", odds: "kgNo", result: "kgResult", expected: "YOK" },
+  { key: "over25", label: "2.5 Üst", odds: "over25", result: "over25Result", expected: "ÜST" },
+  { key: "under25", label: "2.5 Alt", odds: "under25", result: "over25Result", expected: "ALT" }
 ];
 
 let matches = [];
@@ -73,7 +19,8 @@ let historyIndexes = new Map();
 
 const $ = (id) => document.getElementById(id);
 
-const dateKey = (value) => String(value || "").slice(0, 10);
+const dateKey = (value) =>
+  String(value || "").slice(0, 10);
 
 const dateObject = (value) =>
   new Date(`${dateKey(value)}T00:00:00`);
@@ -84,13 +31,13 @@ const localDateKey = (value) =>
 const pct = (value) =>
   value == null ? "—" : `%${Math.round(value)}`;
 
-const lastItem = (items) =>
-  items[items.length - 1];
-
 const formatOdds = (value) =>
   value == null || value === ""
     ? "—"
     : Number(value).toFixed(2);
+
+const lastItem = (items) =>
+  items[items.length - 1];
 
 
 /* =========================================================
@@ -146,8 +93,7 @@ function buildHistoryIndexes() {
 
       marketIndex.get(key).push({
         date: dateKey(match.date),
-        success:
-          result === market.expected ? 1 : 0
+        success: result === market.expected ? 1 : 0
       });
     });
 
@@ -207,7 +153,6 @@ function getHistory(match, market) {
     startDate
   );
 
-  // Maçın kendisini geçmiş analizine dahil etme
   const to = lowerBound(
     items,
     dateKey(match.date)
@@ -296,27 +241,23 @@ function outcome(match, recommendations) {
 ========================================================= */
 
 function renderStats(selected, dayMatches) {
-  const settled = dayMatches.flatMap(
-    (match) => {
-      const recs =
-        recommendationFor(match);
+  const settled = dayMatches.flatMap((match) => {
+    const recs = recommendationFor(match);
 
-      if (
-        recs.length &&
-        match.status === "finished"
-      ) {
-        return [
-          {
-            won:
-              outcome(match, recs) ===
-              "won"
-          }
-        ];
-      }
-
-      return [];
+    if (
+      recs.length &&
+      match.status === "finished"
+    ) {
+      return [
+        {
+          won:
+            outcome(match, recs) === "won"
+        }
+      ];
     }
-  );
+
+    return [];
+  });
 
   const selectedDate =
     dateObject(selected);
@@ -420,19 +361,14 @@ function renderStats(selected, dayMatches) {
 
   if ($("lastUpdated")) {
     if (updated.length) {
-      const latest =
-        lastItem(updated);
-
-      const parsed =
-        new Date(latest);
+      const latest = lastItem(updated);
+      const parsed = new Date(latest);
 
       $("lastUpdated").textContent =
         `Veri güncelleme zamanı: ${
           Number.isNaN(parsed.getTime())
             ? latest
-            : parsed.toLocaleString(
-                "tr-TR"
-              )
+            : parsed.toLocaleString("tr-TR")
         }`;
     } else {
       $("lastUpdated").textContent =
@@ -483,9 +419,7 @@ function detailMarkup(analysis) {
               <span>${market.label}</span>
               <b>
                 ${pct(rate)}
-                <small>
-                  (${count} maç)
-                </small>
+                <small>(${count} maç)</small>
               </b>
             </div>
           `
@@ -501,8 +435,7 @@ function detailMarkup(analysis) {
 ========================================================= */
 
 function renderMatches(dayMatches) {
-  const container =
-    $("matches");
+  const container = $("matches");
 
   if (!container) return;
 
@@ -514,12 +447,10 @@ function renderMatches(dayMatches) {
         Bu tarihte kayıtlı maç bulunamadı.
       </div>
     `;
-
     return;
   }
 
-  const template =
-    $("matchTemplate");
+  const template = $("matchTemplate");
 
   if (!template) {
     container.innerHTML = `
@@ -527,7 +458,6 @@ function renderMatches(dayMatches) {
         matchTemplate bulunamadı.
       </div>
     `;
-
     return;
   }
 
@@ -536,16 +466,16 @@ function renderMatches(dayMatches) {
       template.content.cloneNode(true);
 
     const card =
-      fragment.querySelector(
-        ".match-card"
-      );
+      fragment.querySelector(".match-card");
 
     const recs =
       recommendationFor(match);
 
-    card.classList.add(
-      outcome(match, recs)
-    );
+    if (card) {
+      card.classList.add(
+        outcome(match, recs)
+      );
+    }
 
     const league =
       fragment.querySelector(".league");
@@ -560,14 +490,10 @@ function renderMatches(dayMatches) {
       fragment.querySelector(".away");
 
     const htScore =
-      fragment.querySelector(
-        ".ht-score"
-      );
+      fragment.querySelector(".ht-score");
 
     const ftScore =
-      fragment.querySelector(
-        ".ft-score"
-      );
+      fragment.querySelector(".ft-score");
 
     const recommendation =
       fragment.querySelector(
@@ -650,14 +576,10 @@ function renderMatches(dayMatches) {
     }
 
     const button =
-      fragment.querySelector(
-        ".expand"
-      );
+      fragment.querySelector(".expand");
 
     const details =
-      fragment.querySelector(
-        ".details"
-      );
+      fragment.querySelector(".details");
 
     if (details) {
       details.innerHTML =
@@ -698,13 +620,11 @@ function renderMatches(dayMatches) {
 ========================================================= */
 
 function render() {
-  const input =
-    $("dateInput");
+  const input = $("dateInput");
 
   if (!input) return;
 
-  const selected =
-    input.value;
+  const selected = input.value;
 
   const dayMatches =
     matches.filter(
@@ -723,9 +643,7 @@ function render() {
       `${selected} tarihinde ${dayMatches.length} maç listelendi.`;
   }
 
-  renderMatches(
-    dayMatches
-  );
+  renderMatches(dayMatches);
 }
 
 
@@ -773,7 +691,7 @@ async function loadData() {
 
 
 /* =========================================================
-   BAŞLANGIÇ
+   BAŞLAT
 ========================================================= */
 
 async function init() {
@@ -787,8 +705,7 @@ async function init() {
       .filter(Boolean)
       .sort();
 
-    const input =
-      $("dateInput");
+    const input = $("dateInput");
 
     if (!input) {
       throw new Error(
@@ -798,11 +715,9 @@ async function init() {
 
     if (dates.length) {
       input.min = dates[0];
-      input.max =
-        lastItem(dates);
+      input.max = lastItem(dates);
 
-      const now =
-        new Date();
+      const now = new Date();
 
       const today =
         `${now.getFullYear()}-${String(
@@ -811,8 +726,6 @@ async function init() {
           now.getDate()
         ).padStart(2, "0")}`;
 
-      // Bugünün verisi varsa bugün,
-      // yoksa veri içerisindeki en son tarih
       input.value =
         dates.includes(today)
           ? today
@@ -821,9 +734,7 @@ async function init() {
 
     input.addEventListener(
       "change",
-      () => {
-        render();
-      }
+      render
     );
 
     render();
@@ -847,31 +758,5 @@ async function init() {
     }
   }
 }
-
-
-/* =========================================================
-   SERVICE WORKER
-========================================================= */
-
-if ("serviceWorker" in navigator) {
-  window.addEventListener(
-    "load",
-    () => {
-      navigator.serviceWorker
-        .register("sw.js")
-        .catch((error) => {
-          console.error(
-            "Service Worker hatası:",
-            error
-          );
-        });
-    }
-  );
-}
-
-
-/* =========================================================
-   BAŞLAT
-========================================================= */
 
 init();
