@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T20:15:46.368Z",
+  "updatedAt": "2026-10-02T20:31:01.635Z",
   "matches": [
     {
       "code": "5847028",
@@ -610454,9 +610454,9 @@
       "home": "Eldense",
       "away": "Oviedo",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
@@ -610503,7 +610503,7 @@
       "home": "Carmarthen",
       "away": "Llantwit Major",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -610552,7 +610552,7 @@
       "home": "Sevilla",
       "away": "Aston Villa",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "3"
@@ -610601,7 +610601,7 @@
       "home": "Llanelli Town",
       "away": "Baglan Dragons",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -610653,7 +610653,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "0",
@@ -610699,7 +610699,7 @@
       "home": "Treaty Unt.",
       "away": "Ucd",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "3"
@@ -610799,7 +610799,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "5",
+        "home": "6",
         "away": "0"
       },
       "halfTimeScore": {
@@ -610946,7 +610946,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -610995,7 +610995,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -611044,7 +611044,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -611143,7 +611143,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "2",
@@ -611192,7 +611192,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -611388,7 +611388,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -611534,7 +611534,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -611630,7 +611630,7 @@
       "home": "Real Madrid Ii",
       "away": "Atl Madrid Ii",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -611780,7 +611780,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -611826,10 +611826,10 @@
       "home": "Deportivo Cuen",
       "away": "Independiente J",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -611875,10 +611875,10 @@
       "home": "San Antonio",
       "away": "Cuniburo Fc",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -648860,6 +648860,104 @@
         "iy2": 2.96
       },
       "openingRecordedAt": "2026-10-02T20:15:46.368Z"
+    },
+    {
+      "code": "4429593",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "16:00",
+      "league": "NOR4",
+      "home": "Kvik Trond",
+      "away": "Byasen",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 5.72,
+        "msX": 5.05,
+        "ms2": 1.17,
+        "cs1X": 2.44,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.27,
+        "kgYok": 2.28,
+        "iy15Alt": 1.77,
+        "iy15Ust": 1.52,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.88,
+        "au35Ust": 1.45,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 5.19,
+        "iyX": 2.75,
+        "iy2": 1.51
+      },
+      "openingRecordedAt": "2026-10-02T20:31:01.633Z"
+    },
+    {
+      "code": "4429956",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "16:00",
+      "league": "NOR4",
+      "home": "Vindbjart",
+      "away": "Flekkeroy",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.62,
+        "msX": 3.8,
+        "ms2": 2.94,
+        "cs1X": 1.14,
+        "cs12": 1.06,
+        "csX2": 1.6,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T20:31:01.634Z"
     }
   ]
 }
