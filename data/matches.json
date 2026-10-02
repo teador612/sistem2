@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T14:31:03.895Z",
+  "updatedAt": "2026-10-02T14:45:49.201Z",
   "matches": [
     {
       "code": "5847028",
@@ -607220,9 +607220,9 @@
       "home": "Derot",
       "away": "Ismaily",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -607269,7 +607269,7 @@
       "home": "Baladiyyat",
       "away": "Team",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "1"
@@ -607318,7 +607318,7 @@
       "home": "El Daklyeh",
       "away": "Maleyet Kafr El",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -607367,7 +607367,7 @@
       "home": "Tanta",
       "away": "Haras El Hodood",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -607416,10 +607416,10 @@
       "home": "Proxy",
       "away": "Telecom Egypt",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -607517,7 +607517,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -607563,7 +607563,7 @@
       "home": "Arnavutluk U19",
       "away": "Litvanya (U19)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -607612,14 +607612,14 @@
       "home": "Belçika (U19)",
       "away": "Kuzey İrlanda U",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.12,
@@ -607664,7 +607664,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -607712,7 +607712,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -607860,7 +607860,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -607909,7 +607909,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -608102,10 +608102,10 @@
       "home": "Volna Pinsk",
       "away": "Lida",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -643470,6 +643470,104 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-02T14:31:03.895Z"
+    },
+    {
+      "code": "4490411",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "20:00",
+      "league": "GUAT",
+      "home": "Mixco",
+      "away": "Municipal",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.25,
+        "msX": 2.91,
+        "ms2": 2.29,
+        "cs1X": 1.26,
+        "cs12": 1.15,
+        "csX2": 1.28,
+        "au25Alt": 1.57,
+        "au25Ust": 1.72,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.55,
+        "kgYok": 1.74,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.88,
+        "iyX": 1.88,
+        "iy2": 2.91
+      },
+      "openingRecordedAt": "2026-10-02T14:45:49.201Z"
+    },
+    {
+      "code": "4490408",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "00:00",
+      "league": "GUAT",
+      "home": "Coban Imperial",
+      "away": "Malacateco",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.5,
+        "msX": 3.1,
+        "ms2": 4.31,
+        "cs1X": 1,
+        "cs12": 1.12,
+        "csX2": 1.72,
+        "au25Alt": 1.53,
+        "au25Ust": 1.76,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.72,
+        "kgYok": 1.57,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2,
+        "iyX": 1.95,
+        "iy2": 4.78
+      },
+      "openingRecordedAt": "2026-10-02T14:45:49.201Z"
     }
   ]
 }
