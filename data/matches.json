@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T12:25:45.807Z",
+  "updatedAt": "2026-10-02T12:31:01.837Z",
   "matches": [
     {
       "code": "5847028",
@@ -607073,14 +607073,14 @@
       "home": "Çin",
       "away": "Filistin",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 2.51,
