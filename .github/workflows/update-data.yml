@@ -27,24 +27,15 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Uzak main dalını güncelle
-        run: |
-          git pull --rebase --autostash origin main
+      - name: Maçkolik verisini güncelle
+        run: node scripts/update_mackolik.mjs
 
-      - name: Maçkolik verisini al ve birleştir
-        run: |
-          node scripts/update_mackolik.mjs
-
-      - name: Verileri kaydet
+      - name: Veriyi GitHub'a kaydet
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git pull --rebase --autostash origin main
-
           git add data/matches.json
-          git add data/history
-          git add data/manifest.json
 
           if git diff --cached --quiet; then
             echo "Yeni veri değişikliği yok."
