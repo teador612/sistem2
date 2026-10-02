@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T13:01:14.749Z",
+  "updatedAt": "2026-10-02T13:15:45.481Z",
   "matches": [
     {
       "code": "5847028",
@@ -607122,14 +607122,14 @@
       "home": "Fleetwood Town",
       "away": "Sheffield Wedne",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.43,
@@ -607173,7 +607173,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -607321,7 +607321,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -607465,10 +607465,10 @@
       "home": "Al Wasl",
       "away": "Al Ittihad Kalb",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -640677,6 +640677,104 @@
         "iy2": 2.62
       },
       "openingRecordedAt": "2026-10-02T12:45:44.338Z"
+    },
+    {
+      "code": "4513154",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "14:00",
+      "league": "POLBE",
+      "home": "Lechia Gdansk ",
+      "away": "Lech Poznan Uam",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.71,
+        "msX": 3.19,
+        "ms2": 3.11,
+        "cs1X": 1.12,
+        "cs12": 1.11,
+        "csX2": 1.53,
+        "au25Alt": 1.93,
+        "au25Ust": 1.42,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.37,
+        "kgYok": 2.02,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T13:15:45.481Z"
+    },
+    {
+      "code": "4568896",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "19:30",
+      "league": "HU19",
+      "home": "Portekiz (U19)",
+      "away": "Danimarka  U19",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.42,
+        "msX": 3.47,
+        "ms2": 4.37,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T13:15:45.481Z"
     }
   ]
 }
