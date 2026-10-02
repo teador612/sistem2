@@ -8,18 +8,14 @@ const root = path.resolve(
   ".."
 );
 
-const dataDir = path.join(root, "data");
-const dataPath = process.env.MATCHES_PATH
-  ? path.resolve(process.env.MATCHES_PATH)
-  : path.join(dataDir, "matches.json");
-
-const historyDir = path.join(dataDir, "history");
-const manifestPath = path.join(dataDir, "manifest.json");
+const dataPath = path.join(
+  root,
+  "data",
+  "matches.json"
+);
 
 const sourceUrl =
   "https://arsiv.mackolik.com/AjaxHandlers/ProgramDataHandler.ashx";
-
-const RETENTION_DAYS = 60;
 
 const finishedStatuses = new Set([
   4, 5, 6, 7, 8,
@@ -54,16 +50,23 @@ const number = (value) => {
     return null;
   }
 
-  const parsed = Number(String(value).replace(",", "."));
+  const parsed = Number(
+    String(value).replace(",", ".")
+  );
 
-  return Number.isFinite(parsed) ? parsed : null;
+  return Number.isFinite(parsed)
+    ? parsed
+    : null;
 };
 
 const scoreValue = (value) =>
-  /^\d+$/.test(clean(value)) ? clean(value) : null;
+  /^\d+$/.test(clean(value))
+    ? clean(value)
+    : null;
 
 const scoreText = (home, away) =>
-  scoreValue(home) != null && scoreValue(away) != null
+  scoreValue(home) != null &&
+  scoreValue(away) != null
     ? `${scoreValue(home)}-${scoreValue(away)}`
     : null;
 
@@ -72,26 +75,39 @@ const sameTeam = (left, right) => {
 
   if (left === right) return true;
 
-  if (left.length < 5 || right.length < 5) {
+  if (
+    left.length < 5 ||
+    right.length < 5
+  ) {
     return false;
   }
 
-  return left.startsWith(right) || right.startsWith(left);
+  return (
+    left.startsWith(right) ||
+    right.startsWith(left)
+  );
 };
 
 const isoDate = (value) => {
-  const [day, month, year] = clean(value).split(".");
+  const [day, month, year] =
+    clean(value).split(".");
 
-  return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
+  return `${year}-${month.padStart(
+    2,
+    "0"
+  )}-${day.padStart(2, "0")}`;
 };
 
 function getTurkeyToday() {
-  const parts = new Intl.DateTimeFormat("en-GB", {
-    timeZone: "Europe/Istanbul",
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit"
-  }).formatToParts(new Date());
+  const parts = new Intl.DateTimeFormat(
+    "en-GB",
+    {
+      timeZone: "Europe/Istanbul",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit"
+    }
+  ).formatToParts(new Date());
 
   const values = {};
 
@@ -102,25 +118,6 @@ function getTurkeyToday() {
   }
 
   return `${values.day}.${values.month}.${values.year}`;
-}
-
-function getTurkeyDateKey(date = new Date()) {
-  const parts = new Intl.DateTimeFormat("en-GB", {
-    timeZone: "Europe/Istanbul",
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit"
-  }).formatToParts(date);
-
-  const values = {};
-
-  for (const part of parts) {
-    if (part.type !== "literal") {
-      values[part.type] = part.value;
-    }
-  }
-
-  return `${values.year}-${values.month}-${values.day}`;
 }
 
 function resultValues(row) {
@@ -142,21 +139,25 @@ function resultValues(row) {
   const kgResult =
     home == null || away == null
       ? ""
-      : Number(home) > 0 && Number(away) > 0
+      : Number(home) > 0 &&
+        Number(away) > 0
         ? "VAR"
         : "YOK";
 
   const iy15Result =
-    htHome == null || htAway == null
+    htHome == null ||
+    htAway == null
       ? ""
-      : Number(htHome) + Number(htAway) >= 2
+      : Number(htHome) +
+          Number(htAway) >= 2
         ? "ÜST"
         : "ALT";
 
   const over25Result =
     home == null || away == null
       ? ""
-      : Number(home) + Number(away) >= 3
+      : Number(home) +
+          Number(away) >= 3
         ? "ÜST"
         : "ALT";
 
@@ -171,7 +172,7 @@ function resultValues(row) {
 function parseSource(raw) {
   if (!/^\s*\{m:/.test(raw)) {
     throw new Error(
-      "Maçkolik cevabı beklenen {m:[...]} formatında değil."
+      "Maçkolik cevabı beklenen formatta değil."
     );
   }
 
@@ -198,24 +199,28 @@ async function fetchRows() {
     sport: "1"
   });
 
-  const url = `${sourceUrl}?${params}`;
-
-  console.log("Maçkolik verisi alınıyor:", url);
-
-  const response = await fetch(url, {
-    headers: {
-      "User-Agent": "Mozilla/5.0 oran-analiz-updater"
+  const response = await fetch(
+    `${sourceUrl}?${params}`,
+    {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 oran-analiz-updater"
+      }
     }
-  });
+  );
 
   if (!response.ok) {
-    throw new Error(`Maçkolik HTTP ${response.status}`);
+    throw new Error(
+      `Maçkolik HTTP ${response.status}`
+    );
   }
 
-  const parsed = parseSource(await response.text());
+  const parsed = parseSource(
+    await response.text()
+  );
 
   return (parsed.m ?? []).flatMap(
-    (dateGroup) => dateGroup.m ?? []
+    (group) => group.m ?? []
   );
 }
 
@@ -244,8 +249,11 @@ function toMatch(row) {
     homeTeam: home,
     awayTeam: away,
 
-    normalizedHomeTeam: normalizeTeam(home),
-    normalizedAwayTeam: normalizeTeam(away),
+    normalizedHomeTeam:
+      normalizeTeam(home),
+
+    normalizedAwayTeam:
+      normalizeTeam(away),
 
     openingOdds: {
       ms1: number(row[16]),
@@ -289,291 +297,141 @@ function toMatch(row) {
           ? "live"
           : "not_started",
 
-    lastUpdated: new Date().toISOString()
+    lastUpdated:
+      new Date().toISOString()
   };
 }
 
-async function loadExisting() {
+async function loadMatches() {
   try {
-    const manifest = JSON.parse(
-      await fs.readFile(manifestPath, "utf8")
-    );
-
-    const files = Object.values(manifest.files ?? {});
-
-    if (files.length) {
-      const chunks = await Promise.all(
-        files.map(async (file) => {
-          const filePath = path.join(root, file);
-
-          try {
-            return JSON.parse(
-              await fs.readFile(filePath, "utf8")
-            );
-          } catch {
-            return [];
-          }
-        })
-      );
-
-      return chunks.flat();
-    }
-  } catch {
-    // manifest yoksa matches.json kullanılacak
-  }
-
-  try {
-    return JSON.parse(
-      await fs.readFile(dataPath, "utf8")
-    );
-  } catch {
-    return [];
-  }
-}
-
-function getCutoffDate() {
-  const now = new Date();
-
-  now.setDate(
-    now.getDate() - RETENTION_DAYS
-  );
-
-  return getTurkeyDateKey(now);
-}
-
-function filterRetention(items) {
-  const cutoff = getCutoffDate();
-
-  return items.filter(
-    (item) => String(item.date) >= cutoff
-  );
-}
-
-async function writeData(items) {
-  await fs.mkdir(dataDir, {
-    recursive: true
-  });
-
-  await fs.mkdir(historyDir, {
-    recursive: true
-  });
-
-  /*
-   * EN ÖNEMLİ KISIM:
-   *
-   * Site doğrudan data/matches.json okuyor.
-   * Bu nedenle her güncellemede bu dosyayı da yazıyoruz.
-   */
-  await fs.writeFile(
-    dataPath,
-    JSON.stringify(items),
-    "utf8"
-  );
-
-  /*
-   * Aylık history dosyaları da korunuyor.
-   */
-  const groups = new Map();
-
-  for (const item of items) {
-    const month = String(item.date).slice(0, 7);
-
-    if (!groups.has(month)) {
-      groups.set(month, []);
-    }
-
-    groups.get(month).push(item);
-  }
-
-  const files = {};
-
-  for (const [month, monthItems] of groups) {
-    monthItems.sort((a, b) =>
-      `${a.date}${a.time}${a.homeTeam}`
-        .localeCompare(
-          `${b.date}${b.time}${b.homeTeam}`
-        )
-    );
-
-    const relative =
-      `data/history/${month}.json`;
-
-    await fs.writeFile(
-      path.join(root, relative),
-      JSON.stringify(monthItems),
+    const raw = await fs.readFile(
+      dataPath,
       "utf8"
     );
 
-    files[month] = relative;
+    const data = JSON.parse(raw);
+
+    if (!Array.isArray(data)) {
+      throw new Error(
+        "data/matches.json bir JSON dizisi olmalı."
+      );
+    }
+
+    return data;
+  } catch (error) {
+    if (error.code === "ENOENT") {
+      return [];
+    }
+
+    throw error;
+  }
+}
+
+function findExisting(
+  existing,
+  incoming
+) {
+  // Önce doğrudan ID
+  const byId = existing.find(
+    (item) =>
+      String(item.id) ===
+      String(incoming.id)
+  );
+
+  if (byId) {
+    return byId;
   }
 
-  const dates = items
-    .map((item) => item.date)
-    .filter(Boolean)
-    .sort();
+  // ID değişmişse takım + tarih + saat
+  const exact = existing.find(
+    (item) =>
+      item.date === incoming.date &&
+      item.time === incoming.time &&
+      sameTeam(
+        item.normalizedHomeTeam,
+        incoming.normalizedHomeTeam
+      ) &&
+      sameTeam(
+        item.normalizedAwayTeam,
+        incoming.normalizedAwayTeam
+      )
+  );
 
-  const manifest = {
-    files,
-    minDate: dates[0] ?? null,
-    maxDate: dates.at(-1) ?? null,
-    updatedAt: new Date().toISOString()
-  };
+  if (exact) {
+    return exact;
+  }
+
+  // Saat değişmişse takım + tarih
+  return existing.find(
+    (item) =>
+      item.date === incoming.date &&
+      sameTeam(
+        item.normalizedHomeTeam,
+        incoming.normalizedHomeTeam
+      ) &&
+      sameTeam(
+        item.normalizedAwayTeam,
+        incoming.normalizedAwayTeam
+      )
+  );
+}
+
+async function saveMatches(matches) {
+  matches.sort((a, b) =>
+    `${a.date}${a.time}${a.homeTeam}`
+      .localeCompare(
+        `${b.date}${b.time}${b.homeTeam}`
+      )
+  );
+
+  await fs.mkdir(
+    path.dirname(dataPath),
+    {
+      recursive: true
+    }
+  );
 
   await fs.writeFile(
-    manifestPath,
-    JSON.stringify(manifest),
+    dataPath,
+    JSON.stringify(matches),
     "utf8"
   );
-
-  console.log(
-    `matches.json yazıldı: ${items.length} kayıt`
-  );
-
-  console.log(
-    `Manifest güncellendi: ${manifest.updatedAt}`
-  );
 }
 
-const existing = await loadExisting();
-
-if (!Array.isArray(existing)) {
-  throw new Error(
-    "Mevcut veri bir JSON dizisi olmalı."
-  );
-}
+const existing = await loadMatches();
 
 console.log(
-  `Mevcut kayıt sayısı: ${existing.length}`
+  `Mevcut matches.json kayıtları: ${existing.length}`
 );
-
-const byId = new Map(
-  existing.map((item) => [
-    String(item.id),
-    item
-  ])
-);
-
-const byDateTime = new Map();
-const byDate = new Map();
-
-for (const item of existing) {
-  const key =
-    `${item.date}|${item.time}`;
-
-  if (!byDateTime.has(key)) {
-    byDateTime.set(key, []);
-  }
-
-  byDateTime
-    .get(key)
-    .push(item);
-
-  if (!byDate.has(item.date)) {
-    byDate.set(item.date, []);
-  }
-
-  byDate
-    .get(item.date)
-    .push(item);
-}
-
-const teamMatches = (item, match) =>
-  sameTeam(
-    item.normalizedHomeTeam,
-    match.normalizedHomeTeam
-  ) &&
-  sameTeam(
-    item.normalizedAwayTeam,
-    match.normalizedAwayTeam
-  );
-
-const candidatesFor = (match) => {
-  const exactTime =
-    (
-      byDateTime.get(
-        `${match.date}|${match.time}`
-      ) ?? []
-    ).filter((item) =>
-      teamMatches(item, match)
-    );
-
-  if (exactTime.length) {
-    return exactTime;
-  }
-
-  return (
-    byDate.get(match.date) ?? []
-  ).filter((item) =>
-    teamMatches(item, match)
-  );
-};
-
-const removeItems = new Set();
-
-let added = 0;
-let updated = 0;
 
 const rows = await fetchRows();
 
 console.log(
-  `Maçkolik'ten ${rows.length} satır alındı.`
+  `Maçkolik'ten alınan maç sayısı: ${rows.length}`
 );
+
+let added = 0;
+let updated = 0;
 
 for (const row of rows) {
   const incoming = toMatch(row);
 
-  const candidates =
-    candidatesFor(incoming);
+  const current = findExisting(
+    existing,
+    incoming
+  );
 
-  const current =
-    candidates.find((item) =>
-      String(item.id).startsWith("OLD-")
-    ) ??
-    byId.get(incoming.id) ??
-    candidates[0];
-
-  /*
-   * Yeni maç
-   */
+  // Yeni maç
   if (!current) {
     existing.push(incoming);
-
-    byId.set(
-      incoming.id,
-      incoming
-    );
-
-    const bucketKey =
-      `${incoming.date}|${incoming.time}`;
-
-    if (!byDateTime.has(bucketKey)) {
-      byDateTime.set(bucketKey, []);
-    }
-
-    byDateTime
-      .get(bucketKey)
-      .push(incoming);
-
-    if (!byDate.has(incoming.date)) {
-      byDate.set(
-        incoming.date,
-        []
-      );
-    }
-
-    byDate
-      .get(incoming.date)
-      .push(incoming);
-
     added++;
-
     continue;
   }
 
   /*
-   * AÇILIŞ ORANLARINA DOKUNMUYORUZ.
+   * AÇILIŞ ORANLARINA DOKUNMA.
    *
-   * Sadece canlı değişebilecek alanlar yenileniyor.
+   * Sadece canlı değişen alanları güncelle.
    */
   current.halfTimeScore =
     incoming.halfTimeScore;
@@ -595,80 +453,29 @@ for (const row of rows) {
       incoming.league;
   }
 
-  /*
-   * Aynı maça ait eski/kopya kayıtları temizle.
-   */
-  for (const duplicate of candidates) {
-    if (duplicate !== current) {
-      removeItems.add(duplicate);
-    }
+  if (!current.normalizedHomeTeam) {
+    current.normalizedHomeTeam =
+      incoming.normalizedHomeTeam;
+  }
+
+  if (!current.normalizedAwayTeam) {
+    current.normalizedAwayTeam =
+      incoming.normalizedAwayTeam;
   }
 
   updated++;
 }
 
-/*
- * Kopyaları çıkar
- */
-let merged = existing.filter(
-  (item) =>
-    !removeItems.has(item)
-);
-
-/*
- * Sadece son 60 günü tut
- */
-merged = filterRetention(merged);
-
-/*
- * Tarihe göre sırala
- */
-merged.sort((a, b) =>
-  `${a.date}${a.time}${a.homeTeam}`
-    .localeCompare(
-      `${b.date}${b.time}${b.homeTeam}`
-    )
-);
-
-/*
- * HER ŞEYDEN SONRA:
- *
- * data/matches.json
- * data/history/*
- * data/manifest.json
- *
- * birlikte güncelleniyor.
- */
-await writeData(merged);
+await saveMatches(existing);
 
 console.log("");
+console.log("==============================");
+console.log("MAÇKOLİK GÜNCELLEME TAMAMLANDI");
+console.log("==============================");
+console.log(`Yeni maç: ${added}`);
+console.log(`Güncellenen maç: ${updated}`);
+console.log(`Toplam kayıt: ${existing.length}`);
 console.log(
-  "======================================"
+  `Dosya: data/matches.json`
 );
-console.log(
-  "MAÇKOLİK GÜNCELLEME TAMAMLANDI"
-);
-console.log(
-  "======================================"
-);
-console.log(
-  `Yeni maç: ${added}`
-);
-console.log(
-  `Güncellenen maç: ${updated}`
-);
-console.log(
-  `Birleştirilen kopya: ${removeItems.size}`
-);
-console.log(
-  `Toplam kayıt: ${merged.length}`
-);
-console.log(
-  `Son ${RETENTION_DAYS} gün tutuluyor.`
-);
-console.log(
-  `Veri dosyası: ${dataPath}`
-);
-console.log(
-  "======================================"
-);
+console.log("==============================");
