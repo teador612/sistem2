@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T12:14:06.960Z",
+  "updatedAt": "2026-10-02T12:25:45.807Z",
   "matches": [
     {
       "code": "5847028",
@@ -606975,10 +606975,10 @@
       "home": "Augsburg",
       "away": "Hertha Berlin",
       "mbs": 2,
-      "status": 0,
+      "status": 3,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
