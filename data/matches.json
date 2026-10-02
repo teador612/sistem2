@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T11:31:04.435Z",
+  "updatedAt": "2026-10-02T11:38:32.132Z",
   "matches": [
     {
       "code": "4429949",
@@ -55921,10 +55921,10 @@
       "home": "Çin",
       "away": "Filistin",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -56602,7 +56602,7 @@
       "code": "4566519",
       "week": 24139,
       "date": "02.10.2026",
-      "time": "17:00",
+      "time": "19:00",
       "league": "HU19",
       "home": "İngiltere (U19",
       "away": "Abd U19",
@@ -87320,6 +87320,104 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-02T11:28:03.497Z"
+    },
+    {
+      "code": "4527981",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "13:00",
+      "league": "İSKPR",
+      "home": "Sevilla (K)",
+      "away": "Badalona (K)",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.55,
+        "msX": 2.96,
+        "ms2": 2.03,
+        "cs1X": 1.35,
+        "cs12": 1.15,
+        "csX2": 1.21,
+        "au25Alt": 1.67,
+        "au25Ust": 1.6,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.47,
+        "kgYok": 1.84,
+        "iy15Alt": 1.26,
+        "iy15Ust": 2.32,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.11,
+        "iyX": 1.94,
+        "iy2": 2.58
+      },
+      "openingRecordedAt": "2026-10-02T11:38:32.130Z"
+    },
+    {
+      "code": "4534555",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "13:30",
+      "league": "İTKSA",
+      "home": "Parma (K)",
+      "away": "Ternana (K)",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.72,
+        "msX": 2.96,
+        "ms2": 3.31,
+        "cs1X": 1.1,
+        "cs12": 1.14,
+        "csX2": 1.52,
+        "au25Alt": 1.47,
+        "au25Ust": 1.85,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.7,
+        "kgYok": 1.58,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.32,
+        "iyX": 1.85,
+        "iy2": 3.99
+      },
+      "openingRecordedAt": "2026-10-02T11:38:32.130Z"
     }
   ]
 }
