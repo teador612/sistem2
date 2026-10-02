@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T15:15:50.336Z",
+  "updatedAt": "2026-10-02T15:31:04.249Z",
   "matches": [
     {
       "code": "5847028",
@@ -607563,7 +607563,7 @@
       "home": "Arnavutluk U19",
       "away": "Litvanya (U19)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -607612,7 +607612,7 @@
       "home": "Belçika (U19)",
       "away": "Kuzey İrlanda U",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -607859,7 +607859,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -608055,7 +608055,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -608102,14 +608102,14 @@
       "home": "Volna Pinsk",
       "away": "Lida",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.36,
@@ -608153,7 +608153,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -643666,6 +643666,104 @@
         "iy2": 3.18
       },
       "openingRecordedAt": "2026-10-02T15:15:50.336Z"
+    },
+    {
+      "code": "4566859",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "04:00",
+      "league": "YZLBÖL",
+      "home": "Wellington Oly",
+      "away": "Ferrymead Bays",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.44,
+        "msX": 3.76,
+        "ms2": 3.8,
+        "cs1X": 1.06,
+        "cs12": 1.06,
+        "csX2": 1.8,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.26,
+        "kgYok": 2.34,
+        "iy15Alt": 1.57,
+        "iy15Ust": 1.72,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.58,
+        "au35Ust": 1.69,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.82,
+        "iyX": 2.39,
+        "iy2": 3.92
+      },
+      "openingRecordedAt": "2026-10-02T15:31:04.248Z"
+    },
+    {
+      "code": "4562425",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "08:00",
+      "league": "JKLK",
+      "home": "Mynavi Sendai ",
+      "away": "Inac Kobe Leone",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.24,
+        "msX": 3.19,
+        "ms2": 2.15,
+        "cs1X": 1.3,
+        "cs12": 1.12,
+        "csX2": 1.28,
+        "au25Alt": 1.95,
+        "au25Ust": 1.41,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.34,
+        "kgYok": 2.1,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T15:31:04.248Z"
     }
   ]
 }
