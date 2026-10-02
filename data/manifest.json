@@ -1,1 +1,35 @@
-{"files":{"2026-05":"data/history/2026-05.json","2026-06":"data/history/2026-06.json","2026-07":"data/history/2026-07.json","2026-08":"data/history/2026-08.json","2026-09":"data/history/2026-09.json","2026-10":"data/history/2026-10.json"},"minDate":"2026-05-29","maxDate":"2026-10-08","updatedAt":"2026-10-02T05:04:02.603Z"}
+{
+  "updatedAt": "2026-10-02T05:40:10.058Z",
+  "months": [
+    {
+      "month": "2026-05",
+      "file": "data/history/2026-05.json",
+      "count": 379
+    },
+    {
+      "month": "2026-06",
+      "file": "data/history/2026-06.json",
+      "count": 1229
+    },
+    {
+      "month": "2026-07",
+      "file": "data/history/2026-07.json",
+      "count": 1746
+    },
+    {
+      "month": "2026-08",
+      "file": "data/history/2026-08.json",
+      "count": 4359
+    },
+    {
+      "month": "2026-09",
+      "file": "data/history/2026-09.json",
+      "count": 5188
+    },
+    {
+      "month": "2026-10",
+      "file": "data/history/2026-10.json",
+      "count": 708
+    }
+  ]
+}
