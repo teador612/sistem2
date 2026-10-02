@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T20:01:09.956Z",
+  "updatedAt": "2026-10-02T20:15:46.368Z",
   "matches": [
     {
       "code": "5847028",
@@ -609327,10 +609327,10 @@
       "home": "Real Sociedad",
       "away": "Athletic Bilbao",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -609915,7 +609915,7 @@
       "home": "Andorra (U21)",
       "away": "Moldova (U21)",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -609964,10 +609964,10 @@
       "home": "Ferro Carril O",
       "away": "Union (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -610013,7 +610013,7 @@
       "home": "Qviding",
       "away": "Landvetter Is",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -610062,7 +610062,7 @@
       "home": "Monchengladbac",
       "away": "Bochum Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "3"
@@ -610111,9 +610111,9 @@
       "home": "Racing Club (K",
       "away": "Belgrano (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -610160,7 +610160,7 @@
       "home": "Stjarnan (K)",
       "away": "Grindavik/Njaro",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -610209,10 +610209,10 @@
       "home": "Fram (K)",
       "away": "Valur (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -610258,7 +610258,7 @@
       "home": "Widad Temara",
       "away": "Uts Rabat",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -610307,10 +610307,10 @@
       "home": "Víkingur Reykj",
       "away": "Thor / Ka (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -610356,7 +610356,7 @@
       "home": "Farsta",
       "away": "Fittja",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -610405,10 +610405,10 @@
       "home": "San Lorenzo (K",
       "away": "Huracan (K)",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "3",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "3",
@@ -610454,14 +610454,14 @@
       "home": "Eldense",
       "away": "Oviedo",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.25,
@@ -610503,10 +610503,10 @@
       "home": "Carmarthen",
       "away": "Llantwit Major",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -610552,14 +610552,14 @@
       "home": "Sevilla",
       "away": "Aston Villa",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.56,
@@ -610601,14 +610601,14 @@
       "home": "Llanelli Town",
       "away": "Baglan Dragons",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.63,
@@ -610650,14 +610650,14 @@
       "home": "Bray Wanderers",
       "away": "Cobh Ramblers",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 1.47,
@@ -610699,14 +610699,14 @@
       "home": "Treaty Unt.",
       "away": "Ucd",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 2.6,
@@ -610748,14 +610748,14 @@
       "home": "İngiltere (U21",
       "away": "Slovakya (U21)",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
@@ -610797,14 +610797,14 @@
       "home": "Polonya",
       "away": "Romanya",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.44,
@@ -610846,14 +610846,14 @@
       "home": "Macaristan",
       "away": "Gürcistan",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.01,
@@ -610895,14 +610895,14 @@
       "home": "Dundalk",
       "away": "Bohemian",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.55,
@@ -610944,14 +610944,14 @@
       "home": "Caerau Ely",
       "away": "Afan Lido",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.25,
@@ -610993,14 +610993,14 @@
       "home": "Belçika",
       "away": "Türkiye",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.4,
@@ -611042,14 +611042,14 @@
       "home": "Bosna Hersek",
       "away": "İsveç",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.42,
@@ -611091,14 +611091,14 @@
       "home": "Strabane Athle",
       "away": "Armagh",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.53,
@@ -611140,14 +611140,14 @@
       "home": "Denbigh Town",
       "away": "Holyhead",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.58,
@@ -611189,14 +611189,14 @@
       "home": "Wexford Youths",
       "away": "Longford",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.66,
@@ -611238,14 +611238,14 @@
       "home": "Faroe Adalari",
       "away": "Slovakya",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 5.78,
@@ -611287,14 +611287,14 @@
       "home": "Ukrayna",
       "away": "Kuzey İrlanda",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.79,
@@ -611336,14 +611336,14 @@
       "home": "Fransa",
       "away": "İtalya",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.3,
@@ -611385,14 +611385,14 @@
       "home": "Finn Harps",
       "away": "Kerry",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.32,
@@ -611434,14 +611434,14 @@
       "home": "Athlone",
       "away": "Cork City",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.48,
@@ -611483,14 +611483,14 @@
       "home": "St. Lucia",
       "away": "Guadeloupe",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.48,
@@ -611532,14 +611532,14 @@
       "home": "Helmond Sport",
       "away": "Heracles",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 6.65,
@@ -611581,14 +611581,14 @@
       "home": "Encarnacion",
       "away": "Resistencia",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.01,
@@ -611630,14 +611630,14 @@
       "home": "Real Madrid Ii",
       "away": "Atl Madrid Ii",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.5,
@@ -611679,10 +611679,10 @@
       "home": "Real Unión De ",
       "away": "Cd Laguna",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -611728,10 +611728,10 @@
       "home": "Ittihad Tanger",
       "away": "Moghreb Tetouan",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -611777,10 +611777,10 @@
       "home": "Puertos Las Pa",
       "away": "Arucas U18",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -647684,6 +647684,1182 @@
         "iy2": 4.45
       },
       "openingRecordedAt": "2026-10-02T19:45:45.517Z"
+    },
+    {
+      "code": "4505038",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "12:00",
+      "league": "MAC3",
+      "home": "Vasas Ii",
+      "away": "Bkv Elore",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.09,
+        "msX": 5.53,
+        "ms2": 8.49,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.93,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4429408",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "15:00",
+      "league": "NOR4",
+      "home": "Fk Union Carl ",
+      "away": "Lokomotiv Oslo",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.37,
+        "msX": 4.16,
+        "ms2": 3.99,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 1.93,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.16,
+        "kgYok": 2.73,
+        "iy15Alt": 1.79,
+        "iy15Ust": 1.51,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.93,
+        "au35Ust": 1.42,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.71,
+        "iyX": 2.61,
+        "iy2": 3.95
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4527279",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "16:30",
+      "league": "HIR2NL",
+      "home": "Uskok Klis",
+      "away": "Jarun",
+      "mbs": 3,
+      "status": 9,
+      "score": {
+        "home": "0",
+        "away": "0"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.62,
+        "msX": 3.26,
+        "ms2": 3.34,
+        "cs1X": 1.09,
+        "cs12": 1.1,
+        "csX2": 1.59,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4511458",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "17:00",
+      "league": "İSV1Y",
+      "home": "Grand-Saconnex",
+      "away": "Yf Juventus",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.66,
+        "msX": 3.54,
+        "ms2": 2.95,
+        "cs1X": 1.14,
+        "cs12": 1.09,
+        "csX2": 1.56,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.3,
+        "kgYok": 2.19,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.41,
+        "au35Ust": 1.94,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4526407",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "18:00",
+      "league": "GANA",
+      "home": "Dreams",
+      "away": "Hearts Of Oak",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.99,
+        "msX": 2.68,
+        "ms2": 2.89,
+        "cs1X": 1.15,
+        "cs12": 1.18,
+        "csX2": 1.37,
+        "au25Alt": 1.35,
+        "au25Ust": 2.09,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.79,
+        "kgYok": 1.51,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.68,
+        "iyX": 1.74,
+        "iy2": 3.65
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4526402",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "18:00",
+      "league": "GANA",
+      "home": "Vision",
+      "away": "Bibiani Gold St",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.56,
+        "msX": 2.91,
+        "ms2": 4.2,
+        "cs1X": 1,
+        "cs12": 1.14,
+        "csX2": 1.65,
+        "au25Alt": 1.35,
+        "au25Ust": 2.08,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.94,
+        "kgYok": 1.41,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.15,
+        "iyX": 1.79,
+        "iy2": 4.95
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4537192",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "05:00",
+      "league": "CON",
+      "home": "Belize",
+      "away": "Fransiz Guyanas",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.28,
+        "msX": 2.92,
+        "ms2": 2.28,
+        "cs1X": 1.27,
+        "cs12": 1.15,
+        "csX2": 1.27,
+        "au25Alt": 1.39,
+        "au25Ust": 1.98,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.74,
+        "kgYok": 1.54,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.39,
+        "au15Ust": 1.24,
+        "au35Alt": 1.05,
+        "au35Ust": 3.65,
+        "gol01": 2.4,
+        "gol23": 1.73,
+        "gol46": 4.49,
+        "gol7": 24.95,
+        "iy1": 3.06,
+        "iyX": 1.76,
+        "iy2": 3.06
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4490410",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "05:00",
+      "league": "GUAT",
+      "home": "Xelaju",
+      "away": "Deportivo San P",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.3,
+        "msX": 3.63,
+        "ms2": 5.75,
+        "cs1X": 1,
+        "cs12": 1.06,
+        "csX2": 2.08,
+        "au25Alt": 1.65,
+        "au25Ust": 1.63,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.78,
+        "kgYok": 1.51,
+        "iy15Alt": 1.27,
+        "iy15Ust": 2.3,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.73,
+        "iyX": 2.1,
+        "iy2": 5.89
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4536382",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "07:00",
+      "league": "JAPF",
+      "home": "Okinawa Sv",
+      "away": "Urayasu",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.59,
+        "msX": 3.25,
+        "ms2": 3.48,
+        "cs1X": 1.09,
+        "cs12": 1.1,
+        "csX2": 1.63,
+        "au25Alt": 1.65,
+        "au25Ust": 1.62,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.57,
+        "kgYok": 1.72,
+        "iy15Alt": 1.26,
+        "iy15Ust": 2.35,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.14,
+        "iyX": 1.98,
+        "iy2": 4.04
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4536384",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "07:00",
+      "league": "JAPF",
+      "home": "J-Lease Fc",
+      "away": "Tiamo Hirakata",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.17,
+        "msX": 3.01,
+        "ms2": 2.32,
+        "cs1X": 1.25,
+        "cs12": 1.14,
+        "csX2": 1.3,
+        "au25Alt": 1.71,
+        "au25Ust": 1.58,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.45,
+        "kgYok": 1.87,
+        "iy15Alt": 1.28,
+        "iy15Ust": 2.28,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.73,
+        "iyX": 1.96,
+        "iy2": 2.89
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4536383",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "07:00",
+      "league": "JAPF",
+      "home": "Maruyasu Indus",
+      "away": "Reinmeer Aomori",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.62,
+        "msX": 2.83,
+        "ms2": 2.06,
+        "cs1X": 1.34,
+        "cs12": 1.16,
+        "csX2": 1.19,
+        "au25Alt": 1.43,
+        "au25Ust": 1.93,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.69,
+        "kgYok": 1.58,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.35,
+        "iyX": 1.79,
+        "iy2": 2.74
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4529443",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "13:00",
+      "league": "İSTL",
+      "home": "Montanesa",
+      "away": "Lescala",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.64,
+        "msX": 3.01,
+        "ms2": 3.59,
+        "cs1X": 1.08,
+        "cs12": 1.13,
+        "csX2": 1.58,
+        "au25Alt": 1.47,
+        "au25Ust": 1.85,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.72,
+        "kgYok": 1.56,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4529442",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "13:00",
+      "league": "İSTL",
+      "home": "San Cristobal",
+      "away": "Grama",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.83,
+        "msX": 2.74,
+        "ms2": 1.99,
+        "cs1X": 1.37,
+        "cs12": 1.17,
+        "csX2": 1.16,
+        "au25Alt": 1.4,
+        "au25Ust": 1.97,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.72,
+        "kgYok": 1.57,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4533116",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "14:00",
+      "league": "İSTL",
+      "home": "Cd Marino",
+      "away": "Playas Sotavent",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.58,
+        "msX": 3.19,
+        "ms2": 3.61,
+        "cs1X": 1.08,
+        "cs12": 1.11,
+        "csX2": 1.63,
+        "au25Alt": 1.59,
+        "au25Ust": 1.68,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.62,
+        "kgYok": 1.65,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4458487",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "17:00",
+      "league": "İSÇ4",
+      "home": "If Karlstad Ii",
+      "away": "Ik Tord",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.06,
+        "msX": 3.14,
+        "ms2": 2.4,
+        "cs1X": 1.23,
+        "cs12": 1.12,
+        "csX2": 1.34,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.367Z"
+    },
+    {
+      "code": "4529445",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "19:15",
+      "league": "İSTL",
+      "home": "Vilassar De Ma",
+      "away": "Europa Ii",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.23,
+        "msX": 2.81,
+        "ms2": 2.39,
+        "cs1X": 1.24,
+        "cs12": 1.16,
+        "csX2": 1.28,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.368Z"
+    },
+    {
+      "code": "4473850",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "21:00",
+      "league": "ARJPC",
+      "home": "C Cordoba",
+      "away": "Yupanqui",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.52,
+        "msX": 2.97,
+        "ms2": 4.39,
+        "cs1X": 1,
+        "cs12": 1.13,
+        "csX2": 1.7,
+        "au25Alt": 1.43,
+        "au25Ust": 1.91,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.82,
+        "kgYok": 1.49,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.05,
+        "iyX": 1.88,
+        "iy2": 4.94
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.368Z"
+    },
+    {
+      "code": "4473843",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "21:00",
+      "league": "ARJPC",
+      "home": "Ca Lugano",
+      "away": "A. Rosario",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.46,
+        "msX": 2.99,
+        "ms2": 4.87,
+        "cs1X": 1,
+        "cs12": 1.13,
+        "csX2": 1.77,
+        "au25Alt": 1.37,
+        "au25Ust": 2.01,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.96,
+        "kgYok": 1.41,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2,
+        "iyX": 1.86,
+        "iy2": 5.44
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.368Z"
+    },
+    {
+      "code": "4562891",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "23:30",
+      "league": "JAM",
+      "home": "Treasure Beach",
+      "away": "Humble Lions",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.37,
+        "msX": 3.56,
+        "ms2": 4.72,
+        "cs1X": 1,
+        "cs12": 1.07,
+        "csX2": 1.92,
+        "au25Alt": 1.91,
+        "au25Ust": 1.44,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.51,
+        "kgYok": 1.79,
+        "iy15Alt": 1.37,
+        "iy15Ust": 2.04,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.79,
+        "iyX": 2.2,
+        "iy2": 4.84
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.368Z"
+    },
+    {
+      "code": "4562888",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "23:30",
+      "league": "JAM",
+      "home": "Montego Bay Un",
+      "away": "Dunbeholden",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.15,
+        "msX": 4.38,
+        "ms2": 8.04,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.56,
+        "au25Alt": 1.86,
+        "au25Ust": 1.45,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.82,
+        "kgYok": 1.49,
+        "iy15Alt": 1.36,
+        "iy15Ust": 2.06,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.51,
+        "iyX": 2.35,
+        "iy2": 7.37
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.368Z"
+    },
+    {
+      "code": "4562892",
+      "week": 24139,
+      "date": "05.10.2026",
+      "time": "01:00",
+      "league": "JAM",
+      "home": "Molynes United",
+      "away": "Racing United",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.55,
+        "msX": 3.16,
+        "ms2": 1.95,
+        "cs1X": 1.38,
+        "cs12": 1.12,
+        "csX2": 1.21,
+        "au25Alt": 1.91,
+        "au25Ust": 1.44,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.37,
+        "kgYok": 2.05,
+        "iy15Alt": 1.35,
+        "iy15Ust": 2.08,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.04,
+        "iyX": 2.06,
+        "iy2": 2.45
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.368Z"
+    },
+    {
+      "code": "4562890",
+      "week": 24139,
+      "date": "05.10.2026",
+      "time": "03:30",
+      "league": "JAM",
+      "home": "Mount Pleasant",
+      "away": "Cavalier Sc",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.77,
+        "msX": 3.08,
+        "ms2": 3,
+        "cs1X": 1.13,
+        "cs12": 1.13,
+        "csX2": 1.49,
+        "au25Alt": 1.56,
+        "au25Ust": 1.72,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.6,
+        "kgYok": 1.67,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.37,
+        "iyX": 1.89,
+        "iy2": 3.67
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.368Z"
+    },
+    {
+      "code": "4473856",
+      "week": 24139,
+      "date": "05.10.2026",
+      "time": "21:00",
+      "league": "ARJPC",
+      "home": "Lujan",
+      "away": "Lamadrid",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.55,
+        "msX": 2.82,
+        "ms2": 4.47,
+        "cs1X": 1,
+        "cs12": 1.16,
+        "csX2": 1.66,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 2.1,
+        "kgYok": 1.34,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.1,
+        "au15Ust": 1.34,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.17,
+        "iyX": 1.74,
+        "iy2": 5.3
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.368Z"
+    },
+    {
+      "code": "4510215",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "01:00",
+      "league": "KOLPB",
+      "home": "Bogota",
+      "away": "Envigado",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.63,
+        "msX": 2.57,
+        "ms2": 2.21,
+        "cs1X": 1.29,
+        "cs12": 1.21,
+        "csX2": 1.19,
+        "au25Alt": 1.32,
+        "au25Ust": 2.14,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.86,
+        "kgYok": 1.46,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.14,
+        "au15Ust": 1.32,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.43,
+        "iyX": 1.69,
+        "iy2": 2.96
+      },
+      "openingRecordedAt": "2026-10-02T20:15:46.368Z"
     }
   ]
 }
