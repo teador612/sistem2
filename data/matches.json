@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T12:45:44.339Z",
+  "updatedAt": "2026-10-02T13:01:14.749Z",
   "matches": [
     {
       "code": "5847028",
@@ -606681,7 +606681,7 @@
       "home": "Tayland",
       "away": "Filipinler",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -606730,14 +606730,14 @@
       "home": "Lugano",
       "away": "Verona",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2,
@@ -606779,7 +606779,7 @@
       "home": "Daejeon Korail",
       "away": "Gangneung City",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -606828,7 +606828,7 @@
       "home": "Mio Biwako Shi",
       "away": "Roasso Kumamoto",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -606877,7 +606877,7 @@
       "home": "Galler U19",
       "away": "Norveç (U19)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -606926,7 +606926,7 @@
       "home": "Nürnberg",
       "away": "Ingolstadt",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "1"
@@ -606975,10 +606975,10 @@
       "home": "Augsburg",
       "away": "Hertha Berlin",
       "mbs": 2,
-      "status": 0,
+      "status": 3,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -607024,14 +607024,14 @@
       "home": "Güney Kore",
       "away": "Venezuela",
       "mbs": 1,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.4,
@@ -607073,14 +607073,14 @@
       "home": "Çin",
       "away": "Filistin",
       "mbs": 2,
-      "status": 0,
+      "status": 3,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "4"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 2.51,
@@ -607122,10 +607122,10 @@
       "home": "Fleetwood Town",
       "away": "Sheffield Wedne",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -607171,10 +607171,10 @@
       "home": "Kahraba Ismail",
       "away": "Mega Sport",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -607220,10 +607220,10 @@
       "home": "Derot",
       "away": "Ismaily",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -607269,10 +607269,10 @@
       "home": "Baladiyyat",
       "away": "Team",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -607318,10 +607318,10 @@
       "home": "El Daklyeh",
       "away": "Maleyet Kafr El",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -607367,10 +607367,10 @@
       "home": "Tanta",
       "away": "Haras El Hodood",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -607416,10 +607416,10 @@
       "home": "Proxy",
       "away": "Telecom Egypt",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -608587,7 +608587,7 @@
       "code": "4566519",
       "week": 24139,
       "date": "02.10.2026",
-      "time": "17:00",
+      "time": "19:00",
       "league": "HU19",
       "home": "İngiltere (U19",
       "away": "Abd U19",
