@@ -15,33 +15,16 @@ const MARKETS = [
 let matches = [];
 let historyIndexes = new Map();
 const $ = (id) => document.getElementById(id);
-const dateKey = (value) => String(value).slice(0, 10);
-const dateObject = (value) => {
-  return new Date(`${dateKey(value)}T00:00:00`);
-};
-const localDateKey = (value) => {
-  return `${value.getFullYear()}-${String(value.getMonth() + 1).padStart(2, "0")}-${String(value.getDate()).padStart(2, "0")}`;
-};
-const pct = (value) => {
-  return value == null ? "—" : `%${Math.round(value)}`;
-};
-const lastItem = (items) => items[items.length - 1];
-const formatOdds = (value) => {
-  return value == null ? "—" : Number(value).toFixed(2);
-};
-function lowerBound(items, value) {
-  let left = 0;
-  let right = items.length;
-  while (left < right) {
-    const middle = Math.floor((left + right) / 2);
-    if (items[middle].date < value) {
-      left = middle + 1;
-    } else {
-      right = middle;
-    }
-  }
-  return left;
-}
+const dateKey = (value) =>
+  String(value).slice(0, 10);
+const dateObject = (value) =>
+  new Date(`${dateKey(value)}T00:00:00`);
+const localDateKey = (date) =>
+  `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
+const pct = (value) =>
+  value == null ? "—" : `%${Math.round(value)}`;
+const formatOdds = (value) =>
+  value == null ? "—" : Number(value).toFixed(2);
 /* =========================================================
    GEÇMİŞ VERİ İNDEKSİ
    ========================================================= */
@@ -70,21 +53,45 @@ function buildHistoryIndexes() {
       });
     });
     marketIndex.forEach((items) => {
-      items.sort((a, b) => a.date.localeCompare(b.date));
+      items.sort((a, b) =>
+        a.date.localeCompare(b.date)
+      );
       let total = 0;
       items.forEach((item) => {
         total += item.success;
         item.total = total;
       });
     });
-    historyIndexes.set(market.key, marketIndex);
+    historyIndexes.set(
+      market.key,
+      marketIndex
+    );
   });
 }
 /* =========================================================
-   ORAN GEÇMİŞ ANALİZİ
+   BINARY SEARCH
+   ========================================================= */
+function lowerBound(items, value) {
+  let left = 0;
+  let right = items.length;
+  while (left < right) {
+    const middle = Math.floor(
+      (left + right) / 2
+    );
+    if (items[middle].date < value) {
+      left = middle + 1;
+    } else {
+      right = middle;
+    }
+  }
+  return left;
+}
+/* =========================================================
+   ORAN GEÇMİŞİ
    ========================================================= */
 function getHistory(match, market) {
-  const odds = match.openingOdds?.[market.odds];
+  const odds =
+    match.openingOdds?.[market.odds];
   if (odds == null) {
     return {
       count: 0,
@@ -92,38 +99,57 @@ function getHistory(match, market) {
       rate: null
     };
   }
+  const key = String(Number(odds));
   const items =
     historyIndexes
       .get(market.key)
-      ?.get(String(Number(odds))) || [];
-  const start = new Date(dateObject(match.date));
-  start.setDate(start.getDate() - WINDOW_DAYS);
-  const startDate = localDateKey(start);
+      ?.get(key) || [];
+  const start =
+    dateObject(match.date);
+  start.setDate(
+    start.getDate() - WINDOW_DAYS
+  );
+  const startDate =
+    localDateKey(start);
+  const matchDate =
+    dateKey(match.date);
   /*
-   * Çok önemli:
-   * Seçilen maçın kendisini geçmiş analizine dahil etmiyoruz.
+   * Seçilen maçın kendisini
+   * geçmiş istatistiğine dahil etmiyoruz.
    */
-  const from = lowerBound(items, startDate);
-  const to = lowerBound(items, dateKey(match.date));
-  const count = to - from;
-  const before = from ? items[from - 1].total : 0;
+  const from =
+    lowerBound(items, startDate);
+  const to =
+    lowerBound(items, matchDate);
+  const count =
+    to - from;
+  const before =
+    from > 0
+      ? items[from - 1].total
+      : 0;
   const successful =
-    (to ? items[to - 1].total : 0) - before;
+    (to > 0 ? items[to - 1].total : 0) -
+    before;
   return {
     count,
     successful,
     rate: count
-      ? successful / count * 100
+      ? (successful / count) * 100
       : null
   };
 }
+/* =========================================================
+   ANALİZ
+   ========================================================= */
 function analyze(match) {
   return MARKETS
     .map((market) => ({
       market,
       ...getHistory(match, market)
     }))
-    .filter((item) => item.count > 0);
+    .filter(
+      (item) => item.count > 0
+    );
 }
 function recommendationFor(match) {
   return analyze(match)
@@ -138,6 +164,9 @@ function recommendationFor(match) {
         b.count - a.count
     );
 }
+/* =========================================================
+   SONUÇ
+   ========================================================= */
 function outcome(match, recommendations) {
   if (
     match.status !== "finished" ||
@@ -145,44 +174,27 @@ function outcome(match, recommendations) {
   ) {
     return "pending";
   }
-  const won = recommendations.every(
-    ({ market }) =>
-      match.results?.[market.result] === market.expected
-  );
+  const won =
+    recommendations.every(
+      ({ market }) =>
+        match.results?.[market.result] ===
+        market.expected
+    );
   return won ? "won" : "lost";
 }
 /* =========================================================
    İSTATİSTİKLER
    ========================================================= */
-function renderStats(selected, dayMatches) {
-  const settled = dayMatches.flatMap((match) => {
-    const recs = recommendationFor(match);
-    return recs.length && match.status === "finished"
-      ? [
-          {
-            won: outcome(match, recs) === "won"
-          }
-        ]
-      : [];
-  });
-  const selectedDate = dateObject(selected);
-  const windowStart = new Date(selectedDate);
-  windowStart.setDate(
-    windowStart.getDate() - WINDOW_DAYS
-  );
-  const overall = matches
-    .filter((match) => {
-      const matchDate = dateObject(match.date);
-      return (
-        matchDate >= windowStart &&
-        matchDate <= selectedDate
-      );
-    })
-    .flatMap((match) => {
-      const recs = recommendationFor(match);
-      const primary = recs[0];
+function renderStats(
+  selected,
+  dayMatches
+) {
+  const settled =
+    dayMatches.flatMap((match) => {
+      const recs =
+        recommendationFor(match);
       if (
-        !primary ||
+        !recs.length ||
         match.status !== "finished"
       ) {
         return [];
@@ -190,16 +202,56 @@ function renderStats(selected, dayMatches) {
       return [
         {
           won:
-            match.results?.[primary.market.result] ===
-            primary.market.expected
+            outcome(match, recs) === "won"
         }
       ];
     });
+  const selectedDate =
+    dateObject(selected);
+  const windowStart =
+    new Date(selectedDate);
+  windowStart.setDate(
+    windowStart.getDate() - WINDOW_DAYS
+  );
+  const overall =
+    matches
+      .filter((match) => {
+        const matchDate =
+          dateObject(match.date);
+        return (
+          matchDate >= windowStart &&
+          matchDate <= selectedDate
+        );
+      })
+      .flatMap((match) => {
+        const recs =
+          recommendationFor(match);
+        const primary =
+          recs[0];
+        if (
+          !primary ||
+          match.status !== "finished"
+        ) {
+          return [];
+        }
+        return [
+          {
+            won:
+              match.results?.[
+                primary.market.result
+              ] ===
+              primary.market.expected
+          }
+        ];
+      });
   const ratio = (list) =>
     list.length
-      ? list.filter((item) => item.won).length /
-        list.length *
-        100
+      ? (
+          list.filter(
+            (item) => item.won
+          ).length /
+          list.length
+        ) * 100
       : null;
   $("daySuccess").textContent =
     pct(ratio(settled));
@@ -215,38 +267,46 @@ function renderStats(selected, dayMatches) {
       : `Son ${WINDOW_DAYS} günde tamamlanan öneri yok`;
   $("matchCount").textContent =
     dayMatches.length;
-  const dates = matches
-    .map((item) => dateKey(item.date))
-    .sort();
+  const dates =
+    matches
+      .map((item) => dateKey(item.date))
+      .filter(Boolean)
+      .sort();
   $("dataRange").textContent =
     dates.length
-      ? `${dates[0]} – ${lastItem(dates)}`
+      ? `${dates[0]} – ${dates[dates.length - 1]}`
       : "—";
-  const updated = matches
-    .map((item) => item.lastUpdated)
-    .filter(Boolean)
-    .sort();
+  const updated =
+    matches
+      .map((item) => item.lastUpdated)
+      .filter(Boolean)
+      .sort();
   if (updated.length) {
-    const parsed = new Date(lastItem(updated));
+    const latest =
+      updated[updated.length - 1];
+    const parsed =
+      new Date(latest);
     $("lastUpdated").textContent =
       `Veri güncelleme zamanı: ${
         Number.isNaN(parsed.getTime())
-          ? lastItem(updated)
+          ? latest
           : parsed.toLocaleString("tr-TR")
       }`;
   } else {
-    $("lastUpdated").textContent = "—";
+    $("lastUpdated").textContent =
+      "—";
   }
 }
 /* =========================================================
    DETAY
    ========================================================= */
 function detailMarkup(analysis) {
-  const eligible = analysis.filter(
-    ({ count, rate }) =>
-      count >= MIN_SAMPLES &&
-      rate >= THRESHOLD
-  );
+  const eligible =
+    analysis.filter(
+      ({ count, rate }) =>
+        count >= MIN_SAMPLES &&
+        rate >= THRESHOLD
+    );
   if (!eligible.length) {
     return `
       <p class="muted">
@@ -275,7 +335,9 @@ function detailMarkup(analysis) {
                 ? "good"
                 : ""
             }">
-              <span>${market.label}</span>
+              <span>
+                ${market.label}
+              </span>
               <b>
                 ${pct(rate)}
                 <small>
@@ -290,10 +352,11 @@ function detailMarkup(analysis) {
   `;
 }
 /* =========================================================
-   MAÇLAR
+   MAÇLARI GÖSTER
    ========================================================= */
 function renderMatches(dayMatches) {
-  const container = $("matches");
+  const container =
+    $("matches");
   container.innerHTML = "";
   if (!dayMatches.length) {
     container.innerHTML = `
@@ -309,30 +372,48 @@ function renderMatches(dayMatches) {
         .content
         .cloneNode(true);
     const card =
-      fragment.querySelector(".match-card");
+      fragment.querySelector(
+        ".match-card"
+      );
     const recs =
       recommendationFor(match);
     card.classList.add(
       outcome(match, recs)
     );
-    fragment.querySelector(".league").textContent =
+    fragment.querySelector(
+      ".league"
+    ).textContent =
       match.league ||
       "Lig bilgisi yok";
-    fragment.querySelector(".time").textContent =
+    fragment.querySelector(
+      ".time"
+    ).textContent =
       match.time || "—";
-    fragment.querySelector(".home").textContent =
+    fragment.querySelector(
+      ".home"
+    ).textContent =
       match.homeTeam || "—";
-    fragment.querySelector(".away").textContent =
+    fragment.querySelector(
+      ".away"
+    ).textContent =
       match.awayTeam || "—";
-    fragment.querySelector(".ht-score").textContent =
-      ["finished", "live"].includes(match.status)
+    fragment.querySelector(
+      ".ht-score"
+    ).textContent =
+      ["finished", "live"].includes(
+        match.status
+      )
         ? match.halfTimeScore || "—"
         : "—";
-    fragment.querySelector(".ft-score").textContent =
+    fragment.querySelector(
+      ".ft-score"
+    ).textContent =
       match.status === "finished"
         ? match.fullTimeScore || "—"
         : "—";
-    fragment.querySelector(".recommendation").innerHTML =
+    fragment.querySelector(
+      ".recommendation"
+    ).innerHTML =
       recs.length
         ? recs
             .map(
@@ -368,15 +449,22 @@ function renderMatches(dayMatches) {
           </span>
         `;
     const button =
-      fragment.querySelector(".expand");
+      fragment.querySelector(
+        ".expand"
+      );
     const details =
-      fragment.querySelector(".details");
+      fragment.querySelector(
+        ".details"
+      );
     details.innerHTML =
-      detailMarkup(analyze(match));
+      detailMarkup(
+        analyze(match)
+      );
     button.addEventListener(
       "click",
       () => {
-        const open = !details.hidden;
+        const open =
+          !details.hidden;
         details.hidden = open;
         button.setAttribute(
           "aria-expanded",
@@ -386,7 +474,9 @@ function renderMatches(dayMatches) {
           open ? "+" : "−";
       }
     );
-    container.appendChild(fragment);
+    container.appendChild(
+      fragment
+    );
   });
 }
 /* =========================================================
@@ -398,7 +488,8 @@ function render() {
   const dayMatches =
     matches.filter(
       (match) =>
-        dateKey(match.date) === selected
+        dateKey(match.date) ===
+        selected
     );
   renderStats(
     selected,
@@ -406,34 +497,29 @@ function render() {
   );
   $("resultSummary").textContent =
     `${selected} tarihinde ${dayMatches.length} maç listelendi.`;
-  renderMatches(dayMatches);
+  renderMatches(
+    dayMatches
+  );
 }
 /* =========================================================
-   TEK DATA DOSYASI
+   TEK VERİ DOSYASINI YÜKLE
    ========================================================= */
 async function loadData() {
-  /*
-   * Artık manifest yok.
-   * Aylık dosya yok.
-   *
-   * Bütün veriler:
-   * data/data.json
-   */
   const response =
     await fetch(
-      "data/data.json?cache=" +
+      "data/matches.json?cache=" +
       Date.now()
     );
   if (!response.ok) {
     throw new Error(
-      "data/data.json yüklenemedi"
+      "data/matches.json yüklenemedi"
     );
   }
   const data =
     await response.json();
   if (!Array.isArray(data)) {
     throw new Error(
-      "data/data.json bir dizi (array) olmalıdır"
+      "data/matches.json bir JSON array olmalıdır"
     );
   }
   matches = data;
@@ -447,42 +533,42 @@ async function loadData() {
   buildHistoryIndexes();
 }
 /* =========================================================
-   BAŞLANGIÇ
+   BAŞLAT
    ========================================================= */
 async function init() {
   try {
     $("resultSummary").textContent =
       "Veriler yükleniyor...";
     await loadData();
+    const dates =
+      matches
+        .map((item) =>
+          dateKey(item.date)
+        )
+        .filter(Boolean)
+        .sort();
     /*
-     * Veri içerisindeki en eski ve en yeni
-     * tarihleri bul.
+     * Tarih seçicinin sınırları
+     * doğrudan matches.json'dan alınır.
      */
-    const dates = matches
-      .map((item) => dateKey(item.date))
-      .filter(Boolean)
-      .sort();
     if (dates.length) {
-      $("dateInput").min = dates[0];
-      $("dateInput").max = dates[dates.length - 1];
+      $("dateInput").min =
+        dates[0];
+      $("dateInput").max =
+        dates[dates.length - 1];
     }
     /*
-     * Bugünün tarihi.
-     */
-    const now = new Date();
-    const today =
-      localDateKey(now);
-    /*
-     * Eğer bugün veri içerisinde yoksa,
-     * veri içerisindeki en son tarihi seç.
+     * Bugün veri içerisindeyse
+     * bugün seçilir.
      *
-     * Böylece veri henüz bugüne ulaşmadığında
-     * sayfa boş kalmaz.
+     * Bugün henüz yoksa
+     * veri içerisindeki en son gün seçilir.
      */
-    if (
-      dates.length &&
-      dates.includes(today)
-    ) {
+    const today =
+      localDateKey(
+        new Date()
+      );
+    if (dates.includes(today)) {
       $("dateInput").value =
         today;
     } else if (dates.length) {
@@ -493,37 +579,35 @@ async function init() {
         today;
     }
     /*
-     * Tarih değiştiğinde artık herhangi bir
-     * dosya yüklenmiyor.
+     * Tarih değişince artık
+     * başka dosya yüklenmez.
      *
-     * Sadece mevcut data.json içerisinden
-     * seçilen tarih filtreleniyor.
+     * Aynı matches.json içindeki
+     * veriler filtrelenir.
      */
     $("dateInput").addEventListener(
       "change",
-      () => {
-        render();
-      }
+      render
     );
-    /*
-     * İlk ekran.
-     */
     render();
   } catch (error) {
-    console.error(error);
+    console.error(
+      "Sistem başlatılamadı:",
+      error
+    );
     $("matches").innerHTML = `
       <div class="empty">
         Veri dosyası yüklenemedi.
         <br><br>
         <small>
-          data/data.json dosyasını kontrol edin.
+          data/matches.json dosyasını kontrol edin.
         </small>
       </div>
     `;
   }
 }
 /* =========================================================
-   BAŞLAT
+   UYGULAMAYI BAŞLAT
    ========================================================= */
 init();
 /* =========================================================
@@ -535,7 +619,12 @@ if ("serviceWorker" in navigator) {
     () => {
       navigator.serviceWorker
         .register("sw.js")
-        .catch(() => {});
+        .catch((error) => {
+          console.warn(
+            "Service Worker:",
+            error
+          );
+        });
     }
   );
 }
