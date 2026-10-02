@@ -1,538 +1,559 @@
 import fs from "node:fs/promises";
-import vm from "node:vm";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
+import vm from "node:vm";
 
-const root = path.resolve(
-  path.dirname(fileURLToPath(import.meta.url)),
-  ".."
-);
+const SITE = "https://arsiv.mackolik.com";
+const PAGE = SITE + "/Genis-Iddaa-Programi";
+const DATA_PATH = path.resolve("data/matches.json");
 
-const dataPath = process.env.MATCHES_PATH
-  ? path.resolve(process.env.MATCHES_PATH)
-  : path.join(root, "data", "matches.json");
+function parseJsLiteral(text) {
+  const cleanText = text.replace(/^\uFEFF/, "");
 
-const sourceUrl =
-  "https://arsiv.mackolik.com/AjaxHandlers/ProgramDataHandler.ashx";
-
-const finishedStatuses = new Set([
-  4, 5, 6, 7, 8, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20
-]);
-
-const specialStatuses = new Set([
-  9, 11, 21, 22, 23
-]);
-
-function clean(value) {
-  return value == null ? "" : String(value).trim();
-}
-
-function number(value) {
-  const n = Number(String(value ?? "").replace(",", "."));
-  return Number.isFinite(n) ? n : null;
-}
-
-function normalizeTeam(value) {
-  return clean(value)
-    .toLocaleLowerCase("tr-TR")
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .replace(/ı/g, "i")
-    .replace(/ğ/g, "g")
-    .replace(/ü/g, "u")
-    .replace(/ş/g, "s")
-    .replace(/ö/g, "o")
-    .replace(/ç/g, "c")
-    .replace(/[^a-z0-9]+/g, " ")
-    .trim();
-}
-
-function isoDate(value) {
-  const text = clean(value);
-
-  let match = text.match(
-    /^(\d{1,2})[./-](\d{1,2})[./-](\d{4})/
+  return vm.runInNewContext(
+    "(" + cleanText + ")",
+    Object.create(null)
   );
-
-  if (match) {
-    const [, day, month, year] = match;
-
-    return `${year}-${String(month).padStart(2, "0")}-${String(
-      day
-    ).padStart(2, "0")}`;
-  }
-
-  match = text.match(/^(\d{4})-(\d{2})-(\d{2})/);
-
-  if (match) {
-    return `${match[1]}-${match[2]}-${match[3]}`;
-  }
-
-  return text.slice(0, 10);
 }
 
-function scoreText(home, away) {
-  const h = clean(home);
-  const a = clean(away);
-
-  if (h === "" || a === "") {
+function numberOrNull(value) {
+  if (
+    value === "" ||
+    value === null ||
+    value === undefined ||
+    typeof value === "object"
+  ) {
     return null;
   }
 
-  return `${h}-${a}`;
-}
-
-function resultValues(row) {
-  const homeScore = Number(row[8]);
-  const awayScore = Number(row[9]);
-
-  if (
-    !Number.isFinite(homeScore) ||
-    !Number.isFinite(awayScore)
-  ) {
-    return {
-      msResult: "",
-      kgResult: "",
-      iy15Result: "",
-      over25Result: ""
-    };
-  }
-
-  let msResult = "";
-
-  if (homeScore > awayScore) {
-    msResult = "1";
-  } else if (homeScore === awayScore) {
-    msResult = "0";
-  } else {
-    msResult = "2";
-  }
-
-  const kgResult =
-    homeScore > 0 && awayScore > 0
-      ? "VAR"
-      : "YOK";
-
-  const total = homeScore + awayScore;
-
-  const over25Result =
-    total >= 3
-      ? "ÜST"
-      : "ALT";
-
-  const halfHome = Number(row[11]);
-  const halfAway = Number(row[12]);
-
-  let iy15Result = "";
-
-  if (
-    Number.isFinite(halfHome) &&
-    Number.isFinite(halfAway)
-  ) {
-    iy15Result =
-      halfHome + halfAway >= 2
-        ? "ÜST"
-        : "ALT";
-  }
-
-  return {
-    msResult,
-    kgResult,
-    iy15Result,
-    over25Result
-  };
-}
-
-function parseSource(text) {
-  const trimmed = text.trim();
-
-  try {
-    return JSON.parse(trimmed);
-  } catch {}
-
-  const sandbox = {};
-
-  vm.createContext(sandbox);
-
-  vm.runInContext(
-    `
-      var result;
-      ${trimmed}
-    `,
-    sandbox
+  const number = Number(
+    String(value).replace(",", ".")
   );
 
-  if (sandbox.result) {
-    return sandbox.result;
-  }
-
-  throw new Error("Maçkolik verisi çözülemedi.");
+  return Number.isFinite(number)
+    ? number
+    : null;
 }
 
-async function fetchRows() {
-  const now = new Date();
+function parseScoreValue(value, status) {
+  const normalizedStatus = Number(status);
 
-  const day = String(now.getDate()).padStart(2, "0");
-  const month = String(now.getMonth() + 1).padStart(2, "0");
-  const year = now.getFullYear();
+  if (normalizedStatus === 0) {
+    return null;
+  }
 
-  const today = `${day}.${month}.${year}`;
+  if (
+    value === "" ||
+    value === null ||
+    value === undefined
+  ) {
+    return null;
+  }
 
-  const params = new URLSearchParams({
-    type: "6",
-    sortValue: "DATE",
-    day: today,
-    sort: "-1",
-    sortDir: "-1",
-    groupId: "-1",
-    np: "0",
-    sport: "1"
-  });
+  const result = String(value).trim();
 
-  const url = `${sourceUrl}?${params}`;
+  return result === "" ? null : result;
+}
+
+async function getCurrentWeek() {
+  const response = await fetch(PAGE);
+
+  if (!response.ok) {
+    throw new Error(
+      "Maçkolik sayfası alınamadı. HTTP " +
+        response.status
+    );
+  }
+
+  const html = await response.text();
+
+  const match = html.match(
+    /currentWeek\s*=\s*"(\d+)"/
+  );
+
+  if (!match) {
+    throw new Error(
+      "Maçkolik güncel bülten haftası bulunamadı."
+    );
+  }
+
+  return Number(match[1]);
+}
+
+async function fetchMatches(week) {
+  const url =
+    SITE +
+    "/AjaxHandlers/ProgramDataHandler.ashx" +
+    "?type=6" +
+    "&sortValue=DATE" +
+    "&day=-1" +
+    "&sort=-1" +
+    "&sortDir=-1" +
+    "&groupId=-1" +
+    "&np=0" +
+    "&sport=1";
 
   console.log("Maçkolik verisi alınıyor...");
   console.log(url);
 
-  const response = await fetch(url, {
-    headers: {
-      "User-Agent":
-        "Mozilla/5.0 oran-analiz-updater"
-    }
-  });
+  const response = await fetch(url);
 
   if (!response.ok) {
     throw new Error(
-      `Maçkolik HTTP ${response.status}`
+      "Maçkolik maç verisi alınamadı. HTTP " +
+        response.status
     );
   }
 
   const text = await response.text();
 
-  const parsed = parseSource(text);
+  const payload = parseJsLiteral(text);
 
-  return (parsed.m ?? []).flatMap(
-    dateGroup => dateGroup.m ?? []
+  const matches = [];
+
+  for (const day of payload.m ?? []) {
+    for (const row of day.m ?? []) {
+      const matchStatus = Number(
+        row[5] ?? 0
+      );
+
+      matches.push({
+        code: String(row[0]),
+
+        week: week,
+
+        date:
+          row[7] ||
+          day.d ||
+          null,
+
+        time:
+          row[6] ||
+          null,
+
+        league:
+          row[26] ||
+          "",
+
+        home:
+          row[1] ||
+          "",
+
+        away:
+          row[3] ||
+          "",
+
+        mbs:
+          numberOrNull(row[13]),
+
+        status:
+          matchStatus,
+
+        score: {
+          home:
+            parseScoreValue(
+              row[8],
+              matchStatus
+            ),
+
+          away:
+            parseScoreValue(
+              row[9],
+              matchStatus
+            )
+        },
+
+        halfTimeScore: {
+          home:
+            parseScoreValue(
+              row[11],
+              matchStatus
+            ),
+
+          away:
+            parseScoreValue(
+              row[12],
+              matchStatus
+            )
+        },
+
+        openingOdds: {
+          ms1:
+            numberOrNull(row[16]),
+
+          msX:
+            numberOrNull(row[17]),
+
+          ms2:
+            numberOrNull(row[18]),
+
+          cs1X:
+            numberOrNull(row[19]),
+
+          cs12:
+            numberOrNull(row[20]),
+
+          csX2:
+            numberOrNull(row[21]),
+
+          au25Alt:
+            numberOrNull(row[22]),
+
+          au25Ust:
+            numberOrNull(row[23]),
+
+          handicap:
+            row[14] || null,
+
+          handicap1:
+            numberOrNull(row[36]),
+
+          handicapX:
+            numberOrNull(row[37]),
+
+          handicap2:
+            numberOrNull(row[38]),
+
+          kgVar:
+            numberOrNull(row[39]),
+
+          kgYok:
+            numberOrNull(row[40]),
+
+          iy15Alt:
+            numberOrNull(row[42]),
+
+          iy15Ust:
+            numberOrNull(row[43]),
+
+          au15Alt:
+            numberOrNull(row[44]),
+
+          au15Ust:
+            numberOrNull(row[45]),
+
+          au35Alt:
+            numberOrNull(row[46]),
+
+          au35Ust:
+            numberOrNull(row[47]),
+
+          gol01:
+            numberOrNull(row[29]),
+
+          gol23:
+            numberOrNull(row[30]),
+
+          gol46:
+            numberOrNull(row[31]),
+
+          gol7:
+            numberOrNull(row[32]),
+
+          iy1:
+            numberOrNull(row[33]),
+
+          iyX:
+            numberOrNull(row[34]),
+
+          iy2:
+            numberOrNull(row[35])
+        }
+      });
+    }
+  }
+
+  return matches;
+}
+
+function sameJson(a, b) {
+  return (
+    JSON.stringify(a) ===
+    JSON.stringify(b)
   );
 }
 
-function toMatch(row) {
-  const status = Number(row[5]);
+let previous = {
+  source: PAGE,
+  week: null,
+  updatedAt: null,
+  matches: []
+};
 
-  const home = clean(row[1]);
-  const away = clean(row[3]);
-
-  const finished =
-    finishedStatuses.has(status) &&
-    !specialStatuses.has(status);
-
-  const live =
-    !finished &&
-    status >= 2 &&
-    !specialStatuses.has(status);
-
-  return {
-    id: `mackolik-${row[0]}`,
-
-    date: isoDate(row[7]),
-    time: clean(row[6]),
-    league: clean(row[26]),
-
-    homeTeam: home,
-    awayTeam: away,
-
-    normalizedHomeTeam:
-      normalizeTeam(home),
-
-    normalizedAwayTeam:
-      normalizeTeam(away),
-
-    openingOdds: {
-      ms1: number(row[16]),
-      ms0: number(row[17]),
-      ms2: number(row[18]),
-
-      kgYes: number(row[39]),
-      kgNo: number(row[40]),
-
-      iy15Under: number(row[42]),
-      iy15Over: number(row[43]),
-
-      under25: number(row[22]),
-      over25: number(row[23])
-    },
-
-    halfTimeScore:
-      finished || live
-        ? scoreText(row[11], row[12])
-        : null,
-
-    fullTimeScore:
-      finished
-        ? scoreText(row[8], row[9])
-        : null,
-
-    results:
-      finished
-        ? resultValues(row)
-        : {
-            msResult: "",
-            kgResult: "",
-            iy15Result: "",
-            over25Result: ""
-          },
-
-    status:
-      finished
-        ? "finished"
-        : live
-        ? "live"
-        : "not_started",
-
-    lastUpdated:
-      new Date().toISOString()
-  };
-}
-
-/*
- * MEVCUT matches.json DOSYASINI OKU
- *
- * Desteklenen yapı:
- *
- * {
- *   source: "...",
- *   week: 12345,
- *   updatedAt: "...",
- *   matches: [...]
- * }
- *
- * Ayrıca doğrudan [...] formatını da destekler.
- */
-async function loadMatches() {
-  try {
-    const raw = await fs.readFile(
-      dataPath,
+try {
+  const previousText =
+    await fs.readFile(
+      DATA_PATH,
       "utf8"
     );
 
-    const data = JSON.parse(raw);
+  const parsed =
+    JSON.parse(previousText);
 
-    if (Array.isArray(data)) {
-      return {
-        meta: {},
-        matches: data
-      };
-    }
+  /*
+   * Mevcut sistemimiz:
+   *
+   * {
+   *   source: "...",
+   *   week: 123,
+   *   updatedAt: "...",
+   *   matches: [...]
+   * }
+   */
 
-    if (
-      data &&
-      Array.isArray(data.matches)
-    ) {
-      return {
-        meta: data,
-        matches: data.matches
-      };
-    }
-
+  if (
+    parsed &&
+    Array.isArray(parsed.matches)
+  ) {
+    previous = parsed;
+  } else if (
+    Array.isArray(parsed)
+  ) {
+    /*
+     * Güvenlik için doğrudan array
+     * formatını da destekliyoruz.
+     */
+    previous = {
+      source: PAGE,
+      week: null,
+      updatedAt: null,
+      matches: parsed
+    };
+  } else {
     throw new Error(
-      "data/matches.json içinde matches dizisi bulunamadı."
+      "data/matches.json geçerli bir maç formatında değil."
     );
-  } catch (error) {
-    if (error.code === "ENOENT") {
-      return {
-        meta: {},
-        matches: []
-      };
-    }
-
+  }
+} catch (error) {
+  if (error.code === "ENOENT") {
+    console.log(
+      "data/matches.json bulunamadı. Yeni dosya oluşturulacak."
+    );
+  } else {
     throw error;
   }
 }
 
-function sameMatch(a, b) {
-  if (
-    a.id &&
-    b.id &&
-    a.id === b.id
-  ) {
-    return true;
-  }
+console.log(
+  "Mevcut maç sayısı:",
+  previous.matches.length
+);
 
-  if (
-    a.date &&
-    b.date &&
-    a.time &&
-    b.time &&
-    a.normalizedHomeTeam &&
-    b.normalizedHomeTeam &&
-    a.normalizedAwayTeam &&
-    b.normalizedAwayTeam
-  ) {
-    return (
-      a.date === b.date &&
-      a.time === b.time &&
-      a.normalizedHomeTeam ===
-        b.normalizedHomeTeam &&
-      a.normalizedAwayTeam ===
-        b.normalizedAwayTeam
-    );
-  }
+const week =
+  await getCurrentWeek();
 
-  return false;
+console.log(
+  "Güncel bülten haftası:",
+  week
+);
+
+const fetched =
+  await fetchMatches(week);
+
+console.log(
+  "Maçkolik'ten gelen maç sayısı:",
+  fetched.length
+);
+
+const previousByCode =
+  new Map();
+
+for (
+  const match of
+  previous.matches
+) {
+  previousByCode.set(
+    String(match.code),
+    match
+  );
 }
 
-async function saveMatches(meta, matches) {
-  matches.sort((a, b) => {
-    const aa =
-      `${a.date ?? ""}${a.time ?? ""}${a.homeTeam ?? ""}`;
+let changed = false;
+let added = 0;
+let updated = 0;
 
-    const bb =
-      `${b.date ?? ""}${b.time ?? ""}${b.homeTeam ?? ""}`;
+for (
+  const current of fetched
+) {
+  const code =
+    String(current.code);
 
-    return aa.localeCompare(bb);
-  });
+  const old =
+    previousByCode.get(code);
 
-  const output = {
-    ...meta,
+  /*
+   * YENİ MAÇ
+   */
+  if (!old) {
+    previousByCode.set(
+      code,
+      {
+        ...current,
 
-    source:
-      meta.source ??
-      "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
+        openingRecordedAt:
+          new Date().toISOString()
+      }
+    );
 
-    updatedAt:
-      new Date().toISOString(),
+    changed = true;
+    added++;
 
-    matches
+    continue;
+  }
+
+  /*
+   * MEVCUT MAÇ
+   *
+   * Açılış oranları korunur.
+   */
+  const merged = {
+    ...old,
+
+    week:
+      current.week,
+
+    date:
+      current.date,
+
+    time:
+      current.time,
+
+    league:
+      current.league,
+
+    home:
+      current.home,
+
+    away:
+      current.away,
+
+    mbs:
+      current.mbs,
+
+    status:
+      current.status,
+
+    score:
+      current.score,
+
+    halfTimeScore:
+      current.halfTimeScore,
+
+    openingOdds:
+      old.openingOdds ??
+      current.openingOdds,
+
+    openingRecordedAt:
+      old.openingRecordedAt ??
+      "previous-record"
   };
 
-  await fs.mkdir(
-    path.dirname(dataPath),
-    { recursive: true }
+  if (
+    !sameJson(
+      old.score,
+      current.score
+    ) ||
+    !sameJson(
+      old.halfTimeScore,
+      current.halfTimeScore
+    ) ||
+    Number(old.status) !==
+      Number(current.status)
+  ) {
+    changed = true;
+  }
+
+  previousByCode.set(
+    code,
+    merged
   );
 
+  updated++;
+}
+
+/*
+ * Eski maçlar korunuyor.
+ * Yeni maçlar ekleniyor.
+ */
+const matches =
+  Array.from(
+    previousByCode.values()
+  );
+
+if (
+  matches.length !==
+  previous.matches.length
+) {
+  changed = true;
+}
+
+const next = {
+  source: PAGE,
+
+  week: week,
+
+  updatedAt:
+    changed
+      ? new Date().toISOString()
+      : previous.updatedAt,
+
+  matches: matches
+};
+
+if (
+  changed ||
+  !previous.matches ||
+  previous.matches.length === 0
+) {
+  await fs.mkdir(
+    path.dirname(DATA_PATH),
+    {
+      recursive: true
+    }
+  );
+
+  const output =
+    JSON.stringify(
+      next,
+      null,
+      2
+    ) + "\n";
+
   await fs.writeFile(
-    dataPath,
-    JSON.stringify(output, null, 2),
+    DATA_PATH,
+    output,
     "utf8"
   );
 
   console.log(
-    `data/matches.json yazıldı: ${matches.length} maç`
+    "data/matches.json güncellendi."
+  );
+} else {
+  console.log(
+    "Veride değişiklik yok. Dosya yeniden yazılmadı."
   );
 }
 
-async function main() {
-  console.log("================================");
-  console.log("Maçkolik veri güncellemesi");
-  console.log("================================");
-
-  const loaded =
-    await loadMatches();
-
-  const existing =
-    loaded.matches;
-
-  console.log(
-    `Mevcut maç sayısı: ${existing.length}`
-  );
-
-  const rows =
-    await fetchRows();
-
-  console.log(
-    `Maçkolik'ten gelen maç sayısı: ${rows.length}`
-  );
-
-  const incomingMatches =
-    rows.map(toMatch);
-
-  let added = 0;
-  let updated = 0;
-
-  for (const incoming of incomingMatches) {
-    const index =
-      existing.findIndex(
-        current =>
-          sameMatch(
-            current,
-            incoming
-          )
-      );
-
-    if (index === -1) {
-      existing.push(incoming);
-      added++;
-      continue;
-    }
-
-    const current =
-      existing[index];
-
-    /*
-     * AÇILIŞ ORANLARINI KORUYORUZ.
-     *
-     * Sadece canlı durum,
-     * skor, sonuç ve güncelleme zamanı
-     * yenileniyor.
-     */
-
-    current.halfTimeScore =
-      incoming.halfTimeScore;
-
-    current.fullTimeScore =
-      incoming.fullTimeScore;
-
-    current.results =
-      incoming.results;
-
-    current.status =
-      incoming.status;
-
-    current.lastUpdated =
-      incoming.lastUpdated;
-
-    if (!current.league) {
-      current.league =
-        incoming.league;
-    }
-
-    if (!current.time) {
-      current.time =
-        incoming.time;
-    }
-
-    if (!current.homeTeam) {
-      current.homeTeam =
-        incoming.homeTeam;
-    }
-
-    if (!current.awayTeam) {
-      current.awayTeam =
-        incoming.awayTeam;
-    }
-
-    updated++;
-  }
-
-  await saveMatches(
-    loaded.meta,
-    existing
-  );
-
-  console.log("");
-  console.log("Güncelleme tamamlandı.");
-  console.log(`Yeni maç: ${added}`);
-  console.log(`Güncellenen maç: ${updated}`);
-  console.log(
-    `Toplam maç: ${existing.length}`
-  );
-}
-
-main().catch(error => {
-  console.error("");
-  console.error(
-    "GÜNCELLEME HATASI:"
-  );
-  console.error(error);
-  process.exit(1);
-});
+console.log("");
+console.log("================================");
+console.log("GÜNCELLEME TAMAMLANDI");
+console.log("================================");
+console.log(
+  "Hafta:",
+  week
+);
+console.log(
+  "Gelen:",
+  fetched.length
+);
+console.log(
+  "Yeni:",
+  added
+);
+console.log(
+  "Güncellenen:",
+  updated
+);
+console.log(
+  "Toplam:",
+  matches.length
+);
