@@ -1,1138 +1,862 @@
 const THRESHOLD = 70;
 const WINDOW_DAYS = 60;
 const MIN_SAMPLES = 5;
+const REFRESH_INTERVAL = 60 * 1000;
 
-const MARKETS = [
-  { key: "ms1", label: "MS 1", odds: "ms1", result: "msResult", expected: "1" },
-  { key: "ms0", label: "MS 0", odds: "ms0", result: "msResult", expected: "0" },
-  { key: "ms2", label: "MS 2", odds: "ms2", result: "msResult", expected: "2" },
-
-  { key: "iy15Over", label: "İY 1.5 Üst", odds: "iy15Over", result: "iy15Result", expected: "ÜST" },
-  { key: "iy15Under", label: "İY 1.5 Alt", odds: "iy15Under", result: "iy15Result", expected: "ALT" },
-
-  { key: "kgYes", label: "KG Var", odds: "kgYes", result: "kgResult", expected: "VAR" },
-  { key: "kgNo", label: "KG Yok", odds: "kgNo", result: "kgResult", expected: "YOK" },
-
-  { key: "over25", label: "2.5 Üst", odds: "over25", result: "over25Result", expected: "ÜST" },
-  { key: "under25", label: "2.5 Alt", odds: "under25", result: "over25Result", expected: "ALT" }
-];
+const $ = id => document.getElementById(id);
 
 let matches = [];
-let historyIndexes = new Map();
+let historyIndexes = {};
 
-const $ = (id) => document.getElementById(id);
+const MARKETS = [
+  {
+    key: "ms1",
+    label: "MS 1",
+    odds: m => m.openingOdds?.ms1,
+    result: m => getMsResult(m) === "1"
+  },
+  {
+    key: "msX",
+    label: "MS 0",
+    odds: m => m.openingOdds?.msX,
+    result: m => getMsResult(m) === "0"
+  },
+  {
+    key: "ms2",
+    label: "MS 2",
+    odds: m => m.openingOdds?.ms2,
+    result: m => getMsResult(m) === "2"
+  },
+  {
+    key: "iy15Ust",
+    label: "İY 1.5 Üst",
+    odds: m => m.openingOdds?.iy15Ust,
+    result: m => getIy15Result(m) === "ÜST"
+  },
+  {
+    key: "iy15Alt",
+    label: "İY 1.5 Alt",
+    odds: m => m.openingOdds?.iy15Alt,
+    result: m => getIy15Result(m) === "ALT"
+  },
+  {
+    key: "kgVar",
+    label: "KG Var",
+    odds: m => m.openingOdds?.kgVar,
+    result: m => getKgResult(m) === "VAR"
+  },
+  {
+    key: "kgYok",
+    label: "KG Yok",
+    odds: m => m.openingOdds?.kgYok,
+    result: m => getKgResult(m) === "YOK"
+  },
+  {
+    key: "au25Ust",
+    label: "2.5 Üst",
+    odds: m => m.openingOdds?.au25Ust,
+    result: m => get25Result(m) === "ÜST"
+  },
+  {
+    key: "au25Alt",
+    label: "2.5 Alt",
+    odds: m => m.openingOdds?.au25Alt,
+    result: m => get25Result(m) === "ALT"
+  }
+];
 
-
-/* =========================================================
-   TARİH YARDIMCILARI
-========================================================= */
+function number(value) {
+  const n = Number(value);
+  return Number.isFinite(n) ? n : null;
+}
 
 function dateKey(value) {
   if (!value) return "";
 
   const text = String(value).trim();
 
-  /*
-    JSON'da şu formatlardan biri olabilir:
-
-    2026-09-30
-    2026-09-30T12:30:00
-    2026-09-30T12:30:00.000Z
-    2026-09-30 12:30:00
-
-    İlk 10 karakteri kullanıyoruz.
-  */
-
-  const match = text.match(/^(\d{4})[-/](\d{2})[-/](\d{2})/);
+  let match = text.match(/^(\d{4})[-/](\d{2})[-/](\d{2})/);
 
   if (match) {
     return `${match[1]}-${match[2]}-${match[3]}`;
   }
 
+  match = text.match(/^(\d{2})[./-](\d{2})[./-](\d{4})/);
+
+  if (match) {
+    return `${match[3]}-${match[2]}-${match[1]}`;
+  }
+
   return text.slice(0, 10);
 }
 
+function parseScore(score) {
+  if (!score) return null;
 
-function dateObject(value) {
-  const key = dateKey(value);
+  if (typeof score === "object") {
+    const home = score.home;
+    const away = score.away;
 
-  if (!key) {
-    return new Date(NaN);
+    if (
+      home !== null &&
+      home !== undefined &&
+      away !== null &&
+      away !== undefined &&
+      home !== "" &&
+      away !== ""
+    ) {
+      return `${home}-${away}`;
+    }
+
+    return null;
   }
 
-  const parts = key.split("-").map(Number);
+  const text = String(score).trim();
 
-  if (parts.length !== 3) {
-    return new Date(NaN);
+  if (!text || text === "-" || text === "null") {
+    return null;
   }
 
-  return new Date(
-    parts[0],
-    parts[1] - 1,
-    parts[2]
+  return text;
+}
+
+function getFullTimeScore(match) {
+  return parseScore(match.score ?? match.fullTimeScore);
+}
+
+function getHalfTimeScore(match) {
+  return parseScore(
+    match.halfTimeScore ??
+    match.htScore
   );
 }
 
+function isFinished(match) {
+  const status = Number(match.status);
 
-function localDateKey(value) {
-  return [
-    value.getFullYear(),
-    String(value.getMonth() + 1).padStart(2, "0"),
-    String(value.getDate()).padStart(2, "0")
-  ].join("-");
+  if (status > 0) return true;
+
+  const score = getFullTimeScore(match);
+
+  return !!score && /^\d+\s*-\s*\d+$/.test(score);
 }
 
+function getMsResult(match) {
+  if (!isFinished(match)) return null;
 
-function todayKey() {
-  return localDateKey(new Date());
+  const score = getFullTimeScore(match);
+
+  if (!score) return null;
+
+  const parts = score.split("-").map(Number);
+
+  if (parts.length !== 2) return null;
+
+  const [home, away] = parts;
+
+  if (home > away) return "1";
+  if (home === away) return "0";
+
+  return "2";
 }
 
+function getIy15Result(match) {
+  const score = getHalfTimeScore(match);
 
-const pct = (value) =>
-  value == null
-    ? "—"
-    : `%${Math.round(value)}`;
+  if (!score) return null;
 
+  const parts = score.split("-").map(Number);
 
-const formatOdds = (value) =>
-  value == null || value === ""
-    ? "—"
-    : Number(value).toFixed(2);
+  if (parts.length !== 2) return null;
 
+  const total = parts[0] + parts[1];
 
-const lastItem = (items) =>
-  items[items.length - 1];
-
-
-/* =========================================================
-   BINARY SEARCH
-========================================================= */
-
-function lowerBound(items, value) {
-  let left = 0;
-  let right = items.length;
-
-  while (left < right) {
-    const middle =
-      Math.floor((left + right) / 2);
-
-    if (items[middle].date < value) {
-      left = middle + 1;
-    } else {
-      right = middle;
-    }
-  }
-
-  return left;
+  return total >= 2 ? "ÜST" : "ALT";
 }
 
+function getKgResult(match) {
+  const score = getFullTimeScore(match);
 
-/* =========================================================
-   GEÇMİŞ VERİLERİ INDEXLE
-========================================================= */
+  if (!score) return null;
+
+  const parts = score.split("-").map(Number);
+
+  if (parts.length !== 2) return null;
+
+  return parts[0] > 0 && parts[1] > 0
+    ? "VAR"
+    : "YOK";
+}
+
+function get25Result(match) {
+  const score = getFullTimeScore(match);
+
+  if (!score) return null;
+
+  const parts = score.split("-").map(Number);
+
+  if (parts.length !== 2) return null;
+
+  const total = parts[0] + parts[1];
+
+  return total >= 3 ? "ÜST" : "ALT";
+}
+
+function daysBetween(a, b) {
+  const da = new Date(`${a}T00:00:00`);
+  const db = new Date(`${b}T00:00:00`);
+
+  return Math.abs(
+    (da - db) / 86400000
+  );
+}
 
 function buildHistoryIndexes() {
-  historyIndexes = new Map();
+  historyIndexes = {};
 
-  MARKETS.forEach((market) => {
+  for (const market of MARKETS) {
+    historyIndexes[market.key] = new Map();
+  }
 
-    const marketIndex = new Map();
+  const finished = matches.filter(isFinished);
 
-    matches.forEach((match) => {
+  for (const match of finished) {
+    const matchDate = dateKey(match.date);
 
-      const odds =
-        match.openingOdds?.[market.odds];
+    if (!matchDate) continue;
 
-      const result =
-        match.results?.[market.result];
+    for (const market of MARKETS) {
+      const odds = number(market.odds(match));
+      const result = market.result(match);
 
-      if (
-        match.status !== "finished" ||
-        odds == null ||
-        result == null ||
-        result === ""
-      ) {
-        return;
+      if (odds === null || result === null) {
+        continue;
       }
 
-      const key =
-        String(Number(odds));
-
-      if (!marketIndex.has(key)) {
-        marketIndex.set(key, []);
+      if (!historyIndexes[market.key].has(odds)) {
+        historyIndexes[market.key].set(odds, []);
       }
 
-      marketIndex.get(key).push({
-        date: dateKey(match.date),
-        success:
-          String(result).toUpperCase() ===
-          String(market.expected).toUpperCase()
-            ? 1
-            : 0
-      });
-    });
-
-
-    marketIndex.forEach((items) => {
-
-      items.sort((a, b) =>
-        a.date.localeCompare(b.date)
-      );
-
-      let total = 0;
-
-      items.forEach((item) => {
-        total += item.success;
-        item.total = total;
-      });
-
-    });
-
-
-    historyIndexes.set(
-      market.key,
-      marketIndex
-    );
-
-  });
+      historyIndexes[market.key]
+        .get(odds)
+        .push({
+          date: matchDate,
+          success: result
+        });
+    }
+  }
 }
 
+function analyzeMarket(match, market) {
+  const odds = number(market.odds(match));
 
-/* =========================================================
-   60 GÜNLÜK GEÇMİŞ ANALİZİ
-========================================================= */
+  if (odds === null) return null;
 
-function getHistory(match, market) {
+  const records =
+    historyIndexes[market.key]?.get(odds) || [];
 
-  const odds =
-    match.openingOdds?.[market.odds];
+  const currentDate = dateKey(match.date);
 
-  if (odds == null) {
-    return {
-      count: 0,
-      successful: 0,
-      rate: null
-    };
-  }
-
-
-  const items =
-    historyIndexes
-      .get(market.key)
-      ?.get(String(Number(odds))) || [];
-
-
-  const matchDate =
-    dateObject(match.date);
-
-  if (Number.isNaN(matchDate.getTime())) {
-    return {
-      count: 0,
-      successful: 0,
-      rate: null
-    };
-  }
-
-
-  const start =
-    new Date(matchDate);
-
-  start.setDate(
-    start.getDate() - WINDOW_DAYS
+  const previous = records.filter(
+    item =>
+      item.date &&
+      item.date !== currentDate &&
+      daysBetween(currentDate, item.date) <= WINDOW_DAYS
   );
 
+  if (previous.length < MIN_SAMPLES) {
+    return {
+      odds,
+      samples: previous.length,
+      successRate: null,
+      enough: false
+    };
+  }
 
-  const startDate =
-    localDateKey(start);
+  const successCount = previous.filter(
+    item => item.success
+  ).length;
 
-  const currentDate =
-    dateKey(match.date);
-
-
-  const from =
-    lowerBound(
-      items,
-      startDate
-    );
-
-
-  /*
-    ÖNEMLİ:
-
-    Mevcut kodda currentDate için lowerBound
-    kullanılıyordu.
-
-    Bu nedenle aynı gün içindeki maçların
-    geçmiş veri hesabına girmesi engelleniyordu.
-
-    Şimdi yalnızca mevcut maçı dışarıda bırakıyoruz.
-  */
-
-  const to =
-    lowerBound(
-      items,
-      currentDate
-    );
-
-
-  const count =
-    Math.max(0, to - from);
-
-
-  const before =
-    from > 0
-      ? items[from - 1].total
-      : 0;
-
-
-  const successful =
-    (to > 0
-      ? items[to - 1].total
-      : 0) -
-    before;
-
+  const successRate =
+    (successCount / previous.length) * 100;
 
   return {
-    count,
-    successful,
-    rate:
-      count
-        ? (successful / count) * 100
-        : null
+    odds,
+    samples: previous.length,
+    successRate,
+    enough: true,
+    success: successRate >= THRESHOLD
   };
 }
 
-
-/* =========================================================
-   MAÇ ANALİZİ
-========================================================= */
-
-function analyze(match) {
-
+function getRecommendations(match) {
   return MARKETS
-    .map((market) => ({
-      market,
-      ...getHistory(match, market)
-    }))
-    .filter(
-      (item) =>
-        item.count > 0
-    );
+    .map(market => {
+      const analysis = analyzeMarket(match, market);
+
+      if (
+        !analysis ||
+        !analysis.enough ||
+        analysis.successRate < THRESHOLD
+      ) {
+        return null;
+      }
+
+      return {
+        ...market,
+        ...analysis
+      };
+    })
+    .filter(Boolean);
 }
 
-
-/* =========================================================
-   ÖNERİLER
-========================================================= */
-
-function recommendationFor(match) {
-
-  return analyze(match)
-    .filter(
-      (item) =>
-        item.count >= MIN_SAMPLES &&
-        item.rate >= THRESHOLD
-    )
-    .sort(
-      (a, b) =>
-        b.rate - a.rate ||
-        b.count - a.count
-    );
-}
-
-
-/* =========================================================
-   MAÇ SONUCU
-========================================================= */
-
-function outcome(
-  match,
-  recommendations
-) {
-
-  if (
-    match.status !== "finished" ||
-    !recommendations.length
-  ) {
-    return "pending";
+function formatPercent(value) {
+  if (value === null || value === undefined) {
+    return "—";
   }
 
-
-  const won =
-    recommendations.every(
-      ({ market }) =>
-        String(
-          match.results?.[market.result]
-        ).toUpperCase() ===
-        String(
-          market.expected
-        ).toUpperCase()
-    );
-
-
-  return won
-    ? "won"
-    : "lost";
+  return `%${Math.round(value)}`;
 }
 
+function renderDetails(match, recommendations) {
+  const odds = match.openingOdds || {};
 
-/* =========================================================
-   İSTATİSTİKLER
-========================================================= */
+  const rows = [
+    ["MS 1", odds.ms1],
+    ["MS 0", odds.msX],
+    ["MS 2", odds.ms2],
+    ["2.5 Alt", odds.au25Alt],
+    ["2.5 Üst", odds.au25Ust],
+    ["KG Var", odds.kgVar],
+    ["KG Yok", odds.kgYok],
+    ["İY 1.5 Alt", odds.iy15Alt],
+    ["İY 1.5 Üst", odds.iy15Ust],
+    ["İY 1", odds.iy1],
+    ["İY X", odds.iyX],
+    ["İY 2", odds.iy2]
+  ];
 
-function renderStats(
-  selected,
-  dayMatches
-) {
+  const details = rows
+    .map(([label, value]) => {
+      if (value === null || value === undefined) {
+        return "";
+      }
 
-  const settled =
+      return `
+        <div class="detail-row">
+          <span>${label}</span>
+          <b>${value}</b>
+        </div>
+      `;
+    })
+    .join("");
+
+  const analysis = recommendations.length
+    ? recommendations
+        .map(item => `
+          <div class="detail-row recommendation-detail">
+            <span>${item.label} @ ${item.odds}</span>
+            <b>
+              ${formatPercent(item.successRate)}
+              (${item.samples} maç)
+            </b>
+          </div>
+        `)
+        .join("")
+    : `
+      <div class="detail-row">
+        <span>Geçmiş eşleşme</span>
+        <b>Yok</b>
+      </div>
+    `;
+
+  return `
+    <div class="details-section">
+      <strong>Oranlar</strong>
+      ${details}
+    </div>
+
+    <div class="details-section">
+      <strong>Geçmiş istatistik</strong>
+      ${analysis}
+    </div>
+  `;
+}
+
+function renderMatch(match) {
+  const template = $("matchTemplate");
+
+  if (!template) return null;
+
+  const fragment =
+    template.content.cloneNode(true);
+
+  const card =
+    fragment.querySelector(".match-card");
+
+  const league =
+    fragment.querySelector(".league");
+
+  const time =
+    fragment.querySelector(".time");
+
+  const home =
+    fragment.querySelector(".home");
+
+  const away =
+    fragment.querySelector(".away");
+
+  const htScore =
+    fragment.querySelector(".ht-score");
+
+  const ftScore =
+    fragment.querySelector(".ft-score");
+
+  const recommendation =
+    fragment.querySelector(".recommendation");
+
+  const expand =
+    fragment.querySelector(".expand");
+
+  const details =
+    fragment.querySelector(".details");
+
+  league.textContent =
+    match.league || "Lig";
+
+  time.textContent =
+    match.time || "";
+
+  home.textContent =
+    match.home ||
+    match.homeTeam ||
+    "";
+
+  away.textContent =
+    match.away ||
+    match.awayTeam ||
+    "";
+
+  htScore.textContent =
+    getHalfTimeScore(match) || "—";
+
+  ftScore.textContent =
+    getFullTimeScore(match) || "—";
+
+  const recommendations =
+    getRecommendations(match);
+
+  if (recommendations.length) {
+    recommendation.innerHTML =
+      recommendations
+        .map(item => `
+          <span class="recommendation-item">
+            ${item.label}
+            <b>${formatPercent(item.successRate)}</b>
+          </span>
+        `)
+        .join("");
+  } else {
+    recommendation.innerHTML =
+      `<span class="no-recommendation">Yeterli eşleşme yok</span>`;
+  }
+
+  details.innerHTML =
+    renderDetails(
+      match,
+      recommendations
+    );
+
+  expand.addEventListener(
+    "click",
+    () => {
+      const opened =
+        expand.getAttribute(
+          "aria-expanded"
+        ) === "true";
+
+      expand.setAttribute(
+        "aria-expanded",
+        String(!opened)
+      );
+
+      expand.textContent =
+        opened ? "+" : "−";
+
+      details.hidden = opened;
+    }
+  );
+
+  return card;
+}
+
+function renderStats(dayMatches) {
+  const completed =
+    dayMatches.filter(isFinished);
+
+  const recommendations =
     dayMatches.flatMap(
-      (match) => {
+      match => getRecommendations(match)
+    );
 
-        const recs =
-          recommendationFor(match);
+  const successful =
+    recommendations.filter(
+      item => {
+        const market =
+          MARKETS.find(
+            m => m.key === item.key
+          );
 
-        if (
-          recs.length &&
-          match.status === "finished"
-        ) {
-
-          return [{
-            won:
-              outcome(
-                match,
-                recs
-              ) === "won"
-          }];
-
-        }
-
-        return [];
+        return market?.result(
+          dayMatches.find(
+            m => m === item
+          )
+        );
       }
     );
 
+  const totalRecommendations =
+    recommendations.length;
 
-  const selectedDate =
-    dateObject(selected);
-
-
-  const windowStart =
-    new Date(selectedDate);
-
-  windowStart.setDate(
-    windowStart.getDate() -
-    WINDOW_DAYS
-  );
-
-
-  const overall =
-    matches
-      .filter((match) => {
-
-        const matchDate =
-          dateObject(match.date);
-
-        return (
-          matchDate >= windowStart &&
-          matchDate <= selectedDate
-        );
-
-      })
-      .flatMap((match) => {
-
-        const recs =
-          recommendationFor(match);
-
-        const primary =
-          recs[0];
-
-        if (
-          !primary ||
-          match.status !== "finished"
-        ) {
-          return [];
-        }
-
-        return [{
-          won:
-            String(
-              match.results?.[
-                primary.market.result
-              ]
-            ).toUpperCase() ===
-            String(
-              primary.market.expected
-            ).toUpperCase()
-        }];
-
-      });
-
-
-  const ratio = (list) =>
-    list.length
+  const daySuccess =
+    totalRecommendations
       ? (
-          list.filter(
-            (item) => item.won
+          recommendations.filter(
+            r => r.success === true
           ).length /
-          list.length
+          totalRecommendations
         ) * 100
       : null;
 
-
   if ($("daySuccess")) {
     $("daySuccess").textContent =
-      pct(ratio(settled));
+      formatPercent(daySuccess);
   }
-
 
   if ($("daySuccessMeta")) {
     $("daySuccessMeta").textContent =
-      settled.length
-        ? `${settled.length} tamamlanan öneri`
+      totalRecommendations
+        ? `${totalRecommendations} öneri`
         : "Tamamlanan öneri yok";
   }
 
+  const finishedAll =
+    matches.filter(isFinished);
+
+  let total = 0;
+  let success = 0;
+
+  for (const match of finishedAll) {
+    for (const market of MARKETS) {
+      const result =
+        market.result(match);
+
+      if (result === null) continue;
+
+      const analysis =
+        analyzeMarket(match, market);
+
+      if (
+        analysis?.enough &&
+        analysis.successRate !== null
+      ) {
+        total++;
+        if (analysis.success) {
+          success++;
+        }
+      }
+    }
+  }
+
+  const overall =
+    total
+      ? (success / total) * 100
+      : null;
 
   if ($("overallSuccess")) {
     $("overallSuccess").textContent =
-      pct(ratio(overall));
+      formatPercent(overall);
   }
-
 
   if ($("overallSuccessMeta")) {
     $("overallSuccessMeta").textContent =
-      overall.length
-        ? `Son ${WINDOW_DAYS} gündeki ${overall.length} öneri`
-        : `Son ${WINDOW_DAYS} günde tamamlanan öneri yok`;
+      total
+        ? `${total} analiz`
+        : "Veri hazırlanıyor";
   }
-
 
   if ($("matchCount")) {
     $("matchCount").textContent =
       dayMatches.length;
   }
 
-
-  const dates =
-    matches
-      .map((item) =>
-        dateKey(item.date)
-      )
-      .filter(Boolean)
-      .sort();
-
-
   if ($("dataRange")) {
+    const dates =
+      matches
+        .map(m => dateKey(m.date))
+        .filter(Boolean)
+        .sort();
+
     $("dataRange").textContent =
       dates.length
-        ? `${dates[0]} – ${lastItem(dates)}`
+        ? `${dates[0]} → ${dates[dates.length - 1]}`
         : "—";
   }
-
-
-  const updated =
-    matches
-      .map((item) =>
-        item.lastUpdated
-      )
-      .filter(Boolean)
-      .sort();
-
-
-  if ($("lastUpdated")) {
-
-    if (updated.length) {
-
-      const latest =
-        lastItem(updated);
-
-      const parsed =
-        new Date(latest);
-
-
-      $("lastUpdated").textContent =
-        `Veri güncelleme zamanı: ${
-          Number.isNaN(
-            parsed.getTime()
-          )
-            ? latest
-            : parsed.toLocaleString(
-                "tr-TR"
-              )
-        }`;
-
-    } else {
-
-      $("lastUpdated").textContent =
-        "Veri güncelleme zamanı: —";
-
-    }
-  }
 }
 
+function render() {
+  const input = $("dateInput");
 
-/* =========================================================
-   DETAYLAR
-========================================================= */
+  if (!input) return;
 
-function detailMarkup(
-  analysis
-) {
+  const selected =
+    input.value ||
+    new Date().toISOString().slice(0, 10);
 
-  const eligible =
-    analysis.filter(
-      ({ count, rate }) =>
-        count >= MIN_SAMPLES &&
-        rate >= THRESHOLD
+  const dayMatches =
+    matches.filter(
+      match =>
+        dateKey(match.date) === selected
     );
-
-
-  if (!eligible.length) {
-
-    return `
-      <p class="muted">
-        %${THRESHOLD} veya üzeri ve en az
-        ${MIN_SAMPLES} geçmiş eşleşmesi olan
-        öneri bulunamadı.
-      </p>
-    `;
-
-  }
-
-
-  eligible.sort(
-    (a, b) =>
-      (b.rate ?? -1) -
-      (a.rate ?? -1)
-  );
-
-
-  return `
-    <div class="detail-grid">
-
-      ${eligible
-        .map(
-          ({
-            market,
-            count,
-            rate
-          }) => `
-            <div class="detail-item good">
-
-              <span>
-                ${market.label}
-              </span>
-
-              <b>
-                ${pct(rate)}
-                <small>
-                  (${count} maç)
-                </small>
-              </b>
-
-            </div>
-          `
-        )
-        .join("")}
-
-    </div>
-  `;
-}
-
-
-/* =========================================================
-   MAÇLARI EKRANA BAS
-========================================================= */
-
-function renderMatches(
-  dayMatches
-) {
 
   const container =
     $("matches");
 
   if (!container) return;
 
-
   container.innerHTML = "";
 
-
   if (!dayMatches.length) {
-
     container.innerHTML = `
       <div class="empty">
-        Bu tarihte kayıtlı maç bulunamadı.
+        Bu tarihte maç bulunamadı.
       </div>
     `;
 
+    renderStats([]);
     return;
   }
 
-
-  const template =
-    $("matchTemplate");
-
-
-  if (!template) {
-
-    container.innerHTML = `
-      <div class="empty">
-        matchTemplate bulunamadı.
-      </div>
-    `;
-
-    return;
-  }
-
-
-  dayMatches.forEach(
-    (match) => {
-
-      const fragment =
-        template.content.cloneNode(
-          true
-        );
-
-
-      const card =
-        fragment.querySelector(
-          ".match-card"
-        );
-
-
-      const recs =
-        recommendationFor(match);
-
-
-      if (card) {
-
-        card.classList.add(
-          outcome(
-            match,
-            recs
-          )
-        );
-
-      }
-
-
-      const league =
-        fragment.querySelector(
-          ".league"
-        );
-
-      const time =
-        fragment.querySelector(
-          ".time"
-        );
-
-      const home =
-        fragment.querySelector(
-          ".home"
-        );
-
-      const away =
-        fragment.querySelector(
-          ".away"
-        );
-
-      const htScore =
-        fragment.querySelector(
-          ".ht-score"
-        );
-
-      const ftScore =
-        fragment.querySelector(
-          ".ft-score"
-        );
-
-      const recommendation =
-        fragment.querySelector(
-          ".recommendation"
-        );
-
-
-      if (league) {
-        league.textContent =
-          match.league ||
-          "Lig bilgisi yok";
-      }
-
-
-      if (time) {
-        time.textContent =
-          match.time || "—";
-      }
-
-
-      if (home) {
-        home.textContent =
-          match.homeTeam || "—";
-      }
-
-
-      if (away) {
-        away.textContent =
-          match.awayTeam || "—";
-      }
-
-
-      if (htScore) {
-
-        htScore.textContent =
-          [
-            "finished",
-            "live"
-          ].includes(
-            match.status
-          )
-            ? match.halfTimeScore ||
-              "—"
-            : "—";
-
-      }
-
-
-      if (ftScore) {
-
-        ftScore.textContent =
-          match.status ===
-          "finished"
-            ? match.fullTimeScore ||
-              "—"
-            : "—";
-
-      }
-
-
-      if (recommendation) {
-
-        recommendation.innerHTML =
-          recs.length
-
-            ? recs
-                .map(
-                  ({
-                    market,
-                    rate,
-                    count
-                  }) => `
-                    <span class="pill">
-
-                      ${market.label}
-
-                      <em>
-                        ${formatOdds(
-                          match
-                            .openingOdds?.[
-                              market.odds
-                            ]
-                        )}
-                      </em>
-
-                      <b>
-                        ${pct(rate)}
-                      </b>
-
-                      <small>
-                        ${count} eşleşme
-                      </small>
-
-                    </span>
-                  `
-                )
-                .join("")
-
-            : `
-              <span class="no-recommendation">
-                %${THRESHOLD} üzerinde ve en az
-                ${MIN_SAMPLES} geçmiş eşleşmesi
-                olan oran bulunamadı
-              </span>
-            `;
-
-      }
-
-
-      const button =
-        fragment.querySelector(
-          ".expand"
-        );
-
-
-      const details =
-        fragment.querySelector(
-          ".details"
-        );
-
-
-      if (details) {
-
-        details.innerHTML =
-          detailMarkup(
-            analyze(match)
-          );
-
-      }
-
-
-      if (
-        button &&
-        details
-      ) {
-
-        button.addEventListener(
-          "click",
-          () => {
-
-            const open =
-              !details.hidden;
-
-            details.hidden =
-              open;
-
-            button.setAttribute(
-              "aria-expanded",
-              String(!open)
-            );
-
-            button.textContent =
-              open
-                ? "+"
-                : "−";
-
-          }
-        );
-
-      }
-
-
-      container.appendChild(
-        fragment
-      );
-
+  const fragment =
+    document.createDocumentFragment();
+
+  for (const match of dayMatches) {
+    const card =
+      renderMatch(match);
+
+    if (card) {
+      fragment.appendChild(card);
     }
-  );
-}
+  }
 
+  container.appendChild(fragment);
 
-/* =========================================================
-   SAYFAYI RENDER ET
-========================================================= */
-
-function render() {
-
-  const input =
-    $("dateInput");
-
-  if (!input) return;
-
-
-  const selected =
-    dateKey(input.value);
-
-
-  /*
-    Tarih seçimindeki asıl kritik nokta:
-
-    JSON tarihini de input tarihini de
-    dateKey() üzerinden normalize ediyoruz.
-  */
-
-  const dayMatches =
-    matches.filter(
-      (match) =>
-        dateKey(match.date) ===
-        selected
-    );
-
-
-  renderStats(
-    selected,
-    dayMatches
-  );
-
+  renderStats(dayMatches);
 
   if ($("resultSummary")) {
-
     $("resultSummary").textContent =
-      `${selected} tarihinde ${dayMatches.length} maç listelendi.`;
-
+      `${dayMatches.length} maç listeleniyor`;
   }
-
-
-  renderMatches(
-    dayMatches
-  );
 }
 
+function updateLastUpdated(data) {
+  const element =
+    $("lastUpdated");
 
-/* =========================================================
-   MATCHES.JSON YÜKLE
-========================================================= */
+  if (!element) return;
+
+  if (data?.updatedAt) {
+    const date =
+      new Date(data.updatedAt);
+
+    if (!Number.isNaN(date.getTime())) {
+      element.textContent =
+        "Veri güncelleme zamanı: " +
+        date.toLocaleString("tr-TR");
+
+      return;
+    }
+  }
+
+  element.textContent =
+    "Veri güncelleme zamanı: —";
+}
 
 async function loadData() {
-
   const response =
     await fetch(
       "data/matches.json?ts=" +
-      Date.now(),
+        Date.now(),
       {
         cache: "no-store"
       }
     );
 
-
   if (!response.ok) {
-
     throw new Error(
-      "data/matches.json yüklenemedi"
+      "data/matches.json HTTP " +
+      response.status
     );
-
   }
-
 
   const data =
     await response.json();
 
-
-  if (!Array.isArray(data)) {
-
-    throw new Error(
-      "data/matches.json bir JSON array olmalıdır"
-    );
-
-  }
-
-
-  matches =
-    data;
-
-
   /*
-    Tarihleri normalize ederek sırala.
-  */
+   * matches.json şu anda:
+   *
+   * {
+   *   source: "...",
+   *   week: 24139,
+   *   updatedAt: "...",
+   *   matches: [...]
+   * }
+   */
+
+  if (Array.isArray(data)) {
+    matches = data;
+  } else if (
+    data &&
+    Array.isArray(data.matches)
+  ) {
+    matches = data.matches;
+  } else {
+    throw new Error(
+      "data/matches.json içinde matches dizisi bulunamadı."
+    );
+  }
 
   matches.sort(
     (a, b) => {
+      const da =
+        `${dateKey(a.date)} ${a.time || ""}`;
 
-      const dateA =
-        dateKey(a.date);
+      const db =
+        `${dateKey(b.date)} ${b.time || ""}`;
 
-      const dateB =
-        dateKey(b.date);
-
-      return (
-        `${dateA}${a.time || ""}${a.homeTeam || ""}`
-      ).localeCompare(
-        `${dateB}${b.time || ""}${b.homeTeam || ""}`
+      return da.localeCompare(
+        db,
+        "tr"
       );
-
     }
   );
 
-
   buildHistoryIndexes();
+
+  updateLastUpdated(data);
+
+  console.log(
+    "Yüklenen maç sayısı:",
+    matches.length
+  );
 }
 
+function setDefaultDate() {
+  const input = $("dateInput");
 
-/* =========================================================
-   BAŞLAT
-========================================================= */
+  if (!input) return;
+
+  const dates =
+    matches
+      .map(m => dateKey(m.date))
+      .filter(Boolean)
+      .sort();
+
+  if (!dates.length) return;
+
+  const today =
+    new Date()
+      .toISOString()
+      .slice(0, 10);
+
+  if (
+    dates.includes(today)
+  ) {
+    input.value = today;
+  } else {
+    input.value =
+      dates[dates.length - 1];
+  }
+}
 
 async function init() {
-
   try {
-
     await loadData();
 
-
-    const dates =
-      matches
-        .map((item) =>
-          dateKey(item.date)
-        )
-        .filter(Boolean)
-        .sort();
-
+    setDefaultDate();
 
     const input =
       $("dateInput");
 
-
-    if (!input) {
-
-      throw new Error(
-        "dateInput bulunamadı"
+    if (input) {
+      input.addEventListener(
+        "change",
+        render
       );
-
     }
-
-
-    if (dates.length) {
-
-      input.min =
-        dates[0];
-
-      input.max =
-        lastItem(dates);
-
-
-      const today =
-        todayKey();
-
-
-      /*
-        Bugün varsa bugün.
-        Yoksa veri içerisindeki son tarih.
-      */
-
-      input.value =
-        dates.includes(today)
-          ? today
-          : lastItem(dates);
-
-    }
-
-
-    input.addEventListener(
-      "change",
-      render
-    );
-
 
     render();
 
-
   } catch (error) {
+    console.error(error);
 
-    console.error(
-      "Uygulama başlatılamadı:",
-      error
-    );
+    const container =
+      $("matches");
 
-
-    if ($("matches")) {
-
-      $("matches").innerHTML = `
-        <div class="empty">
-
-          Veri dosyası yüklenemedi.
-
-          <br>
-
+    if (container) {
+      container.innerHTML = `
+        <div class="empty error">
+          Veri dosyası yüklenemedi.<br>
           <small>
             data/matches.json dosyasını kontrol edin.
           </small>
-
         </div>
       `;
-
     }
 
+    if ($("resultSummary")) {
+      $("resultSummary").textContent =
+        "Veri yüklenemedi";
+    }
   }
-
 }
 
+async function refreshData() {
+  try {
+    const selected =
+      $("dateInput")?.value || "";
 
-init();
+    await loadData();
+
+    if ($("dateInput")) {
+      $("dateInput").value =
+        selected;
+    }
+
+    render();
+
+    console.log(
+      "Veriler yenilendi:",
+      new Date().toLocaleTimeString(
+        "tr-TR"
+      )
+    );
+
+  } catch (error) {
+    console.error(
+      "Otomatik veri güncelleme hatası:",
+      error
+    );
+  }
+}
+
+async function startApp() {
+  await init();
+
+  setInterval(
+    refreshData,
+    REFRESH_INTERVAL
+  );
+}
+
+startApp();
