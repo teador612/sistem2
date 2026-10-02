@@ -70,7 +70,7 @@ const MARKETS = [
 ];
 
 /* =========================
-   YARDIMCI FONKSİYONLAR
+   YARDIMCI
 ========================= */
 
 function number(value) {
@@ -90,17 +90,11 @@ function number(value) {
 }
 
 
-/*
-   Tarihleri güvenli şekilde
-   YYYY-MM-DD formatına çevirir.
-*/
-
 function dateKey(value) {
   if (!value) return "";
 
   const text = String(value).trim();
 
-  // 2026-10-02
   let match = text.match(
     /^(\d{4})[-/](\d{2})[-/](\d{2})/
   );
@@ -109,7 +103,6 @@ function dateKey(value) {
     return `${match[1]}-${match[2]}-${match[3]}`;
   }
 
-  // 02.10.2026
   match = text.match(
     /^(\d{2})[./-](\d{2})[./-](\d{4})/
   );
@@ -121,11 +114,6 @@ function dateKey(value) {
   return text.slice(0, 10);
 }
 
-
-/*
-   Maç tarihlerini sıralama için
-   güvenli Date oluşturur.
-*/
 
 function dateObject(value) {
   const key = dateKey(value);
@@ -147,14 +135,13 @@ function daysBetween(a, b) {
   if (!da || !db) return Infinity;
 
   return Math.abs(
-    (da.getTime() - db.getTime()) /
-    86400000
+    (da.getTime() - db.getTime()) / 86400000
   );
 }
 
 
 /* =========================
-   SKOR
+   SKORLAR
 ========================= */
 
 function parseScore(score) {
@@ -220,8 +207,7 @@ function isFinished(match) {
     return true;
   }
 
-  const score =
-    getFullTimeScore(match);
+  const score = getFullTimeScore(match);
 
   if (!score) {
     return false;
@@ -232,21 +218,15 @@ function isFinished(match) {
 
 
 function getMsResult(match) {
-  if (!isFinished(match)) {
-    return null;
-  }
+  if (!isFinished(match)) return null;
 
-  const score =
-    getFullTimeScore(match);
+  const score = getFullTimeScore(match);
 
   if (!score) return null;
 
-  const parts =
-    score.split("-").map(Number);
+  const parts = score.split("-").map(Number);
 
-  if (parts.length !== 2) {
-    return null;
-  }
+  if (parts.length !== 2) return null;
 
   const home = parts[0];
   const away = parts[1];
@@ -259,39 +239,28 @@ function getMsResult(match) {
 
 
 function getIy15Result(match) {
-  const score =
-    getHalfTimeScore(match);
+  const score = getHalfTimeScore(match);
 
   if (!score) return null;
 
-  const parts =
-    score.split("-").map(Number);
+  const parts = score.split("-").map(Number);
 
-  if (parts.length !== 2) {
-    return null;
-  }
+  if (parts.length !== 2) return null;
 
-  const total =
-    parts[0] + parts[1];
+  const total = parts[0] + parts[1];
 
-  return total >= 2
-    ? "ÜST"
-    : "ALT";
+  return total >= 2 ? "ÜST" : "ALT";
 }
 
 
 function getKgResult(match) {
-  const score =
-    getFullTimeScore(match);
+  const score = getFullTimeScore(match);
 
   if (!score) return null;
 
-  const parts =
-    score.split("-").map(Number);
+  const parts = score.split("-").map(Number);
 
-  if (parts.length !== 2) {
-    return null;
-  }
+  if (parts.length !== 2) return null;
 
   return (
     parts[0] > 0 &&
@@ -303,24 +272,17 @@ function getKgResult(match) {
 
 
 function get25Result(match) {
-  const score =
-    getFullTimeScore(match);
+  const score = getFullTimeScore(match);
 
   if (!score) return null;
 
-  const parts =
-    score.split("-").map(Number);
+  const parts = score.split("-").map(Number);
 
-  if (parts.length !== 2) {
-    return null;
-  }
+  if (parts.length !== 2) return null;
 
-  const total =
-    parts[0] + parts[1];
+  const total = parts[0] + parts[1];
 
-  return total >= 3
-    ? "ÜST"
-    : "ALT";
+  return total >= 3 ? "ÜST" : "ALT";
 }
 
 
@@ -332,25 +294,19 @@ function buildHistoryIndexes() {
   historyIndexes = {};
 
   for (const market of MARKETS) {
-    historyIndexes[market.key] =
-      new Map();
+    historyIndexes[market.key] = new Map();
   }
 
-  const finished =
-    matches.filter(isFinished);
+  const finished = matches.filter(isFinished);
 
   for (const match of finished) {
-    const matchDate =
-      dateKey(match.date);
+    const matchDate = dateKey(match.date);
 
     if (!matchDate) continue;
 
     for (const market of MARKETS) {
-      const odds =
-        number(market.odds(match));
-
-      const result =
-        market.result(match);
+      const odds = number(market.odds(match));
+      const result = market.result(match);
 
       if (
         odds === null ||
@@ -360,21 +316,20 @@ function buildHistoryIndexes() {
       }
 
       if (
-        !historyIndexes[
-          market.key
-        ].has(odds)
+        !historyIndexes[market.key].has(odds)
       ) {
-        historyIndexes[
-          market.key
-        ].set(odds, []);
+        historyIndexes[market.key].set(
+          odds,
+          []
+        );
       }
 
-      historyIndexes[
-        market.key
-      ].get(odds).push({
-        date: matchDate,
-        success: result
-      });
+      historyIndexes[market.key]
+        .get(odds)
+        .push({
+          date: matchDate,
+          success: result
+        });
     }
   }
 }
@@ -384,49 +339,34 @@ function buildHistoryIndexes() {
    ORAN ANALİZİ
 ========================= */
 
-function analyzeMarket(
-  match,
-  market
-) {
-  const odds =
-    number(market.odds(match));
+function analyzeMarket(match, market) {
+  const odds = number(market.odds(match));
 
   if (odds === null) {
     return null;
   }
 
   const records =
-    historyIndexes[
-      market.key
-    ]?.get(odds) || [];
+    historyIndexes[market.key]?.get(odds) || [];
 
-  const currentDate =
-    dateKey(match.date);
+  const currentDate = dateKey(match.date);
 
-  const previous =
-    records.filter(item => {
-      if (!item.date) {
-        return false;
-      }
+  const previous = records.filter(item => {
+    if (!item.date) return false;
 
-      if (
-        item.date === currentDate
-      ) {
-        return false;
-      }
+    if (item.date === currentDate) {
+      return false;
+    }
 
-      return (
-        daysBetween(
-          currentDate,
-          item.date
-        ) <= WINDOW_DAYS
-      );
-    });
+    return (
+      daysBetween(
+        currentDate,
+        item.date
+      ) <= WINDOW_DAYS
+    );
+  });
 
-  if (
-    previous.length <
-    MIN_SAMPLES
-  ) {
+  if (previous.length < MIN_SAMPLES) {
     return {
       odds,
       samples: previous.length,
@@ -441,36 +381,44 @@ function analyzeMarket(
     ).length;
 
   const successRate =
-    (
-      successCount /
-      previous.length
-    ) * 100;
+    (successCount / previous.length) * 100;
 
   return {
     odds,
     samples: previous.length,
     successRate,
     enough: true,
-    success:
-      successRate >= THRESHOLD
+    success: successRate >= THRESHOLD
   };
 }
 
+
+/*
+   SADECE:
+   %70+
+   VE
+   en az 5 geçmiş maç
+*/
 
 function getRecommendations(match) {
   return MARKETS
     .map(market => {
       const analysis =
-        analyzeMarket(
-          match,
-          market
-        );
+        analyzeMarket(match, market);
+
+      if (!analysis) {
+        return null;
+      }
 
       if (
-        !analysis ||
-        !analysis.enough ||
-        analysis.successRate <
-          THRESHOLD
+        analysis.samples < MIN_SAMPLES
+      ) {
+        return null;
+      }
+
+      if (
+        analysis.successRate === null ||
+        analysis.successRate < THRESHOLD
       ) {
         return null;
       }
@@ -485,7 +433,111 @@ function getRecommendations(match) {
 
 
 /* =========================
-   İSTATİSTİK
+   ÖNERİNİN GERÇEK MAÇTA
+   SONUCU
+========================= */
+
+function getRecommendationStatus(
+  match,
+  recommendation
+) {
+  /*
+     Maç henüz bitmediyse
+     sarı.
+  */
+
+  if (!isFinished(match)) {
+    return "pending";
+  }
+
+  /*
+     İlgili marketin gerçek
+     sonucu hesaplanıyor.
+  */
+
+  const won =
+    recommendation.result(match);
+
+  /*
+     true  = yeşil
+     false = kırmızı
+  */
+
+  return won
+    ? "won"
+    : "lost";
+}
+
+
+/* =========================
+   MAÇ KARTI DURUMU
+========================= */
+
+function getMatchCardStatus(
+  match,
+  recommendations
+) {
+  /*
+     Öneri yoksa sarı.
+  */
+
+  if (!recommendations.length) {
+    return "pending";
+  }
+
+  /*
+     Maç bitmediyse sarı.
+  */
+
+  if (!isFinished(match)) {
+    return "pending";
+  }
+
+  const statuses =
+    recommendations.map(
+      recommendation =>
+        getRecommendationStatus(
+          match,
+          recommendation
+        )
+    );
+
+  /*
+     Hepsi tuttuysa yeşil
+  */
+
+  if (
+    statuses.every(
+      status => status === "won"
+    )
+  ) {
+    return "won";
+  }
+
+  /*
+     Hepsi kaybettiyse kırmızı
+  */
+
+  if (
+    statuses.every(
+      status => status === "lost"
+    )
+  ) {
+    return "lost";
+  }
+
+  /*
+     Birden fazla öneride
+     biri tuttu biri tutmadıysa
+     sarı bırakıyoruz.
+  */
+
+  return "pending";
+}
+
+
+/* =========================
+   YÜZDE
 ========================= */
 
 function formatPercent(value) {
@@ -501,94 +553,87 @@ function formatPercent(value) {
 
 
 /* =========================
-   DETAYLAR
+   ÖNERİ DETAYLARI
 ========================= */
 
-function renderDetails(
+function renderRecommendationDetails(
   match,
   recommendations
 ) {
-  const odds =
-    match.openingOdds || {};
+  if (!recommendations.length) {
+    return `
+      <div class="details-section">
+        <strong>Öneriler</strong>
 
-  const rows = [
-    ["MS 1", odds.ms1],
-    ["MS 0", odds.msX],
-    ["MS 2", odds.ms2],
+        <div class="detail-row">
+          <span>Uygun öneri</span>
+          <b>Yok</b>
+        </div>
+      </div>
+    `;
+  }
 
-    ["2.5 Alt", odds.au25Alt],
-    ["2.5 Üst", odds.au25Ust],
+  const html =
+    recommendations
+      .map(item => {
+        const status =
+          getRecommendationStatus(
+            match,
+            item
+          );
 
-    ["KG Var", odds.kgVar],
-    ["KG Yok", odds.kgYok],
+        let icon = "🟡";
+        let statusText = "Bekliyor";
 
-    ["İY 1.5 Alt", odds.iy15Alt],
-    ["İY 1.5 Üst", odds.iy15Ust],
+        if (status === "won") {
+          icon = "🟢";
+          statusText = "Tuttu";
+        }
 
-    ["İY 1", odds.iy1],
-    ["İY X", odds.iyX],
-    ["İY 2", odds.iy2]
-  ];
-
-  const rowsHtml =
-    rows
-      .map(([label, value]) => {
-        if (
-          value === null ||
-          value === undefined
-        ) {
-          return "";
+        if (status === "lost") {
+          icon = "🔴";
+          statusText = "Tutmadı";
         }
 
         return `
-          <div class="detail-row">
-            <span>${label}</span>
-            <b>${value}</b>
-          </div>
-        `;
-      })
-      .join("");
-
-  const analysis =
-    recommendations.length
-      ? recommendations
-          .map(item => `
-            <div class="detail-row recommendation-detail">
-              <span>
-                ${item.label} @ ${item.odds}
-              </span>
+          <div class="recommendation-detail-card">
+            <div class="recommendation-detail-top">
+              <strong>
+                ${icon} ${item.label}
+              </strong>
 
               <b>
                 ${formatPercent(
                   item.successRate
                 )}
-                (${item.samples} maç)
               </b>
             </div>
-          `)
-          .join("")
-      : `
-        <div class="detail-row">
-          <span>
-            Geçmiş eşleşme
-          </span>
 
-          <b>Yok</b>
-        </div>
-      `;
+            <div class="recommendation-detail-bottom">
+              <span>
+                Oran: ${item.odds}
+              </span>
+
+              <span>
+                Geçmiş: ${item.samples} maç
+              </span>
+
+              <span>
+                ${statusText}
+              </span>
+            </div>
+          </div>
+        `;
+      })
+      .join("");
 
   return `
     <div class="details-section">
-      <strong>Oranlar</strong>
-      ${rowsHtml}
-    </div>
-
-    <div class="details-section">
       <strong>
-        Geçmiş istatistik
+        Öneriler
       </strong>
 
-      ${analysis}
+      ${html}
     </div>
   `;
 }
@@ -607,9 +652,7 @@ function renderMatch(match) {
   }
 
   const fragment =
-    template.content.cloneNode(
-      true
-    );
+    template.content.cloneNode(true);
 
   const card =
     fragment.querySelector(
@@ -662,12 +705,10 @@ function renderMatch(match) {
     );
 
   league.textContent =
-    match.league ||
-    "Lig";
+    match.league || "Lig";
 
   time.textContent =
-    match.time ||
-    "";
+    match.time || "";
 
   home.textContent =
     match.home ||
@@ -687,43 +728,109 @@ function renderMatch(match) {
     getFullTimeScore(match) ||
     "—";
 
+
+  /*
+     SADECE uygun öneriler
+  */
+
   const recommendations =
     getRecommendations(match);
 
-  if (
-    recommendations.length
-  ) {
-    recommendation.innerHTML =
-      recommendations
-        .map(item => `
-          <span class="recommendation-item">
-            ${item.label}
 
-            <b>
-              ${formatPercent(
-                item.successRate
-              )}
-            </b>
-          </span>
-        `)
-        .join("");
-  } else {
-    recommendation.innerHTML = `
-      <span class="no-recommendation">
-        Yeterli eşleşme yok
-      </span>
-    `;
-  }
+  /*
+     Kart durumu
+  */
 
-  details.innerHTML =
-    renderDetails(
+  const cardStatus =
+    getMatchCardStatus(
       match,
       recommendations
     );
 
+  card.classList.remove(
+    "status-won",
+    "status-lost",
+    "status-pending"
+  );
+
+  card.classList.add(
+    `status-${cardStatus}`
+  );
+
+
+  /*
+     ÖNERİLER
+  */
+
+  if (recommendations.length) {
+
+    recommendation.innerHTML =
+      recommendations
+        .map(item => {
+          const status =
+            getRecommendationStatus(
+              match,
+              item
+            );
+
+          let icon = "🟡";
+
+          if (status === "won") {
+            icon = "🟢";
+          }
+
+          if (status === "lost") {
+            icon = "🔴";
+          }
+
+          return `
+            <span class="recommendation-item ${status}">
+              <span>
+                ${icon}
+                ${item.label}
+              </span>
+
+              <b>
+                ${formatPercent(
+                  item.successRate
+                )}
+              </b>
+
+              <small>
+                ${item.samples} geçmiş
+              </small>
+            </span>
+          `;
+        })
+        .join("");
+
+  } else {
+
+    recommendation.innerHTML = `
+      <span class="no-recommendation">
+        Bu maç için %70+ ve 5+ geçmiş
+        şartını sağlayan öneri yok
+      </span>
+    `;
+  }
+
+
+  /*
+     + BUTONU:
+     SADECE ÖNERİLERİ GÖSTER
+  */
+
+  details.innerHTML =
+    renderRecommendationDetails(
+      match,
+      recommendations
+    );
+
+
   expand.addEventListener(
     "click",
     () => {
+
       const opened =
         expand.getAttribute(
           "aria-expanded"
@@ -735,9 +842,7 @@ function renderMatch(match) {
       );
 
       expand.textContent =
-        opened
-          ? "+"
-          : "−";
+        opened ? "+" : "−";
 
       details.hidden =
         opened;
@@ -749,33 +854,63 @@ function renderMatch(match) {
 
 
 /* =========================
-   İSTATİSTİK KARTLARI
+   İSTATİSTİKLER
 ========================= */
 
-function renderStats(
-  dayMatches
-) {
+function renderStats(dayMatches) {
+
   const recommendations =
     dayMatches.flatMap(
       match =>
-        getRecommendations(
-          match
-        )
+        getRecommendations(match)
     );
 
   const totalRecommendations =
     recommendations.length;
 
+  const completedRecommendations =
+    recommendations.filter(
+      recommendation =>
+        dayMatches.some(match =>
+          getRecommendations(match)
+            .includes(recommendation)
+        )
+    );
+
+  let won = 0;
+  let lost = 0;
+
+  for (const match of dayMatches) {
+
+    const recs =
+      getRecommendations(match);
+
+    for (const rec of recs) {
+
+      const status =
+        getRecommendationStatus(
+          match,
+          rec
+        );
+
+      if (status === "won") {
+        won++;
+      }
+
+      if (status === "lost") {
+        lost++;
+      }
+    }
+  }
+
+  const completed =
+    won + lost;
+
   const daySuccess =
-    totalRecommendations
-      ? (
-          recommendations.filter(
-            item =>
-              item.success === true
-          ).length /
-          totalRecommendations
-        ) * 100
+    completed
+      ? (won / completed) * 100
       : null;
+
 
   if ($("daySuccess")) {
     $("daySuccess").textContent =
@@ -784,68 +919,60 @@ function renderStats(
       );
   }
 
+
   if ($("daySuccessMeta")) {
-    $("daySuccessMeta")
-      .textContent =
-      totalRecommendations
-        ? `${totalRecommendations} öneri`
-        : "Tamamlanan öneri yok";
+    $("daySuccessMeta").textContent =
+      completed
+        ? `${won} tuttu / ${lost} tutmadı`
+        : totalRecommendations
+          ? `${totalRecommendations} öneri bekliyor`
+          : "Öneri yok";
   }
 
 
   /*
-     Genel istatistik
+     GENEL BAŞARI
   */
 
-  const finishedAll =
-    matches.filter(isFinished);
-
-  let total = 0;
-  let success = 0;
+  let overallWon = 0;
+  let overallLost = 0;
 
   for (
-    const match
-    of finishedAll
+    const match of matches
   ) {
-    for (
-      const market
-      of MARKETS
-    ) {
-      const result =
-        market.result(match);
 
-      if (result === null) {
-        continue;
-      }
+    const recs =
+      getRecommendations(match);
 
-      const analysis =
-        analyzeMarket(
+    for (const rec of recs) {
+
+      const status =
+        getRecommendationStatus(
           match,
-          market
+          rec
         );
 
-      if (
-        analysis?.enough &&
-        analysis.successRate !== null
-      ) {
-        total++;
+      if (status === "won") {
+        overallWon++;
+      }
 
-        if (
-          analysis.success
-        ) {
-          success++;
-        }
+      if (status === "lost") {
+        overallLost++;
       }
     }
   }
 
+  const overallCompleted =
+    overallWon + overallLost;
+
   const overall =
-    total
+    overallCompleted
       ? (
-          success /
-          total
+          overallWon /
+          overallCompleted
         ) * 100
       : null;
+
 
   if ($("overallSuccess")) {
     $("overallSuccess")
@@ -855,44 +982,42 @@ function renderStats(
       );
   }
 
+
   if ($("overallSuccessMeta")) {
     $("overallSuccessMeta")
       .textContent =
-      total
-        ? `${total} analiz`
-        : "Veri hazırlanıyor";
+      overallCompleted
+        ? `${overallWon} tuttu / ${overallLost} tutmadı`
+        : "Sonuçlanmış öneri yok";
   }
 
 
   /*
-     Maç sayısı
+     MAÇ SAYISI
   */
 
   if ($("matchCount")) {
-    $("matchCount")
-      .textContent =
+    $("matchCount").textContent =
       dayMatches.length;
   }
 
 
   /*
-     Veri aralığı
+     VERİ ARALIĞI
   */
 
   if ($("dataRange")) {
+
     const dates =
       matches
         .map(
           m =>
-            dateKey(
-              m.date
-            )
+            dateKey(m.date)
         )
         .filter(Boolean)
         .sort();
 
-    $("dataRange")
-      .textContent =
+    $("dataRange").textContent =
       dates.length
         ? `${dates[0]} → ${dates[dates.length - 1]}`
         : "—";
@@ -901,10 +1026,11 @@ function renderStats(
 
 
 /* =========================
-   ANA RENDER
+   RENDER
 ========================= */
 
 function render() {
+
   const input =
     $("dateInput");
 
@@ -912,32 +1038,31 @@ function render() {
     return;
   }
 
-
-  /*
-     Tarih boşsa
-     veri içindeki en güncel
-     tarihi seç.
-  */
-
   let selected =
     input.value;
 
+
+  /*
+     Tarih seçili değilse
+     en güncel tarihi kullan
+  */
+
   if (!selected) {
+
     const dates =
       [
         ...new Set(
           matches
             .map(
               m =>
-                dateKey(
-                  m.date
-                )
+                dateKey(m.date)
             )
             .filter(Boolean)
         )
       ].sort();
 
     if (dates.length) {
+
       selected =
         dates[
           dates.length - 1
@@ -948,10 +1073,6 @@ function render() {
     }
   }
 
-
-  /*
-     Seçilen güne ait maçlar
-  */
 
   const dayMatches =
     matches.filter(
@@ -972,11 +1093,8 @@ function render() {
   container.innerHTML = "";
 
 
-  /*
-     Maç yoksa
-  */
-
   if (!dayMatches.length) {
+
     container.innerHTML = `
       <div class="empty">
         Bu tarihte maç bulunamadı.
@@ -995,34 +1113,32 @@ function render() {
   }
 
 
-  /*
-     Maçları oluştur
-  */
-
   const fragment =
     document.createDocumentFragment();
 
+
   for (
-    const match
-    of dayMatches
+    const match of dayMatches
   ) {
+
     const card =
       renderMatch(match);
 
     if (card) {
-      fragment.appendChild(
-        card
-      );
+      fragment.appendChild(card);
     }
   }
+
 
   container.appendChild(
     fragment
   );
 
+
   renderStats(
     dayMatches
   );
+
 
   if ($("resultSummary")) {
     $("resultSummary")
@@ -1033,12 +1149,11 @@ function render() {
 
 
 /* =========================
-   SON GÜNCELLEME
+   GÜNCELLEME ZAMANI
 ========================= */
 
-function updateLastUpdated(
-  data
-) {
+function updateLastUpdated(data) {
+
   const element =
     $("lastUpdated");
 
@@ -1047,6 +1162,7 @@ function updateLastUpdated(
   }
 
   if (data?.updatedAt) {
+
     const date =
       new Date(
         data.updatedAt
@@ -1057,6 +1173,7 @@ function updateLastUpdated(
         date.getTime()
       )
     ) {
+
       element.textContent =
         "Veri güncelleme zamanı: " +
         date.toLocaleString(
@@ -1077,6 +1194,7 @@ function updateLastUpdated(
 ========================= */
 
 async function loadData() {
+
   const response =
     await fetch(
       "data/matches.json?ts=" +
@@ -1086,59 +1204,45 @@ async function loadData() {
       }
     );
 
+
   if (!response.ok) {
+
     throw new Error(
       "data/matches.json HTTP " +
       response.status
     );
   }
 
+
   const data =
     await response.json();
 
 
-  /*
-     Desteklenen yapı:
-
-     {
-       source: "...",
-       week: 24139,
-       updatedAt: "...",
-       matches: [...]
-     }
-
-     veya doğrudan:
-
-     [...]
-  */
-
   if (Array.isArray(data)) {
-    matches = data;
-  }
 
-  else if (
+    matches = data;
+
+  } else if (
     data &&
     Array.isArray(
       data.matches
     )
   ) {
+
     matches =
       data.matches;
-  }
 
-  else {
+  } else {
+
     throw new Error(
       "data/matches.json içinde matches dizisi bulunamadı."
     );
   }
 
 
-  /*
-     Tarih + saat sıralaması
-  */
-
   matches.sort(
     (a, b) => {
+
       const da =
         `${dateKey(a.date)} ${a.time || ""}`;
 
@@ -1153,20 +1257,9 @@ async function loadData() {
   );
 
 
-  /*
-     Geçmiş indekslerini oluştur
-  */
-
   buildHistoryIndexes();
 
-
-  /*
-     Güncelleme zamanı
-  */
-
-  updateLastUpdated(
-    data
-  );
+  updateLastUpdated(data);
 
 
   console.log(
@@ -1177,16 +1270,18 @@ async function loadData() {
 
 
 /* =========================
-   İLK TARİHİ SEÇ
+   BAŞLANGIÇ TARİHİ
 ========================= */
 
 function setDefaultDate() {
+
   const input =
     $("dateInput");
 
   if (!input) {
     return;
   }
+
 
   const dates =
     [
@@ -1203,30 +1298,24 @@ function setDefaultDate() {
     ].sort();
 
 
-  /*
-     Veri yoksa
-  */
-
   if (!dates.length) {
+
     input.value = "";
+
     return;
   }
 
-
-  /*
-     Önce bugünü ara
-  */
 
   const today =
     new Date()
       .toISOString()
       .slice(0, 10);
 
+
   if (
-    dates.includes(
-      today
-    )
+    dates.includes(today)
   ) {
+
     input.value =
       today;
 
@@ -1234,31 +1323,21 @@ function setDefaultDate() {
   }
 
 
-  /*
-     Bugün yoksa
-     bugünden sonraki
-     ilk tarihi ara.
-  */
-
   const futureDate =
     dates.find(
       date =>
         date >= today
     );
 
+
   if (futureDate) {
+
     input.value =
       futureDate;
 
     return;
   }
 
-
-  /*
-     Gelecek tarih yoksa
-     veri içindeki en son
-     tarihi seç.
-  */
 
   input.value =
     dates[
@@ -1268,51 +1347,31 @@ function setDefaultDate() {
 
 
 /* =========================
-   BAŞLAT
+   INIT
 ========================= */
 
 async function init() {
-  try {
 
-    /*
-       ÖNCE VERİYİ YÜKLE
-    */
+  try {
 
     await loadData();
 
-
-    /*
-       SONRA TARİH SEÇ
-    */
-
     setDefaultDate();
-
-
-    /*
-       Tarih değişince
-       tekrar çiz
-    */
 
     const input =
       $("dateInput");
 
     if (input) {
+
       input.addEventListener(
         "change",
         render
       );
     }
 
-
-    /*
-       MAÇLARI GÖSTER
-    */
-
     render();
 
-  }
-
-  catch (error) {
+  } catch (error) {
 
     console.error(
       "Veri yükleme hatası:",
@@ -1323,6 +1382,7 @@ async function init() {
       $("matches");
 
     if (container) {
+
       container.innerHTML = `
         <div class="empty error">
           Veri dosyası yüklenemedi.<br>
@@ -1334,6 +1394,7 @@ async function init() {
     }
 
     if ($("resultSummary")) {
+
       $("resultSummary")
         .textContent =
         "Veri yüklenemedi";
@@ -1347,6 +1408,7 @@ async function init() {
 ========================= */
 
 async function refreshData() {
+
   try {
 
     const selected =
@@ -1356,42 +1418,39 @@ async function refreshData() {
     await loadData();
 
 
-    /*
-       Veri yenilendikten sonra
-       seçili tarihi koru.
-    */
-
-    if ($("dateInput")) {
-
-      const availableDates =
-        [
-          ...new Set(
-            matches
-              .map(
-                m =>
-                  dateKey(
-                    m.date
-                  )
-              )
-              .filter(Boolean)
-          )
-        ];
-
-      if (
-        selected &&
-        availableDates.includes(
-          selected
+    const availableDates =
+      [
+        ...new Set(
+          matches
+            .map(
+              m =>
+                dateKey(
+                  m.date
+                )
+            )
+            .filter(Boolean)
         )
-      ) {
-        $("dateInput").value =
-          selected;
-      }
-      else {
-        setDefaultDate();
-      }
+      ];
+
+
+    if (
+      selected &&
+      availableDates.includes(
+        selected
+      )
+    ) {
+
+      $("dateInput").value =
+        selected;
+
+    } else {
+
+      setDefaultDate();
     }
 
+
     render();
+
 
     console.log(
       "Veriler yenilendi:",
@@ -1401,9 +1460,7 @@ async function refreshData() {
         )
     );
 
-  }
-
-  catch (error) {
+  } catch (error) {
 
     console.error(
       "Otomatik veri güncelleme hatası:",
@@ -1414,7 +1471,7 @@ async function refreshData() {
 
 
 /* =========================
-   UYGULAMAYI BAŞLAT
+   BAŞLAT
 ========================= */
 
 async function startApp() {
