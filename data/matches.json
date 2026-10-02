@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T15:31:04.249Z",
+  "updatedAt": "2026-10-02T15:45:47.839Z",
   "matches": [
     {
       "code": "5847028",
@@ -606981,8 +606981,8 @@
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.89,
@@ -607663,7 +607663,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -607712,7 +607712,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "4",
+        "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
@@ -607811,7 +607811,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -607961,8 +607961,8 @@
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.77,
@@ -608102,10 +608102,10 @@
       "home": "Volna Pinsk",
       "away": "Lida",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -608200,10 +608200,10 @@
       "home": "Al Ahli Dubai",
       "away": "Al Nasr",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -643764,6 +643764,104 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-02T15:31:04.248Z"
+    },
+    {
+      "code": "4531582",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "20:00",
+      "league": "İSTL",
+      "home": "La Solana",
+      "away": "Cp Villarrobled",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.73,
+        "msX": 2.8,
+        "ms2": 2,
+        "cs1X": 1.37,
+        "cs12": 1.16,
+        "csX2": 1.17,
+        "au25Alt": 1.41,
+        "au25Ust": 1.96,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.72,
+        "kgYok": 1.57,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T15:45:47.839Z"
+    },
+    {
+      "code": "4529439",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "13:00",
+      "league": "İSTL",
+      "home": "Lhospitalet",
+      "away": "Mollerussa",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.44,
+        "msX": 3.21,
+        "ms2": 4.65,
+        "cs1X": 1,
+        "cs12": 1.1,
+        "csX2": 1.81,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-02T15:45:47.839Z"
     }
   ]
 }
