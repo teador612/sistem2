@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T05:45:49.854Z",
+  "updatedAt": "2026-10-03T06:01:13.405Z",
   "matches": [
     {
       "code": "5847028",
@@ -613443,7 +613443,7 @@
       "home": "Vonds Ichihara",
       "away": "Grulla Morioka",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -613492,7 +613492,7 @@
       "home": "Yokogawa Musas",
       "away": "Azul Claro Numa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -613541,14 +613541,14 @@
       "home": "Fujieda",
       "away": "Shonan",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.51,
@@ -613639,14 +613639,14 @@
       "home": "Niigata",
       "away": "Tokushima",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.25,
@@ -613688,14 +613688,14 @@
       "home": "Fc Gifu",
       "away": "Renofa Yamaguch",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.13,
@@ -613737,14 +613737,14 @@
       "home": "Matsumoto Yama",
       "away": "Gainare Tottori",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.38,
@@ -613884,14 +613884,14 @@
       "home": "Parceiro Nagan",
       "away": "Nara Club",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.42,
@@ -643725,14 +643725,14 @@
       "home": "Mynavi Sendai ",
       "away": "Inac Kobe Leone",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.24,
@@ -643872,14 +643872,14 @@
       "home": "Urawa Red (K)",
       "away": "Ntv Beleza (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "4",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "4",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.03,
@@ -644019,14 +644019,14 @@
       "home": "Sanfrecce Hiro",
       "away": "Parceiro Nagano",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.16,
