@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T05:15:46.059Z",
+  "updatedAt": "2026-10-03T05:30:57.103Z",
   "matches": [
     {
       "code": "5847028",
@@ -613641,7 +613641,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -643874,7 +643874,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -649007,6 +649007,251 @@
         "iy2": 2.36
       },
       "openingRecordedAt": "2026-10-02T21:01:10.862Z"
+    },
+    {
+      "code": "4429590",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "15:00",
+      "league": "NOR4",
+      "home": "Nardo",
+      "away": "Strindheim",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.91,
+        "msX": 3.9,
+        "ms2": 1.6,
+        "cs1X": 1.61,
+        "cs12": 1.06,
+        "csX2": 1.14,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.09,
+        "kgYok": 3.24,
+        "iy15Alt": 1.86,
+        "iy15Ust": 1.45,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.1,
+        "iyX": 2.58,
+        "iy2": 1.95
+      },
+      "openingRecordedAt": "2026-10-03T05:30:57.102Z"
+    },
+    {
+      "code": "4430320",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "15:00",
+      "league": "NOR4",
+      "home": "Ff Lillehammer",
+      "away": "Oppsal",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 8.09,
+        "ms2": 12.65,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 3.95,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.37,
+        "kgYok": 2.03,
+        "iy15Alt": 2.17,
+        "iy15Ust": 1.31,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.21,
+        "iyX": 3.59,
+        "iy2": 8.84
+      },
+      "openingRecordedAt": "2026-10-03T05:30:57.102Z"
+    },
+    {
+      "code": "4555595",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "08:30",
+      "league": "HK2",
+      "home": "Hoi King",
+      "away": "Metro Gallery",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.55,
+        "msX": 3.62,
+        "ms2": 3.33,
+        "cs1X": 1.09,
+        "cs12": 1.08,
+        "csX2": 1.67,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.27,
+        "kgYok": 2.3,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.51,
+        "au35Ust": 1.78,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-03T05:30:57.102Z"
+    },
+    {
+      "code": "4555596",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "10:30",
+      "league": "HK2",
+      "home": "South China",
+      "away": "Tung Sing",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.07,
+        "msX": 3.42,
+        "ms2": 2.23,
+        "cs1X": 1.28,
+        "cs12": 1.09,
+        "csX2": 1.33,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.19,
+        "kgYok": 2.63,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.61,
+        "au35Ust": 1.66,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-03T05:30:57.102Z"
+    },
+    {
+      "code": "4435417",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "18:00",
+      "league": "GUR",
+      "home": "Fc Iberia",
+      "away": "Dinamo Tiflis",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2,
+        "msX": 3.08,
+        "ms2": 2.52,
+        "cs1X": 1.21,
+        "cs12": 1.13,
+        "csX2": 1.37,
+        "au25Alt": 1.55,
+        "au25Ust": 1.74,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.59,
+        "kgYok": 1.68,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.66,
+        "iyX": 1.86,
+        "iy2": 3.23
+      },
+      "openingRecordedAt": "2026-10-03T05:30:57.102Z"
     }
   ]
 }
