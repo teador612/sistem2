@@ -1,3 +1,4 @@
+```javascript
 const THRESHOLD = 70;
 const WINDOW_DAYS = 60;
 const MIN_SAMPLES = 5;
@@ -7,10 +8,8 @@ const $ = id => document.getElementById(id);
 
 let matches = [];
 let historyIndexes = {};
-
 let historyReady = false;
 let historyBuilding = false;
-
 
 /* =========================================================
    PAZARLAR
@@ -73,13 +72,11 @@ const MARKETS = [
   }
 ];
 
-
 /* =========================================================
    SAYI
 ========================================================= */
 
 function number(value) {
-
   if (
     value === null ||
     value === undefined ||
@@ -97,75 +94,49 @@ function number(value) {
     : null;
 }
 
-
 /* =========================================================
    TARİH
 ========================================================= */
 
 function dateKey(value) {
+  if (!value) return "";
 
-  if (!value) {
-    return "";
-  }
+  const text = String(value).trim();
 
-  const text =
-    String(value).trim();
-
-  let match =
-    text.match(
-      /^(\d{4})[-/](\d{2})[-/](\d{2})/
-    );
+  let match = text.match(
+    /^(\d{4})[-/](\d{2})[-/](\d{2})/
+  );
 
   if (match) {
-
-    return (
-      `${match[1]}-${match[2]}-${match[3]}`
-    );
+    return `${match[1]}-${match[2]}-${match[3]}`;
   }
 
-  match =
-    text.match(
-      /^(\d{2})[./-](\d{2})[./-](\d{4})/
-    );
+  match = text.match(
+    /^(\d{2})[./-](\d{2})[./-](\d{4})/
+  );
 
   if (match) {
-
-    return (
-      `${match[3]}-${match[2]}-${match[1]}`
-    );
+    return `${match[3]}-${match[2]}-${match[1]}`;
   }
 
   return text.slice(0, 10);
 }
 
-
 function dateObject(value) {
+  const key = dateKey(value);
 
-  const key =
-    dateKey(value);
+  if (!key) return null;
 
-  if (!key) {
-    return null;
-  }
+  const date = new Date(`${key}T00:00:00`);
 
-  const date =
-    new Date(`${key}T00:00:00`);
-
-  return Number.isNaN(
-    date.getTime()
-  )
+  return Number.isNaN(date.getTime())
     ? null
     : date;
 }
 
-
 function daysBetween(a, b) {
-
-  const first =
-    dateObject(a);
-
-  const second =
-    dateObject(b);
+  const first = dateObject(a);
+  const second = dateObject(b);
 
   if (!first || !second) {
     return Infinity;
@@ -179,26 +150,16 @@ function daysBetween(a, b) {
   );
 }
 
-
 /* =========================================================
    SKOR
 ========================================================= */
 
 function parseScore(score) {
+  if (!score) return null;
 
-  if (!score) {
-    return null;
-  }
-
-  if (
-    typeof score === "object"
-  ) {
-
-    const home =
-      score.home;
-
-    const away =
-      score.away;
+  if (typeof score === "object") {
+    const home = score.home;
+    const away = score.away;
 
     if (
       home !== null &&
@@ -208,15 +169,13 @@ function parseScore(score) {
       home !== "" &&
       away !== ""
     ) {
-
       return `${home}-${away}`;
     }
 
     return null;
   }
 
-  const text =
-    String(score).trim();
+  const text = String(score).trim();
 
   if (
     !text ||
@@ -230,106 +189,67 @@ function parseScore(score) {
   return text;
 }
 
-
 function getFullTimeScore(match) {
-
   return parseScore(
     match.score ??
     match.fullTimeScore
   );
 }
 
-
 function getHalfTimeScore(match) {
-
   return parseScore(
     match.halfTimeScore ??
     match.htScore
   );
 }
 
-
 /* =========================================================
    MAÇ DURUMU
 ========================================================= */
 
 function isFinished(match) {
-
-  const status =
-    Number(match.status);
-
-  if (status > 0) {
-    return true;
-  }
-
-  const score =
-    getFullTimeScore(match);
+  const score = getFullTimeScore(match);
 
   if (!score) {
     return false;
   }
 
-  return /^\d+\s*-\s*\d+$/.test(
-    score
-  );
+  return /^\d+\s*-\s*\d+$/.test(score);
 }
-
 
 /* =========================================================
    SONUÇLAR
 ========================================================= */
 
 function getMsResult(match) {
+  if (!isFinished(match)) return null;
 
-  if (!isFinished(match)) {
-    return null;
-  }
+  const score = getFullTimeScore(match);
 
-  const score =
-    getFullTimeScore(match);
+  if (!score) return null;
 
-  if (!score) {
-    return null;
-  }
+  const parts = score
+    .split("-")
+    .map(Number);
 
-  const parts =
-    score
-      .split("-")
-      .map(Number);
+  if (parts.length !== 2) return null;
 
-  if (parts.length !== 2) {
-    return null;
-  }
-
-  if (parts[0] > parts[1]) {
-    return "1";
-  }
-
-  if (parts[0] === parts[1]) {
-    return "0";
-  }
+  if (parts[0] > parts[1]) return "1";
+  if (parts[0] === parts[1]) return "0";
 
   return "2";
 }
 
-
 function getIy15Result(match) {
+  const score = getHalfTimeScore(match);
 
-  const score =
-    getHalfTimeScore(match);
+  if (!score) return null;
 
-  if (!score) {
-    return null;
-  }
+  const parts = score
+    .split("-")
+    .map(Number);
 
-  const parts =
-    score
-      .split("-")
-      .map(Number);
-
-  if (parts.length !== 2) {
-    return null;
-  }
+  if (parts.length !== 2) return null;
 
   const total =
     parts[0] + parts[1];
@@ -339,24 +259,16 @@ function getIy15Result(match) {
     : "ALT";
 }
 
-
 function getKgResult(match) {
+  const score = getFullTimeScore(match);
 
-  const score =
-    getFullTimeScore(match);
+  if (!score) return null;
 
-  if (!score) {
-    return null;
-  }
+  const parts = score
+    .split("-")
+    .map(Number);
 
-  const parts =
-    score
-      .split("-")
-      .map(Number);
-
-  if (parts.length !== 2) {
-    return null;
-  }
+  if (parts.length !== 2) return null;
 
   return (
     parts[0] > 0 &&
@@ -366,24 +278,16 @@ function getKgResult(match) {
     : "YOK";
 }
 
-
 function get25Result(match) {
+  const score = getFullTimeScore(match);
 
-  const score =
-    getFullTimeScore(match);
+  if (!score) return null;
 
-  if (!score) {
-    return null;
-  }
+  const parts = score
+    .split("-")
+    .map(Number);
 
-  const parts =
-    score
-      .split("-")
-      .map(Number);
-
-  if (parts.length !== 2) {
-    return null;
-  }
+  if (parts.length !== 2) return null;
 
   const total =
     parts[0] + parts[1];
@@ -393,79 +297,45 @@ function get25Result(match) {
     : "ALT";
 }
 
-
 /* =========================================================
    GEÇMİŞ İNDEKSİ
 ========================================================= */
 
 function buildHistoryIndexes() {
-
   const indexes = {};
 
-  for (
-    const market of MARKETS
-  ) {
-
-    indexes[market.key] =
-      new Map();
+  for (const market of MARKETS) {
+    indexes[market.key] = new Map();
   }
 
-
-  /*
-     Tek geçiş kullanıyoruz.
-     filter(isFinished) ile
-     ikinci bir büyük dizi oluşturulmuyor.
-  */
-
-  for (
-    const match of matches
-  ) {
-
-    if (!isFinished(match)) {
-      continue;
-    }
+  for (const match of matches) {
+    if (!isFinished(match)) continue;
 
     const matchDate =
       dateKey(match.date);
 
-    if (!matchDate) {
-      continue;
-    }
+    if (!matchDate) continue;
 
+    for (const market of MARKETS) {
+      const odds = number(
+        market.odds(match)
+      );
 
-    for (
-      const market of MARKETS
-    ) {
-
-      const odds =
-        number(
-          market.odds(match)
-        );
-
-      if (odds === null) {
-        continue;
-      }
+      if (odds === null) continue;
 
       const result =
         market.result(match);
 
-      if (result === null) {
-        continue;
-      }
-
+      if (result === null) continue;
 
       if (
-        !indexes[market.key]
-          .has(odds)
+        !indexes[market.key].has(odds)
       ) {
-
-        indexes[market.key]
-          .set(
-            odds,
-            []
-          );
+        indexes[market.key].set(
+          odds,
+          []
+        );
       }
-
 
       indexes[market.key]
         .get(odds)
@@ -476,60 +346,37 @@ function buildHistoryIndexes() {
     }
   }
 
-
-  historyIndexes =
-    indexes;
+  historyIndexes = indexes;
 }
-
 
 /* =========================================================
    ORAN ANALİZİ
 ========================================================= */
 
-function analyzeMarket(
-  match,
-  market
-) {
-
-  const odds =
-    number(
-      market.odds(match)
-    );
+function analyzeMarket(match, market) {
+  const odds = number(
+    market.odds(match)
+  );
 
   if (odds === null) {
     return null;
   }
-
 
   const records =
     historyIndexes[
       market.key
     ]?.get(odds) || [];
 
-
   const currentDate =
     dateKey(match.date);
-
 
   let samples = 0;
   let successCount = 0;
 
+  for (const item of records) {
+    if (!item.date) continue;
 
-  /*
-     filter yerine tek döngü.
-  */
-
-  for (
-    const item of records
-  ) {
-
-    if (!item.date) {
-      continue;
-    }
-
-    if (
-      item.date === currentDate
-    ) {
+    if (item.date === currentDate) {
       continue;
     }
 
@@ -542,20 +389,14 @@ function analyzeMarket(
       continue;
     }
 
-
     samples++;
-
 
     if (item.success) {
       successCount++;
     }
   }
 
-
-  if (
-    samples < MIN_SAMPLES
-  ) {
-
+  if (samples < MIN_SAMPLES) {
     return {
       odds,
       samples,
@@ -563,13 +404,11 @@ function analyzeMarket(
     };
   }
 
-
   const successRate =
     (
       successCount /
       samples
     ) * 100;
-
 
   return {
     odds,
@@ -578,41 +417,26 @@ function analyzeMarket(
   };
 }
 
-
 /* =========================================================
    ÖNERİLER
 ========================================================= */
 
 function getRecommendations(match) {
-
-  /*
-     Geçmiş analiz hazır değilse
-     öneri yok kabul edilir.
-  */
-
   if (!historyReady) {
     return [];
   }
 
-
   return MARKETS
     .map(market => {
-
       const analysis =
         analyzeMarket(
           match,
           market
         );
 
-
       if (!analysis) {
         return null;
       }
-
-
-      /*
-         EN AZ 5 ÖRNEK
-      */
 
       if (
         analysis.samples <
@@ -620,11 +444,6 @@ function getRecommendations(match) {
       ) {
         return null;
       }
-
-
-      /*
-         EN AZ %70 BAŞARI
-      */
 
       if (
         analysis.successRate === null ||
@@ -634,16 +453,18 @@ function getRecommendations(match) {
         return null;
       }
 
-
       return {
         ...market,
         ...analysis
       };
-
     })
-    .filter(Boolean);
+    .filter(Boolean)
+    .sort(
+      (a, b) =>
+        b.successRate -
+        a.successRate
+    );
 }
-
 
 /* =========================================================
    ÖNERİ SONUCU
@@ -653,7 +474,6 @@ function getRecommendationStatus(
   match,
   recommendation
 ) {
-
   if (!isFinished(match)) {
     return "pending";
   }
@@ -663,7 +483,6 @@ function getRecommendationStatus(
     : "lost";
 }
 
-
 /* =========================================================
    KART DURUMU
 ========================================================= */
@@ -672,20 +491,13 @@ function getMatchCardStatus(
   match,
   recommendations
 ) {
-
-  if (
-    !recommendations.length
-  ) {
+  if (!recommendations.length) {
     return "pending";
   }
 
-
-  if (
-    !isFinished(match)
-  ) {
+  if (!isFinished(match)) {
     return "pending";
   }
-
 
   const statuses =
     recommendations.map(
@@ -696,37 +508,30 @@ function getMatchCardStatus(
         )
     );
 
-
   if (
     statuses.every(
-      status =>
-        status === "won"
+      status => status === "won"
     )
   ) {
     return "won";
   }
 
-
   if (
     statuses.every(
-      status =>
-        status === "lost"
+      status => status === "lost"
     )
   ) {
     return "lost";
   }
 
-
   return "pending";
 }
-
 
 /* =========================================================
    YÜZDE
 ========================================================= */
 
 function formatPercent(value) {
-
   if (
     value === null ||
     value === undefined
@@ -734,11 +539,8 @@ function formatPercent(value) {
     return "—";
   }
 
-  return (
-    `%${Math.round(value)}`
-  );
+  return `%${Math.round(value)}`;
 }
-
 
 /* =========================================================
    DETAY
@@ -748,119 +550,89 @@ function renderRecommendationDetails(
   match,
   recommendations
 ) {
-
-  if (
-    !recommendations.length
-  ) {
-
+  if (!recommendations.length) {
     return `
       <div class="details-section">
         <strong>Öneriler</strong>
-
         <div class="detail-row">
           <span>Uygun öneri</span>
-          <b>Yok</b>
+          <b>Henüz hazırlanıyor</b>
         </div>
       </div>
     `;
   }
 
-
   return `
     <div class="details-section">
-
       <strong>Öneriler</strong>
 
-      ${recommendations.map(
-        item => {
+      ${recommendations.map(item => {
 
-          const status =
-            getRecommendationStatus(
-              match,
-              item
-            );
+        const status =
+          getRecommendationStatus(
+            match,
+            item
+          );
 
+        let icon = "🟡";
+        let statusText = "Bekliyor";
 
-          let icon =
-            "🟡";
+        if (status === "won") {
+          icon = "🟢";
+          statusText = "Tuttu";
+        }
 
-          let statusText =
-            "Bekliyor";
+        if (status === "lost") {
+          icon = "🔴";
+          statusText = "Tutmadı";
+        }
 
+        return `
+          <div class="recommendation-detail-card">
 
-          if (
-            status === "won"
-          ) {
+            <div class="recommendation-detail-top">
 
-            icon =
-              "🟢";
+              <strong>
+                ${icon} ${item.label}
+              </strong>
 
-            statusText =
-              "Tuttu";
-          }
-
-
-          if (
-            status === "lost"
-          ) {
-
-            icon =
-              "🔴";
-
-            statusText =
-              "Tutmadı";
-          }
-
-
-          return `
-            <div class="recommendation-detail-card">
-
-              <div class="recommendation-detail-top">
-
-                <strong>
-                  ${icon} ${item.label}
-                </strong>
-
-                <b>
-                  ${formatPercent(
-                    item.successRate
-                  )}
-                </b>
-
-              </div>
-
-              <div class="recommendation-detail-bottom">
-
-                <span>
-                  Oran: ${item.odds}
-                </span>
-
-                <span>
-                  Geçmiş: ${item.samples} maç
-                </span>
-
-                <span>
-                  ${statusText}
-                </span>
-
-              </div>
+              <b>
+                ${formatPercent(
+                  item.successRate
+                )}
+              </b>
 
             </div>
-          `;
-        }
-      ).join("")}
+
+            <div class="recommendation-detail-bottom">
+
+              <span>
+                Oran: ${item.odds}
+              </span>
+
+              <span>
+                Geçmiş: ${item.samples} maç
+              </span>
+
+              <span>
+                ${statusText}
+              </span>
+
+            </div>
+
+          </div>
+        `;
+      }).join("")}
 
     </div>
   `;
 }
-
 
 /* =========================================================
    MAÇ KARTI
 ========================================================= */
 
 function renderMatch(match) {
-
   const template =
     $("matchTemplate");
 
@@ -868,18 +640,13 @@ function renderMatch(match) {
     return null;
   }
 
-
   const fragment =
-    template.content.cloneNode(
-      true
-    );
-
+    template.content.cloneNode(true);
 
   const card =
     fragment.querySelector(
       ".match-card"
     );
-
 
   const league =
     fragment.querySelector(
@@ -891,7 +658,6 @@ function renderMatch(match) {
       match.league || "Lig";
   }
 
-
   const time =
     fragment.querySelector(
       ".time"
@@ -901,7 +667,6 @@ function renderMatch(match) {
     time.textContent =
       match.time || "";
   }
-
 
   const home =
     fragment.querySelector(
@@ -915,7 +680,6 @@ function renderMatch(match) {
       "";
   }
 
-
   const away =
     fragment.querySelector(
       ".away"
@@ -928,19 +692,16 @@ function renderMatch(match) {
       "";
   }
 
-
   const ht =
     fragment.querySelector(
       ".ht-score"
     );
 
   if (ht) {
-
     ht.textContent =
       getHalfTimeScore(match) ||
       "—";
   }
-
 
   const ft =
     fragment.querySelector(
@@ -948,28 +709,13 @@ function renderMatch(match) {
     );
 
   if (ft) {
-
     ft.textContent =
       getFullTimeScore(match) ||
       "—";
   }
 
-
-  /*
-     Sadece önerisi olan maçlar
-     render() tarafından buraya gelir.
-  */
-
   const recommendations =
     getRecommendations(match);
-
-
-  if (
-    !recommendations.length
-  ) {
-    return null;
-  }
-
 
   const cardStatus =
     getMatchCardStatus(
@@ -977,26 +723,31 @@ function renderMatch(match) {
       recommendations
     );
 
-
   if (card) {
-
     card.classList.add(
       `status-${cardStatus}`
     );
   }
-
 
   const recommendation =
     fragment.querySelector(
       ".recommendation"
     );
 
-
   if (recommendation) {
 
-    recommendation.innerHTML =
-      recommendations.map(
-        item => {
+    if (!recommendations.length) {
+
+      recommendation.innerHTML = `
+        <span class="recommendation-item pending">
+          <span>⏳ Analiz hazırlanıyor</span>
+        </span>
+      `;
+
+    } else {
+
+      recommendation.innerHTML =
+        recommendations.map(item => {
 
           const status =
             getRecommendationStatus(
@@ -1004,14 +755,12 @@ function renderMatch(match) {
               item
             );
 
-
           const icon =
             status === "won"
               ? "🟢"
               : status === "lost"
                 ? "🔴"
                 : "🟡";
-
 
           return `
             <span class="recommendation-item ${status}">
@@ -1032,19 +781,17 @@ function renderMatch(match) {
 
             </span>
           `;
-        }
-      ).join("");
-  }
 
+        }).join("");
+    }
+  }
 
   const details =
     fragment.querySelector(
       ".details"
     );
 
-
   if (details) {
-
     details.innerHTML =
       renderRecommendationDetails(
         match,
@@ -1052,12 +799,10 @@ function renderMatch(match) {
       );
   }
 
-
   const expand =
     fragment.querySelector(
       ".expand"
     );
-
 
   if (
     expand &&
@@ -1073,18 +818,15 @@ function renderMatch(match) {
             "aria-expanded"
           ) === "true";
 
-
         expand.setAttribute(
           "aria-expanded",
           String(!opened)
         );
 
-
         expand.textContent =
           opened
             ? "+"
             : "−";
-
 
         details.hidden =
           opened;
@@ -1092,40 +834,26 @@ function renderMatch(match) {
     );
   }
 
-
   return card;
 }
-
 
 /* =========================================================
    İSTATİSTİK
 ========================================================= */
 
-function renderStats(
-  dayMatches
-) {
+function renderStats(dayMatches) {
 
   let dayWon = 0;
   let dayLost = 0;
   let dayRecommendations = 0;
 
-
-  /*
-     Sadece ekranda gösterilen
-     tahminli maçlar hesaplanıyor.
-  */
-
-  for (
-    const match of dayMatches
-  ) {
+  for (const match of dayMatches) {
 
     const recommendations =
       getRecommendations(match);
 
-
     dayRecommendations +=
       recommendations.length;
-
 
     for (
       const recommendation
@@ -1138,26 +866,18 @@ function renderStats(
           recommendation
         );
 
-
-      if (
-        status === "won"
-      ) {
+      if (status === "won") {
         dayWon++;
       }
 
-
-      if (
-        status === "lost"
-      ) {
+      if (status === "lost") {
         dayLost++;
       }
     }
   }
 
-
   const dayCompleted =
     dayWon + dayLost;
-
 
   const daySuccess =
     dayCompleted
@@ -1167,48 +887,31 @@ function renderStats(
         ) * 100
       : null;
 
-
   if ($("daySuccess")) {
-
     $("daySuccess").textContent =
-      formatPercent(
-        daySuccess
-      );
+      formatPercent(daySuccess);
   }
 
-
   if ($("daySuccessMeta")) {
-
     $("daySuccessMeta").textContent =
       dayCompleted
         ? `${dayWon} tuttu / ${dayLost} tutmadı`
         : dayRecommendations
           ? `${dayRecommendations} öneri bekliyor`
-          : "Öneri yok";
+          : "Öneriler hazırlanıyor";
   }
-
-
-  /*
-     Genel istatistik.
-     Sadece analiz hazır olduğunda çalışır.
-  */
 
   if (!historyReady) {
     return;
   }
 
-
   let overallWon = 0;
   let overallLost = 0;
 
-
-  for (
-    const match of matches
-  ) {
+  for (const match of matches) {
 
     const recommendations =
       getRecommendations(match);
-
 
     for (
       const recommendation
@@ -1221,26 +924,18 @@ function renderStats(
           recommendation
         );
 
-
-      if (
-        status === "won"
-      ) {
+      if (status === "won") {
         overallWon++;
       }
 
-
-      if (
-        status === "lost"
-      ) {
+      if (status === "lost") {
         overallLost++;
       }
     }
   }
 
-
   const overallCompleted =
     overallWon + overallLost;
-
 
   const overallSuccess =
     overallCompleted
@@ -1250,31 +945,24 @@ function renderStats(
         ) * 100
       : null;
 
-
   if ($("overallSuccess")) {
-
     $("overallSuccess").textContent =
       formatPercent(
         overallSuccess
       );
   }
 
-
   if ($("overallSuccessMeta")) {
-
     $("overallSuccessMeta").textContent =
       overallCompleted
         ? `${overallWon} tuttu / ${overallLost} tutmadı`
         : "Sonuçlanmış öneri yok";
   }
 
-
   if ($("matchCount")) {
-
     $("matchCount").textContent =
       dayMatches.length;
   }
-
 
   if ($("dataRange")) {
 
@@ -1286,7 +974,6 @@ function renderStats(
         .filter(Boolean)
         .sort();
 
-
     $("dataRange").textContent =
       dates.length
         ? `${dates[0]} → ${dates[dates.length - 1]}`
@@ -1294,65 +981,42 @@ function renderStats(
   }
 }
 
-
 /* =========================================================
    BUGÜN
 ========================================================= */
 
 function getToday() {
 
-  const now =
-    new Date();
-
+  const now = new Date();
 
   const year =
     now.getFullYear();
-
 
   const month =
     String(
       now.getMonth() + 1
     ).padStart(2, "0");
 
-
   const day =
     String(
       now.getDate()
     ).padStart(2, "0");
 
-
-  return (
-    `${year}-${month}-${day}`
-  );
+  return `${year}-${month}-${day}`;
 }
-
 
 /* =========================================================
-   SADECE TAHMİNLİ MAÇLAR
+   TARİHTEKİ MAÇLAR
 ========================================================= */
 
-function getPredictedMatches(
-  dayMatches
-) {
+function getDayMatches(selected) {
 
-  if (!historyReady) {
-    return [];
-  }
-
-
-  return dayMatches.filter(
-    match => {
-
-      const recommendations =
-        getRecommendations(match);
-
-      return (
-        recommendations.length > 0
-      );
-    }
+  return matches.filter(
+    match =>
+      dateKey(match.date) ===
+      selected
   );
 }
-
 
 /* =========================================================
    RENDER
@@ -1363,10 +1027,8 @@ function render() {
   const input =
     $("dateInput");
 
-
   const container =
     $("matches");
-
 
   if (
     !input ||
@@ -1375,188 +1037,80 @@ function render() {
     return;
   }
 
-
   let selected =
     input.value;
 
-
   if (!selected) {
-
-    selected =
-      getToday();
-
-    input.value =
-      selected;
+    selected = getToday();
+    input.value = selected;
   }
 
-
   const dayMatches =
-    matches.filter(
-      match =>
-        dateKey(match.date) ===
-        selected
-    );
-
+    getDayMatches(selected);
 
   container.innerHTML = "";
 
-
   /*
-     Veri var ama analiz henüz
-     hazır değil.
-  */
-
-  if (!historyReady) {
-
-    container.innerHTML = `
-      <div class="empty">
-        Tahminler hazırlanıyor...
-      </div>
-    `;
-
-
-    if ($("resultSummary")) {
-
-      $("resultSummary").textContent =
-        "Tahminler hazırlanıyor...";
-    }
-
-
-    return;
-  }
-
-
-  /*
-     Seçilen tarihte hiç maç yok.
+     VERİ GELDİĞİ ANDA
+     MAÇLARI GÖSTER.
+     
+     Artık historyReady beklenmiyor.
   */
 
   if (!dayMatches.length) {
 
     container.innerHTML = `
       <div class="empty">
-        Bu tarihte maç bulunamadı.
+        ${selected} tarihinde maç bulunamadı.
       </div>
     `;
 
-
     renderStats([]);
 
-
     if ($("resultSummary")) {
-
       $("resultSummary").textContent =
         "Bu tarihte maç bulunamadı";
     }
 
-
     if ($("matchCount")) {
-
       $("matchCount").textContent =
         "0";
     }
 
-
     return;
   }
-
-
-  /*
-     SADECE TAHMİNİ OLANLAR
-  */
-
-  const predictedMatches =
-    getPredictedMatches(
-      dayMatches
-    );
-
-
-  /*
-     Tahminli maç yok.
-  */
-
-  if (
-    !predictedMatches.length
-  ) {
-
-    container.innerHTML = `
-      <div class="empty">
-        Bu tarihte %70 ve üzeri
-        başarı oranına sahip tahmin
-        bulunan maç yok.
-      </div>
-    `;
-
-
-    renderStats([]);
-
-
-    if ($("resultSummary")) {
-
-      $("resultSummary").textContent =
-        "Tahmin bulunan maç yok";
-    }
-
-
-    if ($("matchCount")) {
-
-      $("matchCount").textContent =
-        "0";
-    }
-
-
-    return;
-  }
-
 
   const fragment =
     document.createDocumentFragment();
 
-
-  for (
-    const match of predictedMatches
-  ) {
+  for (const match of dayMatches) {
 
     const card =
       renderMatch(match);
 
-
     if (card) {
-
-      fragment.appendChild(
-        card
-      );
+      fragment.appendChild(card);
     }
   }
-
 
   container.appendChild(
     fragment
   );
 
-
-  /*
-     İstatistiklerde de sadece
-     tahminli maçlar.
-  */
-
-  renderStats(
-    predictedMatches
-  );
-
+  renderStats(dayMatches);
 
   if ($("matchCount")) {
-
     $("matchCount").textContent =
-      predictedMatches.length;
+      dayMatches.length;
   }
-
 
   if ($("resultSummary")) {
 
     $("resultSummary").textContent =
-      `${predictedMatches.length} tahminli maç`;
+      historyReady
+        ? `${dayMatches.length} maç`
+        : `${dayMatches.length} maç • analiz hazırlanıyor`;
   }
-
 
   if ($("dataRange")) {
 
@@ -1568,14 +1122,12 @@ function render() {
         .filter(Boolean)
         .sort();
 
-
     $("dataRange").textContent =
       dates.length
         ? `${dates[0]} → ${dates[dates.length - 1]}`
         : "—";
   }
 }
-
 
 /* =========================================================
    VERİ YÜKLE
@@ -1591,7 +1143,6 @@ async function loadData() {
       }
     );
 
-
   if (!response.ok) {
 
     throw new Error(
@@ -1599,15 +1150,12 @@ async function loadData() {
     );
   }
 
-
   const data =
     await response.json();
 
-
   if (Array.isArray(data)) {
 
-    matches =
-      data;
+    matches = data;
 
   } else if (
     data &&
@@ -1624,21 +1172,14 @@ async function loadData() {
     );
   }
 
-
-  /*
-     Tarih + saat sıralaması.
-  */
-
   matches.sort(
     (a, b) => {
 
       const first =
         `${dateKey(a.date)} ${a.time || ""}`;
 
-
       const second =
         `${dateKey(b.date)} ${b.time || ""}`;
-
 
       return first.localeCompare(
         second,
@@ -1647,24 +1188,10 @@ async function loadData() {
     }
   );
 
+  historyReady = false;
+  historyIndexes = {};
 
-  /*
-     Yeni veri geldiğinde
-     geçmiş analiz geçersiz.
-  */
-
-  historyReady =
-    false;
-
-
-  historyIndexes =
-    {};
-
-
-  updateLastUpdated(
-    data
-  );
-
+  updateLastUpdated(data);
 
   console.log(
     "Yüklenen maç sayısı:",
@@ -1672,23 +1199,18 @@ async function loadData() {
   );
 }
 
-
 /* =========================================================
    GÜNCELLEME ZAMANI
 ========================================================= */
 
-function updateLastUpdated(
-  data
-) {
+function updateLastUpdated(data) {
 
   const element =
     $("lastUpdated");
 
-
   if (!element) {
     return;
   }
-
 
   if (data?.updatedAt) {
 
@@ -1696,7 +1218,6 @@ function updateLastUpdated(
       new Date(
         data.updatedAt
       );
-
 
     if (
       !Number.isNaN(
@@ -1710,19 +1231,16 @@ function updateLastUpdated(
           "tr-TR"
         );
 
-
       return;
     }
   }
-
 
   element.textContent =
     "Veri güncelleme zamanı: —";
 }
 
-
 /* =========================================================
-   GEÇMİŞ ANALİZİNİ ARKA PLANDA HAZIRLA
+   GEÇMİŞ ANALİZİ
 ========================================================= */
 
 function buildHistoryInBackground() {
@@ -1731,75 +1249,52 @@ function buildHistoryInBackground() {
     return;
   }
 
-
   if (historyReady) {
     return;
   }
 
+  historyBuilding = true;
 
-  historyBuilding =
-    true;
+  const build = () => {
 
+    try {
 
-  const build =
-    () => {
+      console.time(
+        "Geçmiş indeks oluşturma"
+      );
 
-      try {
+      buildHistoryIndexes();
 
-        console.time(
-          "Geçmiş indeks oluşturma"
-        );
+      console.timeEnd(
+        "Geçmiş indeks oluşturma"
+      );
 
+      historyReady = true;
 
-        buildHistoryIndexes();
+      /*
+         Analiz hazırlandı.
+         Maç kartlarını önerilerle
+         tekrar çiz.
+      */
 
+      render();
 
-        console.timeEnd(
-          "Geçmiş indeks oluşturma"
-        );
+      console.log(
+        "Geçmiş analiz hazır."
+      );
 
+    } catch (error) {
 
-        historyReady =
-          true;
+      console.error(
+        "Geçmiş analiz hatası:",
+        error
+      );
 
+    } finally {
 
-        /*
-           Artık sadece tahminli
-           maçları ekrana getir.
-        */
-
-        render();
-
-
-        console.log(
-          "Geçmiş analiz hazır."
-        );
-
-
-      } catch (error) {
-
-        console.error(
-          "Geçmiş analiz hatası:",
-          error
-        );
-
-
-      } finally {
-
-        historyBuilding =
-          false;
-      }
-    };
-
-
-  /*
-     Tarayıcı boş kaldığında
-     çalıştır.
-
-     Böylece ilk veri yükleme
-     ana ekranı mümkün olduğunca
-     az bloklar.
-  */
+      historyBuilding = false;
+    }
+  };
 
   if (
     typeof window.requestIdleCallback ===
@@ -1822,7 +1317,6 @@ function buildHistoryInBackground() {
   }
 }
 
-
 /* =========================================================
    BAŞLANGIÇ
 ========================================================= */
@@ -1831,19 +1325,17 @@ async function init() {
 
   try {
 
-    /*
-       Önce bugünün tarihini seç.
-    */
-
     const input =
       $("dateInput");
 
-
     if (input) {
+
+      /*
+         Her açılışta bugünün tarihi.
+      */
 
       input.value =
         getToday();
-
 
       input.addEventListener(
         "change",
@@ -1851,27 +1343,24 @@ async function init() {
       );
     }
 
-
     /*
-       Önce JSON'u yükle.
-       Geçmiş indeksini burada
-       beklemiyoruz.
+       Önce JSON yükleniyor.
     */
 
     await loadData();
 
-
     /*
-       Veri geldi.
-       Şimdi arka planda analiz
-       oluşturulacak.
+       JSON geldikten hemen sonra
+       maçları göster.
     */
 
     render();
 
+    /*
+       Analiz ayrı hazırlanıyor.
+    */
 
     buildHistoryInBackground();
-
 
   } catch (error) {
 
@@ -1880,33 +1369,38 @@ async function init() {
       error
     );
 
-
     const container =
       $("matches");
-
 
     if (container) {
 
       container.innerHTML = `
         <div class="empty error">
-          Veri dosyası yüklenemedi.<br>
+
+          Veri dosyası yüklenemedi.
+
+          <br><br>
+
+          <small>
+            ${error.message || ""}
+          </small>
+
+          <br>
 
           <small>
             data/matches.json dosyasını kontrol edin.
           </small>
+
         </div>
       `;
     }
 
-
     if ($("resultSummary")) {
-
       $("resultSummary").textContent =
         "Veri yüklenemedi";
     }
   }
 }
-
 
 /* =========================================================
    OTOMATİK YENİLEME
@@ -1919,49 +1413,33 @@ async function refreshData() {
     const input =
       $("dateInput");
 
-
     /*
-       Kullanıcının seçtiği
-       tarihi sakla.
+       Kullanıcının seçtiği tarihi
+       koru.
     */
 
     const selected =
-      input?.value || "";
-
-
-    /*
-       Yeni veriyi yükle.
-    */
+      input?.value || getToday();
 
     await loadData();
 
-
-    /*
-       Tarihi koru.
-    */
-
     if (input) {
-
       input.value =
-        selected ||
-        getToday();
+        selected;
     }
 
-
     /*
-       Yeni veri geldiğinde
-       analiz henüz hazır değil.
+       Yeni skorlar gelir gelmez
+       ekrana bas.
     */
 
     render();
 
-
     /*
-       Yeni analiz arka planda.
+       Geçmiş analizini yeniden oluştur.
     */
 
     buildHistoryInBackground();
-
 
   } catch (error) {
 
@@ -1972,7 +1450,6 @@ async function refreshData() {
   }
 }
 
-
 /* =========================================================
    BAŞLAT
 ========================================================= */
@@ -1981,10 +1458,8 @@ async function startApp() {
 
   await init();
 
-
   /*
-     60 saniyede bir skor/veri
-     kontrolü.
+     60 saniyede bir yeni veri/skor kontrolü.
   */
 
   setInterval(
@@ -1993,9 +1468,9 @@ async function startApp() {
   );
 }
 
-
 /* =========================================================
    UYGULAMAYI BAŞLAT
 ========================================================= */
 
 startApp();
+```
