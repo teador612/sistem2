@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T06:01:13.405Z",
+  "updatedAt": "2026-10-03T06:15:52.468Z",
   "matches": [
     {
       "code": "5847028",
@@ -613541,9 +613541,9 @@
       "home": "Fujieda",
       "away": "Shonan",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -613590,14 +613590,14 @@
       "home": "Pocheon",
       "away": "Chuncheon Citiz",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.39,
@@ -613639,7 +613639,7 @@
       "home": "Niigata",
       "away": "Tokushima",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "1"
@@ -613688,7 +613688,7 @@
       "home": "Fc Gifu",
       "away": "Renofa Yamaguch",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -613737,7 +613737,7 @@
       "home": "Matsumoto Yama",
       "away": "Gainare Tottori",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -613786,14 +613786,14 @@
       "home": "Changwon City",
       "away": "Yangpyeong",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.76,
@@ -613835,14 +613835,14 @@
       "home": "Yeoju Sejong",
       "away": "Jeonbuk Motors ",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.57,
@@ -613884,7 +613884,7 @@
       "home": "Parceiro Nagan",
       "away": "Nara Club",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -613933,10 +613933,10 @@
       "home": "Çin U23",
       "away": "Özbekistan U23",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -613982,10 +613982,10 @@
       "home": "Ehime Fc",
       "away": "Kusatsu Gunma",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -643725,7 +643725,7 @@
       "home": "Mynavi Sendai ",
       "away": "Inac Kobe Leone",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -643872,7 +643872,7 @@
       "home": "Urawa Red (K)",
       "away": "Ntv Beleza (K)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "4",
         "away": "2"
@@ -644019,9 +644019,9 @@
       "home": "Sanfrecce Hiro",
       "away": "Parceiro Nagano",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -649252,6 +649252,104 @@
         "iy2": 3.23
       },
       "openingRecordedAt": "2026-10-03T05:30:57.102Z"
+    },
+    {
+      "code": "4499683",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "14:30",
+      "league": "T2L-K",
+      "home": "1461 Trabzon F",
+      "away": "Serik Bld.",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.49,
+        "msX": 2.97,
+        "ms2": 2.28,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-03T06:15:52.467Z"
+    },
+    {
+      "code": "4499962",
+      "week": 24139,
+      "date": "03.10.2026",
+      "time": "15:00",
+      "league": "T2L-B",
+      "home": "Erbaaspor",
+      "away": "Aliağa Futbol",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.97,
+        "msX": 3.22,
+        "ms2": 1.89,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-03T06:15:52.467Z"
     }
   ]
 }
