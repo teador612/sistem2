@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T18:15:49.126Z",
+  "updatedAt": "2026-10-03T18:31:05.137Z",
   "matches": [
     {
       "code": "5847028",
@@ -626085,7 +626085,7 @@
       "home": "Inter Toronto",
       "away": "Cavalry",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "1"
@@ -626722,7 +626722,7 @@
       "home": "Cadiz",
       "away": "Leganes",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "0"
@@ -626771,7 +626771,7 @@
       "home": "Hamilton",
       "away": "Peterhead",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -626969,7 +626969,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -627068,7 +627068,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -627163,14 +627163,14 @@
       "home": "",
       "away": "Genk (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.86,
@@ -627212,14 +627212,14 @@
       "home": "Gent (K)",
       "away": "",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.91,
@@ -627263,7 +627263,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -627312,7 +627312,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -627457,10 +627457,10 @@
       "home": "Kanada",
       "away": "Peru",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -627606,7 +627606,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -628048,7 +628048,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -628096,7 +628096,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -628194,7 +628194,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -628339,10 +628339,10 @@
       "home": "Catania",
       "away": "Crotone",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -628437,10 +628437,10 @@
       "home": "Ospitaletto",
       "away": "Renate",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -628486,10 +628486,10 @@
       "home": "Pro Vercelli",
       "away": "Athletic Carpi",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -628535,10 +628535,10 @@
       "home": "Folgore Carate",
       "away": "Calvina",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -640736,10 +640736,10 @@
       "home": "Portekiz (U19)",
       "away": "Danimarka  U19",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -641275,7 +641275,7 @@
       "home": "Fc Nantes (K)",
       "away": "Montpellier (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -642451,10 +642451,10 @@
       "home": "Strasbourg (K)",
       "away": "Olympique Marse",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
-        "away": "4"
+        "home": "3",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -646959,7 +646959,7 @@
       "home": "Yagüe",
       "away": "Cenicero",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -647057,10 +647057,10 @@
       "home": "Unida",
       "away": "Beraza",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -647256,7 +647256,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -653920,7 +653920,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
