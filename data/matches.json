@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T10:01:14.584Z",
+  "updatedAt": "2026-10-03T10:15:54.128Z",
   "matches": [
     {
       "code": "5847028",
@@ -313073,14 +313073,14 @@
       "home": "Ujpest Ii",
       "away": "Bss Monor",
       "mbs": 3,
-      "status": 0,
+      "status": 3,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.07,
@@ -614374,7 +614374,7 @@
       "home": "Veertien Kuwan",
       "away": "Verspah Oita",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -614423,7 +614423,7 @@
       "home": "Real Betis U19",
       "away": "Sevilla U19",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -614472,7 +614472,7 @@
       "home": "Honda Fc",
       "away": "Honda Lock",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -614521,14 +614521,14 @@
       "home": "Viljandi Tulev",
       "away": "Tallinna Kalev ",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.51,
@@ -614619,10 +614619,10 @@
       "home": "Veres Rivne",
       "away": "Kudrivka",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -641618,7 +641618,7 @@
       "home": "Fransa (U20)",
       "away": "İtalya (U20)",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -643039,10 +643039,10 @@
       "home": "Kashiwa",
       "away": "Gamba Osaka",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -644068,9 +644068,9 @@
       "home": "Paksi Fc Ii",
       "away": "Szekszard",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "4",
+        "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
@@ -644117,7 +644117,7 @@
       "home": "Egri",
       "away": "Disgyor Ii",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -644168,7 +644168,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -647694,7 +647694,7 @@
       "home": "Vasas Ii",
       "away": "Bkv Elore",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
