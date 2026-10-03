@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Spor Toto Ortak Karar</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="wrap">
+    <header><div><div class="eyebrow">SPOR TOTO · ORTAK KARAR ANALİZİ</div><h1>Haftalık kupon</h1><p>Liste ve açılış oranı analizi</p></div><button id="reload">↻ Yenile</button></header>
+    <section class="panel"><label for="date">Tarih seç</label><select id="date"></select></section>
+    <section class="stats"><div class="panel stat"><small>MAÇ</small><b id="count">—</b></div><div class="panel stat"><small>ORTAK KARAR</small><b id="decisions">—</b></div><div class="panel stat"><small>BEKLEYEN</small><b id="pending">—</b></div><div class="panel stat"><small>ORT. GÜVEN</small><b id="confidence">—</b></div></section>
+    <section><h2>Maç listesi</h2><p class="muted">Aynı 1/X/2 açılış oranına sahip geçmiş maçların en sık biten sonucu.</p><div id="list"></div></section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
