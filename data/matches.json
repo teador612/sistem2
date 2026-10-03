@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T17:15:50.612Z",
+  "updatedAt": "2026-10-03T17:31:17.709Z",
   "matches": [
     {
       "code": "5847028",
@@ -625595,7 +625595,7 @@
       "home": "Ssc Giugliano",
       "away": "Barletta",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -625644,7 +625644,7 @@
       "home": "Grosseto",
       "away": "Sambenedetese",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "3"
@@ -625742,10 +625742,10 @@
       "home": "Union Arzignan",
       "away": "Pergolettese ",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -625791,7 +625791,7 @@
       "home": "Ss Monopoli 19",
       "away": "Savoia",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -625891,7 +625891,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -625990,7 +625990,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "5"
+        "away": "6"
       },
       "halfTimeScore": {
         "home": "0",
@@ -626038,7 +626038,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -626085,7 +626085,7 @@
       "home": "Inter Toronto",
       "away": "Cavalry",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -626134,10 +626134,10 @@
       "home": "Brezice",
       "away": "Nd Primorje",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -626185,7 +626185,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -626283,7 +626283,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "3"
       },
       "halfTimeScore": {
@@ -626430,7 +626430,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -626479,7 +626479,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -626578,7 +626578,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -626627,7 +626627,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -626676,7 +626676,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -626722,14 +626722,14 @@
       "home": "Cadiz",
       "away": "Leganes",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.57,
@@ -626771,14 +626771,14 @@
       "home": "Hamilton",
       "away": "Peterhead",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.18,
@@ -626871,7 +626871,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -626920,7 +626920,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -640736,14 +640736,14 @@
       "home": "Portekiz (U19)",
       "away": "Danimarka  U19",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.42,
@@ -641275,14 +641275,14 @@
       "home": "Fc Nantes (K)",
       "away": "Montpellier (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.83,
@@ -642255,10 +642255,10 @@
       "home": "Montecarlo U19",
       "away": "Osasuna U19",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -642451,14 +642451,14 @@
       "home": "Strasbourg (K)",
       "away": "Olympique Marse",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.44,
@@ -644805,7 +644805,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "3",
+        "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
@@ -646716,7 +646716,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -646766,7 +646766,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -650294,7 +650294,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -653919,7 +653919,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -654360,7 +654360,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -654459,7 +654459,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "4"
+        "away": "8"
       },
       "halfTimeScore": {
         "home": "1",
@@ -654789,6 +654789,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-03T16:01:15.459Z"
+    },
+    {
+      "code": "4566862",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "04:00",
+      "league": "YZLBÖL",
+      "home": "Cashmere Techn",
+      "away": "Wellington Phoe",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 7.95,
+        "ms2": 11.85,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 3.84,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.44,
+        "kgYok": 1.9,
+        "iy15Alt": 2,
+        "iy15Ust": 1.39,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.23,
+        "iyX": 3.38,
+        "iy2": 8.71
+      },
+      "openingRecordedAt": "2026-10-03T17:31:17.708Z"
     }
   ]
 }
