@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T05:01:09.112Z",
+  "updatedAt": "2026-10-03T05:15:46.059Z",
   "matches": [
     {
       "code": "5847028",
@@ -613002,14 +613002,14 @@
       "home": "Miramar",
       "away": "Auckland Ii",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.32,
@@ -613345,7 +613345,7 @@
       "home": "Monterrey (K)",
       "away": "América (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "3"
@@ -613443,7 +613443,7 @@
       "home": "Vonds Ichihara",
       "away": "Grulla Morioka",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -613492,7 +613492,7 @@
       "home": "Yokogawa Musas",
       "away": "Azul Claro Numa",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -613541,10 +613541,10 @@
       "home": "Fujieda",
       "away": "Shonan",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -613590,10 +613590,10 @@
       "home": "Pocheon",
       "away": "Chuncheon Citiz",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -613639,10 +613639,10 @@
       "home": "Niigata",
       "away": "Tokushima",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -613688,10 +613688,10 @@
       "home": "Fc Gifu",
       "away": "Renofa Yamaguch",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -613737,10 +613737,10 @@
       "home": "Matsumoto Yama",
       "away": "Gainare Tottori",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -613786,10 +613786,10 @@
       "home": "Changwon City",
       "away": "Yangpyeong",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -613835,10 +613835,10 @@
       "home": "Yeoju Sejong",
       "away": "Jeonbuk Motors ",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -613884,10 +613884,10 @@
       "home": "Parceiro Nagan",
       "away": "Nara Club",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -643725,10 +643725,10 @@
       "home": "Mynavi Sendai ",
       "away": "Inac Kobe Leone",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -643872,10 +643872,10 @@
       "home": "Urawa Red (K)",
       "away": "Ntv Beleza (K)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -644019,10 +644019,10 @@
       "home": "Sanfrecce Hiro",
       "away": "Parceiro Nagano",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
