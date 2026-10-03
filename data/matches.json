@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-02T23:45:45.723Z",
+  "updatedAt": "2026-10-03T00:01:14.561Z",
   "matches": [
     {
       "code": "5847028",
@@ -612074,7 +612074,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -612120,7 +612120,7 @@
       "home": "Surinam",
       "away": "Guatemala",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -612169,10 +612169,10 @@
       "home": "Atletico Fc",
       "away": "Real Cundinamar",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -612221,7 +612221,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "1",
@@ -612269,7 +612269,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -612316,14 +612316,14 @@
       "home": "Santos Laguna ",
       "away": "Puebla (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.22,
@@ -612365,14 +612365,14 @@
       "home": "Univ De Concep",
       "away": "Huachipato",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.84,
@@ -612414,14 +612414,14 @@
       "home": "Sao Paulo",
       "away": "Santos",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.82,
@@ -612512,10 +612512,10 @@
       "home": "Juventude",
       "away": "Operario",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -612561,10 +612561,10 @@
       "home": "Martinik",
       "away": "Honduras",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -612610,10 +612610,10 @@
       "home": "Barbados",
       "away": "Bermuda",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -612708,10 +612708,10 @@
       "home": "Bonaire",
       "away": "Grenada",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
