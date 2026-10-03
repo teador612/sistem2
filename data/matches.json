@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T01:45:45.610Z",
+  "updatedAt": "2026-10-03T02:01:13.956Z",
   "matches": [
     {
       "code": "5847028",
@@ -612022,14 +612022,14 @@
       "home": "Cambaceres",
       "away": "V.Arenas",
       "mbs": 3,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.54,
@@ -612267,7 +612267,7 @@
       "home": "Sao Bernardo",
       "away": "Regatas",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "1"
@@ -612316,9 +612316,9 @@
       "home": "Santos Laguna ",
       "away": "Puebla (K)",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -612365,10 +612365,10 @@
       "home": "Univ De Concep",
       "away": "Huachipato",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -612414,7 +612414,7 @@
       "home": "Sao Paulo",
       "away": "Santos",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -612463,10 +612463,10 @@
       "home": "Londrina",
       "away": "Criciuma",
       "mbs": 3,
-      "status": 4,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "0",
@@ -612512,14 +612512,14 @@
       "home": "Juventude",
       "away": "Operario",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "3",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "2",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.79,
@@ -612561,14 +612561,14 @@
       "home": "Martinik",
       "away": "Honduras",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.71,
@@ -612610,14 +612610,14 @@
       "home": "Barbados",
       "away": "Bermuda",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "4",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": "3",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.59,
@@ -612659,14 +612659,14 @@
       "home": "Kolombiya",
       "away": "Paraguay",
       "mbs": 1,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.53,
@@ -612708,14 +612708,14 @@
       "home": "Bonaire",
       "away": "Grenada",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "2",
-        "away": "3"
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "2",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.87,
@@ -612757,14 +612757,14 @@
       "home": "Rivadavia",
       "away": "Gimnasia La Pla",
       "mbs": 2,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.86,
@@ -612806,14 +612806,14 @@
       "home": "Boca Juniors",
       "away": "Union Santa Fe",
       "mbs": 2,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.4,
@@ -612855,14 +612855,14 @@
       "home": "Fortaleza Ce ",
       "away": "Nautico",
       "mbs": 3,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.56,
@@ -612904,10 +612904,10 @@
       "home": "Deportivo Cali",
       "away": "Alianza Petrole",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -612953,10 +612953,10 @@
       "home": "Pumas Unam (K)",
       "away": "Tigres Uanl (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -613051,10 +613051,10 @@
       "home": "Correcaminos U",
       "away": "Cruz Azul Hidal",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -613100,10 +613100,10 @@
       "home": "Rancho Santana",
       "away": "Managua",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -613149,10 +613149,10 @@
       "home": "Tepatitlan De ",
       "away": "Jaiba Brava",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
