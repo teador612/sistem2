@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T07:01:08.608Z",
+  "updatedAt": "2026-10-03T07:15:49.251Z",
   "matches": [
     {
       "code": "5847028",
@@ -613541,10 +613541,10 @@
       "home": "Fujieda",
       "away": "Shonan",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -613590,7 +613590,7 @@
       "home": "Pocheon",
       "away": "Chuncheon Citiz",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -613933,9 +613933,9 @@
       "home": "Çin U23",
       "away": "Özbekistan U23",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -613982,9 +613982,9 @@
       "home": "Ehime Fc",
       "away": "Kusatsu Gunma",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -614031,10 +614031,10 @@
       "home": "Kofu",
       "away": "Kataller Toyama",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -642990,10 +642990,10 @@
       "home": "Machida Zelvia",
       "away": "Kyoto Sanga",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -643725,7 +643725,7 @@
       "home": "Mynavi Sendai ",
       "away": "Inac Kobe Leone",
       "mbs": 3,
-      "status": 4,
+      "status": 8,
       "score": {
         "home": "0",
         "away": "0"
@@ -650722,6 +650722,251 @@
         "iy2": 1.17
       },
       "openingRecordedAt": "2026-10-03T07:01:08.608Z"
+    },
+    {
+      "code": "4537200",
+      "week": 24139,
+      "date": "04.10.2026",
+      "time": "23:00",
+      "league": "CON",
+      "home": "Turks Ve Caico",
+      "away": "Ingiliz Virgin",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.79,
+        "msX": 3.36,
+        "ms2": 2.71,
+        "cs1X": 1.17,
+        "cs12": 1.09,
+        "csX2": 1.47,
+        "au25Alt": 1.87,
+        "au25Ust": 1.45,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.41,
+        "kgYok": 1.96,
+        "iy15Alt": 1.33,
+        "iy15Ust": 2.13,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.34,
+        "iyX": 2.05,
+        "iy2": 3.26
+      },
+      "openingRecordedAt": "2026-10-03T07:15:49.251Z"
+    },
+    {
+      "code": "4537150",
+      "week": 24139,
+      "date": "05.10.2026",
+      "time": "01:00",
+      "league": "CON",
+      "home": "Trinidad & Tob",
+      "away": "Curacao",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 7.03,
+        "msX": 4.8,
+        "ms2": 1.15,
+        "cs1X": 2.57,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 2.17,
+        "au25Ust": 1.31,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.61,
+        "kgYok": 1.66,
+        "iy15Alt": 1.46,
+        "iy15Ust": 1.86,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.4,
+        "au35Ust": 1.96,
+        "gol01": 4.72,
+        "gol23": 1.91,
+        "gol46": 2.66,
+        "gol7": 6.86,
+        "iy1": 6.49,
+        "iyX": 2.47,
+        "iy2": 1.51
+      },
+      "openingRecordedAt": "2026-10-03T07:15:49.251Z"
+    },
+    {
+      "code": "4537171",
+      "week": 24139,
+      "date": "05.10.2026",
+      "time": "01:00",
+      "league": "CON",
+      "home": "Porto Riko",
+      "away": "Kayman",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 9.89,
+        "ms2": 17.5,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 4.9,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 2,
+        "kgYok": 1.38,
+        "iy15Alt": 1.87,
+        "iy15Ust": 1.45,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 2,
+        "au35Ust": 1.38,
+        "gol01": 9.41,
+        "gol23": 2.49,
+        "gol46": 2.25,
+        "gol7": 3.27,
+        "iy1": 1.13,
+        "iyX": 3.64,
+        "iy2": 15.35
+      },
+      "openingRecordedAt": "2026-10-03T07:15:49.251Z"
+    },
+    {
+      "code": "4490409",
+      "week": 24139,
+      "date": "05.10.2026",
+      "time": "02:00",
+      "league": "GUAT",
+      "home": "Guastatoya",
+      "away": "Aurora",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.26,
+        "msX": 3.65,
+        "ms2": 6.51,
+        "cs1X": 1,
+        "cs12": 1.06,
+        "csX2": 2.17,
+        "au25Alt": 1.64,
+        "au25Ust": 1.64,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.85,
+        "kgYok": 1.47,
+        "iy15Alt": 1.27,
+        "iy15Ust": 2.3,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.67,
+        "iyX": 2.14,
+        "iy2": 6.44
+      },
+      "openingRecordedAt": "2026-10-03T07:15:49.251Z"
+    },
+    {
+      "code": "4490407",
+      "week": 24139,
+      "date": "05.10.2026",
+      "time": "04:00",
+      "league": "GUAT",
+      "home": "Comunicaciones",
+      "away": "Suchitepequez",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.36,
+        "msX": 3.51,
+        "ms2": 5,
+        "cs1X": 1,
+        "cs12": 1.08,
+        "csX2": 1.94,
+        "au25Alt": 1.68,
+        "au25Ust": 1.59,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.68,
+        "kgYok": 1.59,
+        "iy15Alt": 1.28,
+        "iy15Ust": 2.28,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.81,
+        "iyX": 2.08,
+        "iy2": 5.26
+      },
+      "openingRecordedAt": "2026-10-03T07:15:49.251Z"
     }
   ]
 }
