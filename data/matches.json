@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T09:01:10.787Z",
+  "updatedAt": "2026-10-03T09:15:47.006Z",
   "matches": [
     {
       "code": "5847028",
@@ -614129,10 +614129,10 @@
       "home": "Ryukyu",
       "away": "Zweigen Kanazaw",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -614178,7 +614178,7 @@
       "home": "Sagamihara",
       "away": "Osaka",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -614227,7 +614227,7 @@
       "home": "Tochigi City",
       "away": "Fc Imabari",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -614276,10 +614276,10 @@
       "home": "Oita Trinita",
       "away": "Yamagata",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -614325,7 +614325,7 @@
       "home": "Gira Kitakyush",
       "away": "Kochi United",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -614425,7 +614425,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -641618,10 +641618,10 @@
       "home": "Fransa (U20)",
       "away": "İtalya (U20)",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -644068,10 +644068,10 @@
       "home": "Paksi Fc Ii",
       "away": "Szekszard",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -644117,10 +644117,10 @@
       "home": "Egri",
       "away": "Disgyor Ii",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -647694,10 +647694,10 @@
       "home": "Vasas Ii",
       "away": "Bkv Elore",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -650188,7 +650188,7 @@
       "code": "4429592",
       "week": 24139,
       "date": "03.10.2026",
-      "time": "17:00",
+      "time": "16:00",
       "league": "NOR4",
       "home": "Aalesund B",
       "away": "Ntnui",
