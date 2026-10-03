@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T21:28:03.426Z",
+  "updatedAt": "2026-10-03T21:31:02.143Z",
   "matches": [
     {
       "code": "5847028",
@@ -629858,10 +629858,10 @@
       "home": "Botafogo Ribei",
       "away": "Vila Nova",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -629907,10 +629907,10 @@
       "home": "Atletico Mg",
       "away": "Bragantino",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
