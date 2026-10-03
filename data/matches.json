@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T09:45:50.410Z",
+  "updatedAt": "2026-10-03T10:01:14.584Z",
   "matches": [
     {
       "code": "5847028",
@@ -614129,7 +614129,7 @@
       "home": "Ryukyu",
       "away": "Zweigen Kanazaw",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -614178,9 +614178,9 @@
       "home": "Sagamihara",
       "away": "Osaka",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -614227,7 +614227,7 @@
       "home": "Tochigi City",
       "away": "Fc Imabari",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -614276,9 +614276,9 @@
       "home": "Oita Trinita",
       "away": "Yamagata",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -614325,7 +614325,7 @@
       "home": "Gira Kitakyush",
       "away": "Kochi United",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -614374,14 +614374,14 @@
       "home": "Veertien Kuwan",
       "away": "Verspah Oita",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.3,
@@ -614423,14 +614423,14 @@
       "home": "Real Betis U19",
       "away": "Sevilla U19",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.45,
@@ -614472,14 +614472,14 @@
       "home": "Honda Fc",
       "away": "Honda Lock",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.57,
@@ -614570,10 +614570,10 @@
       "home": "Espanyol (K)",
       "away": "Deportivo Alave",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -614668,10 +614668,10 @@
       "home": "Sevilla (K)",
       "away": "Badalona (K)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -641618,14 +641618,14 @@
       "home": "Fransa (U20)",
       "away": "İtalya (U20)",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.72,
@@ -642990,7 +642990,7 @@
       "home": "Machida Zelvia",
       "away": "Kyoto Sanga",
       "mbs": 3,
-      "status": 7,
+      "status": 8,
       "score": {
         "home": "0",
         "away": "0"
@@ -644068,14 +644068,14 @@
       "home": "Paksi Fc Ii",
       "away": "Szekszard",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "4",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.28,
@@ -644117,14 +644117,14 @@
       "home": "Egri",
       "away": "Disgyor Ii",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.16,
@@ -644166,10 +644166,10 @@
       "home": "Eibar U18",
       "away": "Santutxu U19",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -647694,14 +647694,14 @@
       "home": "Vasas Ii",
       "away": "Bkv Elore",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.09,
