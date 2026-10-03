@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T10:15:54.128Z",
+  "updatedAt": "2026-10-03T10:31:04.376Z",
   "matches": [
     {
       "code": "5847028",
@@ -614521,7 +614521,7 @@
       "home": "Viljandi Tulev",
       "away": "Tallinna Kalev ",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -641621,7 +641621,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -643041,7 +643041,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -644070,8 +644070,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "5",
-        "away": "0"
+        "home": "6",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "4",
@@ -647696,7 +647696,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
