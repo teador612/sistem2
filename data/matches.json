@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T21:55:12.056Z",
+  "updatedAt": "2026-10-03T22:01:22.471Z",
   "matches": [
     {
       "code": "5847028",
@@ -629270,7 +629270,7 @@
       "home": "São Paulo (K)",
       "away": "Corinthians (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -629319,7 +629319,7 @@
       "home": "Newells Old Bo",
       "away": "Lanus",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -629368,10 +629368,10 @@
       "home": "Floresta",
       "away": "Botafogo Pb",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -629417,9 +629417,9 @@
       "home": "Cuiaba",
       "away": "Ponte Preta",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -629466,7 +629466,7 @@
       "home": "Santa Cruz",
       "away": "Maringa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -629515,10 +629515,10 @@
       "home": "Forge",
       "away": "Hfx Wanderers",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "3",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -629564,10 +629564,10 @@
       "home": "Atletico Tucum",
       "away": "Barracas",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -629613,7 +629613,7 @@
       "home": "Raja Casablanc",
       "away": "Cr Khemis Zemam",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -629662,14 +629662,14 @@
       "home": "Real Santander",
       "away": "Union Magdalena",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 3.12,
@@ -629711,14 +629711,14 @@
       "home": "Aguila",
       "away": "Cacahuatique",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.42,
@@ -629760,14 +629760,14 @@
       "home": "Deportivo Mald",
       "away": "Central Espanol",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.44,
@@ -629809,14 +629809,14 @@
       "home": "Deportes Tolim",
       "away": "Chico",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.16,
@@ -629858,10 +629858,10 @@
       "home": "Botafogo Ribei",
       "away": "Vila Nova",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -629907,10 +629907,10 @@
       "home": "Atletico Mg",
       "away": "Bragantino",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -643529,14 +643529,14 @@
       "home": "Coban Imperial",
       "away": "Malacateco",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.5,
@@ -645930,14 +645930,14 @@
       "home": "Ldu Portoviejo",
       "away": "El Nacional",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.37,
@@ -647149,7 +647149,7 @@
     {
       "code": "4473853",
       "week": 24139,
-      "date": "03.10.2026",
+      "date": "05.10.2026",
       "time": "21:00",
       "league": "ARJPC",
       "home": "El Porvenir",
@@ -647198,7 +647198,7 @@
     {
       "code": "4473849",
       "week": 24139,
-      "date": "03.10.2026",
+      "date": "05.10.2026",
       "time": "21:00",
       "league": "ARJPC",
       "home": "Paraguayo",
@@ -647400,14 +647400,14 @@
       "home": "Patriotas",
       "away": "Independiente Y",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.52,
@@ -647449,14 +647449,14 @@
       "home": "Sint Maarten",
       "away": "Saint Vincent V",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 3.4,
