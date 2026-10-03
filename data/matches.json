@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T08:46:35.707Z",
+  "updatedAt": "2026-10-03T09:01:10.787Z",
   "matches": [
     {
       "code": "5847028",
@@ -614031,7 +614031,7 @@
       "home": "Kofu",
       "away": "Kataller Toyama",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -614129,14 +614129,14 @@
       "home": "Ryukyu",
       "away": "Zweigen Kanazaw",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.57,
@@ -614178,14 +614178,14 @@
       "home": "Sagamihara",
       "away": "Osaka",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.26,
@@ -614227,14 +614227,14 @@
       "home": "Tochigi City",
       "away": "Fc Imabari",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.68,
@@ -614276,14 +614276,14 @@
       "home": "Oita Trinita",
       "away": "Yamagata",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.31,
@@ -614325,14 +614325,14 @@
       "home": "Gira Kitakyush",
       "away": "Kochi United",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.01,
@@ -614374,10 +614374,10 @@
       "home": "Veertien Kuwan",
       "away": "Verspah Oita",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -614423,10 +614423,10 @@
       "home": "Real Betis U19",
       "away": "Sevilla U19",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -614472,10 +614472,10 @@
       "home": "Honda Fc",
       "away": "Honda Lock",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -642990,7 +642990,7 @@
       "home": "Machida Zelvia",
       "away": "Kyoto Sanga",
       "mbs": 3,
-      "status": 3,
+      "status": 5,
       "score": {
         "home": "0",
         "away": "0"
