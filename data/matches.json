@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-03T09:31:05.295Z",
+  "updatedAt": "2026-10-03T09:45:50.410Z",
   "matches": [
     {
       "code": "5847028",
@@ -614132,7 +614132,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -614475,7 +614475,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -641621,7 +641621,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -642990,7 +642990,7 @@
       "home": "Machida Zelvia",
       "away": "Kyoto Sanga",
       "mbs": 3,
-      "status": 5,
+      "status": 7,
       "score": {
         "home": "0",
         "away": "0"
@@ -644070,7 +644070,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
