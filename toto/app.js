@@ -22,6 +22,25 @@ function result(match) {
   return Number(score.home) > Number(score.away) ? '1' : Number(score.home) < Number(score.away) ? '2' : 'X';
 }
 
+function sportotoMatches() {
+  const official = data.matches.filter(match =>
+    match.weekId != null ||
+    match.league === 'Spor Toto' ||
+    String(match.source || '').includes('sportoto.gov.tr')
+  );
+
+  if (!official.length) return [];
+
+  const weekIds = official
+    .map(match => Number(match.weekId))
+    .filter(Number.isFinite);
+  const latestWeekId = weekIds.length ? Math.max(...weekIds) : null;
+
+  return latestWeekId == null
+    ? official
+    : official.filter(match => Number(match.weekId) === latestWeekId);
+}
+
 function analyze(match) {
   const markets = [['1', 'ms1'], ['X', 'msX'], ['2', 'ms2']];
   const counts = { 1: 0, X: 0, 2: 0 };
@@ -45,7 +64,7 @@ function analyze(match) {
 
 function draw() {
   const selectedDate = $('#date').value;
-  const rows = data.matches.filter(match => iso(match) === selectedDate);
+  const rows = sportotoMatches().filter(match => iso(match) === selectedDate);
   let decisions = 0, pending = 0, confidenceTotal = 0;
   $('#list').innerHTML = rows.map(match => {
     const analysis = analyze(match), ready = analysis?.pick && analysis.samples >= MIN_SAMPLES;
@@ -67,7 +86,8 @@ function draw() {
 }
 
 function init() {
-  const dates = [...new Set(data.matches.map(iso))].sort();
+  const official = sportotoMatches();
+  const dates = [...new Set(official.map(iso))].sort();
   $('#date').innerHTML = dates.map(date => `<option value="${date}">${date}</option>`).join('');
   const today = new Date().toISOString().slice(0, 10);
   $('#date').value = dates.find(date => date >= today) || dates.at(-1) || '';

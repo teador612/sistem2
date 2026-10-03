@@ -1,6 +1,6 @@
 # Ayrı Spor Toto uygulaması
 
-Bu klasör `sistem2` uygulamasından bağımsızdır. Yalnızca mevcut `data/matches.json` dosyasını okur; kendi veri dosyasını içermez.
+Bu klasör `sistem2` uygulamasından bağımsızdır. Yalnızca mevcut `data/matches.json` dosyasını okur; kendi veri dosyasını içermez. Listede yalnızca `weekId` taşıyan resmi Spor Toto haftası kayıtları gösterilir; diğer lig ve Maçkolik maçları filtrelenir.
 
 GitHub reposunda klasör yapısı şöyle olmalı:
 
