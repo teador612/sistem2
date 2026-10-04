@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T04:46:06.007Z",
+  "updatedAt": "2026-10-04T05:02:24.428Z",
   "matches": [
     {
       "code": "5847028",
@@ -630887,7 +630887,7 @@
       "home": "Orange County ",
       "away": "Monterey Bay",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -630936,9 +630936,9 @@
       "home": "Abd",
       "away": "Meksika",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "3",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -630985,7 +630985,7 @@
       "home": "Las Vegas Ligh",
       "away": "San Antonio",
       "mbs": 3,
-      "status": 4,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
@@ -631034,14 +631034,14 @@
       "home": "Necaxa (K)",
       "away": "Cruz Azul (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 17.5,
@@ -631083,10 +631083,10 @@
       "home": "Sapporo",
       "away": "Iwaki",
       "mbs": 2,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -631132,10 +631132,10 @@
       "home": "Vanraure",
       "away": "Yokohama Fc",
       "mbs": 2,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -643578,9 +643578,9 @@
       "home": "Real Cartagena",
       "away": "Centauros",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "3"
       },
       "halfTimeScore": {
@@ -647988,7 +647988,7 @@
       "home": "Belize",
       "away": "Fransiz Guyanas",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -648037,7 +648037,7 @@
       "home": "Xelaju",
       "away": "Deportivo San P",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -648086,10 +648086,10 @@
       "home": "Okinawa Sv",
       "away": "Urayasu",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -648135,10 +648135,10 @@
       "home": "J-Lease Fc",
       "away": "Tiamo Hirakata",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -648184,10 +648184,10 @@
       "home": "Maruyasu Indus",
       "away": "Reinmeer Aomori",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -650438,10 +650438,10 @@
       "home": "Elfen Saitama ",
       "away": "Jef United (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -650487,10 +650487,10 @@
       "home": "Albirex Niigat",
       "away": "Cerezo Osaka (K",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
