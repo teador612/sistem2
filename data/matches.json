@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T20:01:15.673Z",
+  "updatedAt": "2026-10-04T20:16:05.041Z",
   "matches": [
     {
       "code": "5847028",
@@ -636326,7 +636326,7 @@
       "home": "Lucena",
       "away": "Atlético Paso",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -636522,7 +636522,7 @@
       "home": "Club Comunicac",
       "away": "Flandria",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -636620,7 +636620,7 @@
       "home": "Agropecuario",
       "away": "Midland",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -637208,7 +637208,7 @@
       "home": "Cerro",
       "away": "Montevideo Wand",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -637257,7 +637257,7 @@
       "home": "Zaragoza",
       "away": "Teruel",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -637306,7 +637306,7 @@
       "home": "Deportivo Past",
       "away": "Fortaleza",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -637355,7 +637355,7 @@
       "home": "Girona",
       "away": "Mallorca",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -637406,7 +637406,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -637453,10 +637453,10 @@
       "home": "Supra Du Quebe",
       "away": "Pacific Fc",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -637502,10 +637502,10 @@
       "home": "Talleres",
       "away": "Belgrano",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -637551,10 +637551,10 @@
       "home": "San Martin Sj",
       "away": "Almagro",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -637600,10 +637600,10 @@
       "home": "Club Atletico ",
       "away": "Colegiales",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -637644,7 +637644,7 @@
       "code": "4441215",
       "week": 24139,
       "date": "04.10.2026",
-      "time": "23:00",
+      "time": "23:20",
       "league": "ARJPBN",
       "home": "Chaco For Ever",
       "away": "D Belgrano",
@@ -644558,7 +644558,7 @@
       "home": "Misir",
       "away": "Güney Afrika",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -648478,7 +648478,7 @@
       "home": "C Cordoba",
       "away": "Yupanqui",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -648527,7 +648527,7 @@
       "home": "Ca Lugano",
       "away": "A. Rosario",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "3"
@@ -650634,7 +650634,7 @@
       "home": "Guyana",
       "away": "Dominika",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "4",
         "away": "0"
@@ -650683,10 +650683,10 @@
       "home": "Bahamalar",
       "away": "Us Virgin Adala",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -650732,10 +650732,10 @@
       "home": "Turks Ve Caico",
       "away": "Ingiliz Virgin",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -659013,7 +659013,7 @@
       "home": "Tavernes",
       "away": "Maracena",
       "mbs": 3,
-      "status": 5,
+      "status": 8,
       "score": {
         "home": "0",
         "away": "0"
@@ -659505,7 +659505,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -660483,7 +660483,7 @@
       "home": "Fas",
       "away": "Mali",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
