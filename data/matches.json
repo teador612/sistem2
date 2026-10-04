@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T03:01:21.385Z",
+  "updatedAt": "2026-10-04T03:15:46.281Z",
   "matches": [
     {
       "code": "5847028",
@@ -630642,7 +630642,7 @@
       "home": "Durango",
       "away": "Zacatecas",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "2"
@@ -630691,7 +630691,7 @@
       "home": "Colorado Sprin",
       "away": "Oakland Roots",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -630740,7 +630740,7 @@
       "home": "Monarcas",
       "away": "Tlaxcala",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -630789,7 +630789,7 @@
       "home": "Piratas",
       "away": "Alebrijes",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "0"
@@ -630838,7 +630838,7 @@
       "home": "Tijuana (K)",
       "away": "Atlante (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -630887,7 +630887,7 @@
       "home": "Orange County ",
       "away": "Monterey Bay",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -630936,7 +630936,7 @@
       "home": "Abd",
       "away": "Meksika",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -631034,10 +631034,10 @@
       "home": "Necaxa (K)",
       "away": "Cruz Azul (K)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -647645,10 +647645,10 @@
       "home": "Spokane Veloci",
       "away": "Portland Hearts",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "3",
@@ -647988,7 +647988,7 @@
       "home": "Belize",
       "away": "Fransiz Guyanas",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -648037,7 +648037,7 @@
       "home": "Xelaju",
       "away": "Deportivo San P",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
