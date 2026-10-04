@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T21:01:12.183Z",
+  "updatedAt": "2026-10-04T21:15:49.392Z",
   "matches": [
     {
       "code": "5847028",
@@ -626820,14 +626820,14 @@
       "home": "Sabadell",
       "away": "Fc Andorra",
       "mbs": 1,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.91,
@@ -637453,9 +637453,9 @@
       "home": "Supra Du Quebe",
       "away": "Pacific Fc",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -637502,7 +637502,7 @@
       "home": "Talleres",
       "away": "Belgrano",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -637551,7 +637551,7 @@
       "home": "San Martin Sj",
       "away": "Almagro",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -637600,7 +637600,7 @@
       "home": "Club Atletico ",
       "away": "Colegiales",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -637649,14 +637649,14 @@
       "home": "Chaco For Ever",
       "away": "D Belgrano",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.81,
@@ -637701,7 +637701,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -637747,10 +637747,10 @@
       "home": "Godoy Cruz",
       "away": "Los Andes",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -637796,10 +637796,10 @@
       "home": "Tigres Fc",
       "away": "Internacional P",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -637845,10 +637845,10 @@
       "home": "Platense",
       "away": "Municipal Limen",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -637894,10 +637894,10 @@
       "home": "Inter Bogota",
       "away": "Once Caldas",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -637943,10 +637943,10 @@
       "home": "Depor Cucuta",
       "away": "Pereira",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -642941,7 +642941,7 @@
       "home": "Gimnasia La Pl",
       "away": "Banfield (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -650683,10 +650683,10 @@
       "home": "Bahamalar",
       "away": "Us Virgin Adala",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -650732,7 +650732,7 @@
       "home": "Turks Ve Caico",
       "away": "Ingiliz Virgin",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -660532,7 +660532,7 @@
       "home": "Hartford Athle",
       "away": "Louisville City",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
