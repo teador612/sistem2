@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T02:01:12.546Z",
+  "updatedAt": "2026-10-04T02:15:48.319Z",
   "matches": [
     {
       "code": "5847028",
@@ -630397,7 +630397,7 @@
       "home": "Tulsa Roughnec",
       "away": "Sacramento Repu",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -630495,7 +630495,7 @@
       "home": "Walter Ferrett",
       "away": "Jalapa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -630544,7 +630544,7 @@
       "home": "Alianza",
       "away": "Firpo",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -630593,7 +630593,7 @@
       "home": "Cancun Fc",
       "away": "Cd Tapatio",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -630642,7 +630642,7 @@
       "home": "Durango",
       "away": "Zacatecas",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -630691,7 +630691,7 @@
       "home": "Colorado Sprin",
       "away": "Oakland Roots",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -630740,7 +630740,7 @@
       "home": "Monarcas",
       "away": "Tlaxcala",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -630789,7 +630789,7 @@
       "home": "Piratas",
       "away": "Alebrijes",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -630838,7 +630838,7 @@
       "home": "Tijuana (K)",
       "away": "Atlante (K)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -630887,10 +630887,10 @@
       "home": "Orange County ",
       "away": "Monterey Bay",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -630936,10 +630936,10 @@
       "home": "Abd",
       "away": "Meksika",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -643578,14 +643578,14 @@
       "home": "Real Cartagena",
       "away": "Centauros",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.18,
@@ -647645,7 +647645,7 @@
       "home": "Spokane Veloci",
       "away": "Portland Hearts",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "0"
@@ -648037,10 +648037,10 @@
       "home": "Xelaju",
       "away": "Deportivo San P",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -654799,9 +654799,9 @@
       "home": "Cashmere Techn",
       "away": "Wellington Phoe",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "6",
+        "home": "7",
         "away": "0"
       },
       "halfTimeScore": {
