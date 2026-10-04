@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T22:01:12.760Z",
+  "updatedAt": "2026-10-04T22:15:51.463Z",
   "matches": [
     {
       "code": "5847028",
@@ -637551,7 +637551,7 @@
       "home": "San Martin Sj",
       "away": "Almagro",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -637652,7 +637652,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -637701,7 +637701,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -637747,7 +637747,7 @@
       "home": "Godoy Cruz",
       "away": "Los Andes",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -637796,7 +637796,7 @@
       "home": "Tigres Fc",
       "away": "Internacional P",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -637845,7 +637845,7 @@
       "home": "Platense",
       "away": "Municipal Limen",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -637894,7 +637894,7 @@
       "home": "Inter Bogota",
       "away": "Once Caldas",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -637943,7 +637943,7 @@
       "home": "Depor Cucuta",
       "away": "Pereira",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "0"
@@ -638041,10 +638041,10 @@
       "home": "New Mexico Uni",
       "away": "Phoenix Rising",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -638090,10 +638090,10 @@
       "home": "Argentinos Jr",
       "away": "Tigre",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -650781,10 +650781,10 @@
       "home": "Trinidad & Tob",
       "away": "Curacao",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
