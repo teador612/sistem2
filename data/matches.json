@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T18:15:49.403Z",
+  "updatedAt": "2026-10-04T18:31:05.666Z",
   "matches": [
     {
       "code": "5847028",
@@ -636032,7 +636032,7 @@
       "home": "Castellon",
       "away": "Ceuta",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -636081,7 +636081,7 @@
       "home": "Atletico Centr",
       "away": "Linares Deporti",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -636130,7 +636130,7 @@
       "home": "Nürnberg (K)",
       "away": "Hoffenheim (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -636179,7 +636179,7 @@
       "home": "Las Palmas",
       "away": "Valladolid",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -636279,7 +636279,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -636375,14 +636375,14 @@
       "home": "Zawisza Bydgos",
       "away": "Olimpia Grudzia",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.27,
@@ -636426,7 +636426,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -636573,7 +636573,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -642796,7 +642796,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "5",
+        "home": "6",
         "away": "0"
       },
       "halfTimeScore": {
@@ -642843,14 +642843,14 @@
       "home": "Valencia (K)",
       "away": "Real Sociedad (",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 6.82,
@@ -648529,7 +648529,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -659111,9 +659111,9 @@
       "home": "Estradense",
       "away": "Boiro",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -659258,7 +659258,7 @@
       "home": "Derio",
       "away": "Beasain",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -659307,10 +659307,10 @@
       "home": "Cliftonville (",
       "away": "Glentoran (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -659356,7 +659356,7 @@
       "home": "Crusaders / St",
       "away": "Derry City (K)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -659405,10 +659405,10 @@
       "home": "Lisburn Ranger",
       "away": "Linfield (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -659454,9 +659454,9 @@
       "home": "Calasancio",
       "away": "Casalarreina",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -660434,14 +660434,14 @@
       "home": "Gazte Berriak",
       "away": "Doneztebe",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.16,
