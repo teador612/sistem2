@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T11:01:21.819Z",
+  "updatedAt": "2026-10-04T11:15:50.590Z",
   "matches": [
     {
       "code": "5847028",
@@ -631576,7 +631576,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -631671,9 +631671,9 @@
       "home": "Castellonense",
       "away": "Real Murcia Ii",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -631720,7 +631720,7 @@
       "home": "Granada (K)",
       "away": "Eibar (K)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -631769,10 +631769,10 @@
       "home": "Tenerife (K)",
       "away": "Logrono (K)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -631818,7 +631818,7 @@
       "home": "Atletico Balea",
       "away": "Poblense",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -631867,9 +631867,9 @@
       "home": "Sanluqueno",
       "away": "Mijas Las Lagun",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -631965,9 +631965,9 @@
       "home": "Xerez",
       "away": "Tenerife Ii",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -632014,7 +632014,7 @@
       "home": "Tegevajaro Miy",
       "away": "Omiya",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -632063,7 +632063,7 @@
       "home": "A.Bilbao B",
       "away": "Extremadura 192",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -632161,9 +632161,9 @@
       "home": "Farense",
       "away": "Chaves",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -632210,7 +632210,7 @@
       "home": "Nacka Iliria",
       "away": "Karlslunds If",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "4"
@@ -632262,7 +632262,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -632308,7 +632308,7 @@
       "home": "Ud Logrones",
       "away": "Dep. Fabril",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -632357,7 +632357,7 @@
       "home": "Murcia",
       "away": "Tarragona",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -632406,7 +632406,7 @@
       "home": "Intercity",
       "away": "Yeclano",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -632455,7 +632455,7 @@
       "home": "Ss Reyes",
       "away": "Real Avila",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -632504,7 +632504,7 @@
       "home": "Getafe Ii",
       "away": "Numancia",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -632553,7 +632553,7 @@
       "home": "Villarreal B",
       "away": "Ud Ibiza",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -632602,7 +632602,7 @@
       "home": "Real Valladoli",
       "away": "Calvo Sotelo",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -632896,10 +632896,10 @@
       "home": "Angby",
       "away": "Helges",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -632996,7 +632996,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -648331,10 +648331,10 @@
       "home": "Cd Marino",
       "away": "Playas Sotavent",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -650587,8 +650587,8 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -651173,9 +651173,9 @@
       "home": "Sporting Gijon",
       "away": "Langreo",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -653623,14 +653623,14 @@
       "home": "Astur",
       "away": "Mosconia",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 4.03,
@@ -653721,10 +653721,10 @@
       "home": "Hønefoss (K)",
       "away": "Bodo / Glimt (K",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -654554,7 +654554,7 @@
       "home": "Ibiza Islas Pi",
       "away": "Formentera",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -655193,7 +655193,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -655289,14 +655289,14 @@
       "home": "Elche U19",
       "away": "Castellon U18",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.55,
@@ -655338,14 +655338,14 @@
       "home": "Malaga U19",
       "away": "Almeria U18",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 2,
@@ -655534,7 +655534,7 @@
       "home": "Slask Wroclaw ",
       "away": "Czarni Sosnowie",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -655583,14 +655583,14 @@
       "home": "Fuenlabrada",
       "away": "Siello Nuevo Bo",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.2,
@@ -655632,14 +655632,14 @@
       "home": "Gimnástica U19",
       "away": "Lugo U19",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.19,
@@ -655681,7 +655681,7 @@
       "home": "Deportivo Alav",
       "away": "Sodupe",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -655730,7 +655730,7 @@
       "home": "Solares U19",
       "away": "Compostela U19",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -655779,7 +655779,7 @@
       "home": "Pogon Szczecin",
       "away": "Rekord Bielsko-",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -655877,10 +655877,10 @@
       "home": "Colonia Moscar",
       "away": "Pozuelo Alarcon",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "4",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "4",
@@ -655975,14 +655975,14 @@
       "home": "Levante U19",
       "away": "Académico Murci",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.28,
@@ -656024,14 +656024,14 @@
       "home": "Twente (K)",
       "away": "Utrecht (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
@@ -656073,10 +656073,10 @@
       "home": "Las Palmas U19",
       "away": "Unión Sur Yaiza",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -659995,7 +659995,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
