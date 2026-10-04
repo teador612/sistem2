@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T06:31:17.227Z",
+  "updatedAt": "2026-10-04T07:01:19.211Z",
   "matches": [
     {
       "code": "5847028",
@@ -631083,10 +631083,10 @@
       "home": "Sapporo",
       "away": "Iwaki",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -631132,7 +631132,7 @@
       "home": "Vanraure",
       "away": "Yokohama Fc",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -631181,14 +631181,14 @@
       "home": "Mokpo City",
       "away": "Busan Transport",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.83,
@@ -631230,14 +631230,14 @@
       "home": "Kamatamare San",
       "away": "Tochigi Sc",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.83,
@@ -631279,14 +631279,14 @@
       "home": "Blaublitz Akit",
       "away": "Sagan Tosu",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.72,
@@ -631328,14 +631328,14 @@
       "home": "Dangjin Citize",
       "away": "Gyeongju Hnp",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.58,
@@ -631377,10 +631377,10 @@
       "home": "Sendai",
       "away": "Iwata",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -648086,7 +648086,7 @@
       "home": "Okinawa Sv",
       "away": "Urayasu",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -648135,7 +648135,7 @@
       "home": "J-Lease Fc",
       "away": "Tiamo Hirakata",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -648184,7 +648184,7 @@
       "home": "Maruyasu Indus",
       "away": "Reinmeer Aomori",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -649115,14 +649115,14 @@
       "home": "Hoi King",
       "away": "Metro Gallery",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.55,
@@ -650438,7 +650438,7 @@
       "home": "Elfen Saitama ",
       "away": "Jef United (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -650487,7 +650487,7 @@
       "home": "Albirex Niigat",
       "away": "Cerezo Osaka (K",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -650536,14 +650536,14 @@
       "home": "Central & West",
       "away": "Tai Ching",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.74,
@@ -652300,14 +652300,14 @@
       "home": "Nojima Stella ",
       "away": "Omiya (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.1,
