@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T06:01:41.563Z",
+  "updatedAt": "2026-10-04T06:15:57.886Z",
   "matches": [
     {
       "code": "5847028",
@@ -631181,7 +631181,7 @@
       "home": "Mokpo City",
       "away": "Busan Transport",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "1"
@@ -631230,7 +631230,7 @@
       "home": "Kamatamare San",
       "away": "Tochigi Sc",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -631279,7 +631279,7 @@
       "home": "Blaublitz Akit",
       "away": "Sagan Tosu",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -631328,7 +631328,7 @@
       "home": "Dangjin Citize",
       "away": "Gyeongju Hnp",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -631377,10 +631377,10 @@
       "home": "Sendai",
       "away": "Iwata",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -652300,7 +652300,7 @@
       "home": "Nojima Stella ",
       "away": "Omiya (K)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
