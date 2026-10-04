@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T08:45:53.145Z",
+  "updatedAt": "2026-10-04T09:15:48.349Z",
   "matches": [
     {
       "code": "5847028",
@@ -631475,10 +631475,10 @@
       "home": "Kagoshima Unit",
       "away": "Fukushima Unite",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -631524,10 +631524,10 @@
       "home": "Deportiva Mine",
       "away": "La Nucia",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -641471,10 +641471,10 @@
       "home": "Yokohama Scc",
       "away": "Criacao Shinjuk",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -641569,10 +641569,10 @@
       "home": "Honved Ii",
       "away": "Iii Keruleti Tv",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -651078,7 +651078,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -654703,8 +654703,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -654848,7 +654848,7 @@
       "home": "Manila Digger",
       "away": "Dynamic Herb Ce",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -654897,10 +654897,10 @@
       "home": "Cartagena Ii",
       "away": "Algar",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -655044,10 +655044,10 @@
       "home": "Saint-Etienne ",
       "away": "Nice U19",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -659895,10 +659895,10 @@
       "home": "Skjervoy",
       "away": "Fauske/Sprint",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -659944,10 +659944,10 @@
       "home": "Auxerre U19",
       "away": "Annecy U19",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -661012,6 +661012,55 @@
         "iy2": 3.12
       },
       "openingRecordedAt": "2026-10-04T08:01:12.172Z"
+    },
+    {
+      "code": "4537773",
+      "week": 24139,
+      "date": "14.10.2026",
+      "time": "20:00",
+      "league": "MLTP",
+      "home": "Mosta Fc",
+      "away": "Gzira United",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.43,
+        "msX": 3.01,
+        "ms2": 2.14,
+        "cs1X": 1.34,
+        "cs12": 1.15,
+        "csX2": 1.24,
+        "au25Alt": 1.65,
+        "au25Ust": 1.65,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.51,
+        "kgYok": 1.83,
+        "iy15Alt": 1.26,
+        "iy15Ust": 2.4,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.04,
+        "iyX": 1.94,
+        "iy2": 2.73
+      },
+      "openingRecordedAt": "2026-10-04T09:15:48.348Z"
     }
   ]
 }
