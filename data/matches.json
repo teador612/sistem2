@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T17:45:58.580Z",
+  "updatedAt": "2026-10-04T18:01:13.017Z",
   "matches": [
     {
       "code": "5847028",
@@ -635643,7 +635643,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -635787,10 +635787,10 @@
       "home": "Orihuela",
       "away": "Cieza",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "0",
@@ -635836,7 +635836,7 @@
       "home": "Triglav Kranj",
       "away": "Jesenice",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "0"
@@ -635885,7 +635885,7 @@
       "home": "Boston River",
       "away": "Juventud Dl Pie",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -635934,7 +635934,7 @@
       "home": "Malta",
       "away": "Andorra",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -635983,7 +635983,7 @@
       "home": "Kosova",
       "away": "Avusturya",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -636084,7 +636084,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -636181,7 +636181,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -636228,7 +636228,7 @@
       "home": "Algeciras",
       "away": "Rayo Majadahond",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -636279,7 +636279,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -636424,10 +636424,10 @@
       "home": "Huracan",
       "away": "Aldosivi",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -642794,14 +642794,14 @@
       "home": "Barcelona (K)",
       "away": "Real Madrid (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "5",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
@@ -642846,7 +642846,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -648432,7 +648432,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "5"
+        "away": "6"
       },
       "halfTimeScore": {
         "home": "1",
@@ -652986,7 +652986,7 @@
       "home": "Saguntino",
       "away": "Utiel",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "2"
@@ -653035,7 +653035,7 @@
       "home": "Dorogi Fc",
       "away": "Szombathelyi Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -653084,7 +653084,7 @@
       "home": "Ontinyent 1931",
       "away": "Villarreal Iii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -654211,7 +654211,7 @@
       "home": "Ol. Safi",
       "away": "Chabab Ben Guer",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -654995,7 +654995,7 @@
       "home": "Js Soualem",
       "away": "El Massira",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -658866,7 +658866,7 @@
       "home": "Alcantarilla",
       "away": "Atletico Santa ",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -658915,7 +658915,7 @@
       "home": "Chabab",
       "away": "Usm Oujda",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -658964,7 +658964,7 @@
       "home": "Chiclana",
       "away": "Sevilla Iii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -659065,7 +659065,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "0",
@@ -659160,10 +659160,10 @@
       "home": "Kac Kenitra",
       "away": "Yacoub El Manso",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -660287,7 +660287,7 @@
       "home": "Cotillas",
       "away": "Bala Azul",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -660336,7 +660336,7 @@
       "home": "Espanyol U19",
       "away": "Sant Andreu U18",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "0"
@@ -660385,10 +660385,10 @@
       "home": "Ss Reyes Ii",
       "away": "Real Aranjuez",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
-        "away": "4"
+        "home": "3",
+        "away": "5"
       },
       "halfTimeScore": {
         "home": null,
@@ -661414,10 +661414,10 @@
       "home": "Elazığspor",
       "away": "Çorluspor 1947",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "2"
+        "home": "2",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
