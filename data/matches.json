@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T08:15:49.612Z",
+  "updatedAt": "2026-10-04T08:31:00.962Z",
   "matches": [
     {
       "code": "5847028",
@@ -631426,10 +631426,10 @@
       "home": "Petrzalka",
       "away": "Malzenice",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -651075,14 +651075,14 @@
       "home": "Citizen",
       "away": "Yuen Long",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.31,
@@ -654701,14 +654701,14 @@
       "home": "Sham Shui Po",
       "away": "Supreme Fc",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.58,
