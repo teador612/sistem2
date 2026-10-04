@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T07:46:11.374Z",
+  "updatedAt": "2026-10-04T08:01:12.172Z",
   "matches": [
     {
       "code": "5847028",
@@ -631379,7 +631379,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -649166,7 +649166,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -651078,7 +651078,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -654848,14 +654848,14 @@
       "home": "Manila Digger",
       "away": "Dynamic Herb Ce",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.06,
@@ -660914,6 +660914,104 @@
         "iy2": 2.19
       },
       "openingRecordedAt": "2026-10-04T07:46:11.374Z"
+    },
+    {
+      "code": "4429371",
+      "week": 24139,
+      "date": "14.10.2026",
+      "time": "19:00",
+      "league": "NOR4",
+      "home": "Asker",
+      "away": "Frigg",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.12,
+        "msX": 5.53,
+        "ms2": 7.39,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.85,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.23,
+        "kgYok": 2.49,
+        "iy15Alt": 2.04,
+        "iy15Ust": 1.39,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.38,
+        "iyX": 3.12,
+        "iy2": 5.95
+      },
+      "openingRecordedAt": "2026-10-04T08:01:12.172Z"
+    },
+    {
+      "code": "4503826",
+      "week": 24139,
+      "date": "14.10.2026",
+      "time": "19:00",
+      "league": "ÇEK",
+      "home": "Bohemians 1905",
+      "away": "Mlada Boleslav",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.06,
+        "msX": 3.01,
+        "ms2": 2.55,
+        "cs1X": 1.22,
+        "cs12": 1.15,
+        "csX2": 1.37,
+        "au25Alt": 1.7,
+        "au25Ust": 1.61,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.48,
+        "kgYok": 1.86,
+        "iy15Alt": 1.28,
+        "iy15Ust": 2.35,
+        "au15Alt": 3.23,
+        "au15Ust": 1.11,
+        "au35Alt": 1.2,
+        "au35Ust": 2.66,
+        "gol01": 3.31,
+        "gol23": 1.77,
+        "gol46": 3.35,
+        "gol7": 12.6,
+        "iy1": 2.62,
+        "iyX": 1.97,
+        "iy2": 3.12
+      },
+      "openingRecordedAt": "2026-10-04T08:01:12.172Z"
     }
   ]
 }
