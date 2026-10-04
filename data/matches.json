@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T00:45:49.278Z",
+  "updatedAt": "2026-10-04T01:01:09.045Z",
   "matches": [
     {
       "code": "5847028",
@@ -630105,7 +630105,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "3"
       },
       "halfTimeScore": {
@@ -630152,7 +630152,7 @@
       "home": "Queretaro (K)",
       "away": "Atletico San Lu",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -630301,8 +630301,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": "3",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -630350,8 +630350,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -630397,14 +630397,14 @@
       "home": "Tulsa Roughnec",
       "away": "Sacramento Repu",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.43,
@@ -630446,14 +630446,14 @@
       "home": "Arjantin",
       "away": "Burkina Faso",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "5",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
@@ -630495,14 +630495,14 @@
       "home": "Walter Ferrett",
       "away": "Jalapa",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.57,
@@ -630740,10 +630740,10 @@
       "home": "Monarcas",
       "away": "Tlaxcala",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -654799,10 +654799,10 @@
       "home": "Cashmere Techn",
       "away": "Wellington Phoe",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
