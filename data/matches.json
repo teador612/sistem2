@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T05:31:16.197Z",
+  "updatedAt": "2026-10-04T05:45:49.830Z",
   "matches": [
     {
       "code": "5847028",
@@ -649115,10 +649115,10 @@
       "home": "Hoi King",
       "away": "Metro Gallery",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -650440,7 +650440,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -650536,10 +650536,10 @@
       "home": "Central & West",
       "away": "Tai Ching",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
