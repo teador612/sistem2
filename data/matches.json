@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T23:01:15.556Z",
+  "updatedAt": "2026-10-04T23:15:46.958Z",
   "matches": [
     {
       "code": "5847028",
@@ -637747,9 +637747,9 @@
       "home": "Godoy Cruz",
       "away": "Los Andes",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -637994,7 +637994,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -638041,7 +638041,7 @@
       "home": "New Mexico Uni",
       "away": "Phoenix Rising",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -638090,14 +638090,14 @@
       "home": "Argentinos Jr",
       "away": "Tigre",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.67,
@@ -638188,10 +638188,10 @@
       "home": "Inter Fa",
       "away": "Fuerte San Fran",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -638237,10 +638237,10 @@
       "home": "Guadalajara (K",
       "away": "Juarez (K)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -638286,10 +638286,10 @@
       "home": "Bucaramanga",
       "away": "Atletico Junior",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -650781,7 +650781,7 @@
       "home": "Trinidad & Tob",
       "away": "Curacao",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -650830,7 +650830,7 @@
       "home": "Porto Riko",
       "away": "Kayman",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -650879,10 +650879,10 @@
       "home": "Guastatoya",
       "away": "Aurora",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -653231,10 +653231,10 @@
       "home": "Aruba",
       "away": "Anguilla",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
