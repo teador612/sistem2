@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-04T09:15:48.349Z",
+  "updatedAt": "2026-10-04T09:31:03.602Z",
   "matches": [
     {
       "code": "5847028",
@@ -631426,14 +631426,14 @@
       "home": "Petrzalka",
       "away": "Malzenice",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.24,
@@ -631477,7 +631477,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -631573,10 +631573,10 @@
       "home": "Sevilla B",
       "away": "Cd Badajoz",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -631622,10 +631622,10 @@
       "home": "Valencia Ii",
       "away": "Pena Deportiva",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -651075,7 +651075,7 @@
       "home": "Citizen",
       "away": "Yuen Long",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "3"
@@ -655142,10 +655142,10 @@
       "home": "Ciudad Real",
       "away": "Ud Almansa",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -655191,10 +655191,10 @@
       "home": "",
       "away": "Las Rozas",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
