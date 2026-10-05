@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T23:15:47.437Z",
+  "updatedAt": "2026-10-05T23:31:12.501Z",
   "matches": [
     {
       "code": "5847028",
@@ -639168,7 +639168,7 @@
       "home": "12 De Junio Vh",
       "away": "Sol De America",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -639317,7 +639317,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -639413,14 +639413,14 @@
       "home": "Fernando De La",
       "away": "General Caballe",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.99,
@@ -648823,8 +648823,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -660828,7 +660828,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
