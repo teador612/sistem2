@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T05:31:02.895Z",
+  "updatedAt": "2026-10-05T06:45:59.810Z",
   "matches": [
     {
       "code": "5847028",
@@ -661992,6 +661992,104 @@
         "iy2": 3.33
       },
       "openingRecordedAt": "2026-10-05T05:31:02.895Z"
+    },
+    {
+      "code": "4445228",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "17:00",
+      "league": "AVUL",
+      "home": "Kazakistan",
+      "away": "Faroe Adalari",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.12,
+        "msX": 2.8,
+        "ms2": 2.88,
+        "cs1X": 1.21,
+        "cs12": 1.23,
+        "csX2": 1.41,
+        "au25Alt": 1.37,
+        "au25Ust": 2.25,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.9,
+        "kgYok": 1.54,
+        "iy15Alt": 1.15,
+        "iy15Ust": 3.26,
+        "au15Alt": 2.36,
+        "au15Ust": 1.32,
+        "au35Alt": 1.05,
+        "au35Ust": 4.45,
+        "gol01": 2.3,
+        "gol23": 1.79,
+        "gol46": 5.11,
+        "gol7": 31,
+        "iy1": 2.9,
+        "iyX": 1.78,
+        "iy2": 3.74
+      },
+      "openingRecordedAt": "2026-10-05T06:45:59.810Z"
+    },
+    {
+      "code": "4445210",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "21:45",
+      "league": "AVUL",
+      "home": "Arnavutluk",
+      "away": "San Marino",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 17.5,
+        "ms2": 17.5,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 10.1,
+        "au25Alt": 4.51,
+        "au25Ust": 1.05,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 2.3,
+        "kgYok": 1.35,
+        "iy15Alt": 2.14,
+        "iy15Ust": 1.41,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 2.4,
+        "au35Ust": 1.31,
+        "gol01": 12.25,
+        "gol23": 2.87,
+        "gol46": 2.28,
+        "gol7": 2.82,
+        "iy1": 1.07,
+        "iyX": 4.78,
+        "iy2": 26
+      },
+      "openingRecordedAt": "2026-10-05T06:45:59.810Z"
     }
   ]
 }
