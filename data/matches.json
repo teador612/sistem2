@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T13:16:01.033Z",
+  "updatedAt": "2026-10-05T13:31:10.061Z",
   "matches": [
     {
       "code": "5847028",
@@ -660630,14 +660630,14 @@
       "home": "Besat Kermansh",
       "away": "Nb Abbas",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.48,
