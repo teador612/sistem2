@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T17:31:15.329Z",
+  "updatedAt": "2026-10-05T17:45:50.352Z",
   "matches": [
     {
       "code": "5847028",
@@ -651420,8 +651420,8 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "3",
-        "away": "0"
+        "home": "5",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -653378,9 +653378,9 @@
       "home": "İsveç (U21)",
       "away": "Makedonya (U21)",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -659848,8 +659848,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
-        "away": "2"
+        "home": "2",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -665679,8 +665679,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "4",
-        "away": "0"
+        "home": "5",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -665726,14 +665726,14 @@
       "home": "Lyn Oslo B",
       "away": "Rade",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.59,
@@ -665966,7 +665966,7 @@
       "code": "4523137",
       "week": 24139,
       "date": "06.10.2026",
-      "time": "19:00",
+      "time": "17:00",
       "league": "PORU23",
       "home": "Rio Ave U23",
       "away": "Moreirense U23",
