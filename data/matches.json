@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T09:01:25.309Z",
+  "updatedAt": "2026-10-05T09:15:51.751Z",
   "matches": [
     {
       "code": "5847028",
@@ -665775,10 +665775,10 @@
       "home": "Galler U19",
       "away": "Kuzey İrlanda U",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
