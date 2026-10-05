@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T12:15:53.671Z",
+  "updatedAt": "2026-10-05T12:31:48.797Z",
   "matches": [
     {
       "code": "5847028",
@@ -660581,14 +660581,14 @@
       "home": "Niroye Zamini",
       "away": "Sanat Mes Kerma",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.3,
@@ -661465,7 +661465,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -665530,7 +665530,7 @@
       "home": "Japonya",
       "away": "Yeni Zelanda",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -668509,6 +668509,104 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-05T11:45:51.941Z"
+    },
+    {
+      "code": "4565366",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "19:00",
+      "league": "HAZ",
+      "home": "Rusya",
+      "away": "Nijerya",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.53,
+        "msX": 3.2,
+        "ms2": 3.91,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-05T12:31:48.797Z"
+    },
+    {
+      "code": "4570695",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "21:00",
+      "league": "AKK",
+      "home": "Suudi Arabista",
+      "away": "Birlesik Arap E",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.9,
+        "msX": 2.65,
+        "ms2": 3.12,
+        "cs1X": 1.12,
+        "cs12": 1.19,
+        "csX2": 1.41,
+        "au25Alt": 1.3,
+        "au25Ust": 2.21,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.89,
+        "kgYok": 1.44,
+        "iy15Alt": 1.11,
+        "iy15Ust": 3.11,
+        "au15Alt": 2.17,
+        "au15Ust": 1.31,
+        "au35Alt": 1,
+        "au35Ust": 4.07,
+        "gol01": 2.16,
+        "gol23": 1.75,
+        "gol46": 5.16,
+        "gol7": 33,
+        "iy1": 2.6,
+        "iyX": 1.71,
+        "iy2": 3.95
+      },
+      "openingRecordedAt": "2026-10-05T12:31:48.797Z"
     }
   ]
 }
