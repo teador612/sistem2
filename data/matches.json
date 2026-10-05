@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T14:31:13.482Z",
+  "updatedAt": "2026-10-05T14:46:45.475Z",
   "matches": [
     {
       "code": "5847028",
@@ -651369,10 +651369,10 @@
       "home": "Karadağ (U21)",
       "away": "Ermenistan (U21",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -660630,7 +660630,7 @@
       "home": "Besat Kermansh",
       "away": "Nb Abbas",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -660679,7 +660679,7 @@
       "home": "Mes Rafsanjan",
       "away": "Ario Eslamshahr",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -661564,7 +661564,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -665630,7 +665630,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -665827,7 +665827,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -670371,6 +670371,202 @@
         "iy2": 4.04
       },
       "openingRecordedAt": "2026-10-05T14:01:23.605Z"
+    },
+    {
+      "code": "4527507",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "21:00",
+      "league": "İULK",
+      "home": "Solihull Moors",
+      "away": "Newcastle (B)",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2,
+        "msX": 3.27,
+        "ms2": 2.4,
+        "cs1X": 1.23,
+        "cs12": 1.11,
+        "csX2": 1.37,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.24,
+        "kgYok": 2.38,
+        "iy15Alt": 1.47,
+        "iy15Ust": 1.84,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.46,
+        "au35Ust": 1.86,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.43,
+        "iyX": 2.2,
+        "iy2": 2.81
+      },
+      "openingRecordedAt": "2026-10-05T14:46:45.475Z"
+    },
+    {
+      "code": "4527490",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "21:00",
+      "league": "İULK",
+      "home": "Hornchurch",
+      "away": "Fulham (B)",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.97,
+        "msX": 3.54,
+        "ms2": 2.31,
+        "cs1X": 1.26,
+        "cs12": 1.09,
+        "csX2": 1.37,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.2,
+        "kgYok": 2.59,
+        "iy15Alt": 1.56,
+        "iy15Ust": 1.72,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.59,
+        "au35Ust": 1.68,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.4,
+        "iyX": 2.29,
+        "iy2": 2.71
+      },
+      "openingRecordedAt": "2026-10-05T14:46:45.475Z"
+    },
+    {
+      "code": "4508878",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "21:30",
+      "league": "GALFAW",
+      "home": "Pontypridd Tow",
+      "away": "Llantwit Major",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.32,
+        "msX": 4.08,
+        "ms2": 4.52,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.01,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.37,
+        "kgYok": 2.02,
+        "iy15Alt": 1.5,
+        "iy15Ust": 1.81,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.47,
+        "au35Ust": 1.85,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.72,
+        "iyX": 2.36,
+        "iy2": 4.59
+      },
+      "openingRecordedAt": "2026-10-05T14:46:45.475Z"
+    },
+    {
+      "code": "4527508",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "21:45",
+      "league": "İULK",
+      "home": "Tamworth",
+      "away": "Leeds United U2",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.75,
+        "msX": 3.48,
+        "ms2": 2.76,
+        "cs1X": 1.16,
+        "cs12": 1.09,
+        "csX2": 1.5,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.24,
+        "kgYok": 2.41,
+        "iy15Alt": 1.51,
+        "iy15Ust": 1.79,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.51,
+        "au35Ust": 1.78,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.18,
+        "iyX": 2.26,
+        "iy2": 3.12
+      },
+      "openingRecordedAt": "2026-10-05T14:46:45.475Z"
     }
   ]
 }
