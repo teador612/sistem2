@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T15:31:14.633Z",
+  "updatedAt": "2026-10-05T15:45:53.971Z",
   "matches": [
     {
       "code": "5847028",
@@ -651369,7 +651369,7 @@
       "home": "Karadağ (U21)",
       "away": "Ermenistan (U21",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -660679,7 +660679,7 @@
       "home": "Mes Rafsanjan",
       "away": "Ario Eslamshahr",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -665628,7 +665628,7 @@
       "home": "Endonezya",
       "away": "Tayland",
       "mbs": 3,
-      "status": 5,
+      "status": 6,
       "score": {
         "home": "1",
         "away": "1"
@@ -671057,6 +671057,55 @@
         "iy2": 1.56
       },
       "openingRecordedAt": "2026-10-05T15:31:14.633Z"
+    },
+    {
+      "code": "4561450",
+      "week": 24139,
+      "date": "07.10.2026",
+      "time": "14:30",
+      "league": "ÇİN2",
+      "home": "Haimen Codion",
+      "away": "Xiamen Feilu",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.74,
+        "msX": 2.85,
+        "ms2": 3.35,
+        "cs1X": 1.09,
+        "cs12": 1.16,
+        "csX2": 1.51,
+        "au25Alt": 1.44,
+        "au25Ust": 1.9,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.72,
+        "kgYok": 1.56,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.35,
+        "iyX": 1.83,
+        "iy2": 4.03
+      },
+      "openingRecordedAt": "2026-10-05T15:45:53.970Z"
     }
   ]
 }
