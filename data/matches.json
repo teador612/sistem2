@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T22:15:50.383Z",
+  "updatedAt": "2026-10-05T22:31:02.224Z",
   "matches": [
     {
       "code": "5847028",
@@ -639413,10 +639413,10 @@
       "home": "Fernando De La",
       "away": "General Caballe",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -660780,7 +660780,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
