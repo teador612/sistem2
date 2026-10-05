@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T15:45:53.971Z",
+  "updatedAt": "2026-10-05T16:01:21.440Z",
   "matches": [
     {
       "code": "5847028",
@@ -638531,14 +638531,14 @@
       "home": "Liptovsky Miku",
       "away": "Samorin",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.94,
@@ -651372,7 +651372,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -665628,7 +665628,7 @@
       "home": "Endonezya",
       "away": "Tayland",
       "mbs": 3,
-      "status": 6,
+      "status": 8,
       "score": {
         "home": "1",
         "away": "1"
@@ -665677,10 +665677,10 @@
       "home": "Fana",
       "away": "Asane Ii",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -665824,7 +665824,7 @@
       "home": "Gürcistan (U19",
       "away": "Letonya U19",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -671106,6 +671106,104 @@
         "iy2": 4.03
       },
       "openingRecordedAt": "2026-10-05T15:45:53.970Z"
+    },
+    {
+      "code": "4513284",
+      "week": 24139,
+      "date": "08.10.2026",
+      "time": "18:00",
+      "league": "ROM2",
+      "home": "Asu Poli Timiş",
+      "away": "Csa Steaua Bucu",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.44,
+        "msX": 3.21,
+        "ms2": 4.55,
+        "cs1X": 1,
+        "cs12": 1.1,
+        "csX2": 1.79,
+        "au25Alt": 1.68,
+        "au25Ust": 1.59,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.59,
+        "kgYok": 1.68,
+        "iy15Alt": 1.29,
+        "iy15Ust": 2.25,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.88,
+        "iyX": 2.07,
+        "iy2": 4.8
+      },
+      "openingRecordedAt": "2026-10-05T16:01:21.439Z"
+    },
+    {
+      "code": "4487083",
+      "week": 24139,
+      "date": "11.10.2026",
+      "time": "00:00",
+      "league": "KOSTA",
+      "home": "Inter San Carl",
+      "away": "Perez Zeledon",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.43,
+        "msX": 3.26,
+        "ms2": 4.63,
+        "cs1X": 1,
+        "cs12": 1.1,
+        "csX2": 1.82,
+        "au25Alt": 1.92,
+        "au25Ust": 1.43,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.45,
+        "kgYok": 1.87,
+        "iy15Alt": 1.37,
+        "iy15Ust": 2.01,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.8,
+        "iyX": 2.21,
+        "iy2": 4.64
+      },
+      "openingRecordedAt": "2026-10-05T16:01:21.440Z"
     }
   ]
 }
