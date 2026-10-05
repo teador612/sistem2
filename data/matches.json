@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T18:45:55.659Z",
+  "updatedAt": "2026-10-05T19:01:37.311Z",
   "matches": [
     {
       "code": "5847028",
@@ -638580,7 +638580,7 @@
       "home": "Moss",
       "away": "Kongsvinger",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -638629,7 +638629,7 @@
       "home": "Herrestads",
       "away": "Grebbestads If",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "1"
@@ -638678,14 +638678,14 @@
       "home": "Urquiza",
       "away": "Ituzaingo",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.49,
@@ -638729,8 +638729,8 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -638825,10 +638825,10 @@
       "home": "Ukrayna",
       "away": "Macaristan",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -638874,10 +638874,10 @@
       "home": "Bosna Hersek",
       "away": "Polonya",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -638926,7 +638926,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -638972,10 +638972,10 @@
       "home": "Carshalton Ath",
       "away": "Eastbourne Boro",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -639021,10 +639021,10 @@
       "home": "İtalya",
       "away": "Türkiye",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -639070,10 +639070,10 @@
       "home": "Kuzey İrlanda",
       "away": "Gürcistan",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -641520,10 +641520,10 @@
       "home": "Karadağ",
       "away": "Ermenistan",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -647157,7 +647157,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -647207,7 +647207,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -660728,10 +660728,10 @@
       "home": "Guadeloupe",
       "away": "St. Lucia",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -661662,7 +661662,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -665726,7 +665726,7 @@
       "home": "Lyn Oslo B",
       "away": "Rade",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -671400,6 +671400,55 @@
         "iy2": 2.86
       },
       "openingRecordedAt": "2026-10-05T18:31:07.328Z"
+    },
+    {
+      "code": "4473847",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "20:00",
+      "league": "ARJPC",
+      "home": "Niceforo",
+      "away": "C Espanol",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 6.69,
+        "msX": 3.72,
+        "ms2": 1.24,
+        "cs1X": 2.21,
+        "cs12": 1.05,
+        "csX2": 1,
+        "au25Alt": 1.66,
+        "au25Ust": 1.61,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.84,
+        "kgYok": 1.47,
+        "iy15Alt": 1.28,
+        "iy15Ust": 2.27,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 6.55,
+        "iyX": 2.16,
+        "iy2": 1.65
+      },
+      "openingRecordedAt": "2026-10-05T19:01:37.311Z"
     }
   ]
 }
