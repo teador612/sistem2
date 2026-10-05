@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T16:01:21.440Z",
+  "updatedAt": "2026-10-05T16:15:55.053Z",
   "matches": [
     {
       "code": "5847028",
@@ -112663,10 +112663,10 @@
       "home": "G. Kıbrıs Rum ",
       "away": "Letonya",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -638531,7 +638531,7 @@
       "home": "Liptovsky Miku",
       "away": "Samorin",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -651418,10 +651418,10 @@
       "home": "İtalya (U21)",
       "away": "Polonya (U21)",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -659846,10 +659846,10 @@
       "home": "Torreense U23",
       "away": "Estoril U23",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -661316,10 +661316,10 @@
       "home": "Sirbistan (U21",
       "away": "Rusya (U21)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -661953,10 +661953,10 @@
       "home": "Ruanda",
       "away": "Kenya",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -665679,7 +665679,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -667239,8 +667239,8 @@
     {
       "code": "4513948",
       "week": 24139,
-      "date": "08.10.2026",
-      "time": "04:20",
+      "date": "09.10.2026",
+      "time": "02:05",
       "league": "KOL",
       "home": "Atletico Nacio",
       "away": "Deportes Tolima",
