@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T10:45:52.300Z",
+  "updatedAt": "2026-10-05T11:01:29.598Z",
   "matches": [
     {
       "code": "5847028",
@@ -661463,10 +661463,10 @@
       "home": "Odd Bk Ii",
       "away": "Viking B",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -665481,7 +665481,7 @@
       "home": "Malezya",
       "away": "Vietnam",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -665579,10 +665579,10 @@
       "home": "İngiltere (U19",
       "away": "Belçika (U19)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -665775,7 +665775,7 @@
       "home": "Galler U19",
       "away": "Kuzey İrlanda U",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
