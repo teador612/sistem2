@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T13:31:10.061Z",
+  "updatedAt": "2026-10-05T14:01:23.605Z",
   "matches": [
     {
       "code": "5847028",
@@ -660630,7 +660630,7 @@
       "home": "Besat Kermansh",
       "away": "Nb Abbas",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -665628,14 +665628,14 @@
       "home": "Endonezya",
       "away": "Tayland",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.77,
@@ -665824,10 +665824,10 @@
       "home": "Gürcistan (U19",
       "away": "Letonya U19",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -670273,6 +670273,104 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-05T13:16:01.033Z"
+    },
+    {
+      "code": "4430138",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "19:00",
+      "league": "NOR4",
+      "home": "Skjetten",
+      "away": "Kongsvinger Ii",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.23,
+        "msX": 4.67,
+        "ms2": 5.04,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.24,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.16,
+        "kgYok": 2.77,
+        "iy15Alt": 1.94,
+        "iy15Ust": 1.42,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.53,
+        "iyX": 2.84,
+        "iy2": 4.57
+      },
+      "openingRecordedAt": "2026-10-05T14:01:23.604Z"
+    },
+    {
+      "code": "4546661",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "23:00",
+      "league": "PERKB",
+      "home": "Alianza Atleti",
+      "away": "Sport Boys",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.62,
+        "msX": 3.13,
+        "ms2": 3.48,
+        "cs1X": 1.09,
+        "cs12": 1.12,
+        "csX2": 1.59,
+        "au25Alt": 1.61,
+        "au25Ust": 1.66,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.58,
+        "kgYok": 1.69,
+        "iy15Alt": 1.24,
+        "iy15Ust": 2.39,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.16,
+        "iyX": 1.95,
+        "iy2": 4.04
+      },
+      "openingRecordedAt": "2026-10-05T14:01:23.605Z"
     }
   ]
 }
