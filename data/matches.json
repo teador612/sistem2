@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T16:15:55.053Z",
+  "updatedAt": "2026-10-05T16:31:23.731Z",
   "matches": [
     {
       "code": "5847028",
@@ -651369,7 +651369,7 @@
       "home": "Karadağ (U21)",
       "away": "Ermenistan (U21",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -651420,7 +651420,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -659849,7 +659849,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
