@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T20:11:31.191Z",
+  "updatedAt": "2026-10-05T20:51:23.214Z",
   "matches": [
     {
       "code": "5847028",
@@ -638727,9 +638727,9 @@
       "home": "Cordoba",
       "away": "Tenerife",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -638776,9 +638776,9 @@
       "home": "Fransa",
       "away": "Belçika",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
@@ -638825,10 +638825,10 @@
       "home": "Ukrayna",
       "away": "Macaristan",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -638874,9 +638874,9 @@
       "home": "Bosna Hersek",
       "away": "Polonya",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -638923,7 +638923,7 @@
       "home": "Romanya",
       "away": "İsveç",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -638972,10 +638972,10 @@
       "home": "Carshalton Ath",
       "away": "Eastbourne Boro",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "0",
@@ -639021,9 +639021,9 @@
       "home": "İtalya",
       "away": "Türkiye",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -639070,7 +639070,7 @@
       "home": "Kuzey İrlanda",
       "away": "Gürcistan",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -639119,14 +639119,14 @@
       "home": "Riestra",
       "away": "Corboda Santiag",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.72,
@@ -639170,8 +639170,8 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -641520,7 +641520,7 @@
       "home": "Karadağ",
       "away": "Ermenistan",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -661365,7 +661365,7 @@
       "home": "Lihtenştayn",
       "away": "Cebelitarik",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
