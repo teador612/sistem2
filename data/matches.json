@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T10:01:25.429Z",
+  "updatedAt": "2026-10-05T10:31:06.656Z",
   "matches": [
     {
       "code": "5847028",
@@ -665481,9 +665481,9 @@
       "home": "Malezya",
       "away": "Vietnam",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -665775,7 +665775,7 @@
       "home": "Galler U19",
       "away": "Kuzey İrlanda U",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
