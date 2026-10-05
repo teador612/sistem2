@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T00:45:52.748Z",
+  "updatedAt": "2026-10-05T01:01:50.284Z",
   "matches": [
     {
       "code": "5847028",
@@ -638237,7 +638237,7 @@
       "home": "Guadalajara (K",
       "away": "Juarez (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -650881,7 +650881,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -653231,9 +653231,9 @@
       "home": "Aruba",
       "away": "Anguilla",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -653280,14 +653280,14 @@
       "home": "Kosta Rika",
       "away": "Haiti",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.83,
