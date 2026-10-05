@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T12:31:48.797Z",
+  "updatedAt": "2026-10-05T12:45:53.974Z",
   "matches": [
     {
       "code": "5847028",
@@ -668607,6 +668607,153 @@
         "iy2": 3.95
       },
       "openingRecordedAt": "2026-10-05T12:31:48.797Z"
+    },
+    {
+      "code": "4570716",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "21:45",
+      "league": "FAK",
+      "home": "Halesowen Town",
+      "away": "Stafford Ranger",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.51,
+        "msX": 3.7,
+        "ms2": 3.47,
+        "cs1X": 1.08,
+        "cs12": 1.07,
+        "csX2": 1.72,
+        "au25Alt": 2.01,
+        "au25Ust": 1.37,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.41,
+        "kgYok": 1.96,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-05T12:45:53.974Z"
+    },
+    {
+      "code": "4570712",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "21:45",
+      "league": "FAK",
+      "home": "Spalding Unite",
+      "away": "Bury Town",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.51,
+        "msX": 3.7,
+        "ms2": 3.47,
+        "cs1X": 1.08,
+        "cs12": 1.07,
+        "csX2": 1.72,
+        "au25Alt": 1.72,
+        "au25Ust": 1.57,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.58,
+        "kgYok": 1.7,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-05T12:45:53.974Z"
+    },
+    {
+      "code": "4570714",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "21:45",
+      "league": "FAK",
+      "home": "Scarborough At",
+      "away": "Macclesfield",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.39,
+        "msX": 3.2,
+        "ms2": 2.04,
+        "cs1X": 1.35,
+        "cs12": 1.11,
+        "csX2": 1.24,
+        "au25Alt": 1.51,
+        "au25Ust": 1.78,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.64,
+        "kgYok": 1.64,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-05T12:45:53.974Z"
     }
   ]
 }
