@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T09:15:51.751Z",
+  "updatedAt": "2026-10-05T09:31:05.197Z",
   "matches": [
     {
       "code": "5847028",
@@ -667774,6 +667774,153 @@
         "iy2": 3.05
       },
       "openingRecordedAt": "2026-10-05T08:45:53.451Z"
+    },
+    {
+      "code": "4289791",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "20:00",
+      "league": "U21",
+      "home": "İspanya (U21)",
+      "away": "Romanya (U21)",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 6.67,
+        "ms2": 12.65,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 3.61,
+        "au25Alt": 2.54,
+        "au25Ust": 1.21,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.82,
+        "kgYok": 1.49,
+        "iy15Alt": 1.58,
+        "iy15Ust": 1.69,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.57,
+        "au35Ust": 1.72,
+        "gol01": 5.91,
+        "gol23": 2.06,
+        "gol46": 2.45,
+        "gol7": 5.18,
+        "iy1": 1.29,
+        "iyX": 2.88,
+        "iy2": 9.93
+      },
+      "openingRecordedAt": "2026-10-05T09:31:05.196Z"
+    },
+    {
+      "code": "4289793",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "20:00",
+      "league": "U21",
+      "home": "Kosova (U21)",
+      "away": "Finlandiya (U21",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.02,
+        "msX": 3.13,
+        "ms2": 1.75,
+        "cs1X": 1.5,
+        "cs12": 1.12,
+        "csX2": 1.13,
+        "au25Alt": 1.58,
+        "au25Ust": 1.7,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.59,
+        "kgYok": 1.68,
+        "iy15Alt": 1.23,
+        "iy15Ust": 2.42,
+        "au15Alt": 2.86,
+        "au15Ust": 1.15,
+        "au35Alt": 1.14,
+        "au35Ust": 2.91,
+        "gol01": 2.92,
+        "gol23": 1.73,
+        "gol46": 3.64,
+        "gol7": 15.55,
+        "iy1": 3.68,
+        "iyX": 1.9,
+        "iy2": 2.35
+      },
+      "openingRecordedAt": "2026-10-05T09:31:05.197Z"
+    },
+    {
+      "code": "4289792",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "20:00",
+      "league": "U21",
+      "home": "G.Kibris (U21)",
+      "away": "San Marino (U21",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 12.3,
+        "ms2": 17.5,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 5.58,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.99,
+        "au35Ust": 1.39,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-05T09:31:05.197Z"
     }
   ]
 }
