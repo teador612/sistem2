@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T02:31:07.518Z",
+  "updatedAt": "2026-10-05T02:45:50.718Z",
   "matches": [
     {
       "code": "5847028",
@@ -638387,7 +638387,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -653329,14 +653329,14 @@
       "home": "Nikaragua",
       "away": "Dominik Cumhuri",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.07,
