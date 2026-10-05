@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T17:01:18.663Z",
+  "updatedAt": "2026-10-05T17:15:56.733Z",
   "matches": [
     {
       "code": "5847028",
@@ -112663,10 +112663,10 @@
       "home": "G. Kıbrıs Rum ",
       "away": "Letonya",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -651418,14 +651418,14 @@
       "home": "İtalya (U21)",
       "away": "Polonya (U21)",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.52,
@@ -659846,7 +659846,7 @@
       "home": "Torreense U23",
       "away": "Estoril U23",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -661316,9 +661316,9 @@
       "home": "Sirbistan (U21",
       "away": "Rusya (U21)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -661953,7 +661953,7 @@
       "home": "Ruanda",
       "away": "Kenya",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -665677,9 +665677,9 @@
       "home": "Fana",
       "away": "Asane Ii",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -671204,6 +671204,55 @@
         "iy2": 4.64
       },
       "openingRecordedAt": "2026-10-05T16:01:21.440Z"
+    },
+    {
+      "code": "4540095",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "14:00",
+      "league": "VİETK",
+      "home": "Pho Hien",
+      "away": "Huda Hue",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 9.41,
+        "ms2": 17.5,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-05T17:15:56.732Z"
     }
   ]
 }
