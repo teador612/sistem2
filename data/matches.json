@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T02:01:15.677Z",
+  "updatedAt": "2026-10-05T02:15:50.071Z",
   "matches": [
     {
       "code": "5847028",
@@ -638384,7 +638384,7 @@
       "home": "Deportivo Fas",
       "away": "Inca-Aruba",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -638433,9 +638433,9 @@
       "home": "Pachuca (K)",
       "away": "Toluca (K)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -638482,14 +638482,14 @@
       "home": "Llaneros",
       "away": "America De Cali",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.98,
@@ -650928,7 +650928,7 @@
       "home": "Comunicaciones",
       "away": "Suchitepequez",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
