@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T12:01:19.038Z",
+  "updatedAt": "2026-10-05T12:15:53.671Z",
   "matches": [
     {
       "code": "5847028",
@@ -665532,7 +665532,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -665579,7 +665579,7 @@
       "home": "İngiltere (U19",
       "away": "Belçika (U19)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
