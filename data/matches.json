@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T18:01:14.589Z",
+  "updatedAt": "2026-10-05T18:31:07.328Z",
   "matches": [
     {
       "code": "5847028",
@@ -638580,10 +638580,10 @@
       "home": "Moss",
       "away": "Kongsvinger",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -638629,10 +638629,10 @@
       "home": "Herrestads",
       "away": "Grebbestads If",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -638678,10 +638678,10 @@
       "home": "Urquiza",
       "away": "Ituzaingo",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -647155,10 +647155,10 @@
       "home": "El Porvenir",
       "away": "Canuelas",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -647204,10 +647204,10 @@
       "home": "Paraguayo",
       "away": "Club Mercedes",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -648772,10 +648772,10 @@
       "home": "Lujan",
       "away": "Lamadrid",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -651418,9 +651418,9 @@
       "home": "İtalya (U21)",
       "away": "Polonya (U21)",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "5",
+        "home": "6",
         "away": "2"
       },
       "halfTimeScore": {
@@ -653378,7 +653378,7 @@
       "home": "İsveç (U21)",
       "away": "Makedonya (U21)",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -659846,7 +659846,7 @@
       "home": "Torreense U23",
       "away": "Estoril U23",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "3"
@@ -661659,10 +661659,10 @@
       "home": "B. Bolivar",
       "away": "Leones De Rosar",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -665726,7 +665726,7 @@
       "home": "Lyn Oslo B",
       "away": "Rade",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -671253,6 +671253,153 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-05T17:15:56.732Z"
+    },
+    {
+      "code": "4473854",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "20:00",
+      "league": "ARJPC",
+      "home": "Ca Fenix",
+      "away": "Club Atlas",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.22,
+        "msX": 2.75,
+        "ms2": 2.44,
+        "cs1X": 1.23,
+        "cs12": 1.17,
+        "csX2": 1.29,
+        "au25Alt": 1.34,
+        "au25Ust": 2.09,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.79,
+        "kgYok": 1.51,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.99,
+        "iyX": 1.72,
+        "iy2": 3.24
+      },
+      "openingRecordedAt": "2026-10-05T18:31:07.328Z"
+    },
+    {
+      "code": "4510212",
+      "week": 24139,
+      "date": "08.10.2026",
+      "time": "00:00",
+      "league": "KOLPB",
+      "home": "Leones Fc",
+      "away": "Barranguilla",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.59,
+        "msX": 3.05,
+        "ms2": 3.72,
+        "cs1X": 1.07,
+        "cs12": 1.13,
+        "csX2": 1.62,
+        "au25Alt": 1.51,
+        "au25Ust": 1.79,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.69,
+        "kgYok": 1.58,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.15,
+        "iyX": 1.9,
+        "iy2": 4.32
+      },
+      "openingRecordedAt": "2026-10-05T18:31:07.328Z"
+    },
+    {
+      "code": "4510143",
+      "week": 24139,
+      "date": "08.10.2026",
+      "time": "01:00",
+      "league": "KOLPB",
+      "home": "Centauros",
+      "away": "Union Magdalena",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.35,
+        "msX": 2.92,
+        "ms2": 2.21,
+        "cs1X": 1.29,
+        "cs12": 1.15,
+        "csX2": 1.25,
+        "au25Alt": 1.51,
+        "au25Ust": 1.78,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.59,
+        "kgYok": 1.68,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.01,
+        "iyX": 1.85,
+        "iy2": 2.86
+      },
+      "openingRecordedAt": "2026-10-05T18:31:07.328Z"
     }
   ]
 }
