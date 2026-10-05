@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T09:45:53.099Z",
+  "updatedAt": "2026-10-05T10:01:25.429Z",
   "matches": [
     {
       "code": "5847028",
@@ -665481,14 +665481,14 @@
       "home": "Malezya",
       "away": "Vietnam",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.4,
@@ -665775,14 +665775,14 @@
       "home": "Galler U19",
       "away": "Kuzey İrlanda U",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.4,
@@ -667921,6 +667921,398 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-05T09:31:05.197Z"
+    },
+    {
+      "code": "4289942",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "19:00",
+      "league": "U21",
+      "home": "Letonya (U21)",
+      "away": "Malta (U21)",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.15,
+        "msX": 4.69,
+        "ms2": 7.15,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.56,
+        "au25Alt": 2.08,
+        "au25Ust": 1.35,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.65,
+        "kgYok": 1.62,
+        "iy15Alt": 1.43,
+        "iy15Ust": 1.92,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.37,
+        "au35Ust": 2.04,
+        "gol01": 4.45,
+        "gol23": 1.87,
+        "gol46": 2.74,
+        "gol7": 7.47,
+        "iy1": 1.51,
+        "iyX": 2.42,
+        "iy2": 6.63
+      },
+      "openingRecordedAt": "2026-10-05T10:01:25.428Z"
+    },
+    {
+      "code": "4289943",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "19:00",
+      "league": "U21",
+      "home": "Almanya (U21)",
+      "away": "Gürcistan (U21)",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 9.23,
+        "ms2": 17.5,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 4.71,
+        "au25Alt": 3.45,
+        "au25Ust": 1.08,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.92,
+        "kgYok": 1.43,
+        "iy15Alt": 1.86,
+        "iy15Ust": 1.45,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 2,
+        "au35Ust": 1.39,
+        "gol01": 9.32,
+        "gol23": 2.49,
+        "gol46": 2.26,
+        "gol7": 3.29,
+        "iy1": 1.15,
+        "iyX": 3.6,
+        "iy2": 14.4
+      },
+      "openingRecordedAt": "2026-10-05T10:01:25.429Z"
+    },
+    {
+      "code": "4290003",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "19:30",
+      "league": "U21",
+      "home": "Galler (U21)",
+      "away": "Avusturya (U21)",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.06,
+        "msX": 3.2,
+        "ms2": 1.72,
+        "cs1X": 1.52,
+        "cs12": 1.11,
+        "csX2": 1.12,
+        "au25Alt": 1.65,
+        "au25Ust": 1.62,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.54,
+        "kgYok": 1.74,
+        "iy15Alt": 1.25,
+        "iy15Ust": 2.36,
+        "au15Alt": 3.05,
+        "au15Ust": 1.12,
+        "au35Alt": 1.17,
+        "au35Ust": 2.72,
+        "gol01": 3.14,
+        "gol23": 1.75,
+        "gol46": 3.42,
+        "gol7": 13.5,
+        "iy1": 3.68,
+        "iyX": 1.95,
+        "iy2": 2.28
+      },
+      "openingRecordedAt": "2026-10-05T10:01:25.429Z"
+    },
+    {
+      "code": "4289823",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "19:30",
+      "league": "U21",
+      "home": "Bulgaristan U2",
+      "away": "İskoçya (U21)",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.08,
+        "msX": 2.98,
+        "ms2": 2.46,
+        "cs1X": 1.23,
+        "cs12": 1.14,
+        "csX2": 1.33,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-05T10:01:25.429Z"
+    },
+    {
+      "code": "4289822",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "19:30",
+      "league": "U21",
+      "home": "Portekiz (U21)",
+      "away": "Çek Cumhuriyeti",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.22,
+        "msX": 4.27,
+        "ms2": 5.92,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.28,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-05T10:01:25.429Z"
+    },
+    {
+      "code": "4290002",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "19:30",
+      "league": "U21",
+      "home": "Danimarka (U21",
+      "away": "Belçika (U21)",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.13,
+        "msX": 2.96,
+        "ms2": 2.42,
+        "cs1X": 1.23,
+        "cs12": 1.15,
+        "csX2": 1.31,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-05T10:01:25.429Z"
+    },
+    {
+      "code": "4289962",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "19:45",
+      "league": "U21",
+      "home": "Hollanda (U21)",
+      "away": "Bosna Hersek (U",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 5.57,
+        "ms2": 11.65,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 3.21,
+        "au25Alt": 2.4,
+        "au25Ust": 1.24,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.76,
+        "kgYok": 1.53,
+        "iy15Alt": 1.56,
+        "iy15Ust": 1.72,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.51,
+        "au35Ust": 1.78,
+        "gol01": 5.53,
+        "gol23": 2.01,
+        "gol46": 2.5,
+        "gol7": 5.56,
+        "iy1": 1.32,
+        "iyX": 2.79,
+        "iy2": 9.14
+      },
+      "openingRecordedAt": "2026-10-05T10:01:25.429Z"
+    },
+    {
+      "code": "4289982",
+      "week": 24139,
+      "date": "06.10.2026",
+      "time": "20:00",
+      "league": "U21",
+      "home": "Litvanya (U21)",
+      "away": "Hirvatistan (U2",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 9.93,
+        "msX": 5.84,
+        "ms2": 1.05,
+        "cs1X": 3.16,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 2.4,
+        "au25Ust": 1.24,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.72,
+        "kgYok": 1.57,
+        "iy15Alt": 1.54,
+        "iy15Ust": 1.75,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.51,
+        "au35Ust": 1.79,
+        "gol01": 5.43,
+        "gol23": 2,
+        "gol46": 2.52,
+        "gol7": 5.71,
+        "iy1": 8.31,
+        "iyX": 2.71,
+        "iy2": 1.37
+      },
+      "openingRecordedAt": "2026-10-05T10:01:25.429Z"
     }
   ]
 }
