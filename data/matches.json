@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T23:01:22.097Z",
+  "updatedAt": "2026-10-05T23:15:47.437Z",
   "matches": [
     {
       "code": "5847028",
@@ -639266,7 +639266,7 @@
       "home": "Dep. Merlo",
       "away": "Brown",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -639315,7 +639315,7 @@
       "home": "Velez Sarsfiel",
       "away": "Platense",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -639364,7 +639364,7 @@
       "home": "Estudiantes Lp",
       "away": "Gimnasia Mendoz",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -639416,7 +639416,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -639464,7 +639464,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -648821,7 +648821,7 @@
       "home": "Bogota",
       "away": "Envigado",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -660826,7 +660826,7 @@
       "home": "Martinik",
       "away": "El Salvador",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
