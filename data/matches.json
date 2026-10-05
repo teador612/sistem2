@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T17:45:50.352Z",
+  "updatedAt": "2026-10-05T18:01:14.589Z",
   "matches": [
     {
       "code": "5847028",
@@ -112663,9 +112663,9 @@
       "home": "G. Kıbrıs Rum ",
       "away": "Letonya",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -638580,14 +638580,14 @@
       "home": "Moss",
       "away": "Kongsvinger",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.16,
@@ -638629,14 +638629,14 @@
       "home": "Herrestads",
       "away": "Grebbestads If",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.12,
@@ -651421,7 +651421,7 @@
       "status": 3,
       "score": {
         "home": "5",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -661316,7 +661316,7 @@
       "home": "Sirbistan (U21",
       "away": "Rusya (U21)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -661953,7 +661953,7 @@
       "home": "Ruanda",
       "away": "Kenya",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -665677,10 +665677,10 @@
       "home": "Fana",
       "away": "Asane Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "5",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
