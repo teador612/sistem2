@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T08:01:23.178Z",
+  "updatedAt": "2026-10-06T08:15:57.243Z",
   "matches": [
     {
       "code": "5847028",
@@ -668813,7 +668813,7 @@
       "home": "Changchun Xidu",
       "away": "Guangzhou Dande",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -668914,7 +668914,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
