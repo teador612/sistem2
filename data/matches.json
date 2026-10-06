@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T16:01:20.021Z",
+  "updatedAt": "2026-10-06T16:15:57.895Z",
   "matches": [
     {
       "code": "5847028",
@@ -662250,7 +662250,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "4"
+        "away": "5"
       },
       "halfTimeScore": {
         "home": "1",
@@ -665922,9 +665922,9 @@
       "home": "Felgueiras U23",
       "away": "Estrela U23",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -667931,10 +667931,10 @@
       "home": "Letonya (U21)",
       "away": "Malta (U21)",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -667980,10 +667980,10 @@
       "home": "Almanya (U21)",
       "away": "Gürcistan (U21)",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -668519,10 +668519,10 @@
       "home": "Rusya",
       "away": "Nijerya",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -670577,7 +670577,7 @@
       "home": "Trollhattan Fc",
       "away": "Mjallby",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -670724,7 +670724,7 @@
       "home": "Raufoss",
       "away": "Start",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "3"
@@ -672194,10 +672194,10 @@
       "home": "Karşiyaka",
       "away": "1923 Afyonkarah",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -675222,6 +675222,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-06T15:15:58.656Z"
+    },
+    {
+      "code": "4571005",
+      "week": 24140,
+      "date": "07.10.2026",
+      "time": "21:30",
+      "league": "URUK",
+      "home": "Cerrito",
+      "away": "Montevideo Wand",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.57,
+        "msX": 3.15,
+        "ms2": 3.77,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 1.44,
+        "au25Ust": 1.88,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.79,
+        "kgYok": 1.51,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-06T16:15:57.894Z"
     }
   ]
 }
