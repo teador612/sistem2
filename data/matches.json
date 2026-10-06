@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T12:01:25.776Z",
+  "updatedAt": "2026-10-06T12:15:54.352Z",
   "matches": [
     {
       "code": "5847028",
@@ -662149,7 +662149,7 @@
       "home": "Güney Kore",
       "away": "Özbekistan",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -669107,7 +669107,7 @@
       "home": "Changchun Yata",
       "away": "Yanbian Longdin",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -669156,9 +669156,9 @@
       "home": "Danimarka  U19",
       "away": "Hollanda (U19)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -669205,10 +669205,10 @@
       "home": "Wuxi Wugou",
       "away": "Suzhou Dongwu",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -669256,7 +669256,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -669453,7 +669453,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -669499,10 +669499,10 @@
       "home": "Queens Park Ra",
       "away": "Coventry City U",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -669548,10 +669548,10 @@
       "home": "Bristol City U",
       "away": "Charlton Athlet",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -669597,10 +669597,10 @@
       "home": "Hull City U21",
       "away": "Wigan Athletic ",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -670675,10 +670675,10 @@
       "home": "Kariobangi Sha",
       "away": "Mombasa United",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -671214,9 +671214,9 @@
       "home": "Pho Hien",
       "away": "Huda Hue",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -671949,9 +671949,9 @@
       "home": "Binh Phuoc",
       "away": "Dong Thap",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -672096,9 +672096,9 @@
       "home": "Bitlis Özgüzel",
       "away": "Silifke Bld.",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -673468,10 +673468,10 @@
       "home": "Werder Bremen ",
       "away": "Hannover 96 (Am",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
