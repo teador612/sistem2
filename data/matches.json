@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T07:45:50.294Z",
+  "updatedAt": "2026-10-06T08:01:23.178Z",
   "matches": [
     {
       "code": "5847028",
@@ -668813,14 +668813,14 @@
       "home": "Changchun Xidu",
       "away": "Guangzhou Dande",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.48,
@@ -668862,10 +668862,10 @@
       "home": "Bit Beijing",
       "away": "Chengdu Rongche",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -668911,10 +668911,10 @@
       "home": "Qingdao Red Li",
       "away": "Wuhan Three Tow",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -668960,10 +668960,10 @@
       "home": "Shanghai Segen",
       "away": "Wenzhou Fc",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
