@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T22:45:54.946Z",
+  "updatedAt": "2026-10-06T23:01:19.698Z",
   "matches": [
     {
       "code": "5847028",
@@ -666855,7 +666855,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -669989,10 +669989,10 @@
       "home": "Saint Vincent ",
       "away": "Sint Maarten",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "3",
@@ -670969,10 +670969,10 @@
       "home": "Antiqua And Ba",
       "away": "Aruba",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
