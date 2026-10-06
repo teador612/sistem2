@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T13:01:22.780Z",
+  "updatedAt": "2026-10-06T13:15:58.035Z",
   "matches": [
     {
       "code": "5847028",
@@ -667394,7 +667394,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -667443,7 +667443,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -669354,7 +669354,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -670626,10 +670626,10 @@
       "home": "Colchester Uni",
       "away": "Swansea (B)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -673468,7 +673468,7 @@
       "home": "Werder Bremen ",
       "away": "Hannover 96 (Am",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -673997,6 +673997,104 @@
         "iy2": 3.66
       },
       "openingRecordedAt": "2026-10-06T12:01:25.776Z"
+    },
+    {
+      "code": "4566191",
+      "week": 24140,
+      "date": "07.10.2026",
+      "time": "13:00",
+      "league": "JPK",
+      "home": "Kawasaki",
+      "away": "Tegevajaro Miya",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.52,
+        "msX": 3.21,
+        "ms2": 3.91,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-06T13:15:58.035Z"
+    },
+    {
+      "code": "4419372",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "02:00",
+      "league": "USL1",
+      "home": "Naples",
+      "away": "Richmond Kicker",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.5,
+        "msX": 3.43,
+        "ms2": 3.81,
+        "cs1X": 1.06,
+        "cs12": 1.09,
+        "csX2": 1.73,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.37,
+        "kgYok": 2.02,
+        "iy15Alt": 1.41,
+        "iy15Ust": 1.94,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.37,
+        "au35Ust": 2.04,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.92,
+        "iyX": 2.21,
+        "iy2": 4.04
+      },
+      "openingRecordedAt": "2026-10-06T13:15:58.035Z"
     }
   ]
 }
