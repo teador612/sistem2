@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T14:45:54.490Z",
+  "updatedAt": "2026-10-06T15:01:29.518Z",
   "matches": [
     {
       "code": "5847028",
@@ -639609,14 +639609,14 @@
       "home": "Nk Bilje",
       "away": "Jadran Dekani",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.91,
@@ -662002,14 +662002,14 @@
       "home": "Kazakistan",
       "away": "Faroe Adalari",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.12,
@@ -662198,9 +662198,9 @@
       "home": "Azerbaycan (U2",
       "away": "Cebelitarık U21",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -662247,7 +662247,7 @@
       "home": "Hindistan",
       "away": "Uruguay",
       "mbs": 2,
-      "status": 1,
+      "status": 11,
       "score": {
         "home": "1",
         "away": "1"
@@ -665922,10 +665922,10 @@
       "home": "Felgueiras U23",
       "away": "Estrela U23",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -665971,14 +665971,14 @@
       "home": "Rio Ave U23",
       "away": "Moreirense U23",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.91,
@@ -669499,9 +669499,9 @@
       "home": "Queens Park Ra",
       "away": "Coventry City U",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "5"
       },
       "halfTimeScore": {
@@ -669548,9 +669548,9 @@
       "home": "Bristol City U",
       "away": "Charlton Athlet",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
@@ -669597,9 +669597,9 @@
       "home": "Hull City U21",
       "away": "Wigan Athletic ",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -669646,14 +669646,14 @@
       "home": "Moldova (U21)",
       "away": "Kazakistan (U21",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.12,
@@ -670626,7 +670626,7 @@
       "home": "Colchester Uni",
       "away": "Swansea (B)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -670675,7 +670675,7 @@
       "home": "Kariobangi Sha",
       "away": "Mombasa United",
       "mbs": 3,
-      "status": 3,
+      "status": 11,
       "score": {
         "home": "2",
         "away": "1"
@@ -674634,6 +674634,202 @@
         "iy2": 8.11
       },
       "openingRecordedAt": "2026-10-06T14:45:54.490Z"
+    },
+    {
+      "code": "4547624",
+      "week": 24140,
+      "date": "07.10.2026",
+      "time": "16:00",
+      "league": "UGA",
+      "home": "Ntugasaze",
+      "away": "Mbarara City",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 4.19,
+        "msX": 3.01,
+        "ms2": 1.53,
+        "cs1X": 1.68,
+        "cs12": 1.13,
+        "csX2": 1,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-06T15:01:29.517Z"
+    },
+    {
+      "code": "4483676",
+      "week": 24140,
+      "date": "07.10.2026",
+      "time": "22:00",
+      "league": "VENK",
+      "home": "Deportivo Peta",
+      "away": "Atletico Avila",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.43,
+        "msX": 3.4,
+        "ms2": 4.42,
+        "cs1X": 1,
+        "cs12": 1.09,
+        "csX2": 1.83,
+        "au25Alt": 1.41,
+        "au25Ust": 1.94,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.96,
+        "kgYok": 1.4,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.03,
+        "iyX": 1.86,
+        "iy2": 5.24
+      },
+      "openingRecordedAt": "2026-10-06T15:01:29.517Z"
+    },
+    {
+      "code": "4483682",
+      "week": 24140,
+      "date": "07.10.2026",
+      "time": "22:30",
+      "league": "VENK",
+      "home": "Zamora",
+      "away": "Atletico Barina",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.16,
+        "msX": 4.52,
+        "ms2": 7.01,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.49,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.56,
+        "kgYok": 1.72,
+        "iy15Alt": 1.48,
+        "iy15Ust": 1.83,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.44,
+        "au35Ust": 1.91,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.51,
+        "iyX": 2.49,
+        "iy2": 6.35
+      },
+      "openingRecordedAt": "2026-10-06T15:01:29.517Z"
+    },
+    {
+      "code": "4483668",
+      "week": 24140,
+      "date": "07.10.2026",
+      "time": "22:30",
+      "league": "VENK",
+      "home": "Mineros",
+      "away": "Monagas",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.8,
+        "msX": 3.49,
+        "ms2": 1.49,
+        "cs1X": 1.74,
+        "cs12": 1.09,
+        "csX2": 1.06,
+        "au25Alt": 1.55,
+        "au25Ust": 1.73,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.72,
+        "kgYok": 1.56,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 4.52,
+        "iyX": 1.92,
+        "iy2": 2.08
+      },
+      "openingRecordedAt": "2026-10-06T15:01:29.517Z"
     }
   ]
 }
