@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-06T01:45:50.776Z",
+  "updatedAt": "2026-10-06T02:01:16.482Z",
   "matches": [
     {
       "code": "5847028",
@@ -639511,10 +639511,10 @@
       "home": "Independiente ",
       "away": "Santa Fe",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -639563,7 +639563,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -661708,7 +661708,7 @@
       "home": "Bermuda",
       "away": "Barbados",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -661757,7 +661757,7 @@
       "home": "Grenada",
       "away": "Bonaire",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "4"
@@ -661806,9 +661806,9 @@
       "home": "Guatemala",
       "away": "Surinam",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -661904,10 +661904,10 @@
       "home": "Honduras",
       "away": "Jamaika",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -671792,6 +671792,104 @@
         "iy2": 5.09
       },
       "openingRecordedAt": "2026-10-06T00:01:27.385Z"
+    },
+    {
+      "code": "4478195",
+      "week": 24139,
+      "date": "07.10.2026",
+      "time": "15:00",
+      "league": "AFCAKŞ",
+      "home": "Ratchaburi Fc",
+      "away": "Clb Tp Ho Chi M",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.37,
+        "msX": 3.54,
+        "ms2": 4.79,
+        "cs1X": 1,
+        "cs12": 1.08,
+        "csX2": 1.92,
+        "au25Alt": 1.78,
+        "au25Ust": 1.51,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.58,
+        "kgYok": 1.69,
+        "iy15Alt": 1.31,
+        "iy15Ust": 2.16,
+        "au15Alt": 3.4,
+        "au15Ust": 1.08,
+        "au35Alt": 1.23,
+        "au35Ust": 2.43,
+        "gol01": 3.54,
+        "gol23": 1.79,
+        "gol46": 3.12,
+        "gol7": 10.7,
+        "iy1": 1.8,
+        "iyX": 2.14,
+        "iy2": 5
+      },
+      "openingRecordedAt": "2026-10-06T02:01:16.482Z"
+    },
+    {
+      "code": "4478193",
+      "week": 24139,
+      "date": "07.10.2026",
+      "time": "15:00",
+      "league": "AFCAKŞ",
+      "home": "Buriram Utd",
+      "away": "Borneo Fc",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.14,
+        "msX": 4.76,
+        "ms2": 7.34,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.6,
+        "au25Alt": 2.3,
+        "au25Ust": 1.27,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.56,
+        "kgYok": 1.72,
+        "iy15Alt": 1.51,
+        "iy15Ust": 1.79,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.47,
+        "au35Ust": 1.85,
+        "gol01": 5.18,
+        "gol23": 1.97,
+        "gol46": 2.56,
+        "gol7": 6.06,
+        "iy1": 1.48,
+        "iyX": 2.55,
+        "iy2": 6.55
+      },
+      "openingRecordedAt": "2026-10-06T02:01:16.482Z"
     }
   ]
 }
