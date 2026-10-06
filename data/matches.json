@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T22:01:26.172Z",
+  "updatedAt": "2026-10-06T22:16:02.456Z",
   "matches": [
     {
       "code": "5847028",
@@ -660091,10 +660091,10 @@
       "home": "Atletico Güima",
       "away": "Sporting Hortal",
       "mbs": 3,
-      "status": 9,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -669989,7 +669989,7 @@
       "home": "Saint Vincent ",
       "away": "Sint Maarten",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "0"
