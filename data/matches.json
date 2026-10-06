@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T21:45:57.799Z",
+  "updatedAt": "2026-10-06T22:01:26.172Z",
   "matches": [
     {
       "code": "5847028",
@@ -669989,14 +669989,14 @@
       "home": "Saint Vincent ",
       "away": "Sint Maarten",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.24,
@@ -670871,9 +670871,9 @@
       "home": "Saint Martin",
       "away": "Bahamalar",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "5",
+        "home": "6",
         "away": "0"
       },
       "halfTimeScore": {
@@ -670920,9 +670920,9 @@
       "home": "Montserrat",
       "away": "Turks Ve Caicos",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
