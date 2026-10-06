@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-06T01:31:07.657Z",
+  "updatedAt": "2026-10-06T01:45:50.776Z",
   "matches": [
     {
       "code": "5847028",
@@ -643627,7 +643627,7 @@
       "home": "Orsomarso",
       "away": "Quindio",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -661711,7 +661711,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -661760,7 +661760,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "1",
