@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T10:01:22.089Z",
+  "updatedAt": "2026-10-06T10:15:48.995Z",
   "matches": [
     {
       "code": "5847028",
@@ -662100,10 +662100,10 @@
       "home": "União De Leiri",
       "away": "Santa Clara U23",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -669058,7 +669058,7 @@
       "home": "Hubei Istar",
       "away": "Lanzhou Longyua",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -673703,6 +673703,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-06T10:01:22.088Z"
+    },
+    {
+      "code": "4571006",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "02:00",
+      "league": "URUK",
+      "home": "Plaza Colonia",
+      "away": "Juventud Dl Pie",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.8,
+        "msX": 2.54,
+        "ms2": 2.12,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 1.34,
+        "au25Ust": 2.11,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.76,
+        "kgYok": 1.52,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-06T10:15:48.995Z"
     }
   ]
 }
