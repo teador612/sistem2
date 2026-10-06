@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T23:15:54.039Z",
+  "updatedAt": "2026-10-06T23:31:08.349Z",
   "matches": [
     {
       "code": "5847028",
@@ -664011,10 +664011,10 @@
       "home": "Arjantin",
       "away": "Benin",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -664060,10 +664060,10 @@
       "home": "Colo Colo",
       "away": "Puerto Montt",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -666853,14 +666853,14 @@
       "home": "Sport Recife",
       "away": "Sao Bernardo",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.64,
@@ -666902,10 +666902,10 @@
       "home": "Goias",
       "away": "Athletic Club",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
