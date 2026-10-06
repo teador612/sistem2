@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T14:31:18.898Z",
+  "updatedAt": "2026-10-06T14:45:54.490Z",
   "matches": [
     {
       "code": "5847028",
@@ -662198,14 +662198,14 @@
       "home": "Azerbaycan (U2",
       "away": "Cebelitarık U21",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
@@ -669648,8 +669648,8 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -674536,6 +674536,104 @@
         "iy2": 3.56
       },
       "openingRecordedAt": "2026-10-06T14:31:18.898Z"
+    },
+    {
+      "code": "4547625",
+      "week": 24140,
+      "date": "07.10.2026",
+      "time": "16:00",
+      "league": "UGA",
+      "home": "Kataka",
+      "away": "Sc Villa",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 6.84,
+        "msX": 3.45,
+        "ms2": 1.27,
+        "cs1X": 2.13,
+        "cs12": 1.07,
+        "csX2": 1,
+        "au25Alt": 1.36,
+        "au25Ust": 2.07,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 2.32,
+        "kgYok": 1.26,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 7.34,
+        "iyX": 1.92,
+        "iy2": 1.78
+      },
+      "openingRecordedAt": "2026-10-06T14:45:54.490Z"
+    },
+    {
+      "code": "4447618",
+      "week": 24140,
+      "date": "07.10.2026",
+      "time": "17:00",
+      "league": "ÖZB",
+      "home": "Neftchi Fargon",
+      "away": "Xorazm Urganch",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.08,
+        "msX": 5.32,
+        "ms2": 9.45,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.97,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.77,
+        "kgYok": 1.52,
+        "iy15Alt": 1.47,
+        "iy15Ust": 1.85,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.41,
+        "au35Ust": 1.95,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.4,
+        "iyX": 2.58,
+        "iy2": 8.11
+      },
+      "openingRecordedAt": "2026-10-06T14:45:54.490Z"
     }
   ]
 }
