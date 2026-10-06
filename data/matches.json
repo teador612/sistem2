@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T12:31:05.613Z",
+  "updatedAt": "2026-10-06T12:45:58.164Z",
   "matches": [
     {
       "code": "5847028",
@@ -667392,7 +667392,7 @@
       "home": "Hebei Kungfu",
       "away": "Dalian Huayi",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -667441,7 +667441,7 @@
       "home": "Nantong Zhiyun",
       "away": "Ningbo",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -669109,7 +669109,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -669207,7 +669207,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -669254,7 +669254,7 @@
       "home": "Guizhou Zhuche",
       "away": "Shanghai Port I",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -669303,7 +669303,7 @@
       "home": "Heilongjiang L",
       "away": "Meizhou Hakka",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -669401,7 +669401,7 @@
       "home": "Hangzhou Linpi",
       "away": "Xian Ronghai",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -669450,7 +669450,7 @@
       "home": "Shenzhen 2028",
       "away": "Shandong Taisha",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -671951,7 +671951,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "3"
       },
       "halfTimeScore": {
@@ -672098,7 +672098,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "4",
+        "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
@@ -673471,7 +673471,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
