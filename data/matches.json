@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T20:45:56.383Z",
+  "updatedAt": "2026-10-06T21:01:22.332Z",
   "matches": [
     {
       "code": "5847028",
@@ -663913,10 +663913,10 @@
       "home": "Ilkeston Town",
       "away": "Guiseley",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -663962,7 +663962,7 @@
       "home": "Angola",
       "away": "Malavi",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "1"
@@ -666167,7 +666167,7 @@
       "home": "Maldon And Tip",
       "away": "Welling Utd",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -666412,7 +666412,7 @@
       "home": "Dartford",
       "away": "Ramsgate",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -666608,9 +666608,9 @@
       "home": "Stockton Town",
       "away": "Bury",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -666657,7 +666657,7 @@
       "home": "Curzon Ashton",
       "away": "Redcar Athletic",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "1"
@@ -666755,14 +666755,14 @@
       "home": "Benjamin Aceva",
       "away": "Indep Cambo Gra",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.93,
@@ -668715,10 +668715,10 @@
       "home": "Scarborough At",
       "away": "Macclesfield",
       "mbs": 3,
-      "status": 3,
+      "status": 5,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -669891,7 +669891,7 @@
       "home": "Wingate",
       "away": "Bedford Town",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "3"
@@ -669940,9 +669940,9 @@
       "home": "Atherton Colli",
       "away": "Trafford",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -669989,10 +669989,10 @@
       "home": "Saint Vincent ",
       "away": "Sint Maarten",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -670332,14 +670332,14 @@
       "home": "Alianza Atleti",
       "away": "Sport Boys",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.62,
@@ -670479,7 +670479,7 @@
       "home": "Pontypridd Tow",
       "away": "Llantwit Major",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "1"
@@ -670871,14 +670871,14 @@
       "home": "Saint Martin",
       "away": "Bahamalar",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
@@ -670920,14 +670920,14 @@
       "home": "Montserrat",
       "away": "Turks Ve Caicos",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
