@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T22:31:10.749Z",
+  "updatedAt": "2026-10-06T22:45:54.946Z",
   "matches": [
     {
       "code": "5847028",
@@ -660085,7 +660085,7 @@
     {
       "code": "4570619",
       "week": 24140,
-      "date": "04.10.2026",
+      "date": "11.10.2026",
       "time": "14:00",
       "league": "İSPK",
       "home": "Atletico Güima",
@@ -666853,10 +666853,10 @@
       "home": "Sport Recife",
       "away": "Sao Bernardo",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -669992,7 +669992,7 @@
       "status": 3,
       "score": {
         "home": "4",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "3",
@@ -675369,6 +675369,55 @@
         "iy2": 4.03
       },
       "openingRecordedAt": "2026-10-06T21:45:57.798Z"
+    },
+    {
+      "code": "4478178",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "15:00",
+      "league": "AFCAKŞ",
+      "home": "Port Fc",
+      "away": "Persib",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.74,
+        "msX": 3.07,
+        "ms2": 3.11,
+        "cs1X": 1.12,
+        "cs12": 1.13,
+        "csX2": 1.51,
+        "au25Alt": 1.51,
+        "au25Ust": 1.79,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.66,
+        "kgYok": 1.61,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.68,
+        "au15Ust": 1.18,
+        "au35Alt": 1.1,
+        "au35Ust": 3.16,
+        "gol01": 2.71,
+        "gol23": 1.73,
+        "gol46": 3.92,
+        "gol7": 18.35,
+        "iy1": 2.36,
+        "iyX": 1.86,
+        "iy2": 3.82
+      },
+      "openingRecordedAt": "2026-10-06T22:45:54.946Z"
     }
   ]
 }
