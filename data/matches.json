@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-06T01:15:54.311Z",
+  "updatedAt": "2026-10-06T01:31:07.657Z",
   "matches": [
     {
       "code": "5847028",
@@ -639560,7 +639560,7 @@
       "home": "Banfield",
       "away": "Rosario Central",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -643627,14 +643627,14 @@
       "home": "Orsomarso",
       "away": "Quindio",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.29,
@@ -661710,7 +661710,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -661760,7 +661760,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
