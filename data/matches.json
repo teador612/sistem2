@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T13:46:00.486Z",
+  "updatedAt": "2026-10-06T14:01:31.722Z",
   "matches": [
     {
       "code": "5847028",
@@ -662198,10 +662198,10 @@
       "home": "Azerbaycan (U2",
       "away": "Cebelitarık U21",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -665971,10 +665971,10 @@
       "home": "Rio Ave U23",
       "away": "Moreirense U23",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -669646,10 +669646,10 @@
       "home": "Moldova (U21)",
       "away": "Kazakistan (U21",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -670626,14 +670626,14 @@
       "home": "Colchester Uni",
       "away": "Swansea (B)",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.19,
@@ -673468,7 +673468,7 @@
       "home": "Werder Bremen ",
       "away": "Hannover 96 (Am",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
