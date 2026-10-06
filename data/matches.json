@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24139,
-  "updatedAt": "2026-10-05T23:45:52.390Z",
+  "updatedAt": "2026-10-06T00:01:27.385Z",
   "matches": [
     {
       "code": "5847028",
@@ -639266,7 +639266,7 @@
       "home": "Dep. Merlo",
       "away": "Brown",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -639315,10 +639315,10 @@
       "home": "Velez Sarsfiel",
       "away": "Platense",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -639364,9 +639364,9 @@
       "home": "Estudiantes Lp",
       "away": "Gimnasia Mendoz",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -639462,14 +639462,14 @@
       "home": "Nacional Df",
       "away": "Torque",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.79,
@@ -648821,9 +648821,9 @@
       "home": "Bogota",
       "away": "Envigado",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "3"
       },
       "halfTimeScore": {
@@ -660826,7 +660826,7 @@
       "home": "Martinik",
       "away": "El Salvador",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -661708,10 +661708,10 @@
       "home": "Bermuda",
       "away": "Barbados",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -661757,10 +661757,10 @@
       "home": "Grenada",
       "away": "Bonaire",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -661806,10 +661806,10 @@
       "home": "Guatemala",
       "away": "Surinam",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -671498,6 +671498,300 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-05T20:11:31.191Z"
+    },
+    {
+      "code": "4546117",
+      "week": 24139,
+      "date": "07.10.2026",
+      "time": "20:00",
+      "league": "CZYR",
+      "home": "Cs Constantine",
+      "away": "Biskra",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.59,
+        "msX": 2.8,
+        "ms2": 4.23,
+        "cs1X": 1,
+        "cs12": 1.16,
+        "csX2": 1.63,
+        "au25Alt": 1.28,
+        "au25Ust": 2.27,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 2.07,
+        "kgYok": 1.36,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.12,
+        "au15Ust": 1.33,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 2.11,
+        "gol23": 1.76,
+        "gol46": 5.38,
+        "gol7": 35,
+        "iy1": 2.22,
+        "iyX": 1.73,
+        "iy2": 5.08
+      },
+      "openingRecordedAt": "2026-10-06T00:01:27.385Z"
+    },
+    {
+      "code": "4546115",
+      "week": 24139,
+      "date": "07.10.2026",
+      "time": "20:00",
+      "league": "CZYR",
+      "home": "Es Ben Aknoun",
+      "away": "Js El Biar",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.67,
+        "msX": 2.74,
+        "ms2": 3.85,
+        "cs1X": 1.06,
+        "cs12": 1.17,
+        "csX2": 1.55,
+        "au25Alt": 1.36,
+        "au25Ust": 2.06,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.85,
+        "kgYok": 1.47,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.34,
+        "au15Ust": 1.26,
+        "au35Alt": 1,
+        "au35Ust": 3.76,
+        "gol01": 2.35,
+        "gol23": 1.73,
+        "gol46": 4.63,
+        "gol7": 26,
+        "iy1": 2.26,
+        "iyX": 1.79,
+        "iy2": 4.52
+      },
+      "openingRecordedAt": "2026-10-06T00:01:27.385Z"
+    },
+    {
+      "code": "4546116",
+      "week": 24139,
+      "date": "07.10.2026",
+      "time": "22:00",
+      "league": "CZYR",
+      "home": "Belouizdad",
+      "away": "Usm Khenchela",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.17,
+        "msX": 3.81,
+        "ms2": 9.1,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.43,
+        "au25Alt": 1.42,
+        "au25Ust": 1.93,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 2.45,
+        "kgYok": 1.23,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.48,
+        "au15Ust": 1.23,
+        "au35Alt": 1.07,
+        "au35Ust": 3.49,
+        "gol01": 2.49,
+        "gol23": 1.73,
+        "gol46": 4.3,
+        "gol7": 22.3,
+        "iy1": 1.61,
+        "iyX": 2.05,
+        "iy2": 8.97
+      },
+      "openingRecordedAt": "2026-10-06T00:01:27.385Z"
+    },
+    {
+      "code": "4546113",
+      "week": 24139,
+      "date": "08.10.2026",
+      "time": "20:00",
+      "league": "CZYR",
+      "home": "Rouisset",
+      "away": "Usm Alger",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.4,
+        "msX": 2.58,
+        "ms2": 2.39,
+        "cs1X": 1.24,
+        "cs12": 1.2,
+        "csX2": 1.24,
+        "au25Alt": 1.24,
+        "au25Ust": 2.4,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.97,
+        "kgYok": 1.4,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.01,
+        "au15Ust": 1.37,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 2,
+        "gol23": 1.78,
+        "gol46": 5.84,
+        "gol7": 35,
+        "iy1": 3.26,
+        "iyX": 1.64,
+        "iy2": 3.26
+      },
+      "openingRecordedAt": "2026-10-06T00:01:27.385Z"
+    },
+    {
+      "code": "4546114",
+      "week": 24139,
+      "date": "08.10.2026",
+      "time": "20:00",
+      "league": "CZYR",
+      "home": "Js Saoura",
+      "away": "Oued Akbou",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.4,
+        "msX": 3.05,
+        "ms2": 5.51,
+        "cs1X": 1,
+        "cs12": 1.12,
+        "csX2": 1.86,
+        "au25Alt": 1.33,
+        "au25Ust": 2.13,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 2.14,
+        "kgYok": 1.33,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.25,
+        "au15Ust": 1.29,
+        "au35Alt": 1,
+        "au35Ust": 3.97,
+        "gol01": 2.25,
+        "gol23": 1.74,
+        "gol46": 4.9,
+        "gol7": 29.5,
+        "iy1": 1.93,
+        "iyX": 1.85,
+        "iy2": 6.13
+      },
+      "openingRecordedAt": "2026-10-06T00:01:27.385Z"
+    },
+    {
+      "code": "4546118",
+      "week": 24139,
+      "date": "08.10.2026",
+      "time": "22:00",
+      "league": "CZYR",
+      "home": "Mc Oran",
+      "away": "Es Setif",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.57,
+        "msX": 2.87,
+        "ms2": 4.24,
+        "cs1X": 1,
+        "cs12": 1.15,
+        "csX2": 1.65,
+        "au25Alt": 1.3,
+        "au25Ust": 2.22,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 2.05,
+        "kgYok": 1.36,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.14,
+        "au15Ust": 1.32,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 2.14,
+        "gol23": 1.75,
+        "gol46": 5.25,
+        "gol7": 34,
+        "iy1": 2.2,
+        "iyX": 1.75,
+        "iy2": 5.09
+      },
+      "openingRecordedAt": "2026-10-06T00:01:27.385Z"
     }
   ]
 }
