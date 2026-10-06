@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T10:15:48.995Z",
+  "updatedAt": "2026-10-06T10:31:09.968Z",
   "matches": [
     {
       "code": "5847028",
@@ -669009,10 +669009,10 @@
       "home": "Lam Dong",
       "away": "Slna",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
