@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T18:31:13.432Z",
+  "updatedAt": "2026-10-06T18:46:19.748Z",
   "matches": [
     {
       "code": "5847028",
@@ -662296,7 +662296,7 @@
       "home": "Ürdün",
       "away": "Venezuela",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
@@ -662345,9 +662345,9 @@
       "home": "Andorra (U21)",
       "away": "Slovakya (U21)",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
@@ -662394,9 +662394,9 @@
       "home": "İrlanda Cumhur",
       "away": "İngiltere (U21)",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
-        "home": "3",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -662443,9 +662443,9 @@
       "home": "Cezayir",
       "away": "Nijer",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
@@ -662494,7 +662494,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -662543,7 +662543,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -662592,7 +662592,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -662641,7 +662641,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -662788,7 +662788,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -662886,7 +662886,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -662935,7 +662935,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -662985,7 +662985,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -663082,7 +663082,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -663129,10 +663129,10 @@
       "home": "Newport County",
       "away": "Plymouth",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -663278,7 +663278,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -666020,7 +666020,7 @@
       "home": "Claypole",
       "away": "Dyc Espanol",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
@@ -667784,9 +667784,9 @@
       "home": "İspanya (U21)",
       "away": "Romanya (U21)",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
-        "home": "7",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
@@ -667833,10 +667833,10 @@
       "home": "Kosova (U21)",
       "away": "Finlandiya (U21",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
-        "home": "3",
-        "away": "3"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -668029,10 +668029,10 @@
       "home": "Galler (U21)",
       "away": "Avusturya (U21)",
       "mbs": 2,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "7"
+        "away": "5"
       },
       "halfTimeScore": {
         "home": "1",
@@ -668078,10 +668078,10 @@
       "home": "Bulgaristan U2",
       "away": "İskoçya (U21)",
       "mbs": 2,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -668127,7 +668127,7 @@
       "home": "Portekiz (U21)",
       "away": "Çek Cumhuriyeti",
       "mbs": 2,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -668176,7 +668176,7 @@
       "home": "Danimarka (U21",
       "away": "Belçika (U21)",
       "mbs": 2,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -668227,7 +668227,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "3",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -668274,7 +668274,7 @@
       "home": "Litvanya (U21)",
       "away": "Hirvatistan (U2",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
@@ -668519,7 +668519,7 @@
       "home": "Rusya",
       "away": "Nijerya",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "3"
@@ -668568,10 +668568,10 @@
       "home": "Suudi Arabista",
       "away": "Birlesik Arap E",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -669744,7 +669744,7 @@
       "home": "Lüksemburg (U2",
       "away": "Estonya (U21)",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
@@ -669793,10 +669793,10 @@
       "home": "Fransa (U21)",
       "away": "İsviçre (U21)",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
-        "home": "6",
-        "away": "1"
+        "home": "3",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "3",
@@ -669842,7 +669842,7 @@
       "home": "Faroe Adalari ",
       "away": "İzlanda (U21)",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "2"
@@ -670384,7 +670384,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -670433,7 +670433,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -671263,7 +671263,7 @@
       "home": "Ca Fenix",
       "away": "Club Atlas",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
@@ -671410,14 +671410,14 @@
       "home": "Niceforo",
       "away": "C Espanol",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "0",
-        "away": "3"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "3"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 6.69,
