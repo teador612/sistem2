@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T15:46:00.926Z",
+  "updatedAt": "2026-10-06T16:01:20.021Z",
   "matches": [
     {
       "code": "5847028",
@@ -639609,7 +639609,7 @@
       "home": "Nk Bilje",
       "away": "Jadran Dekani",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -662002,7 +662002,7 @@
       "home": "Kazakistan",
       "away": "Faroe Adalari",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -662250,7 +662250,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "1",
@@ -665922,14 +665922,14 @@
       "home": "Felgueiras U23",
       "away": "Estrela U23",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.42,
@@ -665971,7 +665971,7 @@
       "home": "Rio Ave U23",
       "away": "Moreirense U23",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -669646,9 +669646,9 @@
       "home": "Moldova (U21)",
       "away": "Kazakistan (U21",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -669695,10 +669695,10 @@
       "home": "Kuzey İrlanda ",
       "away": "Yunanistan (U21",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -670283,10 +670283,10 @@
       "home": "Skjetten",
       "away": "Kongsvinger Ii",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -670577,14 +670577,14 @@
       "home": "Trollhattan Fc",
       "away": "Mjallby",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 6.1,
@@ -670724,14 +670724,14 @@
       "home": "Raufoss",
       "away": "Start",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 4.02,
