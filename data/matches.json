@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T09:46:21.136Z",
+  "updatedAt": "2026-10-06T10:01:22.089Z",
   "matches": [
     {
       "code": "5847028",
@@ -669058,14 +669058,14 @@
       "home": "Hubei Istar",
       "away": "Lanzhou Longyua",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.7,
@@ -673458,6 +673458,251 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-06T09:46:21.135Z"
+    },
+    {
+      "code": "4506676",
+      "week": 24140,
+      "date": "06.10.2026",
+      "time": "15:00",
+      "league": "ALMBÖL",
+      "home": "Werder Bremen ",
+      "away": "Hannover 96 (Am",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.36,
+        "msX": 3.47,
+        "ms2": 1.95,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-06T10:01:22.088Z"
+    },
+    {
+      "code": "4566214",
+      "week": 24140,
+      "date": "07.10.2026",
+      "time": "14:30",
+      "league": "TÜK",
+      "home": "Silivrispor",
+      "away": "Bulvarspor",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.05,
+        "msX": 3.05,
+        "ms2": 1.92,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-06T10:01:22.088Z"
+    },
+    {
+      "code": "4566236",
+      "week": 24140,
+      "date": "07.10.2026",
+      "time": "15:00",
+      "league": "TÜK",
+      "home": "Karabük İy",
+      "away": "Beykoz Anadolu ",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.95,
+        "msX": 3.05,
+        "ms2": 1.96,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-06T10:01:22.088Z"
+    },
+    {
+      "code": "4566240",
+      "week": 24140,
+      "date": "07.10.2026",
+      "time": "15:00",
+      "league": "TÜK",
+      "home": "Gaziemir Sk",
+      "away": "Fethiyespor",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.77,
+        "msX": 3.47,
+        "ms2": 1.6,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-06T10:01:22.088Z"
+    },
+    {
+      "code": "4570980",
+      "week": 24140,
+      "date": "07.10.2026",
+      "time": "20:00",
+      "league": "MSRLK",
+      "home": "Ceramica Cleop",
+      "away": "Masryal Masry P",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.93,
+        "msX": 2.74,
+        "ms2": 2.94,
+        "cs1X": 1.14,
+        "cs12": 1.17,
+        "csX2": 1.39,
+        "au25Alt": 1.31,
+        "au25Ust": 2.17,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.86,
+        "kgYok": 1.45,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.2,
+        "au15Ust": 1.3,
+        "au35Alt": 1,
+        "au35Ust": 4.1,
+        "gol01": 2.2,
+        "gol23": 1.75,
+        "gol46": 5.06,
+        "gol7": 31.5,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-06T10:01:22.088Z"
     }
   ]
 }
