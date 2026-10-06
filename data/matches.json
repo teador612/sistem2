@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T16:31:11.786Z",
+  "updatedAt": "2026-10-06T16:45:58.314Z",
   "matches": [
     {
       "code": "5847028",
@@ -668029,10 +668029,10 @@
       "home": "Galler (U21)",
       "away": "Avusturya (U21)",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -668521,7 +668521,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -669698,7 +669698,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -670283,14 +670283,14 @@
       "home": "Skjetten",
       "away": "Kongsvinger Ii",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": "1",
+        "away": "4"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "4"
       },
       "openingOdds": {
         "ms1": 1.23,
@@ -670727,7 +670727,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "4"
+        "away": "5"
       },
       "halfTimeScore": {
         "home": "1",
