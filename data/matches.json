@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-06T12:45:58.164Z",
+  "updatedAt": "2026-10-06T13:01:22.780Z",
   "matches": [
     {
       "code": "5847028",
@@ -662149,7 +662149,7 @@
       "home": "Güney Kore",
       "away": "Özbekistan",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -669107,7 +669107,7 @@
       "home": "Changchun Yata",
       "away": "Yanbian Longdin",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -669156,10 +669156,10 @@
       "home": "Danimarka  U19",
       "away": "Hollanda (U19)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -669205,7 +669205,7 @@
       "home": "Wuxi Wugou",
       "away": "Suzhou Dongwu",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -669355,7 +669355,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -671214,10 +671214,10 @@
       "home": "Pho Hien",
       "away": "Huda Hue",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -671949,7 +671949,7 @@
       "home": "Binh Phuoc",
       "away": "Dong Thap",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "3"
@@ -672096,9 +672096,9 @@
       "home": "Bitlis Özgüzel",
       "away": "Silifke Bld.",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "5",
+        "home": "6",
         "away": "0"
       },
       "halfTimeScore": {
@@ -673468,14 +673468,14 @@
       "home": "Werder Bremen ",
       "away": "Hannover 96 (Am",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.36,
