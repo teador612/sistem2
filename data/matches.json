@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T21:16:01.232Z",
+  "updatedAt": "2026-10-07T21:45:55.547Z",
   "matches": [
     {
       "code": "5847028",
@@ -667098,9 +667098,9 @@
       "home": "Avro",
       "away": "Lancaster City",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "5",
+        "home": "4",
         "away": "3"
       },
       "halfTimeScore": {
@@ -671312,10 +671312,10 @@
       "home": "Leones Fc",
       "away": "Barranguilla",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -671606,9 +671606,9 @@
       "home": "Belouizdad",
       "away": "Usm Khenchela",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -672883,7 +672883,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -674693,7 +674693,7 @@
       "home": "Deportivo Peta",
       "away": "Atletico Avila",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -674742,14 +674742,14 @@
       "home": "Zamora",
       "away": "Atletico Barina",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.16,
@@ -674791,14 +674791,14 @@
       "home": "Mineros",
       "away": "Monagas",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.8,
@@ -674889,14 +674889,14 @@
       "home": "Urena Fc",
       "away": "Trujillanos",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": "2",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.12,
@@ -677192,14 +677192,14 @@
       "home": "22 De Julio",
       "away": "El Nacional",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "1",
-        "away": "3"
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.19,
