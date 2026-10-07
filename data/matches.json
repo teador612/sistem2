@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T20:01:28.123Z",
+  "updatedAt": "2026-10-07T20:16:41.499Z",
   "matches": [
     {
       "code": "5847028",
@@ -664455,7 +664455,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -667100,8 +667100,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "3",
-        "away": "2"
+        "home": "4",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "2",
@@ -671606,7 +671606,7 @@
       "home": "Belouizdad",
       "away": "Usm Khenchela",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -674693,7 +674693,7 @@
       "home": "Deportivo Peta",
       "away": "Atletico Avila",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -675967,7 +675967,7 @@
       "home": "Las Rozas",
       "away": "Rayo Ciudad Alc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "0"
