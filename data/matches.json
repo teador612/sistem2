@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T18:46:36.038Z",
+  "updatedAt": "2026-10-07T19:16:05.078Z",
   "matches": [
     {
       "code": "5847028",
@@ -664452,10 +664452,10 @@
       "home": "Gosport Boroug",
       "away": "Poole Town",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -667098,10 +667098,10 @@
       "home": "Avro",
       "away": "Lancaster City",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -671508,9 +671508,9 @@
       "home": "Cs Constantine",
       "away": "Biskra",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -671557,10 +671557,10 @@
       "home": "Es Ben Aknoun",
       "away": "Js El Biar",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -671606,10 +671606,10 @@
       "home": "Belouizdad",
       "away": "Usm Khenchela",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -672831,9 +672831,9 @@
       "home": "Eskişehirspor",
       "away": "1922 Akşehirspo",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
@@ -673419,10 +673419,10 @@
       "home": "Cartagena",
       "away": "Murcia",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -673664,7 +673664,7 @@
       "home": "Ceramica Cleop",
       "away": "Masryal Masry P",
       "mbs": 2,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -674203,10 +674203,10 @@
       "home": "Al Zamalek Cai",
       "away": "Zed",
       "mbs": 2,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -674693,10 +674693,10 @@
       "home": "Deportivo Peta",
       "away": "Atletico Avila",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -675232,10 +675232,10 @@
       "home": "Cerrito",
       "away": "Montevideo Wand",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -675967,14 +675967,14 @@
       "home": "Las Rozas",
       "away": "Rayo Ciudad Alc",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.73,
