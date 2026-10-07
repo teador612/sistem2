@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T12:31:19.326Z",
+  "updatedAt": "2026-10-07T12:46:03.430Z",
   "matches": [
     {
       "code": "5847028",
@@ -667490,10 +667490,10 @@
       "home": "Nanjing City",
       "away": "Shaanxi Union",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -667539,9 +667539,9 @@
       "home": "Foshan Nanshi",
       "away": "Guangxi Hengche",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -670139,7 +670139,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -670185,10 +670185,10 @@
       "home": "Jiangx Beidame",
       "away": "Dalian Kewei",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -671067,9 +671067,9 @@
       "home": "Haimen Codion",
       "away": "Xiamen Feilu",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -672000,7 +672000,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "2"
       },
       "halfTimeScore": {
@@ -672439,7 +672439,7 @@
       "home": "Anadolu Univer",
       "away": "Kepezspor Faş",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "1"
@@ -673223,7 +673223,7 @@
       "home": "Shimizu",
       "away": "V-Varen Nagasak",
       "mbs": 2,
-      "status": 5,
+      "status": 6,
       "score": {
         "home": "1",
         "away": "1"
@@ -673321,7 +673321,7 @@
       "home": "Gainare Tottor",
       "away": "Tokyo Verdy",
       "mbs": 2,
-      "status": 6,
+      "status": 8,
       "score": {
         "home": "0",
         "away": "0"
@@ -676900,8 +676900,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "3",
-        "away": "0"
+        "home": "5",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "3",
@@ -677094,7 +677094,7 @@
       "home": "Gölcükspor",
       "away": "Yozgat Bozokspo",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -677143,7 +677143,7 @@
       "home": "Gemlik Sümerbe",
       "away": "Uşak Spor A.Ş.",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
