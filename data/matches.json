@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T17:31:40.719Z",
+  "updatedAt": "2026-10-07T17:46:29.252Z",
   "matches": [
     {
       "code": "5847028",
@@ -671510,7 +671510,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -672834,7 +672834,7 @@
       "status": 1,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -674206,7 +674206,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -674982,7 +674982,7 @@
       "code": "4571203",
       "week": 24140,
       "date": "08.10.2026",
-      "time": "15:00",
+      "time": "21:45",
       "league": "LUBN",
       "home": "Safa",
       "away": "Reyady Abaseya",
@@ -675178,7 +675178,7 @@
       "code": "4571204",
       "week": 24140,
       "date": "08.10.2026",
-      "time": "21:45",
+      "time": "16:00",
       "league": "LUBN",
       "home": "Ansar",
       "away": "Hikma",
