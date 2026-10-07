@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T04:45:54.067Z",
+  "updatedAt": "2026-10-07T05:31:48.319Z",
   "matches": [
     {
       "code": "5847028",
@@ -666755,7 +666755,7 @@
       "home": "Benjamin Aceva",
       "away": "Indep Cambo Gra",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "3"
@@ -668715,7 +668715,7 @@
       "home": "Scarborough At",
       "away": "Macclesfield",
       "mbs": 3,
-      "status": 5,
+      "status": 6,
       "score": {
         "home": "1",
         "away": "1"
@@ -670332,9 +670332,9 @@
       "home": "Alianza Atleti",
       "away": "Sport Boys",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
