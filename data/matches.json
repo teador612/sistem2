@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T12:01:24.066Z",
+  "updatedAt": "2026-10-07T12:15:59.618Z",
   "matches": [
     {
       "code": "5847028",
@@ -666804,14 +666804,14 @@
       "home": "Depor Santani",
       "away": "Guairena",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.18,
@@ -670136,7 +670136,7 @@
       "home": "Shenzhen Junio",
       "away": "Guangzhou E-Pow",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -671998,10 +671998,10 @@
       "home": "Somaspor",
       "away": "Alanya 1221 Fsk",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -672441,7 +672441,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -676849,7 +676849,7 @@
       "home": "Mazidaği Fosfa",
       "away": "Kırşehir Fsk",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -676898,7 +676898,7 @@
       "home": "Hakkari Zapspo",
       "away": "Adana Demirspor",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "0"
@@ -676947,7 +676947,7 @@
       "home": "Tokat Bld",
       "away": "Etimesgut Spor",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -676996,7 +676996,7 @@
       "home": "Kars 36 Spor ",
       "away": "Fatsa Belediyes",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -677045,7 +677045,7 @@
       "home": "Adanaspor",
       "away": "Adana Adaletgüc",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -677096,7 +677096,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
