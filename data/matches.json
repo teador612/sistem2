@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T01:01:23.327Z",
+  "updatedAt": "2026-10-07T01:15:57.472Z",
   "matches": [
     {
       "code": "5847028",
@@ -664013,7 +664013,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -664111,7 +664111,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -664158,7 +664158,7 @@
       "home": "Abd",
       "away": "Kanada",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -664259,7 +664259,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -675418,6 +675418,104 @@
         "iy2": 3.82
       },
       "openingRecordedAt": "2026-10-06T22:45:54.946Z"
+    },
+    {
+      "code": "4570951",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "17:00",
+      "league": "MSRLK",
+      "home": "Al Ittihad Al ",
+      "away": "Wadi Degla",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.98,
+        "msX": 2.78,
+        "ms2": 2.79,
+        "cs1X": 1.16,
+        "cs12": 1.16,
+        "csX2": 1.37,
+        "au25Alt": 1.44,
+        "au25Ust": 1.9,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.67,
+        "kgYok": 1.6,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.54,
+        "au15Ust": 1.21,
+        "au35Alt": 1.08,
+        "au35Ust": 3.38,
+        "gol01": 2.56,
+        "gol23": 1.72,
+        "gol46": 4.17,
+        "gol7": 21,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-07T01:15:57.472Z"
+    },
+    {
+      "code": "4570971",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "17:00",
+      "league": "MSRLK",
+      "home": "Al Mokawloon A",
+      "away": "El Gounah",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.49,
+        "msX": 3,
+        "ms2": 4.6,
+        "cs1X": 1,
+        "cs12": 1.13,
+        "csX2": 1.73,
+        "au25Alt": 1.4,
+        "au25Ust": 1.97,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.9,
+        "kgYok": 1.44,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.44,
+        "au15Ust": 1.23,
+        "au35Alt": 1.06,
+        "au35Ust": 3.56,
+        "gol01": 2.45,
+        "gol23": 1.73,
+        "gol46": 4.38,
+        "gol7": 23.2,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-07T01:15:57.472Z"
     }
   ]
 }
