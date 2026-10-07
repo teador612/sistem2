@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T06:01:24.420Z",
+  "updatedAt": "2026-10-07T06:46:00.288Z",
   "matches": [
     {
       "code": "5847028",
@@ -664060,7 +664060,7 @@
       "home": "Colo Colo",
       "away": "Puerto Montt",
       "mbs": 3,
-      "status": 11,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
@@ -664207,7 +664207,7 @@
       "home": "Chicago",
       "away": "Vancouver",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "1"
@@ -664256,7 +664256,7 @@
       "home": "Ponte Preta",
       "away": "Juventude",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -664305,14 +664305,14 @@
       "home": "Meksika",
       "away": "Şili",
       "mbs": 1,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.42,
@@ -666755,7 +666755,7 @@
       "home": "Benjamin Aceva",
       "away": "Indep Cambo Gra",
       "mbs": 3,
-      "status": 4,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "3"
@@ -668715,7 +668715,7 @@
       "home": "Scarborough At",
       "away": "Macclesfield",
       "mbs": 3,
-      "status": 6,
+      "status": 5,
       "score": {
         "home": "1",
         "away": "1"
@@ -670038,14 +670038,14 @@
       "home": "Fransiz Guyana",
       "away": "Belize",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.6,
@@ -670332,9 +670332,9 @@
       "home": "Alianza Atleti",
       "away": "Sport Boys",
       "mbs": 3,
-      "status": 4,
+      "status": 2,
       "score": {
-        "home": "3",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
