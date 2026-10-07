@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T20:31:12.346Z",
+  "updatedAt": "2026-10-07T20:45:56.069Z",
   "matches": [
     {
       "code": "5847028",
@@ -664452,7 +664452,7 @@
       "home": "Gosport Boroug",
       "away": "Poole Town",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "3"
@@ -667098,9 +667098,9 @@
       "home": "Avro",
       "away": "Lancaster City",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "4",
+        "home": "5",
         "away": "3"
       },
       "halfTimeScore": {
@@ -672880,10 +672880,10 @@
       "home": "Cuniburo Fc",
       "away": "Deportivo Cuenc",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -673419,7 +673419,7 @@
       "home": "Cartagena",
       "away": "Murcia",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -674793,7 +674793,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -674891,7 +674891,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -675232,7 +675232,7 @@
       "home": "Cerrito",
       "away": "Montevideo Wand",
       "mbs": 3,
-      "status": 7,
+      "status": 8,
       "score": {
         "home": "2",
         "away": "2"
@@ -677194,8 +677194,8 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
