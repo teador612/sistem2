@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T14:01:36.391Z",
+  "updatedAt": "2026-10-07T14:16:04.176Z",
   "matches": [
     {
       "code": "5847028",
@@ -672635,7 +672635,7 @@
       "home": "Kuching Fa",
       "away": "Tampines Rovers",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -672736,7 +672736,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -674105,9 +674105,9 @@
       "home": "Maroons",
       "away": "Lugazi Municipa",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -674595,10 +674595,10 @@
       "home": "Neftchi Fargon",
       "away": "Xorazm Urganch",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -674644,7 +674644,7 @@
       "home": "Ntugasaze",
       "away": "Mbarara City",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -674840,7 +674840,7 @@
       "home": "Kitara",
       "away": "Kigezi Home Boy",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
