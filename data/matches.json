@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T11:31:23.740Z",
+  "updatedAt": "2026-10-07T11:46:02.052Z",
   "matches": [
     {
       "code": "5847028",
@@ -640092,7 +640092,7 @@
     },
     {
       "code": "4475094",
-      "week": 24139,
+      "week": 24140,
       "date": "11.10.2026",
       "time": "13:30",
       "league": "İTA",
@@ -667493,7 +667493,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -672000,7 +672000,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -672442,7 +672442,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -673176,7 +673176,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -676950,7 +676950,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -677048,7 +677048,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -678946,6 +678946,496 @@
         "iy2": 3.04
       },
       "openingRecordedAt": "2026-10-07T11:16:36.158Z"
+    },
+    {
+      "code": "4532506",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "21:00",
+      "league": "İSTL",
+      "home": "Txantrea",
+      "away": "Cortes",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.6,
+        "msX": 3.18,
+        "ms2": 3.54,
+        "cs1X": 1.08,
+        "cs12": 1.11,
+        "csX2": 1.62,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-07T11:46:02.052Z"
+    },
+    {
+      "code": "4476550",
+      "week": 24140,
+      "date": "09.10.2026",
+      "time": "21:45",
+      "league": "FR1",
+      "home": "Lens",
+      "away": "Lyon",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.16,
+        "msX": 3.31,
+        "ms2": 2.42,
+        "cs1X": 1.3,
+        "cs12": 1.16,
+        "csX2": 1.39,
+        "au25Alt": 2.22,
+        "au25Ust": 1.37,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.32,
+        "kgYok": 2.39,
+        "iy15Alt": 1.47,
+        "iy15Ust": 2.01,
+        "au15Alt": 4.8,
+        "au15Ust": 1,
+        "au35Alt": 1.44,
+        "au35Ust": 2.07,
+        "gol01": 4.83,
+        "gol23": 1.94,
+        "gol46": 2.76,
+        "gol7": 7.22,
+        "iy1": 2.63,
+        "iyX": 2.22,
+        "iy2": 2.89
+      },
+      "openingRecordedAt": "2026-10-07T11:46:02.052Z"
+    },
+    {
+      "code": "4476551",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "18:15",
+      "league": "FR1",
+      "home": "Lille",
+      "away": "Le Havre",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.28,
+        "msX": 4.37,
+        "ms2": 6.03,
+        "cs1X": 1,
+        "cs12": 1.06,
+        "csX2": 2.44,
+        "au25Alt": 2.06,
+        "au25Ust": 1.44,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.65,
+        "kgYok": 1.76,
+        "iy15Alt": 1.43,
+        "iy15Ust": 2.1,
+        "au15Alt": 4.23,
+        "au15Ust": 1.07,
+        "au35Alt": 1.35,
+        "au35Ust": 2.29,
+        "gol01": 4.22,
+        "gol23": 1.87,
+        "gol46": 2.95,
+        "gol7": 8.84,
+        "iy1": 1.71,
+        "iyX": 2.38,
+        "iy2": 5.91
+      },
+      "openingRecordedAt": "2026-10-07T11:46:02.052Z"
+    },
+    {
+      "code": "4476549",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "21:45",
+      "league": "FR1",
+      "home": "Brest",
+      "away": "Angers",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.8,
+        "msX": 3.26,
+        "ms2": 3.19,
+        "cs1X": 1.16,
+        "cs12": 1.16,
+        "csX2": 1.59,
+        "au25Alt": 1.88,
+        "au25Ust": 1.55,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.48,
+        "kgYok": 2,
+        "iy15Alt": 1.36,
+        "iy15Ust": 2.28,
+        "au15Alt": 3.8,
+        "au15Ust": 1.09,
+        "au35Alt": 1.28,
+        "au35Ust": 2.52,
+        "gol01": 3.76,
+        "gol23": 1.83,
+        "gol46": 3.16,
+        "gol7": 10.65,
+        "iy1": 2.32,
+        "iyX": 2.11,
+        "iy2": 3.68
+      },
+      "openingRecordedAt": "2026-10-07T11:46:02.052Z"
+    },
+    {
+      "code": "4476552",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "21:45",
+      "league": "FR1",
+      "home": "Lorient",
+      "away": "Paris Fc",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.86,
+        "msX": 3.01,
+        "ms2": 2.01,
+        "cs1X": 1.45,
+        "cs12": 1.19,
+        "csX2": 1.21,
+        "au25Alt": 1.66,
+        "au25Ust": 1.73,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.57,
+        "kgYok": 1.86,
+        "iy15Alt": 1.28,
+        "iy15Ust": 2.55,
+        "au15Alt": 3.22,
+        "au15Ust": 1.16,
+        "au35Alt": 1.19,
+        "au35Ust": 2.98,
+        "gol01": 3.17,
+        "gol23": 1.79,
+        "gol46": 3.61,
+        "gol7": 14.7,
+        "iy1": 3.47,
+        "iyX": 1.99,
+        "iy2": 2.61
+      },
+      "openingRecordedAt": "2026-10-07T11:46:02.052Z"
+    },
+    {
+      "code": "4476553",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "21:45",
+      "league": "FR1",
+      "home": "Monaco",
+      "away": "Toulouse",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.41,
+        "msX": 3.91,
+        "ms2": 4.68,
+        "cs1X": 1,
+        "cs12": 1.09,
+        "csX2": 2.07,
+        "au25Alt": 2.14,
+        "au25Ust": 1.41,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.49,
+        "kgYok": 1.98,
+        "iy15Alt": 1.45,
+        "iy15Ust": 2.06,
+        "au15Alt": 4.48,
+        "au15Ust": 1.05,
+        "au35Alt": 1.39,
+        "au35Ust": 2.19,
+        "gol01": 4.48,
+        "gol23": 1.91,
+        "gol46": 2.85,
+        "gol7": 8.03,
+        "iy1": 1.86,
+        "iyX": 2.33,
+        "iy2": 4.82
+      },
+      "openingRecordedAt": "2026-10-07T11:46:02.052Z"
+    },
+    {
+      "code": "4476555",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "21:45",
+      "league": "FR1",
+      "home": "Psg",
+      "away": "Le Mans",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 11.4,
+        "ms2": 17.5,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 6.66,
+        "au25Alt": 3.89,
+        "au25Ust": 1.09,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.93,
+        "kgYok": 1.51,
+        "iy15Alt": 1.98,
+        "iy15Ust": 1.49,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 2.14,
+        "au35Ust": 1.41,
+        "gol01": 10.05,
+        "gol23": 2.61,
+        "gol46": 2.3,
+        "gol7": 3.27,
+        "iy1": 1.17,
+        "iyX": 3.87,
+        "iy2": 14.95
+      },
+      "openingRecordedAt": "2026-10-07T11:46:02.052Z"
+    },
+    {
+      "code": "4476554",
+      "week": 24140,
+      "date": "11.10.2026",
+      "time": "16:00",
+      "league": "FR1",
+      "home": "Nice",
+      "away": "Strasbourg",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.05,
+        "msX": 3.21,
+        "ms2": 2.64,
+        "cs1X": 1.25,
+        "cs12": 1.16,
+        "csX2": 1.44,
+        "au25Alt": 1.96,
+        "au25Ust": 1.5,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.41,
+        "kgYok": 2.14,
+        "iy15Alt": 1.38,
+        "iy15Ust": 2.21,
+        "au15Alt": 4.05,
+        "au15Ust": 1.08,
+        "au35Alt": 1.32,
+        "au35Ust": 2.38,
+        "gol01": 4.03,
+        "gol23": 1.86,
+        "gol46": 3.03,
+        "gol7": 9.49,
+        "iy1": 2.57,
+        "iyX": 2.13,
+        "iy2": 3.16
+      },
+      "openingRecordedAt": "2026-10-07T11:46:02.052Z"
+    },
+    {
+      "code": "4476556",
+      "week": 24140,
+      "date": "11.10.2026",
+      "time": "18:15",
+      "league": "FR1",
+      "home": "Rennes",
+      "away": "Auxerre",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.29,
+        "msX": 4.52,
+        "ms2": 5.66,
+        "cs1X": 1,
+        "cs12": 1.05,
+        "csX2": 2.42,
+        "au25Alt": 2.34,
+        "au25Ust": 1.34,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.51,
+        "kgYok": 1.95,
+        "iy15Alt": 1.51,
+        "iy15Ust": 1.93,
+        "au15Alt": 4.99,
+        "au15Ust": 1,
+        "au35Alt": 1.47,
+        "au35Ust": 2,
+        "gol01": 5.05,
+        "gol23": 1.97,
+        "gol46": 2.7,
+        "gol7": 6.78,
+        "iy1": 1.69,
+        "iyX": 2.49,
+        "iy2": 5.49
+      },
+      "openingRecordedAt": "2026-10-07T11:46:02.052Z"
+    },
+    {
+      "code": "4476557",
+      "week": 24140,
+      "date": "11.10.2026",
+      "time": "21:45",
+      "league": "FR1",
+      "home": "Troyes",
+      "away": "Marsilya",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.41,
+        "msX": 3.47,
+        "ms2": 1.68,
+        "cs1X": 1.69,
+        "cs12": 1.14,
+        "csX2": 1.14,
+        "au25Alt": 2.14,
+        "au25Ust": 1.41,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.39,
+        "kgYok": 2.19,
+        "iy15Alt": 1.44,
+        "iy15Ust": 2.07,
+        "au15Alt": 4.53,
+        "au15Ust": 1.05,
+        "au35Alt": 1.4,
+        "au35Ust": 2.17,
+        "gol01": 4.53,
+        "gol23": 1.91,
+        "gol46": 2.84,
+        "gol7": 7.9,
+        "iy1": 3.78,
+        "iyX": 2.23,
+        "iy2": 2.15
+      },
+      "openingRecordedAt": "2026-10-07T11:46:02.052Z"
     }
   ]
 }
