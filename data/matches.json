@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T13:45:59.289Z",
+  "updatedAt": "2026-10-07T14:01:36.391Z",
   "matches": [
     {
       "code": "5847028",
@@ -671802,9 +671802,9 @@
       "home": "Ratchaburi Fc",
       "away": "Clb Tp Ho Chi M",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -671851,7 +671851,7 @@
       "home": "Buriram Utd",
       "away": "Borneo Fc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -672635,14 +672635,14 @@
       "home": "Kuching Fa",
       "away": "Tampines Rovers",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.43,
@@ -672684,10 +672684,10 @@
       "home": "Pyramids Fc",
       "away": "Al Qanah",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -672733,10 +672733,10 @@
       "home": "Asyut Petroleu",
       "away": "Al Ahly",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -674105,14 +674105,14 @@
       "home": "Maroons",
       "away": "Lugazi Municipa",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.73,
@@ -674546,10 +674546,10 @@
       "home": "Kataka",
       "away": "Sc Villa",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -674644,14 +674644,14 @@
       "home": "Ntugasaze",
       "away": "Mbarara City",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 4.19,
@@ -674840,14 +674840,14 @@
       "home": "Kitara",
       "away": "Kigezi Home Boy",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.29,
@@ -681984,6 +681984,104 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-07T13:16:03.853Z"
+    },
+    {
+      "code": "4571509",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "16:15",
+      "league": "IRAN",
+      "home": "Gol Gohar Sirj",
+      "away": "Esteghlal Khuze",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.81,
+        "msX": 2.69,
+        "ms2": 3.34,
+        "cs1X": 1.09,
+        "cs12": 1.18,
+        "csX2": 1.45,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-07T14:01:36.391Z"
+    },
+    {
+      "code": "4571510",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "16:30",
+      "league": "IRAN",
+      "home": "Tractor Fc",
+      "away": "Esteghlal",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.18,
+        "msX": 2.65,
+        "ms2": 2.58,
+        "cs1X": 1.2,
+        "cs12": 1.19,
+        "csX2": 1.3,
+        "au25Alt": 1.32,
+        "au25Ust": 2.14,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.81,
+        "kgYok": 1.5,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.24,
+        "au15Ust": 1.29,
+        "au35Alt": 1,
+        "au35Ust": 4,
+        "gol01": 2.24,
+        "gol23": 1.74,
+        "gol46": 4.93,
+        "gol7": 29.5,
+        "iy1": 2.92,
+        "iyX": 1.72,
+        "iy2": 3.36
+      },
+      "openingRecordedAt": "2026-10-07T14:01:36.391Z"
     }
   ]
 }
