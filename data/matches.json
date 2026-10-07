@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T10:31:33.473Z",
+  "updatedAt": "2026-10-07T10:46:12.589Z",
   "matches": [
     {
       "code": "5847028",
@@ -672980,8 +672980,8 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "3",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -673076,7 +673076,7 @@
       "home": "Cerezo Osaka",
       "away": "Kagoshima Unite",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -673125,9 +673125,9 @@
       "home": "Hiroshima",
       "away": "Iwaki",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -673176,7 +673176,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -673226,7 +673226,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
