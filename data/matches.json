@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T04:01:20.920Z",
+  "updatedAt": "2026-10-07T04:15:57.666Z",
   "matches": [
     {
       "code": "5847028",
@@ -664308,7 +664308,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -675908,6 +675908,55 @@
         "iy2": 2.8
       },
       "openingRecordedAt": "2026-10-07T03:01:25.850Z"
+    },
+    {
+      "code": "4570981",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "20:00",
+      "league": "MSRLK",
+      "home": "Ghazl El Mehal",
+      "away": "Abu Qair",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.98,
+        "msX": 2.64,
+        "ms2": 2.95,
+        "cs1X": 1.14,
+        "cs12": 1.19,
+        "csX2": 1.37,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-07T04:15:57.666Z"
     }
   ]
 }
