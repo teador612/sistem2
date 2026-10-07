@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T13:31:23.427Z",
+  "updatedAt": "2026-10-07T13:45:59.289Z",
   "matches": [
     {
       "code": "5847028",
@@ -674646,7 +674646,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
