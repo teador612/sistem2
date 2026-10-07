@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T17:46:29.252Z",
+  "updatedAt": "2026-10-07T18:01:43.886Z",
   "matches": [
     {
       "code": "5847028",
@@ -664354,7 +664354,7 @@
       "home": "Kups Ak.",
       "away": "Inter Turku Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "3"
@@ -664403,7 +664403,7 @@
       "home": "Gnistan",
       "away": "Inter Turku",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -671508,14 +671508,14 @@
       "home": "Cs Constantine",
       "away": "Biskra",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.59,
@@ -671557,14 +671557,14 @@
       "home": "Es Ben Aknoun",
       "away": "Js El Biar",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.67,
@@ -672831,14 +672831,14 @@
       "home": "Eskişehirspor",
       "away": "1922 Akşehirspo",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.07,
@@ -673664,14 +673664,14 @@
       "home": "Ceramica Cleop",
       "away": "Masryal Masry P",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.93,
@@ -674203,14 +674203,14 @@
       "home": "Al Zamalek Cai",
       "away": "Zed",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 4.68,
