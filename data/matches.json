@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T14:31:31.010Z",
+  "updatedAt": "2026-10-07T14:46:01.427Z",
   "matches": [
     {
       "code": "5847028",
@@ -672637,8 +672637,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -672686,7 +672686,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -672736,7 +672736,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -674107,7 +674107,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -674598,7 +674598,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -682094,7 +682094,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -682131,6 +682131,104 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-07T14:31:31.010Z"
+    },
+    {
+      "code": "4510193",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "23:30",
+      "league": "KOLPB",
+      "home": "Independiente ",
+      "away": "Tigres Fc",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.02,
+        "msX": 2.63,
+        "ms2": 2.87,
+        "cs1X": 1.16,
+        "cs12": 1.19,
+        "csX2": 1.36,
+        "au25Alt": 1.33,
+        "au25Ust": 2.14,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.86,
+        "kgYok": 1.45,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.17,
+        "au15Ust": 1.31,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.75,
+        "iyX": 1.7,
+        "iy2": 3.69
+      },
+      "openingRecordedAt": "2026-10-07T14:46:01.426Z"
+    },
+    {
+      "code": "4534734",
+      "week": 24140,
+      "date": "11.10.2026",
+      "time": "18:15",
+      "league": "İTB",
+      "home": "Padova",
+      "away": "Carrarese",
+      "mbs": 1,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.76,
+        "msX": 3.08,
+        "ms2": 3.53,
+        "cs1X": 1.12,
+        "cs12": 1.18,
+        "csX2": 1.62,
+        "au25Alt": 1.72,
+        "au25Ust": 1.68,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.57,
+        "kgYok": 1.86,
+        "iy15Alt": 1.3,
+        "iy15Ust": 2.45,
+        "au15Alt": 3.38,
+        "au15Ust": 1.14,
+        "au35Alt": 1.22,
+        "au35Ust": 2.84,
+        "gol01": 3.33,
+        "gol23": 1.79,
+        "gol46": 3.47,
+        "gol7": 13.35,
+        "iy1": 2.28,
+        "iyX": 2.05,
+        "iy2": 4.02
+      },
+      "openingRecordedAt": "2026-10-07T14:46:01.426Z"
     }
   ]
 }
