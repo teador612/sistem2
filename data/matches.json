@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T21:01:19.680Z",
+  "updatedAt": "2026-10-07T21:16:01.232Z",
   "matches": [
     {
       "code": "5847028",
@@ -671312,10 +671312,10 @@
       "home": "Leones Fc",
       "away": "Barranguilla",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -671606,9 +671606,9 @@
       "home": "Belouizdad",
       "away": "Usm Khenchela",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -674693,7 +674693,7 @@
       "home": "Deportivo Peta",
       "away": "Atletico Avila",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -674889,14 +674889,14 @@
       "home": "Urena Fc",
       "away": "Trujillanos",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.12,
@@ -677192,10 +677192,10 @@
       "home": "22 De Julio",
       "away": "El Nacional",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
