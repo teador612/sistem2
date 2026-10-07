@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T03:01:25.850Z",
+  "updatedAt": "2026-10-07T03:31:09.990Z",
   "matches": [
     {
       "code": "5847028",
@@ -664305,14 +664305,14 @@
       "home": "Meksika",
       "away": "Şili",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.42,
