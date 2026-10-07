@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T02:45:56.869Z",
+  "updatedAt": "2026-10-07T03:01:25.850Z",
   "matches": [
     {
       "code": "5847028",
@@ -670038,7 +670038,7 @@
       "home": "Fransiz Guyana",
       "away": "Belize",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -675810,6 +675810,104 @@
         "iy2": 2.46
       },
       "openingRecordedAt": "2026-10-07T02:45:56.869Z"
+    },
+    {
+      "code": "4536726",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "17:45",
+      "league": "KAT",
+      "home": "Al Shamal",
+      "away": "Al Duhail Sc",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.68,
+        "msX": 3.16,
+        "ms2": 1.87,
+        "cs1X": 1.43,
+        "cs12": 1.12,
+        "csX2": 1.18,
+        "au25Alt": 1.98,
+        "au25Ust": 1.39,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.34,
+        "kgYok": 2.11,
+        "iy15Alt": 1.37,
+        "iy15Ust": 2.01,
+        "au15Alt": 3.92,
+        "au15Ust": 1,
+        "au35Alt": 1.33,
+        "au35Ust": 2.13,
+        "gol01": 4.21,
+        "gol23": 1.85,
+        "gol46": 2.82,
+        "gol7": 8.09,
+        "iy1": 3.12,
+        "iyX": 2.1,
+        "iy2": 2.35
+      },
+      "openingRecordedAt": "2026-10-07T03:01:25.849Z"
+    },
+    {
+      "code": "4536725",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "20:00",
+      "league": "KAT",
+      "home": "Al Wakrah",
+      "away": "Gharrafa",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.06,
+        "msX": 3.24,
+        "ms2": 2.35,
+        "cs1X": 1.25,
+        "cs12": 1.11,
+        "csX2": 1.34,
+        "au25Alt": 2.08,
+        "au25Ust": 1.35,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.3,
+        "kgYok": 2.21,
+        "iy15Alt": 1.41,
+        "iy15Ust": 1.94,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.37,
+        "au35Ust": 2.01,
+        "gol01": 4.54,
+        "gol23": 1.89,
+        "gol46": 2.71,
+        "gol7": 7.25,
+        "iy1": 2.52,
+        "iyX": 2.14,
+        "iy2": 2.8
+      },
+      "openingRecordedAt": "2026-10-07T03:01:25.850Z"
     }
   ]
 }
