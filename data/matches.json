@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T07:01:23.800Z",
+  "updatedAt": "2026-10-07T07:31:12.022Z",
   "matches": [
     {
       "code": "5847028",
@@ -676594,6 +676594,55 @@
         "iy2": 1.85
       },
       "openingRecordedAt": "2026-10-07T07:01:23.800Z"
+    },
+    {
+      "code": "4551322",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "15:15",
+      "league": "VİET",
+      "home": "Viettel",
+      "away": "Hong Linh Ha Ti",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.51,
+        "msX": 3.01,
+        "ms2": 4.45,
+        "cs1X": 1,
+        "cs12": 1.13,
+        "csX2": 1.72,
+        "au25Alt": 1.35,
+        "au25Ust": 2.07,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.98,
+        "kgYok": 1.39,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.09,
+        "iyX": 1.81,
+        "iy2": 5.19
+      },
+      "openingRecordedAt": "2026-10-07T07:31:12.022Z"
     }
   ]
 }
