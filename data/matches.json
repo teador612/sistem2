@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T17:02:50.249Z",
+  "updatedAt": "2026-10-07T17:15:58.845Z",
   "matches": [
     {
       "code": "5847028",
@@ -664349,7 +664349,7 @@
       "code": "4561199",
       "week": 24140,
       "date": "07.10.2026",
-      "time": "19:00",
+      "time": "18:59",
       "league": "FINY",
       "home": "Kups Ak.",
       "away": "Inter Turku Ii",
@@ -664357,7 +664357,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -664403,7 +664403,7 @@
       "home": "Gnistan",
       "away": "Inter Turku",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -667049,7 +667049,7 @@
       "home": "Inter Toronto",
       "away": "Supra Du Quebec",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -672833,7 +672833,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
