@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T01:45:55.722Z",
+  "updatedAt": "2026-10-07T02:01:18.418Z",
   "matches": [
     {
       "code": "5847028",
@@ -664207,9 +664207,9 @@
       "home": "Chicago",
       "away": "Vancouver",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -664256,7 +664256,7 @@
       "home": "Ponte Preta",
       "away": "Juventude",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -670038,10 +670038,10 @@
       "home": "Fransiz Guyana",
       "away": "Belize",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
