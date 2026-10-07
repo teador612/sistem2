@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T09:15:54.620Z",
+  "updatedAt": "2026-10-07T09:31:13.057Z",
   "matches": [
     {
       "code": "5847028",
@@ -670089,7 +670089,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -673027,10 +673027,10 @@
       "home": "Avispa Fukuoka",
       "away": "Yokohama Fc",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -673125,10 +673125,10 @@
       "home": "Hiroshima",
       "away": "Iwaki",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
