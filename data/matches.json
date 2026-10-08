@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T17:01:21.140Z",
+  "updatedAt": "2026-10-08T17:15:51.307Z",
   "matches": [
     {
       "code": "5847028",
@@ -665040,7 +665040,7 @@
       "home": "Kuopion",
       "away": "Oulu",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -671655,10 +671655,10 @@
       "home": "Rouisset",
       "away": "Usm Alger",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -671702,12 +671702,12 @@
       "time": "20:00",
       "league": "CZYR",
       "home": "Js Saoura",
-      "away": "Oued Akbou",
+      "away": "Olympique Akbou",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -673811,7 +673811,7 @@
       "home": "Uts Rabat",
       "away": "Rsb Berkane",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -675724,7 +675724,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -675869,10 +675869,10 @@
       "home": "Al Wakrah",
       "away": "Gharrafa",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -676410,7 +676410,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -676459,7 +676459,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -676702,7 +676702,7 @@
       "home": "Nec",
       "away": "Express",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -682239,7 +682239,7 @@
       "home": "Sepahan",
       "away": "Fajr Sepasi",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "6",
         "away": "1"
@@ -682438,7 +682438,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
