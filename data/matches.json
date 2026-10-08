@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T22:31:03.918Z",
+  "updatedAt": "2026-10-08T22:45:44.278Z",
   "matches": [
     {
       "code": "5847028",
@@ -665187,10 +665187,10 @@
       "home": "Nautico",
       "away": "Novorizontino",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -665236,10 +665236,10 @@
       "home": "Ceara",
       "away": "Criciuma",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -735306,14 +735306,14 @@
       "home": "Mashujaa",
       "away": "Polisi Morogoro",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.34,
