@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T01:31:09.907Z",
+  "updatedAt": "2026-10-08T01:45:54.622Z",
   "matches": [
     {
       "code": "5847028",
@@ -664893,7 +664893,7 @@
       "home": "Botafogo",
       "away": "Vasco Da Gama",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -664942,7 +664942,7 @@
       "home": "Cruzeiro",
       "away": "Sao Paulo",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -674350,7 +674350,7 @@
       "home": "Corpus Christi",
       "away": "Fort Wayne",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -674938,14 +674938,14 @@
       "home": "Dinamo Puerto ",
       "away": "Bolívar",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.27,
