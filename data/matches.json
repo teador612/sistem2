@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T18:15:49.563Z",
+  "updatedAt": "2026-10-08T18:31:12.411Z",
   "matches": [
     {
       "code": "5847028",
@@ -667294,14 +667294,14 @@
       "home": "Cfr Cluj",
       "away": "Universitatea C",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.12,
@@ -667343,14 +667343,14 @@
       "home": "Vanersborgs Fk",
       "away": "Ifk Kumla",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.93,
@@ -671657,7 +671657,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -672931,7 +672931,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -673862,7 +673862,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -675771,14 +675771,14 @@
       "home": "Al Talaba",
       "away": "Al Shorta",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.05,
@@ -675921,7 +675921,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -676558,7 +676558,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "0",
@@ -738775,6 +738775,55 @@
         "iy2": 2.34
       },
       "openingRecordedAt": "2026-10-08T18:01:18.681Z"
+    },
+    {
+      "code": "4572599",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "16:00",
+      "league": "PAR2",
+      "home": "Guairena",
+      "away": "Encarnacion",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.13,
+        "msX": 2.9,
+        "ms2": 2.46,
+        "cs1X": 1.23,
+        "cs12": 1.16,
+        "csX2": 1.31,
+        "au25Alt": 1.49,
+        "au25Ust": 1.82,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.62,
+        "kgYok": 1.65,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.79,
+        "iyX": 1.83,
+        "iy2": 3.14
+      },
+      "openingRecordedAt": "2026-10-08T18:31:12.410Z"
     }
   ]
 }
