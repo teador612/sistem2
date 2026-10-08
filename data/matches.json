@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T18:01:18.683Z",
+  "updatedAt": "2026-10-08T18:15:49.563Z",
   "matches": [
     {
       "code": "5847028",
@@ -671655,7 +671655,7 @@
       "home": "Rouisset",
       "away": "Usm Alger",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -671704,7 +671704,7 @@
       "home": "Js Saoura",
       "away": "Olympique Akbou",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -672929,7 +672929,7 @@
       "home": "Independiente ",
       "away": "9 De Octubre",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -673862,8 +673862,8 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -673909,10 +673909,10 @@
       "home": "Far Rabat",
       "away": "Widad Temara",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -675722,7 +675722,7 @@
       "home": "Modern Sc",
       "away": "National Bank O",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -675869,10 +675869,10 @@
       "home": "Al Wakrah",
       "away": "Gharrafa",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -675918,7 +675918,7 @@
       "home": "Ghazl El Mehal",
       "away": "Abu Qair",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -676555,10 +676555,10 @@
       "home": "Al Akhdoud",
       "away": "Al Ula",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -678956,10 +678956,10 @@
       "home": "Txantrea",
       "away": "Cortes",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
