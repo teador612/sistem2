@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T18:45:55.166Z",
+  "updatedAt": "2026-10-08T19:01:17.325Z",
   "matches": [
     {
       "code": "5847028",
@@ -665089,10 +665089,10 @@
       "home": "Shamrock Rover",
       "away": "Drogheda",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -667297,7 +667297,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -667345,7 +667345,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -667637,14 +667637,14 @@
       "home": "Deportivo Moqu",
       "away": "Cienciano",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.89,
@@ -671655,7 +671655,7 @@
       "home": "Rouisset",
       "away": "Usm Alger",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -671704,7 +671704,7 @@
       "home": "Js Saoura",
       "away": "Olympique Akbou",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -671753,10 +671753,10 @@
       "home": "Mc Oran",
       "away": "Es Setif",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -672929,7 +672929,7 @@
       "home": "Independiente ",
       "away": "9 De Octubre",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -673860,14 +673860,14 @@
       "home": "Cr Khemis Zema",
       "away": "Husa Agadir",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 1.81,
@@ -673909,14 +673909,14 @@
       "home": "Far Rabat",
       "away": "Widad Temara",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.19,
@@ -674987,10 +674987,10 @@
       "home": "Safa",
       "away": "Reyady Abaseya",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -675722,7 +675722,7 @@
       "home": "Modern Sc",
       "away": "National Bank O",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -675871,7 +675871,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -675918,7 +675918,7 @@
       "home": "Ghazl El Mehal",
       "away": "Abu Qair",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -676555,7 +676555,7 @@
       "home": "Al Akhdoud",
       "away": "Al Ula",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "5"
@@ -678956,14 +678956,14 @@
       "home": "Txantrea",
       "away": "Cortes",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.6,
@@ -736237,14 +736237,14 @@
       "home": "Beti Kozkor",
       "away": "Beti Onak",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.82,
