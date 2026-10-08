@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T20:01:15.030Z",
+  "updatedAt": "2026-10-08T20:15:46.462Z",
   "matches": [
     {
       "code": "5847028",
@@ -664991,7 +664991,7 @@
       "home": "Helsinki",
       "away": "Vaasa",
       "mbs": 2,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "6",
         "away": "0"
@@ -665040,14 +665040,14 @@
       "home": "Kuopion",
       "away": "Oulu",
       "mbs": 2,
-      "status": 4,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.42,
@@ -665089,10 +665089,10 @@
       "home": "Shamrock Rover",
       "away": "Drogheda",
       "mbs": 2,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -667294,14 +667294,14 @@
       "home": "Cfr Cluj",
       "away": "Universitatea C",
       "mbs": 3,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "3"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.12,
@@ -667343,14 +667343,14 @@
       "home": "Vanersborgs Fk",
       "away": "Ifk Kumla",
       "mbs": 3,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "3",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.93,
@@ -667637,14 +667637,14 @@
       "home": "Deportivo Moqu",
       "away": "Cienciano",
       "mbs": 3,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.89,
@@ -671116,10 +671116,10 @@
       "home": "Asu Poli Timiş",
       "away": "Csa Steaua Bucu",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "0",
@@ -671655,14 +671655,14 @@
       "home": "Rouisset",
       "away": "Usm Alger",
       "mbs": 3,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.4,
@@ -671702,16 +671702,16 @@
       "time": "20:00",
       "league": "CZYR",
       "home": "Js Saoura",
-      "away": "Olympique Akbou",
+      "away": "Oued Akbou",
       "mbs": 3,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.4,
@@ -671753,10 +671753,10 @@
       "home": "Mc Oran",
       "away": "Es Setif",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -672929,14 +672929,14 @@
       "home": "Independiente ",
       "away": "9 De Octubre",
       "mbs": 3,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.07,
@@ -673811,14 +673811,14 @@
       "home": "Uts Rabat",
       "away": "Rsb Berkane",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.7,
@@ -673860,14 +673860,14 @@
       "home": "Cr Khemis Zema",
       "away": "Husa Agadir",
       "mbs": 3,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "2",
-        "away": "3"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "2",
-        "away": "3"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.81,
@@ -673909,14 +673909,14 @@
       "home": "Far Rabat",
       "away": "Widad Temara",
       "mbs": 3,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.19,
@@ -674497,10 +674497,10 @@
       "home": "Bokelj Kotor",
       "away": "Petrovac",
       "mbs": 3,
-      "status": 9,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -674987,10 +674987,10 @@
       "home": "Safa",
       "away": "Reyady Abaseya",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -675085,10 +675085,10 @@
       "home": "Shabab Al Ordo",
       "away": "Al Baqaa",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "3"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -675134,14 +675134,14 @@
       "home": "Mornar Bar",
       "away": "Jezero Plav",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "3",
-        "away": "3"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": "2",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.32,
@@ -675722,14 +675722,14 @@
       "home": "Modern Sc",
       "away": "National Bank O",
       "mbs": 2,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "2",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.36,
@@ -675771,14 +675771,14 @@
       "home": "Al Talaba",
       "away": "Al Shorta",
       "mbs": 3,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.05,
@@ -675820,10 +675820,10 @@
       "home": "Al Shamal",
       "away": "Al Duhail Sc",
       "mbs": 2,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "4"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -675869,14 +675869,14 @@
       "home": "Al Wakrah",
       "away": "Gharrafa",
       "mbs": 2,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "3",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.06,
@@ -675918,14 +675918,14 @@
       "home": "Ghazl El Mehal",
       "away": "Abu Qair",
       "mbs": 2,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.98,
@@ -676359,9 +676359,9 @@
       "home": "Duhok",
       "away": "Al Zawraa",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "3",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -676408,14 +676408,14 @@
       "home": "Al Nasr",
       "away": "Hatta Dubai",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "4",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.27,
@@ -676457,14 +676457,14 @@
       "home": "Khorfakkan Clu",
       "away": "Al Wasl",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
-        "away": "2"
-      },
-      "halfTimeScore": {
         "home": "0",
         "away": "0"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 7.71,
@@ -676506,14 +676506,14 @@
       "home": "Naft Maysan",
       "away": "Erbil Sc",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.27,
@@ -676555,14 +676555,14 @@
       "home": "Al Akhdoud",
       "away": "Al Ula",
       "mbs": 3,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "5"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 4.56,
@@ -676702,14 +676702,14 @@
       "home": "Nec",
       "away": "Express",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.28,
@@ -676751,7 +676751,7 @@
       "home": "Namungo",
       "away": "Tabora United",
       "mbs": 3,
-      "status": 4,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
@@ -678956,14 +678956,14 @@
       "home": "Txantrea",
       "away": "Cortes",
       "mbs": 3,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.6,
@@ -682239,9 +682239,9 @@
       "home": "Sepahan",
       "away": "Fajr Sepasi",
       "mbs": 2,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "6",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -682435,10 +682435,10 @@
       "home": "Foolad Khuzest",
       "away": "Mes Shahr-E Bab",
       "mbs": 2,
-      "status": 4,
+      "status": 2,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "1",
@@ -682484,10 +682484,10 @@
       "home": "Atletico Fc",
       "away": "San Antonio",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -736237,14 +736237,14 @@
       "home": "Beti Kozkor",
       "away": "Beti Onak",
       "mbs": 3,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.82,
@@ -738045,7 +738045,7 @@
       "code": "4552240",
       "week": 24140,
       "date": "09.10.2026",
-      "time": "19:30",
+      "time": "19:00",
       "league": "NIJ",
       "home": "Katsina United",
       "away": "Enyimba Inter",
