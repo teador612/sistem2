@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T09:31:09.523Z",
+  "updatedAt": "2026-10-08T09:45:56.277Z",
   "matches": [
     {
       "code": "5847028",
@@ -725937,6 +725937,55 @@
         "iy2": 1.89
       },
       "openingRecordedAt": "2026-10-08T09:31:09.523Z"
+    },
+    {
+      "code": "4566254",
+      "week": 24140,
+      "date": "08.10.2026",
+      "time": "14:00",
+      "league": "TÜK",
+      "home": "Erciyes 38 Fsk",
+      "away": "Kahta 02 Spor",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.44,
+        "msX": 2.67,
+        "ms2": 2.36,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-08T09:45:56.275Z"
     }
   ]
 }
