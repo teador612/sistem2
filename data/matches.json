@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T00:01:23.328Z",
+  "updatedAt": "2026-10-08T00:15:55.024Z",
   "matches": [
     {
       "code": "5847028",
@@ -639660,7 +639660,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -664501,7 +664501,7 @@
       "home": "Internacional",
       "away": "Corinthians",
       "mbs": 1,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
@@ -664550,9 +664550,9 @@
       "home": "Bragantino",
       "away": "Mirassol",
       "mbs": 1,
-      "status": 3,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -664599,10 +664599,10 @@
       "home": "Operario",
       "away": "Botafogo Ribeir",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -664648,10 +664648,10 @@
       "home": "Avai",
       "away": "Londrina",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "2",
@@ -664697,14 +664697,14 @@
       "home": "Vitoria Bahia",
       "away": "Chapecoense",
       "mbs": 1,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.51,
@@ -664746,10 +664746,10 @@
       "home": "Regatas",
       "away": "Atletico Goiani",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -664795,10 +664795,10 @@
       "home": "America Mineir",
       "away": "Fortaleza Ce ",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -664844,10 +664844,10 @@
       "home": "Vila Nova",
       "away": "Cuiaba",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -664893,10 +664893,10 @@
       "home": "Botafogo",
       "away": "Vasco Da Gama",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -667147,9 +667147,9 @@
       "home": "Coquimbo Unido",
       "away": "Cobreloa",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -667196,7 +667196,7 @@
       "home": "Remo",
       "away": "Gremio",
       "mbs": 1,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
@@ -667588,7 +667588,7 @@
       "home": "Antofagasta",
       "away": "Univ. De Şili",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -671361,7 +671361,7 @@
       "home": "Centauros",
       "away": "Union Magdalena",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -673713,14 +673713,14 @@
       "home": "Plaza Colonia",
       "away": "Juventud Dl Pie",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.8,
@@ -674056,14 +674056,14 @@
       "home": "Naples",
       "away": "Richmond Kicker",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.5,
@@ -674154,14 +674154,14 @@
       "home": "One Knoxville",
       "away": "Chattanooga Red",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "2",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.7,
@@ -674252,7 +674252,7 @@
       "home": "Caracas Fc",
       "away": "Yaracuyanos",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -674301,10 +674301,10 @@
       "home": "Fundacion Lara",
       "away": "Aragua",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "4"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
