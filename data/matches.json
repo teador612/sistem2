@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-07T23:45:58.649Z",
+  "updatedAt": "2026-10-08T00:01:23.328Z",
   "matches": [
     {
       "code": "5847028",
@@ -639660,7 +639660,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -664697,14 +664697,14 @@
       "home": "Vitoria Bahia",
       "away": "Chapecoense",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.51,
@@ -664896,7 +664896,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -667147,7 +667147,7 @@
       "home": "Coquimbo Unido",
       "away": "Cobreloa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -667588,7 +667588,7 @@
       "home": "Antofagasta",
       "away": "Univ. De Şili",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -671361,7 +671361,7 @@
       "home": "Centauros",
       "away": "Union Magdalena",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -673713,14 +673713,14 @@
       "home": "Plaza Colonia",
       "away": "Juventud Dl Pie",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.8,
@@ -674056,14 +674056,14 @@
       "home": "Naples",
       "away": "Richmond Kicker",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.5,
@@ -674154,14 +674154,14 @@
       "home": "One Knoxville",
       "away": "Chattanooga Red",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.7,
@@ -674252,7 +674252,7 @@
       "home": "Caracas Fc",
       "away": "Yaracuyanos",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
