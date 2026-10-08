@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T11:31:03.448Z",
+  "updatedAt": "2026-10-08T11:45:51.014Z",
   "matches": [
     {
       "code": "5847028",
@@ -735786,6 +735786,202 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-08T11:31:03.445Z"
+    },
+    {
+      "code": "4539071",
+      "week": 24140,
+      "date": "09.10.2026",
+      "time": "14:00",
+      "league": "TAY",
+      "home": "Ratchaburi Fc",
+      "away": "Sukhothai",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.26,
+        "msX": 3.98,
+        "ms2": 5.65,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.17,
+        "au25Alt": 1.86,
+        "au25Ust": 1.45,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.64,
+        "kgYok": 1.64,
+        "iy15Alt": 1.35,
+        "iy15Ust": 2.08,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.67,
+        "iyX": 2.23,
+        "iy2": 5.66
+      },
+      "openingRecordedAt": "2026-10-08T11:45:51.012Z"
+    },
+    {
+      "code": "4509927",
+      "week": 24140,
+      "date": "09.10.2026",
+      "time": "14:00",
+      "league": "TANZ",
+      "home": "Fountain Gate",
+      "away": "Jkt Tanzania",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.99,
+        "msX": 2.84,
+        "ms2": 2.73,
+        "cs1X": 1.17,
+        "cs12": 1.16,
+        "csX2": 1.37,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-08T11:45:51.012Z"
+    },
+    {
+      "code": "4564379",
+      "week": 24140,
+      "date": "09.10.2026",
+      "time": "16:10",
+      "league": "BAELK",
+      "home": "Al Wahda",
+      "away": "Al Dhafra",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.46,
+        "msX": 3.44,
+        "ms2": 4.02,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-08T11:45:51.012Z"
+    },
+    {
+      "code": "4547632",
+      "week": 24140,
+      "date": "09.10.2026",
+      "time": "20:00",
+      "league": "UGA",
+      "home": "Ura",
+      "away": "Kampala City",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.86,
+        "msX": 2.63,
+        "ms2": 2.02,
+        "cs1X": 1.36,
+        "cs12": 1.19,
+        "csX2": 1.16,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-08T11:45:51.012Z"
     }
   ]
 }
