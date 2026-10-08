@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T19:45:57.322Z",
+  "updatedAt": "2026-10-08T20:01:15.030Z",
   "matches": [
     {
       "code": "5847028",
@@ -665091,7 +665091,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -667294,7 +667294,7 @@
       "home": "Cfr Cluj",
       "away": "Universitatea C",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "3"
@@ -667343,10 +667343,10 @@
       "home": "Vanersborgs Fk",
       "away": "Ifk Kumla",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "3",
-        "away": "3"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -673863,7 +673863,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "4"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "2",
@@ -673911,7 +673911,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -674989,7 +674989,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -675771,7 +675771,7 @@
       "home": "Al Talaba",
       "away": "Al Shorta",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -682487,7 +682487,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
