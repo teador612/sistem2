@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T11:01:22.181Z",
+  "updatedAt": "2026-10-08T11:15:49.426Z",
   "matches": [
     {
       "code": "5847028",
@@ -735541,6 +735541,202 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-08T11:01:22.180Z"
+    },
+    {
+      "code": "4447617",
+      "week": 24140,
+      "date": "09.10.2026",
+      "time": "16:30",
+      "league": "ÖZB",
+      "home": "Kuruvchi Kokan",
+      "away": "Mashal Muborak",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.19,
+        "msX": 4.06,
+        "ms2": 7.26,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.38,
+        "au25Alt": 1.64,
+        "au25Ust": 1.64,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.97,
+        "kgYok": 1.4,
+        "iy15Alt": 1.27,
+        "iy15Ust": 2.31,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.61,
+        "iyX": 2.16,
+        "iy2": 7.16
+      },
+      "openingRecordedAt": "2026-10-08T11:15:49.425Z"
+    },
+    {
+      "code": "4509929",
+      "week": 24140,
+      "date": "09.10.2026",
+      "time": "19:00",
+      "league": "TANZ",
+      "home": "Dodoma Jiji",
+      "away": "Singida Black S",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.03,
+        "msX": 2.77,
+        "ms2": 1.88,
+        "cs1X": 1.42,
+        "cs12": 1.16,
+        "csX2": 1.13,
+        "au25Alt": 1.43,
+        "au25Ust": 1.93,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.7,
+        "kgYok": 1.58,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.71,
+        "iyX": 1.8,
+        "iy2": 2.5
+      },
+      "openingRecordedAt": "2026-10-08T11:15:49.425Z"
+    },
+    {
+      "code": "4483982",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "17:00",
+      "league": "SLVN2",
+      "home": "Beltinci",
+      "away": "Nk Bilje",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.16,
+        "msX": 4.5,
+        "ms2": 7.14,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.49,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-08T11:15:49.425Z"
+    },
+    {
+      "code": "4483978",
+      "week": 24140,
+      "date": "11.10.2026",
+      "time": "17:00",
+      "league": "SLVN2",
+      "home": "Nd Primorje",
+      "away": "Dravinja",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.37,
+        "msX": 3.69,
+        "ms2": 4.42,
+        "cs1X": 1,
+        "cs12": 1.06,
+        "csX2": 1.9,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-08T11:15:49.426Z"
     }
   ]
 }
