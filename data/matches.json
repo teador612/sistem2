@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T16:31:10.904Z",
+  "updatedAt": "2026-10-08T16:45:49.953Z",
   "matches": [
     {
       "code": "5847028",
@@ -665040,14 +665040,14 @@
       "home": "Kuopion",
       "away": "Oulu",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.42,
@@ -675088,7 +675088,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -675136,8 +675136,8 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -675820,10 +675820,10 @@
       "home": "Al Shamal",
       "away": "Al Duhail Sc",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "0",
@@ -676408,14 +676408,14 @@
       "home": "Al Nasr",
       "away": "Hatta Dubai",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.27,
@@ -676457,14 +676457,14 @@
       "home": "Khorfakkan Clu",
       "away": "Al Wasl",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 7.71,
@@ -676506,14 +676506,14 @@
       "home": "Naft Maysan",
       "away": "Erbil Sc",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.27,
@@ -676751,7 +676751,7 @@
       "home": "Namungo",
       "away": "Tabora United",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -682239,9 +682239,9 @@
       "home": "Sepahan",
       "away": "Fajr Sepasi",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
@@ -682435,9 +682435,9 @@
       "home": "Foolad Khuzest",
       "away": "Mes Shahr-E Bab",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -738045,7 +738045,7 @@
       "code": "4552240",
       "week": 24140,
       "date": "09.10.2026",
-      "time": "19:00",
+      "time": "19:30",
       "league": "NIJ",
       "home": "Katsina United",
       "away": "Enyimba Inter",
