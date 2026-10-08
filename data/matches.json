@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T06:01:24.649Z",
+  "updatedAt": "2026-10-08T06:16:00.339Z",
   "matches": [
     {
       "code": "5847028",
@@ -670234,14 +670234,14 @@
       "home": "Unan Managua",
       "away": "Real Esteli",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 4.69,
