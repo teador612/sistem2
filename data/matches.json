@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T02:01:24.847Z",
+  "updatedAt": "2026-10-08T02:31:20.582Z",
   "matches": [
     {
       "code": "5847028",
@@ -664942,7 +664942,7 @@
       "home": "Cruzeiro",
       "away": "Sao Paulo",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -674352,8 +674352,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
