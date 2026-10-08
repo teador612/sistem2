@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T11:15:49.426Z",
+  "updatedAt": "2026-10-08T11:31:03.448Z",
   "matches": [
     {
       "code": "5847028",
@@ -676016,10 +676016,10 @@
       "home": "Lion City",
       "away": "Cand",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -735737,6 +735737,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-08T11:15:49.426Z"
+    },
+    {
+      "code": "4523143",
+      "week": 24140,
+      "date": "09.10.2026",
+      "time": "13:00",
+      "league": "PORU23",
+      "home": "Estoril U23",
+      "away": "Sporting Cp U23",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.99,
+        "msX": 3.1,
+        "ms2": 2.53,
+        "cs1X": 1.21,
+        "cs12": 1.13,
+        "csX2": 1.37,
+        "au25Alt": 1.96,
+        "au25Ust": 1.4,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.33,
+        "kgYok": 2.12,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-08T11:31:03.445Z"
     }
   ]
 }
