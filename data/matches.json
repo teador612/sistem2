@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T19:31:05.172Z",
+  "updatedAt": "2026-10-08T19:45:57.322Z",
   "matches": [
     {
       "code": "5847028",
@@ -665091,7 +665091,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -667294,10 +667294,10 @@
       "home": "Cfr Cluj",
       "away": "Universitatea C",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -667343,10 +667343,10 @@
       "home": "Vanersborgs Fk",
       "away": "Ifk Kumla",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": "3",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -667637,7 +667637,7 @@
       "home": "Deportivo Moqu",
       "away": "Cienciano",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -673860,10 +673860,10 @@
       "home": "Cr Khemis Zema",
       "away": "Husa Agadir",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "2",
@@ -673909,9 +673909,9 @@
       "home": "Far Rabat",
       "away": "Widad Temara",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -674497,10 +674497,10 @@
       "home": "Bokelj Kotor",
       "away": "Petrovac",
       "mbs": 3,
-      "status": 0,
+      "status": 9,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -674989,7 +674989,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -675771,7 +675771,7 @@
       "home": "Al Talaba",
       "away": "Al Shorta",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -675869,7 +675869,7 @@
       "home": "Al Wakrah",
       "away": "Gharrafa",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "2"
@@ -678956,7 +678956,7 @@
       "home": "Txantrea",
       "away": "Cortes",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -682484,10 +682484,10 @@
       "home": "Atletico Fc",
       "away": "San Antonio",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
