@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-08T17:46:02.405Z",
+  "updatedAt": "2026-10-08T18:01:18.683Z",
   "matches": [
     {
       "code": "5847028",
@@ -665040,7 +665040,7 @@
       "home": "Kuopion",
       "away": "Oulu",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -667637,10 +667637,10 @@
       "home": "Deportivo Moqu",
       "away": "Cienciano",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -671655,14 +671655,14 @@
       "home": "Rouisset",
       "away": "Usm Alger",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.4,
@@ -671704,14 +671704,14 @@
       "home": "Js Saoura",
       "away": "Olympique Akbou",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.4,
@@ -672929,14 +672929,14 @@
       "home": "Independiente ",
       "away": "9 De Octubre",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.07,
@@ -673811,7 +673811,7 @@
       "home": "Uts Rabat",
       "away": "Rsb Berkane",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -673860,10 +673860,10 @@
       "home": "Cr Khemis Zema",
       "away": "Husa Agadir",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -675134,7 +675134,7 @@
       "home": "Mornar Bar",
       "away": "Jezero Plav",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "3"
@@ -675722,14 +675722,14 @@
       "home": "Modern Sc",
       "away": "National Bank O",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.36,
@@ -675869,14 +675869,14 @@
       "home": "Al Wakrah",
       "away": "Gharrafa",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.06,
@@ -675918,14 +675918,14 @@
       "home": "Ghazl El Mehal",
       "away": "Abu Qair",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.98,
@@ -676506,7 +676506,7 @@
       "home": "Naft Maysan",
       "away": "Erbil Sc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -676555,14 +676555,14 @@
       "home": "Al Akhdoud",
       "away": "Al Ula",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 4.56,
@@ -676702,7 +676702,7 @@
       "home": "Nec",
       "away": "Express",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -736237,10 +736237,10 @@
       "home": "Beti Kozkor",
       "away": "Beti Onak",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -738677,6 +738677,104 @@
         "iy2": 3.59
       },
       "openingRecordedAt": "2026-10-08T17:46:02.404Z"
+    },
+    {
+      "code": "4507595",
+      "week": 24140,
+      "date": "09.10.2026",
+      "time": "20:00",
+      "league": "ALMBÖL",
+      "home": "Offenbach",
+      "away": "Homburg",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.14,
+        "msX": 3.14,
+        "ms2": 2.29,
+        "cs1X": 1.26,
+        "cs12": 1.12,
+        "csX2": 1.31,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.24,
+        "kgYok": 2.38,
+        "iy15Alt": 1.46,
+        "iy15Ust": 1.86,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.45,
+        "au35Ust": 1.87,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.54,
+        "iyX": 2.19,
+        "iy2": 2.69
+      },
+      "openingRecordedAt": "2026-10-08T18:01:18.681Z"
+    },
+    {
+      "code": "4506348",
+      "week": 24140,
+      "date": "09.10.2026",
+      "time": "20:00",
+      "league": "ALMBÖL",
+      "home": "Bayern Munich ",
+      "away": "Unterhaching",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.56,
+        "msX": 3.07,
+        "ms2": 1.98,
+        "cs1X": 1.37,
+        "cs12": 1.13,
+        "csX2": 1.2,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.22,
+        "kgYok": 2.5,
+        "iy15Alt": 1.51,
+        "iy15Ust": 1.79,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.51,
+        "au35Ust": 1.78,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.87,
+        "iyX": 2.24,
+        "iy2": 2.34
+      },
+      "openingRecordedAt": "2026-10-08T18:01:18.681Z"
     }
   ]
 }
