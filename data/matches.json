@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T10:01:52.481Z",
+  "updatedAt": "2026-10-09T10:16:12.013Z",
   "matches": [
     {
       "code": "5847028",
@@ -688710,7 +688710,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -688756,10 +688756,10 @@
       "home": "Kashiwa",
       "away": "Vissel Kobe",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -688805,10 +688805,10 @@
       "home": "Osaka",
       "away": "Zweigen Kanazaw",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -688854,10 +688854,10 @@
       "home": "Kashima",
       "away": "Gamba Osaka",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -718159,7 +718159,7 @@
       "status": 2,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -726339,10 +726339,10 @@
       "home": "Torrent",
       "away": "Hercules Ii",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -738045,7 +738045,7 @@
       "code": "4552240",
       "week": 24140,
       "date": "09.10.2026",
-      "time": "19:30",
+      "time": "19:00",
       "league": "NIJ",
       "home": "Katsina United",
       "away": "Enyimba Inter",
@@ -742989,6 +742989,104 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-09T10:01:52.479Z"
+    },
+    {
+      "code": "4505041",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "14:00",
+      "league": "MAC3",
+      "home": "Iii Keruleti T",
+      "away": "Szolnok",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.25,
+        "msX": 4.24,
+        "ms2": 5.3,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.19,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.41,
+        "kgYok": 1.95,
+        "iy15Alt": 1.51,
+        "iy15Ust": 1.78,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.49,
+        "au35Ust": 1.81,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.62,
+        "iyX": 2.43,
+        "iy2": 5.12
+      },
+      "openingRecordedAt": "2026-10-09T10:16:12.012Z"
+    },
+    {
+      "code": "4511470",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "17:00",
+      "league": "İSV1Y",
+      "home": "Luzern Ii",
+      "away": "Schaffhausen",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.54,
+        "msX": 3.57,
+        "ms2": 1.82,
+        "cs1X": 1.45,
+        "cs12": 1.09,
+        "csX2": 1.21,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.23,
+        "kgYok": 2.41,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.51,
+        "au35Ust": 1.79,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-09T10:16:12.012Z"
     }
   ]
 }
