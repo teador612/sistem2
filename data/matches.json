@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T08:31:07.820Z",
+  "updatedAt": "2026-10-09T08:45:56.829Z",
   "matches": [
     {
       "code": "5847028",
@@ -688609,7 +688609,7 @@
       "home": "Incheon Utd",
       "away": "Pohang Steelers",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "0"
@@ -688658,7 +688658,7 @@
       "home": "Gimpo Citizen",
       "away": "Seoul E-Land",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -700173,10 +700173,10 @@
       "home": "Cheongju Fc",
       "away": "Seongnam",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -700222,7 +700222,7 @@
       "home": "Gangwon",
       "away": "Bucheon",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -710367,7 +710367,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
