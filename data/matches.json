@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T00:01:21.821Z",
+  "updatedAt": "2026-10-09T00:15:55.783Z",
   "matches": [
     {
       "code": "5847028",
@@ -665140,7 +665140,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -665285,7 +665285,7 @@
       "home": "Atletico Pr",
       "away": "Atletico Mg",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -667245,7 +667245,7 @@
       "home": "Atletico Nacio",
       "away": "Deportes Tolima",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -740245,6 +740245,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-08T23:01:17.876Z"
+    },
+    {
+      "code": "4551727",
+      "week": 24140,
+      "date": "11.10.2026",
+      "time": "12:00",
+      "league": "AND",
+      "home": "Fc Rangers",
+      "away": "Carroi",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.14,
+        "msX": 4.74,
+        "ms2": 7.6,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.63,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-09T00:15:55.782Z"
     }
   ]
 }
