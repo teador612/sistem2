@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T07:01:14.851Z",
+  "updatedAt": "2026-10-09T07:15:55.698Z",
   "matches": [
     {
       "code": "5847028",
@@ -700124,9 +700124,9 @@
       "home": "Yangpyeong",
       "away": "Ulsan Citizen",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
