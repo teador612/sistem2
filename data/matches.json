@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T06:15:52.022Z",
+  "updatedAt": "2026-10-09T06:31:06.907Z",
   "matches": [
     {
       "code": "5847028",
@@ -682290,7 +682290,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -740784,6 +740784,55 @@
         "iy2": 2.28
       },
       "openingRecordedAt": "2026-10-09T04:16:07.557Z"
+    },
+    {
+      "code": "4435448",
+      "week": 24140,
+      "date": "11.10.2026",
+      "time": "14:30",
+      "league": "GUR",
+      "home": "Samgurali",
+      "away": "Gagra",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.74,
+        "msX": 3.27,
+        "ms2": 2.91,
+        "cs1X": 1.15,
+        "cs12": 1.1,
+        "csX2": 1.5,
+        "au25Alt": 1.72,
+        "au25Ust": 1.56,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.49,
+        "kgYok": 1.82,
+        "iy15Alt": 1.28,
+        "iy15Ust": 2.27,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.31,
+        "iyX": 1.99,
+        "iy2": 3.5
+      },
+      "openingRecordedAt": "2026-10-09T06:31:06.907Z"
     }
   ]
 }
