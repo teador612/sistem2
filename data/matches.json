@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T02:15:55.508Z",
+  "updatedAt": "2026-10-09T02:31:07.578Z",
   "matches": [
     {
       "code": "5847028",
@@ -665334,7 +665334,7 @@
       "home": "Palmeiras",
       "away": "Bahia",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -665383,9 +665383,9 @@
       "home": "Fluminense",
       "away": "Coritiba",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -665434,7 +665434,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -675330,14 +675330,14 @@
       "home": "Deportivo Fas",
       "away": "Alianza",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.67,
@@ -740539,6 +740539,104 @@
         "iy2": 3.64
       },
       "openingRecordedAt": "2026-10-09T01:45:47.448Z"
+    },
+    {
+      "code": "4566863",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "04:30",
+      "league": "YZLBÖL",
+      "home": "Wellington Pho",
+      "away": "Birkenhead Unit",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 6.93,
+        "msX": 5.08,
+        "ms2": 1.14,
+        "cs1X": 2.63,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.31,
+        "kgYok": 2.17,
+        "iy15Alt": 1.79,
+        "iy15Ust": 1.51,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.9,
+        "au35Ust": 1.44,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 5.88,
+        "iyX": 2.85,
+        "iy2": 1.43
+      },
+      "openingRecordedAt": "2026-10-09T02:31:07.576Z"
+    },
+    {
+      "code": "4527587",
+      "week": 24140,
+      "date": "11.10.2026",
+      "time": "11:00",
+      "league": "HK1",
+      "home": "Buler Rangers",
+      "away": "Lee Man",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 7.57,
+        "msX": 5,
+        "ms2": 1.12,
+        "cs1X": 2.69,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.46,
+        "kgYok": 1.86,
+        "iy15Alt": 1.62,
+        "iy15Ust": 1.65,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.63,
+        "au35Ust": 1.65,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 6.49,
+        "iyX": 2.7,
+        "iy2": 1.44
+      },
+      "openingRecordedAt": "2026-10-09T02:31:07.578Z"
     }
   ]
 }
