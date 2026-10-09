@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T13:31:22.091Z",
+  "updatedAt": "2026-10-09T13:46:12.807Z",
   "matches": [
     {
       "code": "5847028",
@@ -688905,7 +688905,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "4"
       },
       "halfTimeScore": {
@@ -689001,7 +689001,7 @@
       "home": "El Harby",
       "away": "La Viena Fc",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -689099,10 +689099,10 @@
       "home": "Persepolis",
       "away": "Sanat Naft",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -700320,7 +700320,7 @@
       "home": "Qingdao Zhongn",
       "away": "Beijing Guoan",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "3"
@@ -700369,7 +700369,7 @@
       "home": "Shenzhen Peng",
       "away": "Henan Jianye",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -700565,14 +700565,14 @@
       "home": "Radnik Sesvete",
       "away": "Jadran Lp",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.95,
@@ -700663,10 +700663,10 @@
       "home": "Uljanik",
       "away": "Krizevci",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -710463,10 +710463,10 @@
       "home": "Rekord Bielsko",
       "away": "Sandecja Nowy S",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -718352,7 +718352,7 @@
       "home": "Team",
       "away": "Pharco",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -718401,10 +718401,10 @@
       "home": "Ad Pemba",
       "away": "Tete",
       "mbs": 3,
-      "status": 9,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -718548,10 +718548,10 @@
       "home": "Opatija",
       "away": "Kustosija",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -729772,7 +729772,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -734769,7 +734769,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -735551,10 +735551,10 @@
       "home": "Kuruvchi Kokan",
       "away": "Mashal Muborak",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -736531,10 +736531,10 @@
       "home": "Jwaya",
       "away": "Mabarra",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -738589,10 +738589,10 @@
       "home": "Lerumo Lions",
       "away": "Hope",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -749996,6 +749996,55 @@
         "iy2": 2.28
       },
       "openingRecordedAt": "2026-10-09T13:31:22.091Z"
+    },
+    {
+      "code": "4429051",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "20:00",
+      "league": "NOR3",
+      "home": "Mjondalen",
+      "away": "Pors Grenland",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.27,
+        "msX": 4.05,
+        "ms2": 5.4,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.15,
+        "au25Alt": 2.31,
+        "au25Ust": 1.27,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.41,
+        "kgYok": 1.95,
+        "iy15Alt": 1.51,
+        "iy15Ust": 1.79,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.48,
+        "au35Ust": 1.83,
+        "gol01": 5.28,
+        "gol23": 1.98,
+        "gol46": 2.55,
+        "gol7": 5.92,
+        "iy1": 1.62,
+        "iyX": 2.43,
+        "iy2": 5.15
+      },
+      "openingRecordedAt": "2026-10-09T13:46:12.806Z"
     }
   ]
 }
