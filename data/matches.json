@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T10:46:10.523Z",
+  "updatedAt": "2026-10-09T11:01:25.277Z",
   "matches": [
     {
       "code": "5847028",
@@ -688756,14 +688756,14 @@
       "home": "Kashiwa",
       "away": "Vissel Kobe",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.95,
@@ -688805,14 +688805,14 @@
       "home": "Osaka",
       "away": "Zweigen Kanazaw",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.01,
@@ -688854,14 +688854,14 @@
       "home": "Kashima",
       "away": "Gamba Osaka",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.62,
@@ -700271,10 +700271,10 @@
       "home": "Johor Dt",
       "away": "Pulau Pinang",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "3",
@@ -718107,10 +718107,10 @@
       "home": "I.S.P.E",
       "away": "Dagon",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -718156,7 +718156,7 @@
       "home": "Sagaing United",
       "away": "Chinland",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -726339,14 +726339,14 @@
       "home": "Torrent",
       "away": "Hercules Ii",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.49,
@@ -735796,10 +735796,10 @@
       "home": "Ratchaburi Fc",
       "away": "Sukhothai",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -740206,10 +740206,10 @@
       "home": "Kazakistan (K)",
       "away": "İrlanda Cumhuri",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
