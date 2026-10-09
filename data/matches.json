@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T04:16:07.559Z",
+  "updatedAt": "2026-10-09T04:46:10.879Z",
   "matches": [
     {
       "code": "5847028",
@@ -547097,14 +547097,14 @@
       "home": "Fortaleza",
       "away": "Los Millionario",
       "mbs": 3,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.56,
@@ -665138,9 +665138,9 @@
       "home": "Santos",
       "away": "Flamengo",
       "mbs": 1,
-      "status": 4,
+      "status": 2,
       "score": {
-        "home": "2",
+        "home": "0",
         "away": "2"
       },
       "halfTimeScore": {
@@ -665187,7 +665187,7 @@
       "home": "Nautico",
       "away": "Novorizontino",
       "mbs": 3,
-      "status": 4,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "2"
@@ -665236,9 +665236,9 @@
       "home": "Ceara",
       "away": "Criciuma",
       "mbs": 3,
-      "status": 4,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -665285,14 +665285,14 @@
       "home": "Atletico Pr",
       "away": "Atletico Mg",
       "mbs": 1,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "2",
-        "away": "2"
-      },
-      "halfTimeScore": {
         "home": "1",
         "away": "1"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.88,
@@ -665334,14 +665334,14 @@
       "home": "Palmeiras",
       "away": "Bahia",
       "mbs": 1,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.38,
@@ -665383,14 +665383,14 @@
       "home": "Fluminense",
       "away": "Coritiba",
       "mbs": 1,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "4",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.33,
@@ -665432,14 +665432,14 @@
       "home": "Alebrijes",
       "away": "Correcaminos Ua",
       "mbs": 3,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.27,
@@ -667245,14 +667245,14 @@
       "home": "Atletico Nacio",
       "away": "Deportes Tolima",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.44,
@@ -675281,14 +675281,14 @@
       "home": "Antigua Guatem",
       "away": "Municipal",
       "mbs": 3,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.83,
@@ -675330,14 +675330,14 @@
       "home": "Deportivo Fas",
       "away": "Alianza",
       "mbs": 3,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.67,
