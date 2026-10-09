@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T09:31:22.269Z",
+  "updatedAt": "2026-10-09T09:45:55.873Z",
   "matches": [
     {
       "code": "5847028",
@@ -688707,10 +688707,10 @@
       "home": "Sagamihara",
       "away": "Kamatamare Sanu",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -710365,7 +710365,7 @@
       "home": "Persik",
       "away": "Madura United",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
