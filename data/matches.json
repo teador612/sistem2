@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T00:31:06.356Z",
+  "updatedAt": "2026-10-09T00:45:53.962Z",
   "matches": [
     {
       "code": "5847028",
@@ -665138,7 +665138,7 @@
       "home": "Santos",
       "away": "Flamengo",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -665187,7 +665187,7 @@
       "home": "Nautico",
       "away": "Novorizontino",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -665336,7 +665336,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -740294,6 +740294,104 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-09T00:15:55.782Z"
+    },
+    {
+      "code": "4551726",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "21:30",
+      "league": "AND",
+      "home": "Fc Ordino",
+      "away": "Inter Escaldes",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 10.15,
+        "msX": 5.48,
+        "ms2": 1.06,
+        "cs1X": 3.08,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-09T00:45:53.961Z"
+    },
+    {
+      "code": "4551730",
+      "week": 24140,
+      "date": "11.10.2026",
+      "time": "21:00",
+      "league": "AND",
+      "home": "Descaldes",
+      "away": "Esperança Dando",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.19,
+        "msX": 4.42,
+        "ms2": 6.4,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.39,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-09T00:45:53.962Z"
     }
   ]
 }
