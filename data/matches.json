@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T05:45:47.517Z",
+  "updatedAt": "2026-10-09T06:01:13.085Z",
   "matches": [
     {
       "code": "5847028",
@@ -682288,14 +682288,14 @@
       "home": "Suwon City",
       "away": "Hwaseong",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.79,
@@ -688560,14 +688560,14 @@
       "home": "Daejeon Citize",
       "away": "Jeonbuk Hm",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.03,
