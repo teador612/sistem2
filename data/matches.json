@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T10:16:12.013Z",
+  "updatedAt": "2026-10-09T10:31:04.338Z",
   "matches": [
     {
       "code": "5847028",
@@ -688710,7 +688710,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -688756,10 +688756,10 @@
       "home": "Kashiwa",
       "away": "Vissel Kobe",
       "mbs": 2,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -688805,10 +688805,10 @@
       "home": "Osaka",
       "away": "Zweigen Kanazaw",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -688854,10 +688854,10 @@
       "home": "Kashima",
       "away": "Gamba Osaka",
       "mbs": 2,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -718159,7 +718159,7 @@
       "status": 2,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "1",
@@ -726339,10 +726339,10 @@
       "home": "Torrent",
       "away": "Hercules Ii",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -738045,7 +738045,7 @@
       "code": "4552240",
       "week": 24140,
       "date": "09.10.2026",
-      "time": "19:00",
+      "time": "19:30",
       "league": "NIJ",
       "home": "Katsina United",
       "away": "Enyimba Inter",
