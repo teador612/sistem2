@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T02:45:51.988Z",
+  "updatedAt": "2026-10-09T03:01:18.180Z",
   "matches": [
     {
       "code": "5847028",
@@ -547100,7 +547100,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -665432,10 +665432,10 @@
       "home": "Alebrijes",
       "away": "Correcaminos Ua",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -675281,7 +675281,7 @@
       "home": "Antigua Guatem",
       "away": "Municipal",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
