@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T04:01:11.318Z",
+  "updatedAt": "2026-10-09T04:16:07.559Z",
   "matches": [
     {
       "code": "5847028",
@@ -675330,7 +675330,7 @@
       "home": "Deportivo Fas",
       "away": "Alianza",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -740637,6 +740637,153 @@
         "iy2": 1.44
       },
       "openingRecordedAt": "2026-10-09T02:31:07.578Z"
+    },
+    {
+      "code": "4527585",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "11:00",
+      "league": "HK1",
+      "home": "Kitchee Footba",
+      "away": "Hong Kong Fc",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 7.78,
+        "ms2": 11.2,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 5,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.86,
+        "kgYok": 1.46,
+        "iy15Alt": 1.93,
+        "iy15Ust": 1.42,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 2.22,
+        "au35Ust": 1.3,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.14,
+        "iyX": 3.68,
+        "iy2": 14
+      },
+      "openingRecordedAt": "2026-10-09T04:16:07.556Z"
+    },
+    {
+      "code": "4452096",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "14:00",
+      "league": "ÇİN2",
+      "home": "Suzhou Dongwu",
+      "away": "Hebei Kungfu",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.82,
+        "msX": 2.85,
+        "ms2": 3.12,
+        "cs1X": 1.12,
+        "cs12": 1.16,
+        "csX2": 1.45,
+        "au25Alt": 1.44,
+        "au25Ust": 1.89,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.69,
+        "kgYok": 1.58,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.56,
+        "au15Ust": 1.21,
+        "au35Alt": 1.09,
+        "au35Ust": 3.35,
+        "gol01": 2.57,
+        "gol23": 1.72,
+        "gol46": 4.14,
+        "gol7": 20.75,
+        "iy1": 2.43,
+        "iyX": 1.82,
+        "iy2": 3.8
+      },
+      "openingRecordedAt": "2026-10-09T04:16:07.556Z"
+    },
+    {
+      "code": "4572613",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "19:00",
+      "league": "BAH",
+      "home": "Manama",
+      "away": "Al Ahli Manama",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.12,
+        "msX": 2.96,
+        "ms2": 1.78,
+        "cs1X": 1.48,
+        "cs12": 1.14,
+        "csX2": 1.12,
+        "au25Alt": 1.68,
+        "au25Ust": 1.59,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.48,
+        "kgYok": 1.82,
+        "iy15Alt": 1.28,
+        "iy15Ust": 2.28,
+        "au15Alt": 3.19,
+        "au15Ust": 1.1,
+        "au35Alt": 1.2,
+        "au35Ust": 2.59,
+        "gol01": 3.31,
+        "gol23": 1.76,
+        "gol46": 3.29,
+        "gol7": 12.2,
+        "iy1": 3.6,
+        "iyX": 1.98,
+        "iy2": 2.28
+      },
+      "openingRecordedAt": "2026-10-09T04:16:07.557Z"
     }
   ]
 }
