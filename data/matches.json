@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T09:45:55.873Z",
+  "updatedAt": "2026-10-09T10:01:52.481Z",
   "matches": [
     {
       "code": "5847028",
@@ -700271,14 +700271,14 @@
       "home": "Johor Dt",
       "away": "Pulau Pinang",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.11,
@@ -718107,14 +718107,14 @@
       "home": "I.S.P.E",
       "away": "Dagon",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 5.1,
@@ -718156,14 +718156,14 @@
       "home": "Sagaing United",
       "away": "Chinland",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.48,
@@ -742940,6 +742940,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-09T09:31:22.267Z"
+    },
+    {
+      "code": "4505047",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "14:00",
+      "league": "MAC3",
+      "home": "Bss Monor",
+      "away": "Bekescsaba Elor",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.64,
+        "msX": 3.4,
+        "ms2": 3.15,
+        "cs1X": 1.11,
+        "cs12": 1.09,
+        "csX2": 1.58,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-09T10:01:52.479Z"
     }
   ]
 }
