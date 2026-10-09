@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T19:02:04.809Z",
+  "updatedAt": "2026-10-09T19:16:28.031Z",
   "matches": [
     {
       "code": "5847028",
@@ -679005,10 +679005,10 @@
       "home": "Lens",
       "away": "Lyon",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -679693,7 +679693,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -679792,7 +679792,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -679838,10 +679838,10 @@
       "home": "Avellino",
       "away": "Sampdoria",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -682683,7 +682683,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "3"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -682829,7 +682829,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -682876,10 +682876,10 @@
       "home": "Sutton United",
       "away": "Boreham Wood",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -689932,7 +689932,7 @@
       "home": "Js Kabylie",
       "away": "Aso Chlef",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -690030,7 +690030,7 @@
       "home": "Aldosivi",
       "away": "Sarmiento",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
@@ -690131,7 +690131,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -690180,7 +690180,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -690228,8 +690228,8 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -690667,10 +690667,10 @@
       "home": "Bohemian",
       "away": "Waterford",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -690765,10 +690765,10 @@
       "home": "Cardiff Mu",
       "away": "Trefelin",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -696598,7 +696598,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -696645,14 +696645,14 @@
       "home": "Moreirense",
       "away": "Gil Vicente",
       "mbs": 1,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.03,
@@ -696792,10 +696792,10 @@
       "home": "Cork City",
       "away": "Finn Harps",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -701156,7 +701156,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -701205,7 +701205,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -701253,7 +701253,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -711053,7 +711053,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -711347,7 +711347,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -711396,7 +711396,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -719433,7 +719433,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -719528,10 +719528,10 @@
       "home": "Rappersvil Jon",
       "away": "Stade Ouchy",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -719626,9 +719626,9 @@
       "home": "Neuchatel Xama",
       "away": "Winterthur",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -719822,10 +719822,10 @@
       "home": "Afan Lido",
       "away": "Swansea Univers",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -719969,10 +719969,10 @@
       "home": "Cambrian",
       "away": "Ammanford",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -723303,8 +723303,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
-        "away": "3"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -726192,10 +726192,10 @@
       "home": "Hırvatistan (K",
       "away": "İzlanda (K)",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "4"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -730164,7 +730164,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "3"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -730311,7 +730311,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "4"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": null,
@@ -734867,7 +734867,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "3",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -735014,7 +735014,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -736188,10 +736188,10 @@
       "home": "Almanya (K)",
       "away": "Avustralya (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -738199,8 +738199,8 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "4",
-        "away": "1"
+        "home": "3",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -738297,7 +738297,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
@@ -738739,7 +738739,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "1",
@@ -738932,10 +738932,10 @@
       "home": "F. Borains U21",
       "away": "Rwdm U21",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -738981,10 +738981,10 @@
       "home": "Westerlo U21",
       "away": "Kortrijk U21",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -740402,10 +740402,10 @@
       "home": "Holywell Town",
       "away": "The New Saints",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
