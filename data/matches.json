@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T11:16:04.343Z",
+  "updatedAt": "2026-10-09T11:31:11.190Z",
   "matches": [
     {
       "code": "5847028",
@@ -688707,9 +688707,9 @@
       "home": "Sagamihara",
       "away": "Kamatamare Sanu",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -688758,7 +688758,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -688856,7 +688856,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -726342,7 +726342,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -735747,14 +735747,14 @@
       "home": "Estoril U23",
       "away": "Sporting Cp U23",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.99,
@@ -740209,7 +740209,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": null,
@@ -745096,6 +745096,153 @@
         "iy2": 3.1
       },
       "openingRecordedAt": "2026-10-09T11:16:04.342Z"
+    },
+    {
+      "code": "4531289",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "13:00",
+      "league": "İSTL",
+      "home": "Constancia",
+      "away": "Porreres",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.44,
+        "msX": 3.12,
+        "ms2": 4.89,
+        "cs1X": 1,
+        "cs12": 1.11,
+        "csX2": 1.81,
+        "au25Alt": 1.52,
+        "au25Ust": 1.77,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.76,
+        "kgYok": 1.52,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-09T11:31:11.185Z"
+    },
+    {
+      "code": "4539612",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "16:30",
+      "league": "TUN1",
+      "home": "Progrès Sakiet",
+      "away": "Cs Sfaxien",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.78,
+        "msX": 2.61,
+        "ms2": 2.08,
+        "cs1X": 1.33,
+        "cs12": 1.2,
+        "csX2": 1.16,
+        "au25Alt": 1.25,
+        "au25Ust": 2.35,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.95,
+        "kgYok": 1.41,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.06,
+        "au15Ust": 1.36,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 2.05,
+        "gol23": 1.77,
+        "gol46": 5.64,
+        "gol7": 35,
+        "iy1": 3.67,
+        "iyX": 1.66,
+        "iy2": 2.88
+      },
+      "openingRecordedAt": "2026-10-09T11:31:11.186Z"
+    },
+    {
+      "code": "4530984",
+      "week": 24140,
+      "date": "10.10.2026",
+      "time": "19:30",
+      "league": "İSTL",
+      "home": "Bollullos",
+      "away": "Chiclana",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.84,
+        "msX": 2.81,
+        "ms2": 3.1,
+        "cs1X": 1.12,
+        "cs12": 1.16,
+        "csX2": 1.44,
+        "au25Alt": 1.44,
+        "au25Ust": 1.9,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.69,
+        "kgYok": 1.58,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-09T11:31:11.187Z"
     }
   ]
 }
