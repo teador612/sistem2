@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T02:31:07.578Z",
+  "updatedAt": "2026-10-09T02:45:51.988Z",
   "matches": [
     {
       "code": "5847028",
@@ -665434,7 +665434,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -675330,9 +675330,9 @@
       "home": "Deportivo Fas",
       "away": "Alianza",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
