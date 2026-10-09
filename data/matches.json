@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T01:01:17.564Z",
+  "updatedAt": "2026-10-09T01:15:54.042Z",
   "matches": [
     {
       "code": "5847028",
@@ -547097,10 +547097,10 @@
       "home": "Fortaleza",
       "away": "Los Millionario",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -665138,9 +665138,9 @@
       "home": "Santos",
       "away": "Flamengo",
       "mbs": 1,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -665187,7 +665187,7 @@
       "home": "Nautico",
       "away": "Novorizontino",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -665236,9 +665236,9 @@
       "home": "Ceara",
       "away": "Criciuma",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -665285,14 +665285,14 @@
       "home": "Atletico Pr",
       "away": "Atletico Mg",
       "mbs": 1,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.88,
@@ -665334,10 +665334,10 @@
       "home": "Palmeiras",
       "away": "Bahia",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -665383,10 +665383,10 @@
       "home": "Fluminense",
       "away": "Coritiba",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -665432,10 +665432,10 @@
       "home": "Alebrijes",
       "away": "Correcaminos Ua",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -667245,14 +667245,14 @@
       "home": "Atletico Nacio",
       "away": "Deportes Tolima",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.44,
@@ -675281,10 +675281,10 @@
       "home": "Antigua Guatem",
       "away": "Municipal",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
