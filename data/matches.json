@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-09T12:31:07.769Z",
+  "updatedAt": "2026-10-09T12:45:58.816Z",
   "matches": [
     {
       "code": "5847028",
@@ -688952,10 +688952,10 @@
       "home": "Telecom Egypt",
       "away": "El Mansura",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -689001,10 +689001,10 @@
       "home": "El Harby",
       "away": "La Viena Fc",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -700320,7 +700320,7 @@
       "home": "Qingdao Zhongn",
       "away": "Beijing Guoan",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -700369,9 +700369,9 @@
       "home": "Shenzhen Peng",
       "away": "Henan Jianye",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -700421,7 +700421,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -700467,10 +700467,10 @@
       "home": "Maleyet Kafr E",
       "away": "Baladiyyat",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -710414,10 +710414,10 @@
       "home": "Veres Rivne",
       "away": "Shakhtar Donets",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -718352,10 +718352,10 @@
       "home": "Team",
       "away": "Pharco",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -740209,7 +740209,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "6"
+        "away": "7"
       },
       "halfTimeScore": {
         "home": "0",
