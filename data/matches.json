@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-10T06:01:39.818Z",
+  "updatedAt": "2026-10-10T06:16:17.608Z",
   "matches": [
     {
       "code": "5847028",
@@ -691206,10 +691206,10 @@
       "home": "Fc Seoul",
       "away": "Jeju Utd",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -711688,9 +711688,9 @@
       "home": "Sporting San J",
       "away": "Cs Cartagines",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -720459,14 +720459,14 @@
       "home": "Tigres Uanl",
       "away": "Toluca",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "3",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.58,
@@ -720557,10 +720557,10 @@
       "home": "Jeonnam Dragon",
       "away": "Yongin",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -720606,10 +720606,10 @@
       "home": "Paju Citizen",
       "away": "Busan Ipark",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -740843,9 +740843,9 @@
       "home": "Auckland City",
       "away": "Wellington Olym",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -740892,14 +740892,14 @@
       "home": "Criacao Shinju",
       "away": "Reinmeer Aomori",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.43,
@@ -740941,14 +740941,14 @@
       "home": "Maruyasu Indus",
       "away": "Yokohama Scc",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.78,
@@ -743097,14 +743097,14 @@
       "home": "Okinawa Sv",
       "away": "J-Lease Fc",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.15,
@@ -745400,14 +745400,14 @@
       "home": "Ferrymead Bays",
       "away": "Miramar",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "4"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 1.96,
