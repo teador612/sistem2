@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-10T03:31:17.627Z",
+  "updatedAt": "2026-10-10T03:46:24.190Z",
   "matches": [
     {
       "code": "5847028",
@@ -711690,7 +711690,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -720459,14 +720459,14 @@
       "home": "Tigres Uanl",
       "away": "Toluca",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.58,
@@ -745403,7 +745403,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": null,
