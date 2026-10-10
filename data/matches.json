@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-10T07:01:20.886Z",
+  "updatedAt": "2026-10-10T07:16:34.704Z",
   "matches": [
     {
       "code": "5847028",
@@ -668415,7 +668415,7 @@
     {
       "code": "4564341",
       "week": 24140,
-      "date": "13.10.2026",
+      "date": "12.10.2026",
       "time": "19:00",
       "league": "KEN",
       "home": "Gor Mahia",
@@ -691059,14 +691059,14 @@
       "home": "Busan Transpor",
       "away": "Yeoju Sejong",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "2",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.79,
@@ -691108,14 +691108,14 @@
       "home": "Omiya",
       "away": "Vanraure",
       "mbs": 2,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "3",
-        "away": "1"
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.41,
@@ -691157,14 +691157,14 @@
       "home": "Kochi United",
       "away": "Parceiro Nagano",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
-        "away": "3"
-      },
-      "halfTimeScore": {
         "home": "0",
         "away": "0"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.4,
@@ -691206,14 +691206,14 @@
       "home": "Fc Seoul",
       "away": "Jeju Utd",
       "mbs": 2,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "2",
-        "away": "1"
-      },
-      "halfTimeScore": {
         "home": "0",
         "away": "0"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.45,
@@ -691255,14 +691255,14 @@
       "home": "Kusatsu Gunma",
       "away": "Ryukyu",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.12,
@@ -691304,14 +691304,14 @@
       "home": "Tokushima",
       "away": "Fc Imabari",
       "mbs": 2,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
-        "away": "2"
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.84,
@@ -691353,14 +691353,14 @@
       "home": "Nara Club",
       "away": "Gira Kitakyushu",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.77,
@@ -691402,14 +691402,14 @@
       "home": "Sagan Tosu",
       "away": "Fujieda",
       "mbs": 2,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.62,
@@ -691451,14 +691451,14 @@
       "home": "Cerezo Osaka",
       "away": "Yokohama Marino",
       "mbs": 2,
-      "status": 4,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2,
@@ -691500,14 +691500,14 @@
       "home": "Changwon City",
       "away": "Pocheon",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
-        "away": "3"
-      },
-      "halfTimeScore": {
         "home": "0",
         "away": "0"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.25,
@@ -691549,14 +691549,14 @@
       "home": "Yokohama Fc",
       "away": "Oita Trinita",
       "mbs": 2,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
-        "away": "2"
-      },
-      "halfTimeScore": {
         "home": "0",
         "away": "1"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.48,
@@ -691598,14 +691598,14 @@
       "home": "Avispa Fukuoka",
       "away": "Fagiano Okayama",
       "mbs": 2,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.87,
@@ -691647,14 +691647,14 @@
       "home": "Fc Tokyo",
       "away": "Urawa",
       "mbs": 2,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.51,
@@ -720508,14 +720508,14 @@
       "home": "Chuncheon Citi",
       "away": "Jeonbuk Motors ",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "3",
-        "away": "2"
-      },
-      "halfTimeScore": {
         "home": "1",
         "away": "0"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.29,
@@ -720557,14 +720557,14 @@
       "home": "Jeonnam Dragon",
       "away": "Yongin",
       "mbs": 2,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.41,
@@ -720606,14 +720606,14 @@
       "home": "Paju Citizen",
       "away": "Busan Ipark",
       "mbs": 2,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
-        "away": "1"
-      },
-      "halfTimeScore": {
         "home": "0",
         "away": "0"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.03,
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 3,
+      "mbs": 1,
       "status": 0,
       "score": {
         "home": null,
@@ -740892,7 +740892,7 @@
       "home": "Criacao Shinju",
       "away": "Reinmeer Aomori",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -740941,7 +740941,7 @@
       "home": "Maruyasu Indus",
       "away": "Yokohama Scc",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -740990,14 +740990,14 @@
       "home": "Urawa Red (K)",
       "away": "Mynavi Sendai (",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.38,
@@ -741039,10 +741039,10 @@
       "home": "Azul Claro Num",
       "away": "Vonds Ichihara",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -743097,7 +743097,7 @@
       "home": "Okinawa Sv",
       "away": "J-Lease Fc",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
