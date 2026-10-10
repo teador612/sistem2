@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-10T03:15:48.101Z",
+  "updatedAt": "2026-10-10T03:31:17.627Z",
   "matches": [
     {
       "code": "5847028",
@@ -691010,7 +691010,7 @@
       "home": "Union Santa Fe",
       "away": "Defensa Justici",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -697086,9 +697086,9 @@
       "home": "Once Caldas",
       "away": "Llaneros",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -701447,9 +701447,9 @@
       "home": "Puebla",
       "away": "Club Leon",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -701496,7 +701496,7 @@
       "home": "Tepatitlan De ",
       "away": "Monarcas",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -711639,7 +711639,7 @@
       "home": "Deportivo Garc",
       "away": "Sport Huancayo",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -711688,14 +711688,14 @@
       "home": "Sporting San J",
       "away": "Cs Cartagines",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.96,
@@ -720459,10 +720459,10 @@
       "home": "Tigres Uanl",
       "away": "Toluca",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -740549,10 +740549,10 @@
       "home": "Wellington Pho",
       "away": "Birkenhead Unit",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -740843,14 +740843,14 @@
       "home": "Auckland City",
       "away": "Wellington Olym",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.57,
@@ -745400,10 +745400,10 @@
       "home": "Ferrymead Bays",
       "away": "Miramar",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
