@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-10T01:01:25.239Z",
+  "updatedAt": "2026-10-10T01:16:00.308Z",
   "matches": [
     {
       "code": "5847028",
@@ -670677,8 +670677,8 @@
       "mbs": 3,
       "status": 11,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "0",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -697037,9 +697037,9 @@
       "home": "Alianza Petrol",
       "away": "Rionegro Aguila",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -697086,10 +697086,10 @@
       "home": "Once Caldas",
       "away": "Llaneros",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -701447,10 +701447,10 @@
       "home": "Puebla",
       "away": "Club Leon",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -720410,7 +720410,7 @@
       "home": "Inca-Aruba",
       "away": "Platense",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "3"
@@ -737707,7 +737707,7 @@
       "home": "Kanada (K)",
       "away": "Danimarka (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
