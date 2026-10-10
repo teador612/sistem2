@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-10T11:01:40.536Z",
+  "updatedAt": "2026-10-10T11:16:22.690Z",
   "matches": [
     {
       "code": "5847028",
@@ -639756,10 +639756,10 @@
       "home": "Gençlerbirliği",
       "away": "Amed Sk",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -668323,10 +668323,10 @@
       "home": "Mathare",
       "away": "Aps Bomet",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -679936,10 +679936,10 @@
       "home": "Magdeburg",
       "away": "Hannover",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -679985,10 +679985,10 @@
       "home": "Darmstadt",
       "away": "E.Cottbus",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -680034,10 +680034,10 @@
       "home": "Osnabruck",
       "away": "Dynamo Dresden",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -682974,10 +682974,10 @@
       "home": "Boluspor",
       "away": "Antalyaspor",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -683023,10 +683023,10 @@
       "home": "Eibar Ii",
       "away": "Basconia",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -691892,14 +691892,14 @@
       "home": "Iwata",
       "away": "Sapporo",
       "mbs": 2,
-      "status": 4,
+      "status": 1,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.57,
@@ -691941,14 +691941,14 @@
       "home": "Kyoto Sanga",
       "away": "Machida Zelvia",
       "mbs": 2,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.39,
@@ -691990,14 +691990,14 @@
       "home": "Orenburg",
       "away": "Makhachkala",
       "mbs": 1,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "2",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.09,
@@ -695758,7 +695758,7 @@
       "code": "4441234",
       "week": 24140,
       "date": "11.10.2026",
-      "time": "22:00",
+      "time": "23:00",
       "league": "ARJPBN",
       "home": "Ca Mitre",
       "away": "Colon Santa Fe",
@@ -697135,14 +697135,14 @@
       "home": "Tondela",
       "away": "Torreense",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.03,
@@ -701545,7 +701545,7 @@
       "home": "Targoviste",
       "away": "Concordia Chiaj",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "2"
@@ -701594,7 +701594,7 @@
       "home": "Metalul Buzau",
       "away": "Asa Targu Mureş",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -701643,7 +701643,7 @@
       "home": "Viitorul Şelim",
       "away": "Unirea Slobozia",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -701692,7 +701692,7 @@
       "home": "Cs Dinamo Bucu",
       "away": "Csm Satu Mare",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "2"
@@ -701741,7 +701741,7 @@
       "home": "South Melbourn",
       "away": "Melbourne Victo",
       "mbs": 1,
-      "status": 5,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
@@ -701790,14 +701790,14 @@
       "home": "Csm Resita",
       "away": "Slatina",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.05,
@@ -701839,10 +701839,10 @@
       "home": "Landskrona",
       "away": "Sandvikens",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -711737,9 +711737,9 @@
       "home": "Arema",
       "away": "Bhayangkara Sur",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -711786,14 +711786,14 @@
       "home": "Minsk",
       "away": "Torpedo Zhodino",
       "mbs": 3,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.16,
@@ -711884,10 +711884,10 @@
       "home": "Fk Tukums 2000",
       "away": "Riga Fc",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -720753,7 +720753,7 @@
       "home": "Metaloglobus",
       "away": "Gloria Popesti",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "3"
@@ -720802,14 +720802,14 @@
       "home": "Acs Gloria Bis",
       "away": "Ramnicu Valcea",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.58,
@@ -720851,14 +720851,14 @@
       "home": "Cetatea",
       "away": "Dumbravita",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "3",
-        "away": "1"
-      },
-      "halfTimeScore": {
         "home": "0",
         "away": "0"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.36,
@@ -720900,10 +720900,10 @@
       "home": "Psim Yogyakart",
       "away": "Persija Jakarta",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "4"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "0",
@@ -720949,10 +720949,10 @@
       "home": "Persita Tanger",
       "away": "Garudayaksa",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "0",
@@ -720998,14 +720998,14 @@
       "home": "Ural",
       "away": "Veles",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.28,
@@ -721047,14 +721047,14 @@
       "home": "Flora Tallinn ",
       "away": "Fc Tallinn",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.35,
@@ -721096,14 +721096,14 @@
       "home": "Daejeon Korail",
       "away": "Dangjin Citizen",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.55,
@@ -721140,15 +721140,15 @@
       "code": "4508169",
       "week": 24140,
       "date": "10.10.2026",
-      "time": "13:45",
+      "time": "13:00",
       "league": "UKR",
       "home": "Obolon-Brovar",
       "away": "Kryvbas Kr",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -721189,15 +721189,15 @@
       "code": "4508170",
       "week": 24140,
       "date": "10.10.2026",
-      "time": "13:40",
+      "time": "13:00",
       "league": "UKR",
       "home": "Kolos Kovalivk",
       "away": "Epitsentr Dunay",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -721243,14 +721243,14 @@
       "home": "Chernomorets",
       "away": "Fc Kharkiv",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 5.3,
@@ -721292,14 +721292,14 @@
       "home": "Orijent 1919",
       "away": "Dubrava Zagred",
       "mbs": 3,
-      "status": 3,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.5,
@@ -721341,14 +721341,14 @@
       "home": "Irtysh",
       "away": "Kyzyl-Zhar",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.6,
@@ -721635,10 +721635,10 @@
       "home": "Enskede",
       "away": "Skiljebo Sk",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -721684,10 +721684,10 @@
       "home": "Kazincbarcika",
       "away": "",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -721782,10 +721782,10 @@
       "home": "Leningradets",
       "away": "Torpedo Moskova",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -736825,10 +736825,10 @@
       "home": "Bg Pathum Unit",
       "away": "Ayutthaya Unite",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -739177,14 +739177,14 @@
       "home": "Metta / Lu",
       "away": "Riga Mariners",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "3",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "3",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.3,
@@ -739226,14 +739226,14 @@
       "home": "Leca",
       "away": "Ad Marco 09",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.03,
@@ -740451,7 +740451,7 @@
       "home": "Wofoo Tai Po",
       "away": "Kowloon City",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -740647,7 +740647,7 @@
       "home": "Kitchee Footba",
       "away": "Hong Kong Fc",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "4",
         "away": "0"
@@ -741088,14 +741088,14 @@
       "home": "",
       "away": "Ujpest Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.22,
@@ -741137,14 +741137,14 @@
       "home": "Tartu Kalev",
       "away": "Tallinna Infone",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.84,
@@ -741186,14 +741186,14 @@
       "home": "",
       "away": "Bregalnica Stip",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "2",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.28,
@@ -743440,10 +743440,10 @@
       "home": "Mateszalka",
       "away": "Cigand Se",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -745106,14 +745106,14 @@
       "home": "Constancia",
       "away": "Porreres",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.44,
@@ -745253,10 +745253,10 @@
       "home": "Van Hoa Hai Ph",
       "away": "Thanh Hoa",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -745302,10 +745302,10 @@
       "home": "Nakhon Pathom",
       "away": "Muang Thong Uni",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -745449,10 +745449,10 @@
       "home": "Real Zaragoza ",
       "away": "Montecarlo U19",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "5",
-        "away": "2"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "3",
@@ -745498,14 +745498,14 @@
       "home": "Ayeyawady Unit",
       "away": "Thitsar Arman",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.05,
@@ -745547,14 +745547,14 @@
       "home": "Sevilla Iii",
       "away": "Tomares",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
-        "away": "2"
-      },
-      "halfTimeScore": {
         "home": "0",
         "away": "0"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2,
@@ -745596,14 +745596,14 @@
       "home": "Villarreal U19",
       "away": "Castellon U18",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "3",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.45,
@@ -745645,14 +745645,14 @@
       "home": "Santomera",
       "away": "Balsicas Atléti",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.34,
@@ -745694,10 +745694,10 @@
       "home": "Roda U18",
       "away": "Elche U19",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -745743,14 +745743,14 @@
       "home": "Cuarte Industr",
       "away": "Caspe",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.74,
@@ -745792,14 +745792,14 @@
       "home": "Estrella",
       "away": "Los Llanos",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.82,
@@ -745841,14 +745841,14 @@
       "home": "Arucas U18",
       "away": "Las Palmas U19",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 8.29,
@@ -745885,15 +745885,15 @@
       "code": "4554071",
       "week": 24140,
       "date": "10.10.2026",
-      "time": "13:20",
+      "time": "13:00",
       "league": "ISPU18",
       "home": "Atl Madrid U19",
       "away": "Talavera U19",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -745939,10 +745939,10 @@
       "home": "San Francisco ",
       "away": "Cartagena U19",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -745988,10 +745988,10 @@
       "home": "Deportivo Alav",
       "away": "Real Valladolid",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -746037,10 +746037,10 @@
       "home": "Tenerife U19",
       "away": "Sobradillo U19",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -750055,14 +750055,14 @@
       "home": "Lg Hn Acb",
       "away": "Da Nang",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.63,
@@ -752456,14 +752456,14 @@
       "home": "Sodupe",
       "away": "Touring",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.39,
@@ -752505,14 +752505,14 @@
       "home": "Tallinna Jk Le",
       "away": "Viljandi Tulevi",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 5.42,
@@ -752554,10 +752554,10 @@
       "home": "San Ignacio",
       "away": "Eibar Iii",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -752603,14 +752603,14 @@
       "home": "Durango",
       "away": "Derio",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.98,
@@ -752652,10 +752652,10 @@
       "home": "Lokomotiv Oslo",
       "away": "Konnerud",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -752750,10 +752750,10 @@
       "home": "If Ready",
       "away": "Fk Union Carl B",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -755445,14 +755445,14 @@
       "home": "Energetik-Bgu",
       "away": "Molodechno",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "5",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "5",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.54,
