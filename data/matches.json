@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-10T09:31:19.599Z",
+  "updatedAt": "2026-10-10T09:46:26.410Z",
   "matches": [
     {
       "code": "5847028",
@@ -691894,7 +691894,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -701548,7 +701548,7 @@
       "status": 3,
       "score": {
         "home": "3",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -701741,14 +701741,14 @@
       "home": "South Melbourn",
       "away": "Melbourne Victo",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.83,
@@ -711737,9 +711737,9 @@
       "home": "Arema",
       "away": "Bhayangkara Sur",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -720756,7 +720756,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -720900,7 +720900,7 @@
       "home": "Psim Yogyakart",
       "away": "Persija Jakarta",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -720949,9 +720949,9 @@
       "home": "Persita Tanger",
       "away": "Garudayaksa",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -721047,10 +721047,10 @@
       "home": "Flora Tallinn ",
       "away": "Fc Tallinn",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -741137,10 +741137,10 @@
       "home": "Tartu Kalev",
       "away": "Tallinna Infone",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -745449,9 +745449,9 @@
       "home": "Real Zaragoza ",
       "away": "Montecarlo U19",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "3",
+        "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
@@ -745596,10 +745596,10 @@
       "home": "Villarreal U19",
       "away": "Castellon U18",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -745645,10 +745645,10 @@
       "home": "Santomera",
       "away": "Balsicas Atléti",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -752456,10 +752456,10 @@
       "home": "Sodupe",
       "away": "Touring",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
