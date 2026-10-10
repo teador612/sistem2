@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-10T01:31:12.557Z",
+  "updatedAt": "2026-10-10T01:45:55.791Z",
   "matches": [
     {
       "code": "5847028",
@@ -691010,14 +691010,14 @@
       "home": "Union Santa Fe",
       "away": "Defensa Justici",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2,
@@ -701449,8 +701449,8 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -701498,7 +701498,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -711642,7 +711642,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
