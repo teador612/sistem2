@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-10T01:16:00.308Z",
+  "updatedAt": "2026-10-10T01:31:12.557Z",
   "matches": [
     {
       "code": "5847028",
@@ -691013,7 +691013,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -701449,7 +701449,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -720361,7 +720361,7 @@
       "home": "Lexington",
       "away": "Tulsa Roughneck",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -740549,10 +740549,10 @@
       "home": "Wellington Pho",
       "away": "Birkenhead Unit",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
