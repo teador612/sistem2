@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-11T23:01:40.833Z",
+  "updatedAt": "2026-10-11T23:16:03.230Z",
   "matches": [
     {
       "code": "5847028",
@@ -695812,14 +695812,14 @@
       "home": "Racing Club",
       "away": "Belgrano",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.1,
@@ -699783,7 +699783,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -699832,7 +699832,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -709287,10 +709287,10 @@
       "home": "Chico",
       "away": "Depor Cucuta",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -709336,10 +709336,10 @@
       "home": "Pachuca",
       "away": "Necaxa",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -733836,7 +733836,7 @@
       "home": "Deportivo San ",
       "away": "Comunicaciones",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -733934,9 +733934,9 @@
       "home": "Jaguares",
       "away": "Deportes Tolima",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -734032,7 +734032,7 @@
       "home": "Monagas",
       "away": "Estudiantes Fc",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -734081,10 +734081,10 @@
       "home": "St. Louis City",
       "away": "Los Angeles",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -734179,10 +734179,10 @@
       "home": "Pacific Fc",
       "away": "Atletico Ottawa",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -734277,10 +734277,10 @@
       "home": "San Marcos",
       "away": "Export Sebaco",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -739912,14 +739912,14 @@
       "home": "General Caball",
       "away": "Depor Santani",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.21,
@@ -758336,7 +758336,7 @@
       "home": "Union Magdalen",
       "away": "Leones Fc",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -758385,9 +758385,9 @@
       "home": "Barranguilla",
       "away": "Quindio",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -758434,10 +758434,10 @@
       "home": "Municipal",
       "away": "Marquense",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
