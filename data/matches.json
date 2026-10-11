@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-11T21:46:03.533Z",
+  "updatedAt": "2026-10-11T22:01:35.933Z",
   "matches": [
     {
       "code": "5847028",
@@ -695616,7 +695616,7 @@
       "home": "Maipu",
       "away": "San Martin Sj",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -695665,7 +695665,7 @@
       "home": "Rosario Centra",
       "away": "Rivadavia",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "5",
         "away": "0"
@@ -695714,7 +695714,7 @@
       "home": "Platense",
       "away": "Argentinos Jr",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -699487,7 +699487,7 @@
       "home": "Nautico",
       "away": "Vila Nova",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -699587,7 +699587,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -699686,7 +699686,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -717179,7 +717179,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -717225,14 +717225,14 @@
       "home": "Aguila",
       "away": "Isidro Metapan",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.08,
@@ -717326,7 +717326,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -717374,7 +717374,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -733542,9 +733542,9 @@
       "home": "Envigado",
       "away": "Internacional P",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -733591,7 +733591,7 @@
       "home": "Central Norte",
       "away": "Ferro Carril Oe",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -733640,7 +733640,7 @@
       "home": "Academia Anzoa",
       "away": "Carabobo",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -733689,7 +733689,7 @@
       "home": "Trujillanos",
       "away": "Academia Puerto",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -733787,14 +733787,14 @@
       "home": "Balboa",
       "away": "Deportivo Fas",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.82,
@@ -733836,14 +733836,14 @@
       "home": "Deportivo San ",
       "away": "Comunicaciones",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.94,
@@ -733885,14 +733885,14 @@
       "home": "Estrella Roja",
       "away": "Real Espana",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.97,
@@ -733934,14 +733934,14 @@
       "home": "Jaguares",
       "away": "Deportes Tolima",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 4.06,
@@ -733986,7 +733986,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -744616,7 +744616,7 @@
       "home": "Humble Lions",
       "away": "Chapelton",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -744665,9 +744665,9 @@
       "home": "Dunbeholden",
       "away": "Molynes United",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -758826,7 +758826,7 @@
       "home": "Wydad Casablan",
       "away": "Codm Meknes",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -764657,10 +764657,10 @@
       "home": "Cavalier Sc",
       "away": "Montego Bay Uni",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
