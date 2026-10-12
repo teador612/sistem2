@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T09:01:30.358Z",
+  "updatedAt": "2026-10-12T09:16:08.490Z",
   "matches": [
     {
       "code": "5847028",
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 1,
+      "mbs": 3,
       "status": 4,
       "score": {
         "home": "3",
@@ -764804,9 +764804,9 @@
       "home": "Guangzhou Dand",
       "away": "Shanghai Segend",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -764853,9 +764853,9 @@
       "home": "Dalian Kewei",
       "away": "Hangzhou Linpin",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -775819,6 +775819,55 @@
         "iy2": 5.01
       },
       "openingRecordedAt": "2026-10-12T08:46:06.158Z"
+    },
+    {
+      "code": "4535883",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "16:00",
+      "league": "İTC",
+      "home": "Ssc Giugliano",
+      "away": "Internazionale ",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.3,
+        "msX": 2.82,
+        "ms2": 2.31,
+        "cs1X": 1.26,
+        "cs12": 1.16,
+        "csX2": 1.26,
+        "au25Alt": 1.71,
+        "au25Ust": 1.57,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.42,
+        "kgYok": 1.93,
+        "iy15Alt": 1.29,
+        "iy15Ust": 2.25,
+        "au15Alt": 3.29,
+        "au15Ust": 1.09,
+        "au35Alt": 1.22,
+        "au35Ust": 2.51,
+        "gol01": 3.42,
+        "gol23": 1.77,
+        "gol46": 3.2,
+        "gol7": 11.4,
+        "iy1": 2.79,
+        "iyX": 1.98,
+        "iy2": 2.8
+      },
+      "openingRecordedAt": "2026-10-12T09:16:08.489Z"
     }
   ]
 }
