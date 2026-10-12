@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T11:45:53.603Z",
+  "updatedAt": "2026-10-12T12:01:24.255Z",
   "matches": [
     {
       "code": "5847028",
@@ -706984,7 +706984,7 @@
       "home": "Sporting Jax",
       "away": "Birmingham Legi",
       "mbs": 3,
-      "status": 3,
+      "status": 11,
       "score": {
         "home": "0",
         "away": "1"
@@ -736629,7 +736629,7 @@
       "home": "Abd (K)",
       "away": "Ispanya (K)",
       "mbs": 2,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -737315,7 +737315,7 @@
       "home": "Brusque",
       "away": "Paysandu",
       "mbs": 3,
-      "status": 2,
+      "status": 11,
       "score": {
         "home": "0",
         "away": "1"
@@ -737364,7 +737364,7 @@
       "home": "Ferroviaria",
       "away": "Inter De Limeri",
       "mbs": 3,
-      "status": 2,
+      "status": 11,
       "score": {
         "home": "0",
         "away": "0"
@@ -764706,9 +764706,9 @@
       "home": "Elfen Saitama ",
       "away": "Albirex Niigata",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -764755,14 +764755,14 @@
       "home": "Xian Ronghai",
       "away": "Jiangx Beidamen",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.79,
@@ -764804,14 +764804,14 @@
       "home": "Guangzhou Dand",
       "away": "Shanghai Segend",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.85,
@@ -764853,14 +764853,14 @@
       "home": "Dalian Kewei",
       "away": "Hangzhou Linpin",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.26,
