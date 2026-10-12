@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T23:31:24.434Z",
+  "updatedAt": "2026-10-12T23:46:04.281Z",
   "matches": [
     {
       "code": "5847028",
@@ -696302,7 +696302,7 @@
       "home": "All Boys",
       "away": "Godoy Cruz",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -710122,7 +710122,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
@@ -710169,7 +710169,7 @@
       "home": "Chapecoense",
       "away": "Atletico Pr",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "3"
@@ -710218,9 +710218,9 @@
       "home": "Criciuma",
       "away": "America Mineiro",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
