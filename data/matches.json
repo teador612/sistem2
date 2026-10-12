@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T00:01:33.547Z",
+  "updatedAt": "2026-10-12T00:16:02.249Z",
   "matches": [
     {
       "code": "5847028",
@@ -695812,10 +695812,10 @@
       "home": "Racing Club",
       "away": "Belgrano",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -709287,7 +709287,7 @@
       "home": "Chico",
       "away": "Depor Cucuta",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -709336,14 +709336,14 @@
       "home": "Pachuca",
       "away": "Necaxa",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.46,
@@ -717421,10 +717421,10 @@
       "home": "Deportes Limac",
       "away": "Palestino",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -717522,7 +717522,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -734081,14 +734081,14 @@
       "home": "St. Louis City",
       "away": "Los Angeles",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "4",
+        "home": "5",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "5",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.45,
@@ -734130,7 +734130,7 @@
       "home": "Liberia",
       "away": "Deportivo Sapri",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -734179,7 +734179,7 @@
       "home": "Pacific Fc",
       "away": "Atletico Ottawa",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -734228,7 +734228,7 @@
       "home": "Atletico San L",
       "away": "Santos Laguna",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -734277,10 +734277,10 @@
       "home": "San Marcos",
       "away": "Export Sebaco",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -758434,7 +758434,7 @@
       "home": "Municipal",
       "away": "Marquense",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -760002,14 +760002,14 @@
       "home": "Dvsc Deac",
       "away": "Nyiregyhaza Ii",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "4",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.07,
@@ -762648,14 +762648,14 @@
       "home": "Mandalskamerat",
       "away": "Stabaek 2",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.16,
@@ -766176,14 +766176,14 @@
       "home": "Fauske Sprint",
       "away": "Harstad",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "4"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.31,
