@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T02:01:38.888Z",
+  "updatedAt": "2026-10-12T02:15:51.458Z",
   "matches": [
     {
       "code": "5847028",
@@ -695910,7 +695910,7 @@
       "home": "Talleres",
       "away": "Independiente",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
@@ -709287,7 +709287,7 @@
       "home": "Chico",
       "away": "Depor Cucuta",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -709388,7 +709388,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -709436,7 +709436,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -717519,7 +717519,7 @@
       "home": "Cusco Fc",
       "away": "Alianza Lima",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -717568,14 +717568,14 @@
       "home": "Rancho Santana",
       "away": "Unan Managua",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.59,
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 1,
+      "mbs": 3,
       "status": 4,
       "score": {
         "home": "3",
@@ -734375,7 +734375,7 @@
       "home": "Alianza",
       "away": "Inter Fa",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "2"
