@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T08:15:55.168Z",
+  "updatedAt": "2026-10-12T08:31:14.976Z",
   "matches": [
     {
       "code": "5847028",
@@ -706984,7 +706984,7 @@
       "home": "Sporting Jax",
       "away": "Birmingham Legi",
       "mbs": 3,
-      "status": 3,
+      "status": 11,
       "score": {
         "home": "0",
         "away": "1"
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 3,
+      "mbs": 1,
       "status": 4,
       "score": {
         "home": "3",
@@ -736629,7 +736629,7 @@
       "home": "Abd (K)",
       "away": "Ispanya (K)",
       "mbs": 2,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -737315,7 +737315,7 @@
       "home": "Brusque",
       "away": "Paysandu",
       "mbs": 3,
-      "status": 2,
+      "status": 11,
       "score": {
         "home": "0",
         "away": "1"
@@ -737364,7 +737364,7 @@
       "home": "Ferroviaria",
       "away": "Inter De Limeri",
       "mbs": 3,
-      "status": 2,
+      "status": 11,
       "score": {
         "home": "0",
         "away": "0"
@@ -764755,14 +764755,14 @@
       "home": "Xian Ronghai",
       "away": "Jiangx Beidamen",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.79,
@@ -764804,10 +764804,10 @@
       "home": "Guangzhou Dand",
       "away": "Shanghai Segend",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -764853,10 +764853,10 @@
       "home": "Dalian Kewei",
       "away": "Hangzhou Linpin",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
