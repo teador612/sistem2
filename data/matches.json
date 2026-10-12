@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T08:46:06.158Z",
+  "updatedAt": "2026-10-12T09:01:30.358Z",
   "matches": [
     {
       "code": "5847028",
@@ -764755,9 +764755,9 @@
       "home": "Xian Ronghai",
       "away": "Jiangx Beidamen",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -764804,14 +764804,14 @@
       "home": "Guangzhou Dand",
       "away": "Shanghai Segend",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.85,
@@ -764853,14 +764853,14 @@
       "home": "Dalian Kewei",
       "away": "Hangzhou Linpin",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.26,
