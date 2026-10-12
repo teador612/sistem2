@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T06:15:54.239Z",
+  "updatedAt": "2026-10-12T06:31:07.857Z",
   "matches": [
     {
       "code": "5847028",
@@ -695910,14 +695910,14 @@
       "home": "Talleres",
       "away": "Independiente",
       "mbs": 2,
-      "status": 4,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.12,
@@ -709287,7 +709287,7 @@
       "home": "Chico",
       "away": "Depor Cucuta",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -709385,14 +709385,14 @@
       "home": "America De Cal",
       "away": "Independiente M",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
-        "away": "2"
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.64,
@@ -709434,14 +709434,14 @@
       "home": "Pumas Unam",
       "away": "Cruz Azul",
       "mbs": 2,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "3",
-        "away": "3"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "2",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.98,
@@ -717274,14 +717274,14 @@
       "home": "Jalapa",
       "away": "Managua",
       "mbs": 3,
-      "status": 4,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 4.04,
@@ -717470,7 +717470,7 @@
       "home": "Bolivar",
       "away": "Blooming",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -717519,7 +717519,7 @@
       "home": "Cusco Fc",
       "away": "Alianza Lima",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -717568,14 +717568,14 @@
       "home": "Rancho Santana",
       "away": "Unan Managua",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "1",
-        "away": "1"
-      },
-      "halfTimeScore": {
         "home": "0",
         "away": "0"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.59,
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 1,
+      "mbs": 3,
       "status": 4,
       "score": {
         "home": "3",
@@ -734375,10 +734375,10 @@
       "home": "Alianza",
       "away": "Inter Fa",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "2",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -758483,14 +758483,14 @@
       "home": "Antigua Guatem",
       "away": "Coban Imperial",
       "mbs": 3,
-      "status": 4,
+      "status": 1,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.47,
@@ -764706,10 +764706,10 @@
       "home": "Elfen Saitama ",
       "away": "Albirex Niigata",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
