@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T23:01:34.354Z",
+  "updatedAt": "2026-10-12T23:16:11.562Z",
   "matches": [
     {
       "code": "5847028",
@@ -710120,7 +710120,7 @@
       "home": "Novorizontino",
       "away": "Ponte Preta",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "1"
@@ -718058,7 +718058,7 @@
       "home": "Always Ready",
       "away": "Independiente P",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -783806,6 +783806,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-12T22:16:14.992Z"
+    },
+    {
+      "code": "4550016",
+      "week": 24140,
+      "date": "14.10.2026",
+      "time": "10:45",
+      "league": "AFCŞL2",
+      "home": "Melbourne Vict",
+      "away": "Fc Seoul",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.42,
+        "msX": 3.03,
+        "ms2": 2.08,
+        "cs1X": 1.33,
+        "cs12": 1.14,
+        "csX2": 1.23,
+        "au25Alt": 1.68,
+        "au25Ust": 1.59,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.47,
+        "kgYok": 1.85,
+        "iy15Alt": 1.27,
+        "iy15Ust": 2.31,
+        "au15Alt": 3.17,
+        "au15Ust": 1.1,
+        "au35Alt": 1.19,
+        "au35Ust": 2.62,
+        "gol01": 3.27,
+        "gol23": 1.76,
+        "gol46": 3.31,
+        "gol7": 12.45,
+        "iy1": 3,
+        "iyX": 1.95,
+        "iy2": 2.66
+      },
+      "openingRecordedAt": "2026-10-12T23:16:11.561Z"
     }
   ]
 }
