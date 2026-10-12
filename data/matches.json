@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T10:31:20.469Z",
+  "updatedAt": "2026-10-12T11:03:12.789Z",
   "matches": [
     {
       "code": "5847028",
@@ -717617,10 +717617,10 @@
       "home": "Livyi Bereh",
       "away": "Zoria Luhansk",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
