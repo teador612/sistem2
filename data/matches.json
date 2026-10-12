@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T22:31:23.276Z",
+  "updatedAt": "2026-10-12T22:46:09.349Z",
   "matches": [
     {
       "code": "5847028",
@@ -696253,7 +696253,7 @@
       "home": "Gimnasia Mendo",
       "away": "Newells Old Boy",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -696302,10 +696302,10 @@
       "home": "All Boys",
       "away": "Godoy Cruz",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -710123,7 +710123,7 @@
       "status": 1,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -710172,7 +710172,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -710218,10 +710218,10 @@
       "home": "Criciuma",
       "away": "America Mineiro",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 1,
+      "mbs": 3,
       "status": 4,
       "score": {
         "home": "3",
