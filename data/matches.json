@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T15:16:10.623Z",
+  "updatedAt": "2026-10-12T15:31:27.027Z",
   "matches": [
     {
       "code": "5847028",
@@ -681749,7 +681749,7 @@
       "home": "Burgos",
       "away": "Granada",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -695961,7 +695961,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -717717,7 +717717,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -734427,7 +734427,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -765149,7 +765149,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -765199,7 +765199,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -767012,7 +767012,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -767058,10 +767058,10 @@
       "home": "Inter Turku Ii",
       "away": "Fc Jazz",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -782091,6 +782091,594 @@
         "iy2": 4.59
       },
       "openingRecordedAt": "2026-10-12T14:46:11.167Z"
+    },
+    {
+      "code": "4560647",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "14:00",
+      "league": "UEGL",
+      "home": "Lens U19",
+      "away": "Sporting Cp U19",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.54,
+        "msX": 3.76,
+        "ms2": 1.48,
+        "cs1X": 1.75,
+        "cs12": 1.06,
+        "csX2": 1.08,
+        "au25Alt": 2.18,
+        "au25Ust": 1.31,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.35,
+        "kgYok": 2.07,
+        "iy15Alt": 1.44,
+        "iy15Ust": 1.9,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.41,
+        "au35Ust": 1.95,
+        "gol01": 4.73,
+        "gol23": 1.91,
+        "gol46": 2.66,
+        "gol7": 6.82,
+        "iy1": 3.89,
+        "iyX": 2.22,
+        "iy2": 1.93
+      },
+      "openingRecordedAt": "2026-10-12T15:31:27.026Z"
+    },
+    {
+      "code": "4560649",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "14:00",
+      "league": "UEGL",
+      "home": "Sabah U19",
+      "away": "Slavia Prag U19",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 17.5,
+        "msX": 10.95,
+        "ms2": 1,
+        "cs1X": 5.37,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 3,
+        "au25Ust": 1.12,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 1.73,
+        "iy15Ust": 1.55,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.78,
+        "au35Ust": 1.51,
+        "gol01": 7.6,
+        "gol23": 2.26,
+        "gol46": 2.31,
+        "gol7": 4.01,
+        "iy1": 23.65,
+        "iyX": 3.63,
+        "iy2": 1.1
+      },
+      "openingRecordedAt": "2026-10-12T15:31:27.026Z"
+    },
+    {
+      "code": "4560650",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "14:00",
+      "league": "UEGL",
+      "home": "Viking U19",
+      "away": "Bayern München ",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 17.5,
+        "msX": 11.7,
+        "ms2": 1,
+        "cs1X": 5.37,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 20.15,
+        "gol23": 3.8,
+        "gol46": 2.33,
+        "gol7": 1.94,
+        "iy1": 16.3,
+        "iyX": 4.61,
+        "iy2": 1.06
+      },
+      "openingRecordedAt": "2026-10-12T15:31:27.026Z"
+    },
+    {
+      "code": "4539331",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "14:30",
+      "league": "TAY1",
+      "home": "Kanchanaburi",
+      "away": "Tero Sasana",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.38,
+        "msX": 3.54,
+        "ms2": 4.6,
+        "cs1X": 1,
+        "cs12": 1.08,
+        "csX2": 1.89,
+        "au25Alt": 1.82,
+        "au25Ust": 1.49,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.55,
+        "kgYok": 1.73,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-12T15:31:27.026Z"
+    },
+    {
+      "code": "4560651",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "15:00",
+      "league": "UEGL",
+      "home": "Arsenal Fc U19",
+      "away": "Lille U19",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.16,
+        "msX": 5.35,
+        "ms2": 5.91,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.54,
+        "au25Alt": 2.84,
+        "au25Ust": 1.15,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.37,
+        "kgYok": 2.04,
+        "iy15Alt": 1.65,
+        "iy15Ust": 1.62,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.69,
+        "au35Ust": 1.58,
+        "gol01": 6.87,
+        "gol23": 2.18,
+        "gol46": 2.36,
+        "gol7": 4.38,
+        "iy1": 1.51,
+        "iyX": 2.65,
+        "iy2": 5.5
+      },
+      "openingRecordedAt": "2026-10-12T15:31:27.026Z"
+    },
+    {
+      "code": "4560646",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "15:00",
+      "league": "UEGL",
+      "home": "Rb Leipzig U19",
+      "away": "Psv Eindhoven U",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.48,
+        "msX": 4.02,
+        "ms2": 3.37,
+        "cs1X": 1.09,
+        "cs12": 1.05,
+        "csX2": 1.75,
+        "au25Alt": 2.94,
+        "au25Ust": 1.14,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.19,
+        "kgYok": 2.63,
+        "iy15Alt": 1.67,
+        "iy15Ust": 1.6,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.76,
+        "au35Ust": 1.52,
+        "gol01": 7.42,
+        "gol23": 2.25,
+        "gol46": 2.33,
+        "gol7": 4.04,
+        "iy1": 1.86,
+        "iyX": 2.46,
+        "iy2": 3.57
+      },
+      "openingRecordedAt": "2026-10-12T15:31:27.026Z"
+    },
+    {
+      "code": "4572229",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "15:00",
+      "league": "KOS",
+      "home": "Ballkani",
+      "away": "Fc Drita",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.9,
+        "msX": 2.9,
+        "ms2": 2.84,
+        "cs1X": 1.16,
+        "cs12": 1.16,
+        "csX2": 1.41,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-12T15:31:27.026Z"
+    },
+    {
+      "code": "4560648",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "16:00",
+      "league": "UEGL",
+      "home": "Internazionale",
+      "away": "Club Brugge U19",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.24,
+        "msX": 3.27,
+        "ms2": 2.13,
+        "cs1X": 1.31,
+        "cs12": 1.11,
+        "csX2": 1.28,
+        "au25Alt": 2.3,
+        "au25Ust": 1.27,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.23,
+        "kgYok": 2.42,
+        "iy15Alt": 1.49,
+        "iy15Ust": 1.82,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.48,
+        "au35Ust": 1.83,
+        "gol01": 5.29,
+        "gol23": 1.98,
+        "gol46": 2.55,
+        "gol7": 5.92,
+        "iy1": 2.65,
+        "iyX": 2.21,
+        "iy2": 2.55
+      },
+      "openingRecordedAt": "2026-10-12T15:31:27.026Z"
+    },
+    {
+      "code": "4540651",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "16:00",
+      "league": "INGPDL",
+      "home": "Queens Park Ra",
+      "away": "Cardiff City U2",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.59,
+        "msX": 3.67,
+        "ms2": 1.78,
+        "cs1X": 1.19,
+        "cs12": 1.09,
+        "csX2": 1.45,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.76,
+        "au35Ust": 1.53,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-12T15:31:27.026Z"
+    },
+    {
+      "code": "4560654",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "17:00",
+      "league": "UEGL",
+      "home": "Villarreal U19",
+      "away": "Napoli U19",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.19,
+        "msX": 4.74,
+        "ms2": 5.9,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.4,
+        "au25Alt": 2.82,
+        "au25Ust": 1.16,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.34,
+        "kgYok": 2.11,
+        "iy15Alt": 1.66,
+        "iy15Ust": 1.61,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.71,
+        "au35Ust": 1.57,
+        "gol01": 6.97,
+        "gol23": 2.2,
+        "gol46": 2.35,
+        "gol7": 4.31,
+        "iy1": 1.51,
+        "iyX": 2.65,
+        "iy2": 5.37
+      },
+      "openingRecordedAt": "2026-10-12T15:31:27.026Z"
+    },
+    {
+      "code": "4560653",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "17:00",
+      "league": "UEGL",
+      "home": "Atl Madrid U19",
+      "away": "Manchester Unit",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.88,
+        "msX": 3.52,
+        "ms2": 2.47,
+        "cs1X": 1.22,
+        "cs12": 1.09,
+        "csX2": 1.42,
+        "au25Alt": 2.43,
+        "au25Ust": 1.23,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.23,
+        "kgYok": 2.47,
+        "iy15Alt": 1.52,
+        "iy15Ust": 1.77,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.53,
+        "au35Ust": 1.75,
+        "gol01": 5.65,
+        "gol23": 2.02,
+        "gol46": 2.49,
+        "gol7": 5.43,
+        "iy1": 2.32,
+        "iyX": 2.25,
+        "iy2": 2.88
+      },
+      "openingRecordedAt": "2026-10-12T15:31:27.026Z"
+    },
+    {
+      "code": "4572230",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "19:00",
+      "league": "KOS",
+      "home": "Gjilani",
+      "away": "Drenica Skender",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.69,
+        "msX": 3.11,
+        "ms2": 3.24,
+        "cs1X": 1.1,
+        "cs12": 1.12,
+        "csX2": 1.54,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-12T15:31:27.026Z"
     }
   ]
 }
