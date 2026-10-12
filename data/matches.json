@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T10:01:30.828Z",
+  "updatedAt": "2026-10-12T10:16:02.314Z",
   "matches": [
     {
       "code": "5847028",
@@ -764804,7 +764804,7 @@
       "home": "Guangzhou Dand",
       "away": "Shanghai Segend",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "1"
@@ -764853,10 +764853,10 @@
       "home": "Dalian Kewei",
       "away": "Hangzhou Linpin",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -775868,6 +775868,202 @@
         "iy2": 2.8
       },
       "openingRecordedAt": "2026-10-12T09:16:08.489Z"
+    },
+    {
+      "code": "4550072",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "13:00",
+      "league": "AŞMP",
+      "home": "Shanghai Port",
+      "away": "Daejeon Citizen",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.85,
+        "msX": 3.12,
+        "ms2": 2.77,
+        "cs1X": 1.16,
+        "cs12": 1.12,
+        "csX2": 1.44,
+        "au25Alt": 1.86,
+        "au25Ust": 1.45,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.38,
+        "kgYok": 2,
+        "iy15Alt": 1.34,
+        "iy15Ust": 2.11,
+        "au15Alt": 3.64,
+        "au15Ust": 1.06,
+        "au35Alt": 1.28,
+        "au35Ust": 2.28,
+        "gol01": 3.85,
+        "gol23": 1.81,
+        "gol46": 2.96,
+        "gol7": 9.32,
+        "iy1": 2.35,
+        "iyX": 2.06,
+        "iy2": 3.24
+      },
+      "openingRecordedAt": "2026-10-12T10:16:02.313Z"
+    },
+    {
+      "code": "4550075",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "15:15",
+      "league": "AŞMP",
+      "home": "Cand",
+      "away": "Kashima",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 5.87,
+        "msX": 4.08,
+        "ms2": 1.24,
+        "cs1X": 2.22,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 1.84,
+        "au25Ust": 1.48,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.68,
+        "kgYok": 1.59,
+        "iy15Alt": 1.34,
+        "iy15Ust": 2.11,
+        "au15Alt": 3.5,
+        "au15Ust": 1.07,
+        "au35Alt": 1.25,
+        "au35Ust": 2.36,
+        "gol01": 3.68,
+        "gol23": 1.79,
+        "gol46": 3.05,
+        "gol7": 10.05,
+        "iy1": 5.88,
+        "iyX": 2.22,
+        "iy2": 1.65
+      },
+      "openingRecordedAt": "2026-10-12T10:16:02.314Z"
+    },
+    {
+      "code": "4546124",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "19:45",
+      "league": "CZYR",
+      "home": "Aso Chlef",
+      "away": "Mc Alger",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 4.27,
+        "msX": 2.76,
+        "ms2": 1.59,
+        "cs1X": 1.62,
+        "cs12": 1.16,
+        "csX2": 1,
+        "au25Alt": 1.26,
+        "au25Ust": 2.32,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 2.09,
+        "kgYok": 1.34,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.08,
+        "au15Ust": 1.35,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 2.07,
+        "gol23": 1.77,
+        "gol46": 5.53,
+        "gol7": 35,
+        "iy1": 5.13,
+        "iyX": 1.72,
+        "iy2": 2.23
+      },
+      "openingRecordedAt": "2026-10-12T10:16:02.314Z"
+    },
+    {
+      "code": "4567651",
+      "week": 24140,
+      "date": "14.10.2026",
+      "time": "02:00",
+      "league": "HAZK",
+      "home": "Abd (K)",
+      "away": "Ispanya (K)",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.03,
+        "msX": 2.9,
+        "ms2": 1.83,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-12T10:16:02.314Z"
     }
   ]
 }
