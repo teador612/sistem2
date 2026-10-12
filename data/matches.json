@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T22:16:14.992Z",
+  "updatedAt": "2026-10-12T22:31:23.276Z",
   "matches": [
     {
       "code": "5847028",
@@ -696253,14 +696253,14 @@
       "home": "Gimnasia Mendo",
       "away": "Newells Old Boy",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.02,
@@ -710122,7 +710122,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -710169,10 +710169,10 @@
       "home": "Chapecoense",
       "away": "Atletico Pr",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -718058,9 +718058,9 @@
       "home": "Always Ready",
       "away": "Independiente P",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -767352,7 +767352,7 @@
       "home": "Orsomarso",
       "away": "Centauros",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
