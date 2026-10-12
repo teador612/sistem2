@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T00:16:02.249Z",
+  "updatedAt": "2026-10-12T00:31:15.520Z",
   "matches": [
     {
       "code": "5847028",
@@ -695861,9 +695861,9 @@
       "home": "Ciudad De Bolí",
       "away": "San Telmo",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -709336,7 +709336,7 @@
       "home": "Pachuca",
       "away": "Necaxa",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -717470,14 +717470,14 @@
       "home": "Bolivar",
       "away": "Blooming",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
@@ -717519,14 +717519,14 @@
       "home": "Cusco Fc",
       "away": "Alianza Lima",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.97,
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 3,
+      "mbs": 1,
       "status": 4,
       "score": {
         "home": "3",
@@ -734081,9 +734081,9 @@
       "home": "St. Louis City",
       "away": "Los Angeles",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "5",
+        "home": "6",
         "away": "1"
       },
       "halfTimeScore": {
@@ -734231,7 +734231,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -734326,7 +734326,7 @@
       "home": "Olancho",
       "away": "Atlético Indepe",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -734375,14 +734375,14 @@
       "home": "Alianza",
       "away": "Inter Fa",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.26,
@@ -758437,7 +758437,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
