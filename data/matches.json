@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T01:46:11.779Z",
+  "updatedAt": "2026-10-12T02:01:38.888Z",
   "matches": [
     {
       "code": "5847028",
@@ -695910,14 +695910,14 @@
       "home": "Talleres",
       "away": "Independiente",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.12,
@@ -709287,10 +709287,10 @@
       "home": "Chico",
       "away": "Depor Cucuta",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -709336,10 +709336,10 @@
       "home": "Pachuca",
       "away": "Necaxa",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "2"
+        "home": "3",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -709385,10 +709385,10 @@
       "home": "America De Cal",
       "away": "Independiente M",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -709434,10 +709434,10 @@
       "home": "Pumas Unam",
       "away": "Cruz Azul",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -717421,7 +717421,7 @@
       "home": "Deportes Limac",
       "away": "Palestino",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -717470,7 +717470,7 @@
       "home": "Bolivar",
       "away": "Blooming",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -717519,10 +717519,10 @@
       "home": "Cusco Fc",
       "away": "Alianza Lima",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -717568,14 +717568,14 @@
       "home": "Rancho Santana",
       "away": "Unan Managua",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.59,
@@ -734081,10 +734081,10 @@
       "home": "St. Louis City",
       "away": "Los Angeles",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "6",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "5",
@@ -734130,7 +734130,7 @@
       "home": "Liberia",
       "away": "Deportivo Sapri",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -734179,7 +734179,7 @@
       "home": "Pacific Fc",
       "away": "Atletico Ottawa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -734228,7 +734228,7 @@
       "home": "Atletico San L",
       "away": "Santos Laguna",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -734277,7 +734277,7 @@
       "home": "San Marcos",
       "away": "Export Sebaco",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -734326,10 +734326,10 @@
       "home": "Olancho",
       "away": "Atlético Indepe",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -734375,10 +734375,10 @@
       "home": "Alianza",
       "away": "Inter Fa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -758434,7 +758434,7 @@
       "home": "Municipal",
       "away": "Marquense",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -758483,10 +758483,10 @@
       "home": "Antigua Guatem",
       "away": "Coban Imperial",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
