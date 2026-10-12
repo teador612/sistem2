@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T14:46:11.168Z",
+  "updatedAt": "2026-10-12T15:01:50.149Z",
   "matches": [
     {
       "code": "5847028",
@@ -681700,7 +681700,7 @@
       "home": "Valladolid",
       "away": "Albacete",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "5",
         "away": "0"
@@ -681749,10 +681749,10 @@
       "home": "Burgos",
       "away": "Granada",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -688266,10 +688266,10 @@
       "home": "Cultural Leone",
       "away": "Arenas De Getxo",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -695959,10 +695959,10 @@
       "home": "Al Mokawloon A",
       "away": "Zed",
       "mbs": 2,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -696008,10 +696008,10 @@
       "home": "Modern Sc",
       "away": "Enppi",
       "mbs": 2,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "3",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -725898,10 +725898,10 @@
       "home": "Northeast Unit",
       "away": "Atk Mohun Bagan",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -765098,14 +765098,14 @@
       "home": "Bashkimi Kuman",
       "away": "Struga",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 11.4,
@@ -765147,14 +765147,14 @@
       "home": "Usm Khenchela",
       "away": "Cs Constantine",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.25,
@@ -765196,10 +765196,10 @@
       "home": "Js El Biar",
       "away": "Belouizdad",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -766617,14 +766617,14 @@
       "home": "Cagliari U20",
       "away": "Monza U20",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.72,
@@ -767009,14 +767009,14 @@
       "home": "Sporting Braga",
       "away": "Marítimo U23",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.34,
@@ -776074,7 +776074,7 @@
       "home": "Shabab S",
       "away": "Safa",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "3"
@@ -776123,14 +776123,14 @@
       "home": "Nejmeh",
       "away": "Tadamon Tyre",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "3",
-        "away": "3"
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "2",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.16,
@@ -776760,10 +776760,10 @@
       "home": "Adana Adaletgü",
       "away": "Silifke Bld.",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "4"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -777789,14 +777789,14 @@
       "home": "Maxaquene",
       "away": "Ferroviário De ",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.55,
