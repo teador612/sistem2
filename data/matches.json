@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T14:16:10.065Z",
+  "updatedAt": "2026-10-12T14:31:21.841Z",
   "matches": [
     {
       "code": "5847028",
@@ -696010,8 +696010,8 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 3,
+      "mbs": 1,
       "status": 4,
       "score": {
         "home": "3",
@@ -765147,14 +765147,14 @@
       "home": "Usm Khenchela",
       "away": "Cs Constantine",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.25,
@@ -781895,6 +781895,153 @@
         "iy2": 3.26
       },
       "openingRecordedAt": "2026-10-12T13:46:07.591Z"
+    },
+    {
+      "code": "4550134",
+      "week": 24140,
+      "date": "12.10.2026",
+      "time": "16:45",
+      "league": "AŞMP",
+      "home": "Pakhtakor",
+      "away": "Al-Qadsiah",
+      "mbs": 2,
+      "status": 1,
+      "score": {
+        "home": "1",
+        "away": "1"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 5.1,
+        "msX": 4.1,
+        "ms2": 1.28,
+        "cs1X": 2.12,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 2.13,
+        "au25Ust": 1.33,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.47,
+        "kgYok": 1.85,
+        "iy15Alt": 1.44,
+        "iy15Ust": 1.9,
+        "au15Alt": 4.22,
+        "au15Ust": 1,
+        "au35Alt": 1.38,
+        "au35Ust": 2,
+        "gol01": 4.59,
+        "gol23": 1.89,
+        "gol46": 2.7,
+        "gol7": 7.11,
+        "iy1": 5.09,
+        "iyX": 2.33,
+        "iy2": 1.67
+      },
+      "openingRecordedAt": "2026-10-12T14:31:21.840Z"
+    },
+    {
+      "code": "4539332",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "15:00",
+      "league": "TAY1",
+      "home": "Nakhon Ratchas",
+      "away": "Muang Loei Unit",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.44,
+        "msX": 3.33,
+        "ms2": 4.41,
+        "cs1X": 1,
+        "cs12": 1.09,
+        "csX2": 1.8,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-12T14:31:21.840Z"
+    },
+    {
+      "code": "4546699",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "16:30",
+      "league": "IRAN",
+      "home": "Fajr Sepasi",
+      "away": "Shahrdari Arak",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.8,
+        "msX": 2.67,
+        "ms2": 3.41,
+        "cs1X": 1.09,
+        "cs12": 1.18,
+        "csX2": 1.46,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-12T14:31:21.840Z"
     }
   ]
 }
