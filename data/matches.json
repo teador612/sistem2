@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-12T08:31:14.976Z",
+  "updatedAt": "2026-10-12T08:46:06.158Z",
   "matches": [
     {
       "code": "5847028",
@@ -764806,7 +764806,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -775770,6 +775770,55 @@
         "iy2": 1.99
       },
       "openingRecordedAt": "2026-10-12T07:46:06.384Z"
+    },
+    {
+      "code": "4510586",
+      "week": 24140,
+      "date": "13.10.2026",
+      "time": "20:30",
+      "league": "GAFPSL",
+      "home": "Kaizer Chiefs",
+      "away": "Stellenbosch Fc",
+      "mbs": 2,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.57,
+        "msX": 2.85,
+        "ms2": 4.24,
+        "cs1X": 1,
+        "cs12": 1.15,
+        "csX2": 1.65,
+        "au25Alt": 1.32,
+        "au25Ust": 2.15,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.99,
+        "kgYok": 1.39,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.22,
+        "au15Ust": 1.3,
+        "au35Alt": 1,
+        "au35Ust": 4.05,
+        "gol01": 2.21,
+        "gol23": 1.74,
+        "gol46": 5,
+        "gol7": 30.5,
+        "iy1": 2.17,
+        "iyX": 1.78,
+        "iy2": 5.01
+      },
+      "openingRecordedAt": "2026-10-12T08:46:06.158Z"
     }
   ]
 }
