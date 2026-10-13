@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-13T19:01:42.383Z",
+  "updatedAt": "2026-10-13T19:16:22.954Z",
   "matches": [
     {
       "code": "5847028",
@@ -668423,7 +668423,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "4",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -768332,7 +768332,7 @@
       "home": "L.Moskova",
       "away": "Akron",
       "mbs": 2,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -768383,7 +768383,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -768482,7 +768482,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -768628,7 +768628,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -768677,7 +768677,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -773480,7 +773480,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -773528,8 +773528,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "5",
-        "away": "1"
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "2",
@@ -776860,7 +776860,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -776909,7 +776909,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "6",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -776956,7 +776956,7 @@
       "home": "İtalya (K)",
       "away": "Belarus (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
@@ -777005,10 +777005,10 @@
       "home": "İzlanda (K)",
       "away": "Hırvatistan (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -778673,8 +778673,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "3",
-        "away": "1"
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "2",
@@ -778722,7 +778722,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -779360,7 +779360,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "0",
@@ -782642,11 +782642,11 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "openingOdds": {
@@ -782885,14 +782885,14 @@
       "home": "Aubstadt",
       "away": "Illertissen",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.68,
@@ -782936,7 +782936,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "2"
       },
       "halfTimeScore": {
