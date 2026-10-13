@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-13T23:31:35.724Z",
+  "updatedAt": "2026-10-13T23:46:25.140Z",
   "matches": [
     {
       "code": "5847028",
@@ -769559,7 +769559,7 @@
       "mbs": 3,
       "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -769998,10 +769998,10 @@
       "home": "Gloucester Cit",
       "away": "Taunton Town",
       "mbs": 3,
-      "status": 9,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -773722,10 +773722,10 @@
       "home": "Cd Tapatio",
       "away": "Tepatitlan De M",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -775731,7 +775731,7 @@
       "home": "Fus Rabat",
       "away": "Raja Casablanca",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -781121,14 +781121,14 @@
       "home": "Athletic Club",
       "away": "Londrina",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.86,
@@ -781170,10 +781170,10 @@
       "home": "Bucaramanga",
       "away": "Rionegro Aguila",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
