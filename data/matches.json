@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-13T08:31:09.871Z",
+  "updatedAt": "2026-10-13T09:01:47.472Z",
   "matches": [
     {
       "code": "5847028",
@@ -772840,14 +772840,14 @@
       "home": "Newcastle Jet",
       "away": "Gamba Osaka",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.74,
@@ -784688,6 +784688,104 @@
         "iy2": 3.63
       },
       "openingRecordedAt": "2026-10-13T08:31:09.871Z"
+    },
+    {
+      "code": "4519153",
+      "week": 24141,
+      "date": "13.10.2026",
+      "time": "21:45",
+      "league": "İNGNLP",
+      "home": "Stamford",
+      "away": "Stratford Town",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.56,
+        "msX": 3.36,
+        "ms2": 1.55,
+        "cs1X": 1.66,
+        "cs12": 1.09,
+        "csX2": 1.08,
+        "au25Alt": 1.76,
+        "au25Ust": 1.52,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.51,
+        "kgYok": 1.79,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-13T09:01:47.471Z"
+    },
+    {
+      "code": "4510220",
+      "week": 24141,
+      "date": "16.10.2026",
+      "time": "01:00",
+      "league": "KOLPB",
+      "home": "Barranguilla",
+      "away": "Tigres Fc",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.33,
+        "msX": 2.77,
+        "ms2": 2.31,
+        "cs1X": 1.26,
+        "cs12": 1.17,
+        "csX2": 1.25,
+        "au25Alt": 1.38,
+        "au25Ust": 2,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.73,
+        "kgYok": 1.55,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.07,
+        "iyX": 1.76,
+        "iy2": 3.05
+      },
+      "openingRecordedAt": "2026-10-13T09:01:47.472Z"
     }
   ]
 }
