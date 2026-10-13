@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-13T11:46:08.984Z",
+  "updatedAt": "2026-10-13T12:01:52.957Z",
   "matches": [
     {
       "code": "5847028",
@@ -772889,9 +772889,9 @@
       "home": "Kyoto Sanga",
       "away": "Ratchaburi Fc",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -775878,7 +775878,7 @@
       "home": "Shanghai Port",
       "away": "Daejeon Citizen",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -776172,10 +776172,10 @@
       "home": "Pohang Steeler",
       "away": "Johor Dt",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -776221,7 +776221,7 @@
       "home": "Portimonense U",
       "away": "Academico Viseu",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -780337,14 +780337,14 @@
       "home": "Muang Thong Un",
       "away": "Phrae United",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.5,
@@ -782101,14 +782101,14 @@
       "home": "Lens U19",
       "away": "Sporting Cp U19",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.54,
@@ -782150,14 +782150,14 @@
       "home": "Sabah U19",
       "away": "Slavia Prag U19",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 17.5,
@@ -782199,14 +782199,14 @@
       "home": "Viking U19",
       "away": "Bayern München ",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 17.5,
@@ -782297,10 +782297,10 @@
       "home": "Arsenal Fc U19",
       "away": "Lille U19",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -782395,10 +782395,10 @@
       "home": "Ballkani",
       "away": "Fc Drita",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
