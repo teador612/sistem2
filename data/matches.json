@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-13T11:31:13.462Z",
+  "updatedAt": "2026-10-13T11:46:08.984Z",
   "matches": [
     {
       "code": "5847028",
@@ -660919,7 +660919,7 @@
       "code": "4429371",
       "week": 24141,
       "date": "14.10.2026",
-      "time": "19:00",
+      "time": "20:00",
       "league": "NOR4",
       "home": "Asker",
       "away": "Frigg",
@@ -776224,7 +776224,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -777887,10 +777887,10 @@
       "home": "Chengdu Rongch",
       "away": "Qingdao Red Lio",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -782153,7 +782153,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -782201,7 +782201,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -785521,6 +785521,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-13T11:31:13.461Z"
+    },
+    {
+      "code": "4572231",
+      "week": 24141,
+      "date": "14.10.2026",
+      "time": "15:00",
+      "league": "KOS",
+      "home": "Feronikeli",
+      "away": "Llapi",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.93,
+        "msX": 3.07,
+        "ms2": 2.63,
+        "cs1X": 1.19,
+        "cs12": 1.13,
+        "csX2": 1.39,
+        "au25Alt": 1.63,
+        "au25Ust": 1.65,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.52,
+        "kgYok": 1.77,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-13T11:46:08.984Z"
     }
   ]
 }
