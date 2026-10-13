@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-13T03:31:46.605Z",
+  "updatedAt": "2026-10-13T03:46:07.716Z",
   "matches": [
     {
       "code": "5847028",
@@ -696253,7 +696253,7 @@
       "home": "Gimnasia Mendo",
       "away": "Newells Old Boy",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -696302,14 +696302,14 @@
       "home": "All Boys",
       "away": "Godoy Cruz",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.38,
@@ -710120,9 +710120,9 @@
       "home": "Novorizontino",
       "away": "Ponte Preta",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "3",
+        "home": "5",
         "away": "1"
       },
       "halfTimeScore": {
@@ -710169,14 +710169,14 @@
       "home": "Chapecoense",
       "away": "Atletico Pr",
       "mbs": 1,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "3"
+        "home": "1",
+        "away": "4"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 3.26,
@@ -710218,14 +710218,14 @@
       "home": "Criciuma",
       "away": "America Mineiro",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.23,
@@ -710267,14 +710267,14 @@
       "home": "Botafogo Ribei",
       "away": "Ceara",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.93,
@@ -710316,14 +710316,14 @@
       "home": "Bragantino",
       "away": "Cruzeiro",
       "mbs": 1,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "4",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.84,
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 3,
+      "mbs": 1,
       "status": 4,
       "score": {
         "home": "3",
@@ -740157,14 +740157,14 @@
       "home": "Depor Capiata",
       "away": "Benjamin Aceval",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.31,
