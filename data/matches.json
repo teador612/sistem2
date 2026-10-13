@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24140,
-  "updatedAt": "2026-10-13T02:31:47.969Z",
+  "updatedAt": "2026-10-13T02:46:16.947Z",
   "matches": [
     {
       "code": "5847028",
@@ -696253,14 +696253,14 @@
       "home": "Gimnasia Mendo",
       "away": "Newells Old Boy",
       "mbs": 2,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.02,
@@ -696302,14 +696302,14 @@
       "home": "All Boys",
       "away": "Godoy Cruz",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.38,
@@ -710120,14 +710120,14 @@
       "home": "Novorizontino",
       "away": "Ponte Preta",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "5",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1,
@@ -710169,14 +710169,14 @@
       "home": "Chapecoense",
       "away": "Atletico Pr",
       "mbs": 1,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "4"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 3.26,
@@ -710218,14 +710218,14 @@
       "home": "Criciuma",
       "away": "America Mineiro",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.23,
@@ -710267,14 +710267,14 @@
       "home": "Botafogo Ribei",
       "away": "Ceara",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.93,
@@ -710316,14 +710316,14 @@
       "home": "Bragantino",
       "away": "Cruzeiro",
       "mbs": 1,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "4",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.84,
@@ -718058,9 +718058,9 @@
       "home": "Always Ready",
       "away": "Independiente P",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -740157,14 +740157,14 @@
       "home": "Depor Capiata",
       "away": "Benjamin Aceval",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.31,
@@ -767352,7 +767352,7 @@
       "home": "Orsomarso",
       "away": "Centauros",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -784149,6 +784149,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-13T01:46:23.641Z"
+    },
+    {
+      "code": "4549969",
+      "week": 24140,
+      "date": "14.10.2026",
+      "time": "19:00",
+      "league": "AFCŞL2",
+      "home": "Al-Kuwait",
+      "away": "Khalidiya",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.93,
+        "msX": 2.95,
+        "ms2": 2.72,
+        "cs1X": 1.17,
+        "cs12": 1.15,
+        "csX2": 1.39,
+        "au25Alt": 1.56,
+        "au25Ust": 1.72,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.57,
+        "kgYok": 1.71,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.84,
+        "au15Ust": 1.15,
+        "au35Alt": 1.13,
+        "au35Ust": 2.95,
+        "gol01": 2.9,
+        "gol23": 1.73,
+        "gol46": 3.68,
+        "gol7": 15.9,
+        "iy1": 2.54,
+        "iyX": 1.88,
+        "iy2": 3.36
+      },
+      "openingRecordedAt": "2026-10-13T02:46:16.946Z"
     }
   ]
 }
