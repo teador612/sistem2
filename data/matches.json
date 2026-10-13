@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-13T21:16:23.112Z",
+  "updatedAt": "2026-10-13T21:46:21.651Z",
   "matches": [
     {
       "code": "5847028",
@@ -775733,7 +775733,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -785771,7 +785771,7 @@
       "code": "4483646",
       "week": 24141,
       "date": "14.10.2026",
-      "time": "03:00",
+      "time": "22:30",
       "league": "VENK",
       "home": "Aragua",
       "away": "Caracas Fc",
