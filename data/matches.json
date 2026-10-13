@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-13T23:01:28.309Z",
+  "updatedAt": "2026-10-13T23:31:35.724Z",
   "matches": [
     {
       "code": "5847028",
@@ -773722,10 +773722,10 @@
       "home": "Cd Tapatio",
       "away": "Tepatitlan De M",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -781121,14 +781121,14 @@
       "home": "Athletic Club",
       "away": "Londrina",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.86,
@@ -781170,10 +781170,10 @@
       "home": "Bucaramanga",
       "away": "Rionegro Aguila",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
