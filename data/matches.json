@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-13T12:16:17.858Z",
+  "updatedAt": "2026-10-13T12:31:40.793Z",
   "matches": [
     {
       "code": "5847028",
@@ -744714,14 +744714,14 @@
       "home": "Tivoli Gardens",
       "away": "Racing United",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "4"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 2.67,
@@ -772840,14 +772840,14 @@
       "home": "Newcastle Jet",
       "away": "Gamba Osaka",
       "mbs": 2,
-      "status": 0,
+      "status": 3,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.74,
