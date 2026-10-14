@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T09:46:15.110Z",
+  "updatedAt": "2026-10-14T10:01:38.617Z",
   "matches": [
     {
       "code": "5847028",
@@ -782738,10 +782738,10 @@
       "home": "Kashiwa",
       "away": "Port Fc",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -782787,10 +782787,10 @@
       "home": "Vissel Kobe",
       "away": "Jeonbuk Hm",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -784946,7 +784946,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -787834,10 +787834,10 @@
       "home": "Lask U19",
       "away": "Liverpool Fc U1",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
