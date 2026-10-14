@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T12:16:16.604Z",
+  "updatedAt": "2026-10-14T12:31:31.933Z",
   "matches": [
     {
       "code": "5847028",
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 1,
+      "mbs": 3,
       "status": 4,
       "score": {
         "home": "3",
@@ -773085,14 +773085,14 @@
       "home": "Batman Petrol",
       "away": "İstanbulspor",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "3",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.42,
@@ -785337,8 +785337,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -785482,14 +785482,14 @@
       "home": "Chanthaburi",
       "away": "Nakhon Pathom",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.81,
@@ -785827,8 +785827,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": "3",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -787934,7 +787934,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
