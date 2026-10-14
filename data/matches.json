@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T13:31:27.088Z",
+  "updatedAt": "2026-10-14T13:46:02.467Z",
   "matches": [
     {
       "code": "5847028",
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 3,
+      "mbs": 1,
       "status": 4,
       "score": {
         "home": "3",
@@ -770385,15 +770385,15 @@
       "code": "4486078",
       "week": 24141,
       "date": "14.10.2026",
-      "time": "16:20",
+      "time": "16:15",
       "league": "RUK",
       "home": "Krylya Sovieto",
       "away": "Baltika Kalinin",
       "mbs": 2,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -773085,7 +773085,7 @@
       "home": "Batman Petrol",
       "away": "İstanbulspor",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "4",
         "away": "2"
@@ -783865,7 +783865,7 @@
       "home": "Persib",
       "away": "Viettel",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
@@ -784257,10 +784257,10 @@
       "home": "Latina",
       "away": "Atalanta Ii",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -785386,7 +785386,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -785482,9 +785482,9 @@
       "home": "Chanthaburi",
       "away": "Nakhon Pathom",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "3",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -787984,7 +787984,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "0",
