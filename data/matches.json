@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T04:46:03.247Z",
+  "updatedAt": "2026-10-14T05:01:24.355Z",
   "matches": [
     {
       "code": "5847028",
@@ -749222,9 +749222,9 @@
       "home": "Atletico Madri",
       "away": "Man. Utd",
       "mbs": 1,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -749271,10 +749271,10 @@
       "home": "Galatasaray",
       "away": "Barcelona",
       "mbs": 1,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "1",
@@ -749320,9 +749320,9 @@
       "home": "Arsenal",
       "away": "Lille",
       "mbs": 1,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -749369,10 +749369,10 @@
       "home": "Inter",
       "away": "Club Brugge",
       "mbs": 1,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": "3",
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "1",
@@ -749418,9 +749418,9 @@
       "home": "Villarreal",
       "away": "Napoli",
       "mbs": 1,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -749467,9 +749467,9 @@
       "home": "Rb Leipzig",
       "away": "Psv Eindhoven",
       "mbs": 1,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -749516,10 +749516,10 @@
       "home": "Viking",
       "away": "B.Münih",
       "mbs": 1,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": "3",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "2",
@@ -768871,7 +768871,7 @@
       "home": "Cheltenham",
       "away": "Tottenham U21",
       "mbs": 3,
-      "status": 7,
+      "status": 8,
       "score": {
         "home": "2",
         "away": "2"
@@ -769067,10 +769067,10 @@
       "home": "Bury Town",
       "away": "Needham Market",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "3"
+        "away": "5"
       },
       "halfTimeScore": {
         "home": "0",
@@ -769116,9 +769116,9 @@
       "home": "Ebbsfleet",
       "away": "Afc Totton",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
@@ -769165,7 +769165,7 @@
       "home": "Lancaster City",
       "away": "Stockton Town",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -769214,7 +769214,7 @@
       "home": "Hanwell",
       "away": "Chertsey Town",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -769263,10 +769263,10 @@
       "home": "Wolverhampton ",
       "away": "Bolton",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -769312,9 +769312,9 @@
       "home": "Leamington",
       "away": "Redditch United",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -769361,7 +769361,7 @@
       "home": "Ashton United",
       "away": "Alfreton",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -769410,10 +769410,10 @@
       "home": "Havant And W.",
       "away": "Basingstoke",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": "4",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -769459,10 +769459,10 @@
       "home": "Cardiff",
       "away": "Watford",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "4",
-        "away": "0"
+        "home": "5",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "4",
@@ -769508,10 +769508,10 @@
       "home": "Millwall",
       "away": "Swansea",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -769552,19 +769552,19 @@
       "code": "4519639",
       "week": 24141,
       "date": "13.10.2026",
-      "time": "21:45",
+      "time": "21:54",
       "league": "İNGNLP",
       "home": "Workington",
       "away": "Whitby Town",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.51,
@@ -769606,10 +769606,10 @@
       "home": "Peterborough S",
       "away": "Banbury United",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "4",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -769650,14 +769650,14 @@
       "code": "4519146",
       "week": 24141,
       "date": "13.10.2026",
-      "time": "21:45",
+      "time": "21:53",
       "league": "İNGNLP",
       "home": "Bromsgrove Spo",
       "away": "Kettering",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -769704,7 +769704,7 @@
       "home": "Bamber Bridge",
       "away": "Warrington Town",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -769753,10 +769753,10 @@
       "home": "Burnley",
       "away": "Charlton",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -769802,10 +769802,10 @@
       "home": "Chippenham Tow",
       "away": "Frome Town",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -769851,7 +769851,7 @@
       "home": "Bristol City",
       "away": "Blackburn",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -769900,10 +769900,10 @@
       "home": "Wrexham",
       "away": "West Bromwich",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -769949,9 +769949,9 @@
       "home": "Plymouth Parkw",
       "away": "Wimborne Town",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -769998,7 +769998,7 @@
       "home": "Gloucester Cit",
       "away": "Taunton Town",
       "mbs": 3,
-      "status": 1,
+      "status": 9,
       "score": {
         "home": "0",
         "away": "0"
@@ -770042,15 +770042,15 @@
       "code": "4519148",
       "week": 24141,
       "date": "13.10.2026",
-      "time": "21:45",
+      "time": "21:54",
       "league": "İNGNLP",
       "home": "Halesowen Town",
       "away": "Alvechurch",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -770145,9 +770145,9 @@
       "home": "Birmingham",
       "away": "Prest",
       "mbs": 1,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -770194,10 +770194,10 @@
       "home": "Stoke",
       "away": "Middlesbrough",
       "mbs": 1,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "2",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -770243,14 +770243,14 @@
       "home": "Cs Cartagines",
       "away": "Puntarenas Fc",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.34,
@@ -770292,10 +770292,10 @@
       "home": "Los Millionari",
       "away": "Once Caldas",
       "mbs": 3,
-      "status": 0,
+      "status": 9,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -773624,7 +773624,7 @@
       "home": "Al Ittihad (Ci",
       "away": "Al Ahli Dubai",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -773673,7 +773673,7 @@
       "home": "Queens Park",
       "away": "Inverness Ct",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -773722,14 +773722,14 @@
       "home": "Cd Tapatio",
       "away": "Tepatitlan De M",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "4",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.37,
@@ -775731,14 +775731,14 @@
       "home": "Fus Rabat",
       "away": "Raja Casablanca",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 4.31,
@@ -776025,14 +776025,14 @@
       "home": "Abd (K)",
       "away": "Ispanya (K)",
       "mbs": 2,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 3.03,
@@ -777152,7 +777152,7 @@
       "home": "Scunthorpe",
       "away": "Derby County U2",
       "mbs": 3,
-      "status": 7,
+      "status": 8,
       "score": {
         "home": "2",
         "away": "2"
@@ -777348,7 +777348,7 @@
       "home": "Portekiz (K)",
       "away": "Kuzey İrlanda (",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "1"
@@ -777740,9 +777740,9 @@
       "home": "İngiltere (K)",
       "away": "Yunanistan (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "4",
+        "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
@@ -778818,14 +778818,14 @@
       "home": "Boca Juniors",
       "away": "Vasco Da Gama",
       "mbs": 1,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.72,
@@ -779455,7 +779455,7 @@
       "home": "Gateshead",
       "away": "Wolverhampton U",
       "mbs": 3,
-      "status": 7,
+      "status": 8,
       "score": {
         "home": "0",
         "away": "0"
@@ -779504,7 +779504,7 @@
       "home": "İskoçya (K)",
       "away": "Çekya (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "2"
@@ -779553,7 +779553,7 @@
       "home": "Galler (K)",
       "away": "Arnavutluk (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "0"
@@ -779602,9 +779602,9 @@
       "home": "Redcar Athleti",
       "away": "Avro",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -779651,10 +779651,10 @@
       "home": "Spartans",
       "away": "Bonnyrigg Rose",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -779700,10 +779700,10 @@
       "home": "East Kilbride",
       "away": "Kelty Hearts",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -779749,7 +779749,7 @@
       "home": "Cove Rangers",
       "away": "Formartine Unit",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -779798,9 +779798,9 @@
       "home": "Clydebank Fc",
       "away": "Dumbarton",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -779847,10 +779847,10 @@
       "home": "Rylands",
       "away": "Curzon Ashton",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": "5",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -779896,10 +779896,10 @@
       "home": "Worcester City",
       "away": "Stourbridge",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -779945,7 +779945,7 @@
       "home": "Annan",
       "away": "Alloa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -779994,10 +779994,10 @@
       "home": "Edinburg C.",
       "away": "St. Mirren Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "4"
+        "away": "5"
       },
       "halfTimeScore": {
         "home": "0",
@@ -780043,7 +780043,7 @@
       "home": "Peterhead",
       "away": "Rangers Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -780087,15 +780087,15 @@
       "code": "4518684",
       "week": 24141,
       "date": "13.10.2026",
-      "time": "21:45",
+      "time": "21:53",
       "league": "İNGNLP",
       "home": "Bracknell Town",
       "away": "Hanworth Villa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "0",
@@ -780141,7 +780141,7 @@
       "home": "Berwick",
       "away": "Queen Of South",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -780190,7 +780190,7 @@
       "home": "Elgin",
       "away": "Aberdeen Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -780239,10 +780239,10 @@
       "home": "Ross County",
       "away": "Forfar",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -780288,9 +780288,9 @@
       "home": "Hyde",
       "away": "Quorn",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -780484,9 +780484,9 @@
       "home": "Braintree",
       "away": "West Ham (B)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "4"
       },
       "halfTimeScore": {
@@ -780533,9 +780533,9 @@
       "home": "Anstey Nomads",
       "away": "Rushall Olympic",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -780582,10 +780582,10 @@
       "home": "Woking",
       "away": "Leicester (B)",
       "mbs": 3,
-      "status": 3,
+      "status": 8,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -780631,9 +780631,9 @@
       "home": "Malvern Town",
       "away": "Yate Town",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -780680,10 +780680,10 @@
       "home": "Aldershot",
       "away": "Norwich City U2",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "3",
-        "away": "1"
+        "home": "5",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "3",
@@ -780729,9 +780729,9 @@
       "home": "United Of Manc",
       "away": "Afc Emley",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -780778,10 +780778,10 @@
       "home": "Sholing",
       "away": "Chichester City",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -780827,10 +780827,10 @@
       "home": "Worthing",
       "away": "Ipswich Town U2",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -780876,9 +780876,9 @@
       "home": "Wingate",
       "away": "Ramsgate",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -780925,9 +780925,9 @@
       "home": "Gainsborough T",
       "away": "Ilkeston Town",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -780974,9 +780974,9 @@
       "home": "Burgess Hill T",
       "away": "Dulwich Hamlet",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -781023,10 +781023,10 @@
       "home": "Evesham United",
       "away": "Bath City",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -781072,10 +781072,10 @@
       "home": "Three Bridges",
       "away": "Lewes",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -781121,14 +781121,14 @@
       "home": "Athletic Club",
       "away": "Londrina",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.86,
@@ -781170,14 +781170,14 @@
       "home": "Bucaramanga",
       "away": "Rionegro Aguila",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.76,
@@ -781219,14 +781219,14 @@
       "home": "Ad San Carlos",
       "away": "Inter San Carlo",
       "mbs": 3,
-      "status": 0,
+      "status": 3,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.95,
@@ -782052,14 +782052,14 @@
       "home": "Usm Alger",
       "away": "Js Saoura",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.75,
@@ -783424,14 +783424,14 @@
       "home": "Brezilya (K)",
       "away": "Arjantin (K)",
       "mbs": 2,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1,
@@ -784693,19 +784693,19 @@
       "code": "4519153",
       "week": 24141,
       "date": "13.10.2026",
-      "time": "21:45",
+      "time": "21:54",
       "league": "İNGNLP",
       "home": "Stamford",
       "away": "Stratford Town",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.56,
@@ -784796,7 +784796,7 @@
       "home": "Township Rolle",
       "away": "Orapa United",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
