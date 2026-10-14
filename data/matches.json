@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T20:01:38.549Z",
+  "updatedAt": "2026-10-14T20:16:14.669Z",
   "matches": [
     {
       "code": "5847028",
@@ -643823,7 +643823,7 @@
       "home": "Lhospitalet",
       "away": "Mollerussa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -648285,7 +648285,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "4"
+        "away": "5"
       },
       "halfTimeScore": {
         "home": "0",
@@ -749663,9 +749663,9 @@
       "home": "Manchester Cit",
       "away": "Psg",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "3"
       },
       "halfTimeScore": {
@@ -749712,7 +749712,7 @@
       "home": "Slovan Bratisl",
       "away": "Stuttgart",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -749761,7 +749761,7 @@
       "home": "Shakhtar Donet",
       "away": "Aek",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -749810,7 +749810,7 @@
       "home": "Aston Villa",
       "away": "Fenerbahçe",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "0"
@@ -749859,10 +749859,10 @@
       "home": "Real Betis",
       "away": "Porto",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -749908,9 +749908,9 @@
       "home": "Roma",
       "away": "Real Madrid",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -749959,7 +749959,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -771324,7 +771324,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -771419,10 +771419,10 @@
       "home": "Lincoln",
       "away": "West Ham",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -784404,7 +784404,7 @@
       "home": "Al Faisaly Amm",
       "away": "Al Nahda",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -786903,7 +786903,7 @@
       "home": "Uniao Santarem",
       "away": "Gil Vicente",
       "mbs": 3,
-      "status": 4,
+      "status": 5,
       "score": {
         "home": "2",
         "away": "2"
@@ -786954,7 +786954,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -787592,7 +787592,7 @@
       "status": 3,
       "score": {
         "home": "4",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "4",
@@ -788324,10 +788324,10 @@
       "home": "Yaracuyanos",
       "away": "Fundacion Lara ",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
