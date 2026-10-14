@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T04:01:47.791Z",
+  "updatedAt": "2026-10-14T04:16:00.346Z",
   "matches": [
     {
       "code": "5847028",
@@ -778818,7 +778818,7 @@
       "home": "Boca Juniors",
       "away": "Vasco Da Gama",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -781219,14 +781219,14 @@
       "home": "Ad San Carlos",
       "away": "Inter San Carlo",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.95,
