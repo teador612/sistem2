@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T12:01:37.000Z",
+  "updatedAt": "2026-10-14T12:16:16.604Z",
   "matches": [
     {
       "code": "5847028",
@@ -773087,7 +773087,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -783865,10 +783865,10 @@
       "home": "Persib",
       "away": "Viettel",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -785286,7 +785286,7 @@
       "home": "Sagan Tosu",
       "away": "Avispa Fukuoka",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -785335,9 +785335,9 @@
       "home": "Nong Bua Pitch",
       "away": "Chiangmai Unite",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -785727,10 +785727,10 @@
       "home": "Mombasa United",
       "away": "Kakamega Homebo",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -785825,7 +785825,7 @@
       "home": "Esan Pattaya",
       "away": "Songkhla",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -787932,10 +787932,10 @@
       "home": "S. Donetsk U19",
       "away": "Aek Athens U19",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -788030,10 +788030,10 @@
       "home": "",
       "away": "Vfb Stuttgart U",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
