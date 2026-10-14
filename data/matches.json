@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T05:16:14.667Z",
+  "updatedAt": "2026-10-14T06:01:46.774Z",
   "matches": [
     {
       "code": "5847028",
@@ -787775,6 +787775,55 @@
         "iy2": 4.55
       },
       "openingRecordedAt": "2026-10-14T03:01:28.680Z"
+    },
+    {
+      "code": "4447625",
+      "week": 24141,
+      "date": "15.10.2026",
+      "time": "17:00",
+      "league": "ÖZB",
+      "home": "Andijon",
+      "away": "Qizilqum Zarafs",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.58,
+        "msX": 3.14,
+        "ms2": 3.68,
+        "cs1X": 1.07,
+        "cs12": 1.12,
+        "csX2": 1.64,
+        "au25Alt": 1.56,
+        "au25Ust": 1.72,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.65,
+        "kgYok": 1.62,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.14,
+        "iyX": 1.93,
+        "iy2": 4.27
+      },
+      "openingRecordedAt": "2026-10-14T06:01:46.773Z"
     }
   ]
 }
