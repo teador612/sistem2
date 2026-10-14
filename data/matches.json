@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T15:01:49.473Z",
+  "updatedAt": "2026-10-14T15:31:25.374Z",
   "matches": [
     {
       "code": "5847028",
@@ -659650,7 +659650,7 @@
       "home": "Atyrau",
       "away": "Yelimay Semey",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -770390,7 +770390,7 @@
       "home": "Krylya Sovieto",
       "away": "Baltika Kalinin",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -773134,7 +773134,7 @@
       "home": "Ümraniyespor",
       "away": "Boluspor",
       "mbs": 1,
-      "status": 2,
+      "status": 11,
       "score": {
         "home": "0",
         "away": "1"
@@ -773820,7 +773820,7 @@
       "home": "Punjab Fc",
       "away": "Odisha Fc",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -783963,7 +783963,7 @@
       "home": "Widad Amel",
       "away": "Rc Kouba",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -784257,7 +784257,7 @@
       "home": "Latina",
       "away": "Atalanta Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -784306,9 +784306,9 @@
       "home": "Mo Constantine",
       "away": "Azazga",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -785974,7 +785974,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -787638,7 +787638,7 @@
       "home": "Manchester Cit",
       "away": "Paris Sg U19",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -788079,9 +788079,9 @@
       "home": "Real Betis U19",
       "away": "Porto U19",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -788128,14 +788128,14 @@
       "home": "Al Shamal Ii",
       "away": "Markhiya",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 4.97,
