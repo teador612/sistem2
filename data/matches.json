@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T23:01:39.849Z",
+  "updatedAt": "2026-10-14T23:16:20.580Z",
   "matches": [
     {
       "code": "5847028",
@@ -706984,10 +706984,10 @@
       "home": "Sporting Jax",
       "away": "Birmingham Legi",
       "mbs": 3,
-      "status": 11,
+      "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "0",
@@ -771517,10 +771517,10 @@
       "home": "Hartford Athle",
       "away": "Charleston Batt",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -773918,7 +773918,7 @@
       "home": "Sarmiento",
       "away": "River Plate",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -778867,7 +778867,7 @@
       "home": "Atletico Mg",
       "away": "Torque",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -781513,7 +781513,7 @@
       "home": "Real Cundinama",
       "away": "Bogota",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -781709,10 +781709,10 @@
       "home": "Perez Zeledon",
       "away": "Liberia",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -784453,10 +784453,10 @@
       "home": "Comunicaciones",
       "away": "Aurora",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -785629,10 +785629,10 @@
       "home": "Greenville Tri",
       "away": "Spokane Velocit",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -786658,7 +786658,7 @@
       "home": "Monagas",
       "away": "Dinamo Puerto L",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -787101,7 +787101,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
