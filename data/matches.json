@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T02:46:15.270Z",
+  "updatedAt": "2026-10-14T03:01:28.680Z",
   "matches": [
     {
       "code": "5847028",
@@ -781219,14 +781219,14 @@
       "home": "Ad San Carlos",
       "away": "Inter San Carlo",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.95,
@@ -787726,6 +787726,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-14T00:31:15.788Z"
+    },
+    {
+      "code": "4564396",
+      "week": 24141,
+      "date": "16.10.2026",
+      "time": "00:00",
+      "league": "NİK",
+      "home": "Export Sebaco",
+      "away": "Rancho Santana",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.37,
+        "msX": 3.8,
+        "ms2": 4.44,
+        "cs1X": 1,
+        "cs12": 1.06,
+        "csX2": 1.93,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.41,
+        "kgYok": 1.95,
+        "iy15Alt": 1.44,
+        "iy15Ust": 1.89,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.4,
+        "au35Ust": 1.98,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.77,
+        "iyX": 2.28,
+        "iy2": 4.55
+      },
+      "openingRecordedAt": "2026-10-14T03:01:28.680Z"
     }
   ]
 }
