@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T08:46:05.165Z",
+  "updatedAt": "2026-10-14T09:01:44.131Z",
   "matches": [
     {
       "code": "5847028",
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 3,
+      "mbs": 1,
       "status": 4,
       "score": {
         "home": "3",
@@ -781557,7 +781557,7 @@
       "code": "4547637",
       "week": 24141,
       "date": "13.10.2026",
-      "time": "16:00",
+      "time": "16:01",
       "league": "UGA",
       "home": "Lugazi Municip",
       "away": "Bul",
@@ -783816,14 +783816,14 @@
       "home": "Melbourne Vict",
       "away": "Fc Seoul",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.42,
