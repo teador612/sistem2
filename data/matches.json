@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T07:01:43.148Z",
+  "updatedAt": "2026-10-14T08:16:05.059Z",
   "matches": [
     {
       "code": "5847028",
@@ -783816,10 +783816,10 @@
       "home": "Melbourne Vict",
       "away": "Fc Seoul",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -788755,6 +788755,153 @@
         "iy2": 2.41
       },
       "openingRecordedAt": "2026-10-14T07:01:43.148Z"
+    },
+    {
+      "code": "4547733",
+      "week": 24141,
+      "date": "15.10.2026",
+      "time": "16:00",
+      "league": "UGA",
+      "home": "Kataka",
+      "away": "Vipers",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 6.14,
+        "msX": 3.68,
+        "ms2": 1.27,
+        "cs1X": 2.14,
+        "cs12": 1.06,
+        "csX2": 1,
+        "au25Alt": 1.68,
+        "au25Ust": 1.59,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.78,
+        "kgYok": 1.51,
+        "iy15Alt": 1.29,
+        "iy15Ust": 2.25,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 6.13,
+        "iyX": 2.14,
+        "iy2": 1.68
+      },
+      "openingRecordedAt": "2026-10-14T08:16:05.059Z"
+    },
+    {
+      "code": "4536784",
+      "week": 24141,
+      "date": "15.10.2026",
+      "time": "19:45",
+      "league": "KATQ",
+      "home": "Khuraitiat",
+      "away": "Al Bidda",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.08,
+        "msX": 3.04,
+        "ms2": 2.42,
+        "cs1X": 1.23,
+        "cs12": 1.14,
+        "csX2": 1.33,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-14T08:16:05.059Z"
+    },
+    {
+      "code": "4564397",
+      "week": 24141,
+      "date": "16.10.2026",
+      "time": "04:00",
+      "league": "NİK",
+      "home": "Real Esteli",
+      "away": "Jalapa",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.12,
+        "msX": 4.62,
+        "ms2": 8.88,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.7,
+        "au25Alt": 1.86,
+        "au25Ust": 1.46,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.91,
+        "kgYok": 1.44,
+        "iy15Alt": 1.36,
+        "iy15Ust": 2.06,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.48,
+        "iyX": 2.38,
+        "iy2": 8.01
+      },
+      "openingRecordedAt": "2026-10-14T08:16:05.059Z"
     }
   ]
 }
