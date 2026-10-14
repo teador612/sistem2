@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T10:16:14.440Z",
+  "updatedAt": "2026-10-14T10:31:16.350Z",
   "matches": [
     {
       "code": "5847028",
@@ -782740,7 +782740,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "3",
+        "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
@@ -784943,14 +784943,14 @@
       "home": "Yokohama Fc",
       "away": "Urawa",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 3.33,
@@ -784995,7 +784995,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -785191,7 +785191,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -787836,7 +787836,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
