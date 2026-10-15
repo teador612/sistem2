@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T03:01:35.287Z",
+  "updatedAt": "2026-10-15T03:15:56.378Z",
   "matches": [
     {
       "code": "5847028",
@@ -771609,8 +771609,8 @@
     {
       "code": "4513876",
       "week": 24141,
-      "date": "15.10.2026",
-      "time": "02:30",
+      "date": "22.10.2026",
+      "time": "04:20",
       "league": "KOL",
       "home": "Santa Fe",
       "away": "Jaguares",
@@ -771909,9 +771909,9 @@
       "home": "Nashville Sc",
       "away": "Kansas",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "4",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -771958,7 +771958,7 @@
       "home": "Chicago",
       "away": "Philadelphia",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "3"
@@ -772007,7 +772007,7 @@
       "home": "Dallas",
       "away": "Seattle",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -772056,14 +772056,14 @@
       "home": "Colorado",
       "away": "Minnesota Utd",
       "mbs": 1,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.94,
@@ -772105,14 +772105,14 @@
       "home": "Salt Lake",
       "away": "San Jose",
       "mbs": 1,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.81,
@@ -772154,14 +772154,14 @@
       "home": "Alajuelense",
       "away": "Herediano",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.7,
@@ -772203,10 +772203,10 @@
       "home": "Los Angeles Fc",
       "away": "Austin",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -772252,10 +772252,10 @@
       "home": "Los Angeles",
       "away": "Portland",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -778916,10 +778916,10 @@
       "home": "Fluminense",
       "away": "Palmeiras",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "1",
-        "away": "2"
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -781807,7 +781807,7 @@
       "home": "St. Louis City",
       "away": "Vancouver",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -781856,10 +781856,10 @@
       "home": "San Diego",
       "away": "Houston",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -783522,14 +783522,14 @@
       "home": "Atletico Nacio",
       "away": "Independiente M",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "3",
-        "away": "2"
-      },
-      "halfTimeScore": {
         "home": "2",
         "away": "0"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.71,
@@ -783622,7 +783622,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
