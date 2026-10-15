@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-14T23:45:59.791Z",
+  "updatedAt": "2026-10-15T00:01:43.970Z",
   "matches": [
     {
       "code": "5847028",
@@ -706984,7 +706984,7 @@
       "home": "Sporting Jax",
       "away": "Birmingham Legi",
       "mbs": 3,
-      "status": 11,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
@@ -771468,7 +771468,7 @@
       "home": "Atletico Junio",
       "away": "Pereira",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -771517,14 +771517,14 @@
       "home": "Hartford Athle",
       "away": "Charleston Batt",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.51,
@@ -771566,10 +771566,10 @@
       "home": "Cincinnati",
       "away": "New England",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -771609,8 +771609,8 @@
     {
       "code": "4513876",
       "week": 24141,
-      "date": "15.10.2026",
-      "time": "02:30",
+      "date": "22.10.2026",
+      "time": "04:20",
       "league": "KOL",
       "home": "Santa Fe",
       "away": "Jaguares",
@@ -771664,10 +771664,10 @@
       "home": "Montreal",
       "away": "Atlanta Utd",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -771713,10 +771713,10 @@
       "home": "Inter Miami",
       "away": "New York City",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -771762,10 +771762,10 @@
       "home": "Dc United",
       "away": "New York",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -771811,10 +771811,10 @@
       "home": "Toronto",
       "away": "Orlando City",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -771860,10 +771860,10 @@
       "home": "Rhode Island",
       "away": "Loudoun United",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -773918,10 +773918,10 @@
       "home": "Sarmiento",
       "away": "River Plate",
       "mbs": 2,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -778867,9 +778867,9 @@
       "home": "Atletico Mg",
       "away": "Torque",
       "mbs": 1,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -781513,7 +781513,7 @@
       "home": "Real Cundinama",
       "away": "Bogota",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -781709,14 +781709,14 @@
       "home": "Perez Zeledon",
       "away": "Liberia",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 1.71,
@@ -781758,10 +781758,10 @@
       "home": "Columbus",
       "away": "Charlotte",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -784453,14 +784453,14 @@
       "home": "Comunicaciones",
       "away": "Aurora",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.26,
@@ -784502,10 +784502,10 @@
       "home": "Deportivo Mald",
       "away": "Albion",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -785629,14 +785629,14 @@
       "home": "Greenville Tri",
       "away": "Spokane Velocit",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.5,
@@ -786658,10 +786658,10 @@
       "home": "Monagas",
       "away": "Dinamo Puerto L",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -786707,10 +786707,10 @@
       "home": "El Vigia",
       "away": "Zamora",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -787001,9 +787001,9 @@
       "home": "Atletico Barin",
       "away": "Real Frontera",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -787099,14 +787099,14 @@
       "home": "Cerro Porteno",
       "away": "San Lorenzo (Pa",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.21,
@@ -788324,10 +788324,10 @@
       "home": "Yaracuyanos",
       "away": "Fundacion Lara ",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -789157,14 +789157,14 @@
       "home": "Deportivo Lara",
       "away": "Urena Fc",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.44,
