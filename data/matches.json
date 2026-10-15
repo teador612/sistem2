@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T21:01:42.087Z",
+  "updatedAt": "2026-10-15T21:16:13.499Z",
   "matches": [
     {
       "code": "5847028",
@@ -783669,10 +783669,10 @@
       "home": "Coban Imperial",
       "away": "Municipal",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -784747,10 +784747,10 @@
       "home": "Barranguilla",
       "away": "Tigres Fc",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -844027,6 +844027,202 @@
         "iy2": 6.79
       },
       "openingRecordedAt": "2026-10-15T20:16:17.709Z"
+    },
+    {
+      "code": "4574385",
+      "week": 24141,
+      "date": "18.10.2026",
+      "time": "02:15",
+      "league": "HON",
+      "home": "Juticalpa",
+      "away": "Choloma",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.93,
+        "msX": 3.01,
+        "ms2": 2.7,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-15T21:16:13.498Z"
+    },
+    {
+      "code": "4574386",
+      "week": 24141,
+      "date": "18.10.2026",
+      "time": "04:30",
+      "league": "HON",
+      "home": "Atlético Indep",
+      "away": "Upnfm",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.22,
+        "msX": 3.01,
+        "ms2": 2.27,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-15T21:16:13.498Z"
+    },
+    {
+      "code": "4574387",
+      "week": 24141,
+      "date": "19.10.2026",
+      "time": "00:00",
+      "league": "HON",
+      "home": "Genesis Pn",
+      "away": "Estrella Roja",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.64,
+        "msX": 2.98,
+        "ms2": 3.61,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 1.48,
+        "au25Ust": 1.83,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.7,
+        "kgYok": 1.58,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.21,
+        "iyX": 1.87,
+        "iy2": 4.24
+      },
+      "openingRecordedAt": "2026-10-15T21:16:13.499Z"
+    },
+    {
+      "code": "4560778",
+      "week": 24141,
+      "date": "20.10.2026",
+      "time": "04:06",
+      "league": "MEKKA",
+      "home": "León (K)",
+      "away": "Atlante (K)",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.14,
+        "msX": 4.71,
+        "ms2": 7.47,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.6,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-15T21:16:13.499Z"
     }
   ]
 }
