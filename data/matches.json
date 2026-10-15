@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T08:46:07.090Z",
+  "updatedAt": "2026-10-15T09:16:11.921Z",
   "matches": [
     {
       "code": "5847028",
@@ -822859,6 +822859,55 @@
         "iy2": 4.24
       },
       "openingRecordedAt": "2026-10-15T08:46:07.090Z"
+    },
+    {
+      "code": "4537785",
+      "week": 24141,
+      "date": "18.10.2026",
+      "time": "19:00",
+      "league": "MLTP",
+      "home": "Floriana",
+      "away": "Mosta Fc",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.4,
+        "msX": 3.5,
+        "ms2": 4.5,
+        "cs1X": 1,
+        "cs12": 1.08,
+        "csX2": 1.87,
+        "au25Alt": 1.74,
+        "au25Ust": 1.54,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.59,
+        "kgYok": 1.68,
+        "iy15Alt": 1.3,
+        "iy15Ust": 2.21,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.86,
+        "iyX": 2.09,
+        "iy2": 4.82
+      },
+      "openingRecordedAt": "2026-10-15T09:16:11.921Z"
     }
   ]
 }
