@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T12:31:35.162Z",
+  "updatedAt": "2026-10-15T12:46:21.130Z",
   "matches": [
     {
       "code": "5847028",
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 1,
+      "mbs": 3,
       "status": 4,
       "score": {
         "home": "3",
@@ -786413,10 +786413,10 @@
       "home": "Tanta",
       "away": "Derot",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -786462,10 +786462,10 @@
       "home": "El Mansura",
       "away": "Nasr",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -786511,10 +786511,10 @@
       "home": "El Daklyeh",
       "away": "Telecom Egypt",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -787295,10 +787295,10 @@
       "home": "La Viena Fc",
       "away": "Haras El Hodood",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -800079,7 +800079,7 @@
       "code": "4485889",
       "week": 24141,
       "date": "18.10.2026",
-      "time": "18:30",
+      "time": "18:45",
       "league": "RUS",
       "home": "Spartak Moskov",
       "away": "Rubin Kazan",
@@ -800667,7 +800667,7 @@
       "code": "4485892",
       "week": 24141,
       "date": "18.10.2026",
-      "time": "20:45",
+      "time": "21:00",
       "league": "RUS",
       "home": "Baltika Kalini",
       "away": "Rostov",
