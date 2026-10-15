@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T13:16:12.977Z",
+  "updatedAt": "2026-10-15T13:31:20.921Z",
   "matches": [
     {
       "code": "5847028",
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 1,
+      "mbs": 3,
       "status": 4,
       "score": {
         "home": "3",
@@ -785678,14 +785678,14 @@
       "home": "Kuching Fa",
       "away": "Kitchee Footbal",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.86,
@@ -786315,14 +786315,14 @@
       "home": "Tampines Rover",
       "away": "Machida Zelvia",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 5.4,
@@ -786364,14 +786364,14 @@
       "home": "Pkr Svay Rieng",
       "away": "Shanghai Shenhu",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 8.61,
@@ -786464,7 +786464,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -786513,7 +786513,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
@@ -788422,7 +788422,7 @@
       "home": "Khonkaen Utd",
       "away": "Chainat Hornbil",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
@@ -788471,7 +788471,7 @@
       "home": "Malisheva",
       "away": "Prishtina",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
@@ -788572,7 +788572,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
