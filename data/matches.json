@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T10:01:42.716Z",
+  "updatedAt": "2026-10-15T10:16:18.965Z",
   "matches": [
     {
       "code": "5847028",
@@ -826583,6 +826583,202 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-15T10:01:42.714Z"
+    },
+    {
+      "code": "4493215",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "14:00",
+      "league": "İS3",
+      "home": "Racing Ferrol",
+      "away": "Unionistas De S",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.58,
+        "msX": 3.09,
+        "ms2": 3.76,
+        "cs1X": 1.06,
+        "cs12": 1.12,
+        "csX2": 1.64,
+        "au25Alt": 1.5,
+        "au25Ust": 1.81,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.72,
+        "kgYok": 1.56,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.67,
+        "au15Ust": 1.18,
+        "au35Alt": 1.1,
+        "au35Ust": 3.18,
+        "gol01": 2.7,
+        "gol23": 1.72,
+        "gol46": 3.94,
+        "gol7": 18.5,
+        "iy1": 2.14,
+        "iyX": 1.89,
+        "iy2": 4.4
+      },
+      "openingRecordedAt": "2026-10-15T10:16:18.964Z"
+    },
+    {
+      "code": "4550876",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "14:00",
+      "league": "BOSN",
+      "home": "Bsk Banja Luka",
+      "away": "Zeljeznicar",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.09,
+        "msX": 2.91,
+        "ms2": 2.5,
+        "cs1X": 1.22,
+        "cs12": 1.15,
+        "csX2": 1.33,
+        "au25Alt": 1.48,
+        "au25Ust": 1.84,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.64,
+        "kgYok": 1.64,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.77,
+        "iyX": 1.82,
+        "iy2": 3.2
+      },
+      "openingRecordedAt": "2026-10-15T10:16:18.964Z"
+    },
+    {
+      "code": "4503610",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "14:00",
+      "league": "MAC2",
+      "home": "Nagykanizsai U",
+      "away": "Kozarmisleny",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.9,
+        "msX": 2.98,
+        "ms2": 2.77,
+        "cs1X": 1.16,
+        "cs12": 1.14,
+        "csX2": 1.41,
+        "au25Alt": 1.6,
+        "au25Ust": 1.67,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.54,
+        "kgYok": 1.75,
+        "iy15Alt": 1.23,
+        "iy15Ust": 2.42,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.48,
+        "iyX": 1.91,
+        "iy2": 3.39
+      },
+      "openingRecordedAt": "2026-10-15T10:16:18.964Z"
+    },
+    {
+      "code": "4501887",
+      "week": 24141,
+      "date": "18.10.2026",
+      "time": "19:00",
+      "league": "PER",
+      "home": "Sporting Crist",
+      "away": "Comerciantes Un",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.12,
+        "msX": 4.86,
+        "ms2": 7.96,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.7,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.68,
+        "kgYok": 1.59,
+        "iy15Alt": 1.44,
+        "iy15Ust": 1.88,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.38,
+        "au35Ust": 2,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.47,
+        "iyX": 2.49,
+        "iy2": 7.14
+      },
+      "openingRecordedAt": "2026-10-15T10:16:18.965Z"
     }
   ]
 }
