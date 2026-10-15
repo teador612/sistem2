@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T07:16:11.307Z",
+  "updatedAt": "2026-10-15T07:31:15.036Z",
   "matches": [
     {
       "code": "5847028",
@@ -770286,16 +770286,16 @@
     {
       "code": "4513959",
       "week": 24141,
-      "date": "14.10.2026",
+      "date": "21.10.2026",
       "time": "04:30",
       "league": "KOL",
       "home": "Los Millionari",
       "away": "Once Caldas",
       "mbs": 3,
-      "status": 9,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -771757,7 +771757,7 @@
       "code": "4419776",
       "week": 24141,
       "date": "15.10.2026",
-      "time": "02:42",
+      "time": "02:30",
       "league": "ABD",
       "home": "Dc United",
       "away": "New York",
