@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T15:01:47.470Z",
+  "updatedAt": "2026-10-15T15:16:12.679Z",
   "matches": [
     {
       "code": "5847028",
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 1,
+      "mbs": 3,
       "status": 4,
       "score": {
         "home": "3",
@@ -773281,7 +773281,7 @@
       "home": "Mardin 1969",
       "away": "Fatih Karagümrü",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -773967,7 +773967,7 @@
       "home": "Daugava Riga",
       "away": "Super Nova",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "0"
@@ -787197,10 +787197,10 @@
       "home": "Phoenix",
       "away": "Tammeka Ii",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -787687,7 +787687,7 @@
       "home": "Usm El Harrach",
       "away": "Rc Arbaa",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -787785,7 +787785,7 @@
       "home": "Andijon",
       "away": "Qizilqum Zarafs",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -788667,10 +788667,10 @@
       "home": "Al Hashemeya",
       "away": "Aqaba",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -788716,10 +788716,10 @@
       "home": "Al Arabi",
       "away": "Shabab Al Ordon",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -789206,7 +789206,7 @@
       "home": "Mashal Muborak",
       "away": "Otmk Olmaliq",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -823207,7 +823207,7 @@
       "code": "4571918",
       "week": 24141,
       "date": "16.10.2026",
-      "time": "16:00",
+      "time": "15:00",
       "league": "ETH",
       "home": "Halaba Ketema",
       "away": "Bahardar",
@@ -838894,7 +838894,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
