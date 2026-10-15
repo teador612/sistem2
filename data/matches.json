@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T16:46:18.651Z",
+  "updatedAt": "2026-10-15T17:01:50.398Z",
   "matches": [
     {
       "code": "5847028",
@@ -772352,7 +772352,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -772448,7 +772448,7 @@
       "home": "Rubin Kazan",
       "away": "Orenburg",
       "mbs": 2,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "2"
@@ -774163,10 +774163,10 @@
       "home": "Sparta Prag",
       "away": "Lillestrom",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -774212,10 +774212,10 @@
       "home": "Lech Poznan",
       "away": "B.Leverkusen",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -774310,10 +774310,10 @@
       "home": "Cska Sofia",
       "away": "Monaco",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -774359,10 +774359,10 @@
       "home": "Celje",
       "away": "Omonia",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -774506,10 +774506,10 @@
       "home": "Mjallby",
       "away": "Inter Escaldes",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -774604,10 +774604,10 @@
       "home": "Kuopion",
       "away": "Trabzonspor",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -774653,10 +774653,10 @@
       "home": "Salzburg",
       "away": "Ac Milan",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -774702,10 +774702,10 @@
       "home": "Universitatea ",
       "away": "Getafe",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -774751,10 +774751,10 @@
       "home": "Panathinaikos",
       "away": "Borac Banja Luk",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -779014,9 +779014,9 @@
       "home": "Dinamo Minsk",
       "away": "Slavia Mozyr",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -779112,10 +779112,10 @@
       "home": "Egnatia",
       "away": "Midtjylland",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -783133,7 +783133,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "4"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": null,
@@ -788814,10 +788814,10 @@
       "home": "Khuraitiat",
       "away": "Al Bidda",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -788961,10 +788961,10 @@
       "home": "Al Muaidar",
       "away": "Katar U23",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
