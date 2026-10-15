@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T19:16:15.550Z",
+  "updatedAt": "2026-10-15T19:31:32.005Z",
   "matches": [
     {
       "code": "5847028",
@@ -376087,7 +376087,7 @@
       "home": "Ml Vitebsk",
       "away": "Torpedo Zhodino",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -774998,7 +774998,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -775489,7 +775489,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -775586,7 +775586,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -779164,7 +779164,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -779212,7 +779212,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -783769,7 +783769,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -843194,6 +843194,202 @@
         "iy2": 3.33
       },
       "openingRecordedAt": "2026-10-15T19:16:15.550Z"
+    },
+    {
+      "code": "4419061",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "21:00",
+      "league": "ARJPBM",
+      "home": "Real Pilar",
+      "away": "Ituzaingo",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.27,
+        "msX": 3.62,
+        "ms2": 6.29,
+        "cs1X": 1,
+        "cs12": 1.06,
+        "csX2": 2.14,
+        "au25Alt": 1.57,
+        "au25Ust": 1.71,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.9,
+        "kgYok": 1.44,
+        "iy15Alt": 1.24,
+        "iy15Ust": 2.4,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.71,
+        "iyX": 2.07,
+        "iy2": 6.41
+      },
+      "openingRecordedAt": "2026-10-15T19:31:32.004Z"
+    },
+    {
+      "code": "4419064",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "21:00",
+      "league": "ARJPBM",
+      "home": "Burzaco",
+      "away": "Excur",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.25,
+        "msX": 2.94,
+        "ms2": 1.74,
+        "cs1X": 1.51,
+        "cs12": 1.15,
+        "csX2": 1.1,
+        "au25Alt": 1.52,
+        "au25Ust": 1.77,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.63,
+        "kgYok": 1.65,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.87,
+        "iyX": 1.88,
+        "iy2": 2.31
+      },
+      "openingRecordedAt": "2026-10-15T19:31:32.004Z"
+    },
+    {
+      "code": "4419071",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "21:00",
+      "league": "ARJPBM",
+      "home": "Quilmes",
+      "away": "Flandria",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.23,
+        "msX": 2.55,
+        "ms2": 2.62,
+        "cs1X": 1.19,
+        "cs12": 1.21,
+        "csX2": 1.29,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.93,
+        "kgYok": 1.43,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.07,
+        "au15Ust": 1.36,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.02,
+        "iyX": 1.66,
+        "iy2": 3.46
+      },
+      "openingRecordedAt": "2026-10-15T19:31:32.004Z"
+    },
+    {
+      "code": "4419067",
+      "week": 24141,
+      "date": "18.10.2026",
+      "time": "01:00",
+      "league": "ARJPBM",
+      "home": "Dep. Merlo",
+      "away": "Talleres",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.51,
+        "msX": 2.79,
+        "ms2": 1.72,
+        "cs1X": 1.51,
+        "cs12": 1.16,
+        "csX2": 1.09,
+        "au25Alt": 1.38,
+        "au25Ust": 2.01,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.79,
+        "kgYok": 1.5,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 4.23,
+        "iyX": 1.79,
+        "iy2": 2.34
+      },
+      "openingRecordedAt": "2026-10-15T19:31:32.004Z"
     }
   ]
 }
