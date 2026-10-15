@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T05:16:14.830Z",
+  "updatedAt": "2026-10-15T06:31:31.431Z",
   "matches": [
     {
       "code": "5847028",
@@ -789343,6 +789343,55 @@
         "iy2": 7.12
       },
       "openingRecordedAt": "2026-10-14T15:01:49.473Z"
+    },
+    {
+      "code": "4455656",
+      "week": 24141,
+      "date": "15.10.2026",
+      "time": "19:00",
+      "league": "EST3",
+      "home": "Narva Trans Ii",
+      "away": "Tartu Kalev",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.22,
+        "msX": 4.93,
+        "ms2": 5.1,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.31,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.18,
+        "kgYok": 2.65,
+        "iy15Alt": 1.91,
+        "iy15Ust": 1.44,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.53,
+        "iyX": 2.82,
+        "iy2": 4.67
+      },
+      "openingRecordedAt": "2026-10-15T06:31:31.431Z"
     }
   ]
 }
