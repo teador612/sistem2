@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T01:46:05.790Z",
+  "updatedAt": "2026-10-15T02:16:06.997Z",
   "matches": [
     {
       "code": "5847028",
@@ -771566,7 +771566,7 @@
       "home": "Cincinnati",
       "away": "New England",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "3"
@@ -771664,7 +771664,7 @@
       "home": "Montreal",
       "away": "Atlanta Utd",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "3"
@@ -771713,7 +771713,7 @@
       "home": "Inter Miami",
       "away": "New York City",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -771762,7 +771762,7 @@
       "home": "Dc United",
       "away": "New York",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -771811,10 +771811,10 @@
       "home": "Toronto",
       "away": "Orlando City",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "3",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -771860,7 +771860,7 @@
       "home": "Rhode Island",
       "away": "Loudoun United",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -771909,14 +771909,14 @@
       "home": "Nashville Sc",
       "away": "Kansas",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.1,
@@ -771958,14 +771958,14 @@
       "home": "Chicago",
       "away": "Philadelphia",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.19,
@@ -772007,14 +772007,14 @@
       "home": "Dallas",
       "away": "Seattle",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.78,
@@ -772056,10 +772056,10 @@
       "home": "Colorado",
       "away": "Minnesota Utd",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -772105,10 +772105,10 @@
       "home": "Salt Lake",
       "away": "San Jose",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -772154,10 +772154,10 @@
       "home": "Alajuelense",
       "away": "Herediano",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -778916,14 +778916,14 @@
       "home": "Fluminense",
       "away": "Palmeiras",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.63,
@@ -781758,7 +781758,7 @@
       "home": "Columbus",
       "away": "Charlotte",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "1"
@@ -781807,14 +781807,14 @@
       "home": "St. Louis City",
       "away": "Vancouver",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.14,
@@ -783522,10 +783522,10 @@
       "home": "Atletico Nacio",
       "away": "Independiente M",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -783620,14 +783620,14 @@
       "home": "Guastatoya",
       "away": "Antigua Guatema",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.82,
@@ -784502,9 +784502,9 @@
       "home": "Deportivo Mald",
       "away": "Albion",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
