@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T08:01:38.119Z",
+  "updatedAt": "2026-10-15T08:16:04.363Z",
   "matches": [
     {
       "code": "5847028",
@@ -728837,7 +728837,7 @@
       "league": "ABD",
       "home": "Charlotte",
       "away": "Dallas",
-      "mbs": 3,
+      "mbs": 1,
       "status": 4,
       "score": {
         "home": "3",
@@ -771757,7 +771757,7 @@
       "code": "4419776",
       "week": 24141,
       "date": "15.10.2026",
-      "time": "02:42",
+      "time": "02:30",
       "league": "ABD",
       "home": "Dc United",
       "away": "New York",
@@ -786952,7 +786952,7 @@
       "home": "Huelva",
       "away": "Navalcarnero",
       "mbs": 3,
-      "status": 8,
+      "status": 5,
       "score": {
         "home": "2",
         "away": "2"
