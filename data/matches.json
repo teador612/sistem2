@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T19:31:32.005Z",
+  "updatedAt": "2026-10-15T19:46:16.392Z",
   "matches": [
     {
       "code": "5847028",
@@ -772647,7 +772647,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -774800,14 +774800,14 @@
       "home": "Ferencvaros",
       "away": "Viktoria Plzen",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.77,
@@ -774947,14 +774947,14 @@
       "home": "Kopenhag",
       "away": "Braga",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.11,
@@ -775048,7 +775048,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -775096,7 +775096,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -775194,7 +775194,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -775292,7 +775292,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -775440,7 +775440,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -775537,7 +775537,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -775584,14 +775584,14 @@
       "home": "Benfica",
       "away": "Celtic",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.12,
@@ -779161,14 +779161,14 @@
       "home": "Caen",
       "away": "La Roche Sur Yo",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.85,
@@ -779212,7 +779212,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -783769,7 +783769,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -786563,7 +786563,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -843390,6 +843390,55 @@
         "iy2": 2.34
       },
       "openingRecordedAt": "2026-10-15T19:31:32.004Z"
+    },
+    {
+      "code": "4504396",
+      "week": 24141,
+      "date": "18.10.2026",
+      "time": "00:00",
+      "league": "ELSAL",
+      "home": "Cacahuatique",
+      "away": "Alianza",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.96,
+        "msX": 2.82,
+        "ms2": 1.88,
+        "cs1X": 1.42,
+        "cs12": 1.16,
+        "csX2": 1.14,
+        "au25Alt": 1.52,
+        "au25Ust": 1.77,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.59,
+        "kgYok": 1.68,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.55,
+        "iyX": 1.87,
+        "iy2": 2.45
+      },
+      "openingRecordedAt": "2026-10-15T19:46:16.391Z"
     }
   ]
 }
