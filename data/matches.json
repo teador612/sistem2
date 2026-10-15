@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T12:46:21.130Z",
+  "updatedAt": "2026-10-15T13:01:56.244Z",
   "matches": [
     {
       "code": "5847028",
@@ -784061,14 +784061,14 @@
       "home": "Bg Pathum Unit",
       "away": "Adelaide United",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.57,
@@ -787347,7 +787347,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -788373,7 +788373,7 @@
       "home": "Uttaradit",
       "away": "Satun",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -788422,14 +788422,14 @@
       "home": "Khonkaen Utd",
       "away": "Chainat Hornbil",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.47,
@@ -788471,14 +788471,14 @@
       "home": "Malisheva",
       "away": "Prishtina",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.71,
@@ -788569,10 +788569,10 @@
       "home": "Express",
       "away": "Updf",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -788765,10 +788765,10 @@
       "home": "Kataka",
       "away": "Vipers",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -840744,6 +840744,349 @@
         "iy2": 2.45
       },
       "openingRecordedAt": "2026-10-15T12:16:19.938Z"
+    },
+    {
+      "code": "4483989",
+      "week": 24141,
+      "date": "16.10.2026",
+      "time": "19:00",
+      "league": "SLVN2",
+      "home": "Dravinja",
+      "away": "Jesenice",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.51,
+        "msX": 3.23,
+        "ms2": 1.94,
+        "cs1X": 1.39,
+        "cs12": 1.11,
+        "csX2": 1.21,
+        "au25Alt": 1.93,
+        "au25Ust": 1.42,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.36,
+        "kgYok": 2.06,
+        "iy15Alt": 1.36,
+        "iy15Ust": 2.06,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.01,
+        "iyX": 2.07,
+        "iy2": 2.45
+      },
+      "openingRecordedAt": "2026-10-15T13:01:56.242Z"
+    },
+    {
+      "code": "4520051",
+      "week": 24141,
+      "date": "16.10.2026",
+      "time": "21:45",
+      "league": "KİRL1",
+      "home": "Strabane Athle",
+      "away": "Loughgall Fc",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.13,
+        "msX": 3.19,
+        "ms2": 1.7,
+        "cs1X": 1.54,
+        "cs12": 1.11,
+        "csX2": 1.12,
+        "au25Alt": 1.73,
+        "au25Ust": 1.55,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.48,
+        "kgYok": 1.82,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 3.27,
+        "au15Ust": 1.09,
+        "au35Alt": 1.21,
+        "au35Ust": 2.52,
+        "gol01": 3.4,
+        "gol23": 1.77,
+        "gol46": 3.21,
+        "gol7": 11.5,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-15T13:01:56.242Z"
+    },
+    {
+      "code": "4510971",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "14:00",
+      "league": "DAN3",
+      "home": "Holbæk",
+      "away": "Holstebro",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.2,
+        "msX": 4.53,
+        "ms2": 5.99,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.36,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-15T13:01:56.242Z"
+    },
+    {
+      "code": "4520046",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "17:00",
+      "league": "KİRL1",
+      "home": "Ballinamallard",
+      "away": "Warrenpoint Tow",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.08,
+        "msX": 3.1,
+        "ms2": 2.38,
+        "cs1X": 1.24,
+        "cs12": 1.13,
+        "csX2": 1.33,
+        "au25Alt": 1.7,
+        "au25Ust": 1.58,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.47,
+        "kgYok": 1.85,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 3.18,
+        "au15Ust": 1.1,
+        "au35Alt": 1.19,
+        "au35Ust": 2.6,
+        "gol01": 3.29,
+        "gol23": 1.76,
+        "gol46": 3.3,
+        "gol7": 12.3,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-15T13:01:56.242Z"
+    },
+    {
+      "code": "4520047",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "17:00",
+      "league": "KİRL1",
+      "home": "Dundela",
+      "away": "Rathfriland Ran",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.61,
+        "msX": 3.43,
+        "ms2": 3.23,
+        "cs1X": 1.1,
+        "cs12": 1.09,
+        "csX2": 1.61,
+        "au25Alt": 2.03,
+        "au25Ust": 1.37,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.36,
+        "kgYok": 2.05,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 4.02,
+        "au15Ust": 1,
+        "au35Alt": 1.35,
+        "au35Ust": 2.08,
+        "gol01": 4.33,
+        "gol23": 1.86,
+        "gol46": 2.77,
+        "gol7": 7.76,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-15T13:01:56.242Z"
+    },
+    {
+      "code": "4520045",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "17:00",
+      "league": "KİRL1",
+      "home": "Armagh",
+      "away": "Annagh United",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 7,
+        "msX": 4.38,
+        "ms2": 1.17,
+        "cs1X": 2.45,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 2.08,
+        "au25Ust": 1.35,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.61,
+        "kgYok": 1.66,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.37,
+        "au35Ust": 2.03,
+        "gol01": 4.48,
+        "gol23": 1.88,
+        "gol46": 2.73,
+        "gol7": 7.37,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-15T13:01:56.242Z"
+    },
+    {
+      "code": "4520050",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "17:00",
+      "league": "KİRL1",
+      "home": "Queens Univers",
+      "away": "Newry City Afc",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2,
+        "msX": 3.26,
+        "ms2": 2.42,
+        "cs1X": 1.23,
+        "cs12": 1.11,
+        "csX2": 1.37,
+        "au25Alt": 1.94,
+        "au25Ust": 1.41,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.36,
+        "kgYok": 2.07,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 3.8,
+        "au15Ust": 1,
+        "au35Alt": 1.3,
+        "au35Ust": 2.19,
+        "gol01": 4.05,
+        "gol23": 1.83,
+        "gol46": 2.88,
+        "gol7": 8.58,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-15T13:01:56.243Z"
     }
   ]
 }
