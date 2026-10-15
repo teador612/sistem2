@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-15T04:31:26.135Z",
+  "updatedAt": "2026-10-15T05:01:35.138Z",
   "matches": [
     {
       "code": "5847028",
@@ -772203,7 +772203,7 @@
       "home": "Los Angeles Fc",
       "away": "Austin",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "1"
@@ -772252,7 +772252,7 @@
       "home": "Los Angeles",
       "away": "Portland",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -781856,9 +781856,9 @@
       "home": "San Diego",
       "away": "Houston",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "3"
       },
       "halfTimeScore": {
@@ -786217,14 +786217,14 @@
       "home": "Managua",
       "away": "San Marcos",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1,
@@ -787393,14 +787393,14 @@
       "home": "Unan Managua",
       "away": "Diriangen",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 3.96,
@@ -787491,14 +787491,14 @@
       "home": "Matagalpa",
       "away": "Walter Ferretti",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "5"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.21,
