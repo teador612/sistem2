@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T05:46:18.827Z",
+  "updatedAt": "2026-10-16T07:01:51.702Z",
   "matches": [
     {
       "code": "5847028",
@@ -844615,6 +844615,55 @@
         "iy2": 1.84
       },
       "openingRecordedAt": "2026-10-16T05:46:18.825Z"
+    },
+    {
+      "code": "4526262",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "19:00",
+      "league": "FRK1",
+      "home": "Montpellier (K",
+      "away": "Le Havre (K)",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.52,
+        "msX": 3.26,
+        "ms2": 3.84,
+        "cs1X": 1.06,
+        "cs12": 1.1,
+        "csX2": 1.69,
+        "au25Alt": 1.64,
+        "au25Ust": 1.64,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.6,
+        "kgYok": 1.67,
+        "iy15Alt": 1.25,
+        "iy15Ust": 2.35,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.05,
+        "iyX": 1.99,
+        "iy2": 4.35
+      },
+      "openingRecordedAt": "2026-10-16T07:01:51.701Z"
     }
   ]
 }
