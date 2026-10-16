@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T01:01:46.703Z",
+  "updatedAt": "2026-10-16T01:16:07.963Z",
   "matches": [
     {
       "code": "5847028",
@@ -775633,7 +775633,7 @@
       "home": "Huracan",
       "away": "Gimnasia La Pla",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -783375,10 +783375,10 @@
       "home": "Quindio",
       "away": "Real Cartagena",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -784649,10 +784649,10 @@
       "home": "Suchitepequez",
       "away": "Deportivo San P",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -788863,10 +788863,10 @@
       "home": "Real Esteli",
       "away": "Jalapa",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -789108,7 +789108,7 @@
       "home": "Marathon",
       "away": "Olancho",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -789304,10 +789304,10 @@
       "home": "Firpo",
       "away": "Inca-Aruba",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
