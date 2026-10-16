@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T20:46:22.960Z",
+  "updatedAt": "2026-10-16T21:01:46.552Z",
   "matches": [
     {
       "code": "5847028",
@@ -790480,7 +790480,7 @@
       "home": "Burnley",
       "away": "Wolverhampton ",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -790529,7 +790529,7 @@
       "home": "Standard Liege",
       "away": "Dender",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -790578,7 +790578,7 @@
       "home": "D.La Coruna",
       "away": "Levante",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -790629,7 +790629,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -814735,7 +814735,7 @@
       "home": "Academia Del B",
       "away": "Real Potosi",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -814784,7 +814784,7 @@
       "home": "St Patricks",
       "away": "Shelbourne",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -839676,7 +839676,7 @@
       "home": "Chaves",
       "away": "Os Marialvas",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
