@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T21:31:27.480Z",
+  "updatedAt": "2026-10-16T21:46:16.227Z",
   "matches": [
     {
       "code": "5847028",
@@ -650333,17 +650333,17 @@
     },
     {
       "code": "4529441",
-      "week": 24140,
-      "date": "03.10.2026",
-      "time": "20:30",
+      "week": 24141,
+      "date": "21.10.2026",
+      "time": "21:00",
       "league": "İSTL",
       "home": "Vilanova",
       "away": "San Juan Atléti",
       "mbs": 3,
-      "status": 9,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -825025,7 +825025,7 @@
       "home": "Chankas Cyc",
       "away": "Adt",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -825074,7 +825074,7 @@
       "home": "Deportivo Cuen",
       "away": "T.Universitario",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
