@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T15:01:51.891Z",
+  "updatedAt": "2026-10-16T15:16:03.932Z",
   "matches": [
     {
       "code": "5847028",
@@ -813559,7 +813559,7 @@
       "home": "Al Dhafra",
       "away": "Dubai United",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "5",
         "away": "1"
@@ -813902,10 +813902,10 @@
       "home": "Sumqayit",
       "away": "Araz",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -823264,7 +823264,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -823359,7 +823359,7 @@
       "home": "Doqarah",
       "away": "Al Jazeera",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -823408,7 +823408,7 @@
       "home": "Sporting Delhi",
       "away": "Atk Mohun Bagan",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -823604,10 +823604,10 @@
       "home": "Amman",
       "away": "Al Sareeh",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -833649,7 +833649,7 @@
       "home": "Bunyodkor",
       "away": "Sogdiyona Jizza",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -833698,10 +833698,10 @@
       "home": "Newroz",
       "away": "Al Minaa Basra",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -835119,7 +835119,7 @@
       "home": "Police Fc",
       "away": "Gorilla",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -839139,8 +839139,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
-        "away": "2"
+        "home": "2",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -839186,7 +839186,7 @@
       "home": "Termez Surkhon",
       "away": "Xorazm Urganch",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -839235,10 +839235,10 @@
       "home": "Kuruvchi Kokan",
       "away": "Neftchi Fargona",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -839279,15 +839279,15 @@
       "code": "4540895",
       "week": 24141,
       "date": "16.10.2026",
-      "time": "18:00",
+      "time": "18:10",
       "league": "IRAK",
       "home": "Karbala",
       "away": "Al Gharraf",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -841293,7 +841293,7 @@
       "home": "Kelantan Red W",
       "away": "Imigresen",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "5"
