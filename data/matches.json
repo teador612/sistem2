@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T00:45:53.775Z",
+  "updatedAt": "2026-10-16T01:01:46.703Z",
   "matches": [
     {
       "code": "5847028",
@@ -775633,10 +775633,10 @@
       "home": "Huracan",
       "away": "Gimnasia La Pla",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -779259,10 +779259,10 @@
       "home": "Estudiantes Lp",
       "away": "Flamengo",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -783277,7 +783277,7 @@
       "home": "Leones Fc",
       "away": "Patriotas",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -783326,7 +783326,7 @@
       "home": "Internacional ",
       "away": "Orsomarso",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -783571,9 +783571,9 @@
       "home": "Inter Bogota",
       "away": "Llaneros",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
@@ -784551,7 +784551,7 @@
       "home": "Union Magdalen",
       "away": "Independiente Y",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -784600,9 +784600,9 @@
       "home": "Nacional Df",
       "away": "Rentistas",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -789108,14 +789108,14 @@
       "home": "Marathon",
       "away": "Olancho",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.51,
@@ -844321,6 +844321,251 @@
         "iy2": 3.14
       },
       "openingRecordedAt": "2026-10-15T23:16:15.591Z"
+    },
+    {
+      "code": "4573716",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "18:30",
+      "league": "BEK",
+      "home": "Oh Leuven",
+      "away": "Francs Borains",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.46,
+        "msX": 3.72,
+        "ms2": 3.72,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-16T01:01:46.702Z"
+    },
+    {
+      "code": "4573719",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "21:45",
+      "league": "BEK",
+      "home": "La Louvière",
+      "away": "Rfc Liege",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.35,
+        "msX": 3.73,
+        "ms2": 4.67,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-16T01:01:46.702Z"
+    },
+    {
+      "code": "4573722",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "21:45",
+      "league": "BEK",
+      "home": "Excelsior Virt",
+      "away": "Genk",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 4.67,
+        "msX": 3.73,
+        "ms2": 1.35,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-16T01:01:46.702Z"
+    },
+    {
+      "code": "4573720",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "21:45",
+      "league": "BEK",
+      "home": "Club Brugge",
+      "away": "Lokeren-Temse",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 8.15,
+        "ms2": 17.5,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-16T01:01:46.702Z"
+    },
+    {
+      "code": "4573724",
+      "week": 24141,
+      "date": "18.10.2026",
+      "time": "14:30",
+      "league": "BEK",
+      "home": "Mechelen",
+      "away": "Eupen",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.51,
+        "msX": 3.7,
+        "ms2": 3.47,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-16T01:01:46.703Z"
     }
   ]
 }
