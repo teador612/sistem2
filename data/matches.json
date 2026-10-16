@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T14:46:17.980Z",
+  "updatedAt": "2026-10-16T15:01:51.891Z",
   "matches": [
     {
       "code": "5847028",
@@ -802681,7 +802681,7 @@
       "home": "Banik Ostrava ",
       "away": "Slavia Praha Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -802732,7 +802732,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -813561,7 +813561,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "4",
+        "home": "5",
         "away": "1"
       },
       "halfTimeScore": {
@@ -813709,7 +813709,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -813750,14 +813750,14 @@
       "code": "4484886",
       "week": 24141,
       "date": "16.10.2026",
-      "time": "17:32",
+      "time": "17:30",
       "league": "LIT1",
       "home": "Be1 Nfa",
       "away": "Neptüna Klaiped",
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -813804,10 +813804,10 @@
       "home": "Pohronie",
       "away": "Malzenice",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -813853,10 +813853,10 @@
       "home": "Radnik Surduli",
       "away": "Radnicki Nis",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -813951,10 +813951,10 @@
       "home": "Adama City",
       "away": "Sheger Ketema",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -823212,7 +823212,7 @@
       "home": "Halaba Ketema",
       "away": "Bahardar",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -823263,7 +823263,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -823359,14 +823359,14 @@
       "home": "Doqarah",
       "away": "Al Jazeera",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.28,
@@ -823408,14 +823408,14 @@
       "home": "Sporting Delhi",
       "away": "Atk Mohun Bagan",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 6.36,
@@ -823457,10 +823457,10 @@
       "home": "Liptovsky Miku",
       "away": "Banik Lehota P.",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -823506,10 +823506,10 @@
       "home": "Sama Al Sarhan",
       "away": "Al Yarmouk",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -823555,10 +823555,10 @@
       "home": "Al Ahli",
       "away": "Hay Al-Amir Has",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -823653,10 +823653,10 @@
       "home": "Vlasim",
       "away": "Hanacka Slavia",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -823702,10 +823702,10 @@
       "home": "Otelul Galati",
       "away": "Csikszereda",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -833600,7 +833600,7 @@
       "home": "Fountain Gate",
       "away": "Pamba Jiji",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -833649,14 +833649,14 @@
       "home": "Bunyodkor",
       "away": "Sogdiyona Jizza",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.69,
@@ -835119,14 +835119,14 @@
       "home": "Police Fc",
       "away": "Gorilla",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.79,
@@ -838990,7 +838990,7 @@
       "home": "Al Urooba",
       "away": "Dubba Al Husun",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -839039,10 +839039,10 @@
       "home": "Gulf United",
       "away": "Emirates",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "5"
+        "home": "1",
+        "away": "7"
       },
       "halfTimeScore": {
         "home": "0",
@@ -839088,7 +839088,7 @@
       "home": "Fujairah",
       "away": "Palm City 365",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "4"
@@ -839186,14 +839186,14 @@
       "home": "Termez Surkhon",
       "away": "Xorazm Urganch",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.88,
@@ -839235,14 +839235,14 @@
       "home": "Kuruvchi Kokan",
       "away": "Neftchi Fargona",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 4.57,
@@ -841296,7 +841296,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "4"
+        "away": "5"
       },
       "halfTimeScore": {
         "home": "0",
@@ -842224,7 +842224,7 @@
       "home": "Grobnican Cavl",
       "away": "Uljanik",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
