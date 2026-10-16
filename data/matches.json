@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T18:31:32.052Z",
+  "updatedAt": "2026-10-16T18:46:14.943Z",
   "matches": [
     {
       "code": "5847028",
@@ -742168,7 +742168,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -789601,7 +789601,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -789650,7 +789650,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -789699,7 +789699,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -789747,7 +789747,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -789845,7 +789845,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -789944,7 +789944,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -789993,7 +789993,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -790139,8 +790139,8 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -790186,10 +790186,10 @@
       "home": "Verona",
       "away": "Catanzaro",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -790235,10 +790235,10 @@
       "home": "Pro Vercelli",
       "away": "Lecco",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -790431,10 +790431,10 @@
       "home": "Le Mans",
       "away": "Toulouse",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -803174,7 +803174,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -803222,7 +803222,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -803269,10 +803269,10 @@
       "home": "Rapid Wien",
       "away": "Hartberg",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -814245,10 +814245,10 @@
       "home": "Shahaniya",
       "away": "Al Arabi",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "5"
+        "away": "6"
       },
       "halfTimeScore": {
         "home": "0",
@@ -814294,14 +814294,14 @@
       "home": "Al Kahraba",
       "away": "Al Talaba",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.64,
@@ -814441,10 +814441,10 @@
       "home": "Bohemian",
       "away": "Waterford",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -824094,10 +824094,10 @@
       "home": "Kauno Zalgiris",
       "away": "Transinvest Vil",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -824537,7 +824537,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -824633,10 +824633,10 @@
       "home": "Westerlo",
       "away": "Patro Eisden",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -824731,10 +824731,10 @@
       "home": "Kortrijk U21",
       "away": "F. Borains U21",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -824780,10 +824780,10 @@
       "home": "Wacker Innsbru",
       "away": "Austria Salzbur",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -824829,10 +824829,10 @@
       "home": "Sporting Hasse",
       "away": "Cercle Brugge",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -824878,10 +824878,10 @@
       "home": "La Louviere U2",
       "away": "Westerlo U21",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -824927,10 +824927,10 @@
       "home": "Finn Harps",
       "away": "Bray Wanderers",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -839433,7 +839433,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -839482,7 +839482,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -839529,14 +839529,14 @@
       "home": "Nastved",
       "away": "B93 Kopenhag",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.43,
@@ -839580,7 +839580,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -841883,7 +841883,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -842861,7 +842861,7 @@
       "home": "Rödinghausen",
       "away": "Köln (Am)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -842959,7 +842959,7 @@
       "home": "Weiche Flensbu",
       "away": "Drochtersen Ass",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -844772,14 +844772,14 @@
       "home": "La Louvière (K",
       "away": "",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 4.66,
@@ -845950,7 +845950,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
