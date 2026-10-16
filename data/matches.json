@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T09:01:33.987Z",
+  "updatedAt": "2026-10-16T09:16:19.947Z",
   "matches": [
     {
       "code": "5847028",
@@ -802487,7 +802487,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -822967,10 +822967,10 @@
       "home": "Sydney",
       "away": "Western Sydney",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
