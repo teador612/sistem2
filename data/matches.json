@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T21:46:16.227Z",
+  "updatedAt": "2026-10-16T22:01:37.773Z",
   "matches": [
     {
       "code": "5847028",
@@ -828700,10 +828700,10 @@
       "home": "Cerro",
       "away": "Cerro Largo",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -843449,10 +843449,10 @@
       "home": "Sportivo Carap",
       "away": "Resistencia",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
