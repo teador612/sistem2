@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T01:31:30.315Z",
+  "updatedAt": "2026-10-16T02:16:11.338Z",
   "matches": [
     {
       "code": "5847028",
@@ -643130,17 +643130,17 @@
     },
     {
       "code": "4564384",
-      "week": 24140,
-      "date": "04.10.2026",
+      "week": 24141,
+      "date": "22.10.2026",
       "time": "00:00",
       "league": "NİK",
       "home": "Export Sebaco",
       "away": "Matagalpa",
       "mbs": 3,
-      "status": 9,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -772693,10 +772693,10 @@
       "home": "Deportivo Sapr",
       "away": "Sporting San Jo",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -779259,7 +779259,7 @@
       "home": "Estudiantes Lp",
       "away": "Flamengo",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -783375,14 +783375,14 @@
       "home": "Quindio",
       "away": "Real Cartagena",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.49,
@@ -784110,14 +784110,14 @@
       "home": "Mo Bejaia",
       "away": "Beni Oulbane",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.47,
@@ -784649,14 +784649,14 @@
       "home": "Suchitepequez",
       "away": "Deportivo San P",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.83,
@@ -788863,14 +788863,14 @@
       "home": "Real Esteli",
       "away": "Jalapa",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.12,
@@ -789257,7 +789257,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -789304,14 +789304,14 @@
       "home": "Firpo",
       "away": "Inca-Aruba",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.14,
