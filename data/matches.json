@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T05:31:41.108Z",
+  "updatedAt": "2026-10-16T05:46:18.827Z",
   "matches": [
     {
       "code": "5847028",
@@ -772693,7 +772693,7 @@
       "home": "Deportivo Sapr",
       "away": "Sporting San Jo",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "6",
         "away": "0"
@@ -844566,6 +844566,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-16T01:01:46.703Z"
+    },
+    {
+      "code": "4435454",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "18:00",
+      "league": "GUR",
+      "home": "Gagra",
+      "away": "Dinamo Batumi",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 4.52,
+        "msX": 3.7,
+        "ms2": 1.37,
+        "cs1X": 1.93,
+        "cs12": 1.06,
+        "csX2": 1,
+        "au25Alt": 1.79,
+        "au25Ust": 1.51,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.58,
+        "kgYok": 1.7,
+        "iy15Alt": 1.31,
+        "iy15Ust": 2.16,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 4.85,
+        "iyX": 2.13,
+        "iy2": 1.84
+      },
+      "openingRecordedAt": "2026-10-16T05:46:18.825Z"
     }
   ]
 }
