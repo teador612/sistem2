@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T12:46:20.291Z",
+  "updatedAt": "2026-10-16T13:01:46.675Z",
   "matches": [
     {
       "code": "5847028",
@@ -802632,14 +802632,14 @@
       "home": "Madura United",
       "away": "Bhayangkara Sur",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.43,
@@ -802681,10 +802681,10 @@
       "home": "Banik Ostrava ",
       "away": "Slavia Praha Ii",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -813314,14 +813314,14 @@
       "home": "Ayutthaya Unit",
       "away": "Lamphun Warrior",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.22,
@@ -813363,14 +813363,14 @@
       "home": "Ethiopia Elect",
       "away": "Negele Arsi Ket",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.45,
@@ -823016,9 +823016,9 @@
       "home": "Keshla",
       "away": "Safa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -823065,14 +823065,14 @@
       "home": "Malut United",
       "away": "Bali United",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.55,
@@ -823114,14 +823114,14 @@
       "home": "Persijap",
       "away": "Farmel",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.61,
@@ -833553,8 +833553,8 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -838990,10 +838990,10 @@
       "home": "Al Urooba",
       "away": "Dubba Al Husun",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -839039,10 +839039,10 @@
       "home": "Gulf United",
       "away": "Emirates",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -839088,10 +839088,10 @@
       "home": "Fujairah",
       "away": "Palm City 365",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -841293,10 +841293,10 @@
       "home": "Kelantan Red W",
       "away": "Imigresen",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
