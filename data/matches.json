@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T02:46:19.690Z",
+  "updatedAt": "2026-10-16T03:01:39.950Z",
   "matches": [
     {
       "code": "5847028",
@@ -772693,14 +772693,14 @@
       "home": "Deportivo Sapr",
       "away": "Sporting San Jo",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.63,
@@ -788863,7 +788863,7 @@
       "home": "Real Esteli",
       "away": "Jalapa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -789257,7 +789257,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
