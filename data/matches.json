@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T03:01:39.950Z",
+  "updatedAt": "2026-10-16T03:16:14.525Z",
   "matches": [
     {
       "code": "5847028",
@@ -772693,9 +772693,9 @@
       "home": "Deportivo Sapr",
       "away": "Sporting San Jo",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -783375,7 +783375,7 @@
       "home": "Quindio",
       "away": "Real Cartagena",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -784649,7 +784649,7 @@
       "home": "Suchitepequez",
       "away": "Deportivo San P",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -789304,7 +789304,7 @@
       "home": "Firpo",
       "away": "Inca-Aruba",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
