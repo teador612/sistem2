@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T17:31:31.484Z",
+  "updatedAt": "2026-10-16T17:46:16.473Z",
   "matches": [
     {
       "code": "5847028",
@@ -87382,7 +87382,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -742168,7 +742168,7 @@
       "mbs": 1,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -789451,7 +789451,7 @@
       "home": "E.Cottbus",
       "away": "Nürnberg",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -789500,7 +789500,7 @@
       "home": "Holstein Kiel",
       "away": "Hertha Berlin",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -802782,7 +802782,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -802830,7 +802830,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -802929,7 +802929,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -802975,7 +802975,7 @@
       "home": "Voitsberg",
       "away": "First Vienna",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -803271,8 +803271,8 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -814049,7 +814049,7 @@
       "home": "Banniyas",
       "away": "Al Wasl",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -814100,7 +814100,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -814245,14 +814245,14 @@
       "home": "Shahaniya",
       "away": "Al Arabi",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 3.26,
@@ -814294,10 +814294,10 @@
       "home": "Al Kahraba",
       "away": "Al Talaba",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -823802,7 +823802,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "4"
       },
       "halfTimeScore": {
@@ -823999,7 +823999,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -824094,14 +824094,14 @@
       "home": "Kauno Zalgiris",
       "away": "Transinvest Vil",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.82,
@@ -824143,7 +824143,7 @@
       "home": "Al Baqaa",
       "away": "Al Salt",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -824192,7 +824192,7 @@
       "home": "Dinamo Tirana",
       "away": "Teuta",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -824241,7 +824241,7 @@
       "home": "St Polten",
       "away": "Rapid Vienna (A",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -824290,7 +824290,7 @@
       "home": "Freiburg (K)",
       "away": "Rb Leipzig (K)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -824339,10 +824339,10 @@
       "home": "Avusturya Wien",
       "away": "Wspg Wels",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -824439,7 +824439,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -833750,7 +833750,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "1",
@@ -839483,7 +839483,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -842570,7 +842570,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": null,
@@ -842861,10 +842861,10 @@
       "home": "Rödinghausen",
       "away": "Köln (Am)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -842959,10 +842959,10 @@
       "home": "Weiche Flensbu",
       "away": "Drochtersen Ass",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -845950,7 +845950,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -846879,10 +846879,10 @@
       "home": "Diala",
       "away": "Naft Maysan",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
