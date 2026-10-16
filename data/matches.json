@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T20:31:32.034Z",
+  "updatedAt": "2026-10-16T20:46:22.960Z",
   "matches": [
     {
       "code": "5847028",
@@ -790382,7 +790382,7 @@
       "home": "Frosinone",
       "away": "Sassuolo",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "2"
@@ -790431,7 +790431,7 @@
       "home": "Le Mans",
       "away": "Toulouse",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "3"
@@ -790483,7 +790483,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -790531,7 +790531,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -790581,7 +790581,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -790630,7 +790630,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -814392,7 +814392,7 @@
       "home": "Larne Fc",
       "away": "Coleraine",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "3"
@@ -814441,7 +814441,7 @@
       "home": "Bohemian",
       "away": "Waterford",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -814490,7 +814490,7 @@
       "home": "Galway United",
       "away": "Shamrock Rovers",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -814539,7 +814539,7 @@
       "home": "Kerry",
       "away": "Cork City",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -814588,7 +814588,7 @@
       "home": "Drogheda",
       "away": "Derry City",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -814637,7 +814637,7 @@
       "home": "Longford",
       "away": "Athlone",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -814686,9 +814686,9 @@
       "home": "Treaty Unt.",
       "away": "Cobh Ramblers",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -814787,7 +814787,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -824927,7 +824927,7 @@
       "home": "Finn Harps",
       "away": "Bray Wanderers",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -824976,7 +824976,7 @@
       "home": "Wexford Youths",
       "away": "Ucd",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "5"
@@ -825025,10 +825025,10 @@
       "home": "Chankas Cyc",
       "away": "Adt",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -825076,7 +825076,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -833796,7 +833796,7 @@
       "home": "Ards Fc",
       "away": "Institute Fc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -833845,9 +833845,9 @@
       "home": "Glenavon",
       "away": "Hw Welders",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -839627,10 +839627,10 @@
       "home": "Moyola Park",
       "away": "Newington Yc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "2",
@@ -839678,7 +839678,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -839728,7 +839728,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
