@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-16T23:01:37.864Z",
+  "updatedAt": "2026-10-16T23:16:01.265Z",
   "matches": [
     {
       "code": "5847028",
@@ -790676,14 +790676,14 @@
       "home": "Defensa Justic",
       "away": "Instituto Cordo",
       "mbs": 2,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.36,
@@ -790774,10 +790774,10 @@
       "home": "Mirassol",
       "away": "Internacional",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -814833,14 +814833,14 @@
       "home": "Centauros",
       "away": "Atletico Fc",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.55,
@@ -828700,14 +828700,14 @@
       "home": "Cerro",
       "away": "Cerro Largo",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.09,
@@ -839286,8 +839286,8 @@
       "mbs": 3,
       "status": 4,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -839921,14 +839921,14 @@
       "home": "Atlanta United",
       "away": "Connecticut Uni",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.93,
@@ -843449,14 +843449,14 @@
       "home": "Sportivo Carap",
       "away": "Resistencia",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.97,
@@ -846881,8 +846881,8 @@
       "mbs": 3,
       "status": 4,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "1",
