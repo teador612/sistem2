@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-17T20:31:25.966Z",
+  "updatedAt": "2026-10-17T20:46:15.893Z",
   "matches": [
     {
       "code": "5847028",
@@ -795968,9 +795968,9 @@
       "home": "San Miguel",
       "away": "Ciudad De Bolív",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -796066,7 +796066,7 @@
       "home": "Lille",
       "away": "Brest",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -796115,7 +796115,7 @@
       "home": "Roma",
       "away": "Genoa",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -796164,7 +796164,7 @@
       "home": "Troyes",
       "away": "Lens",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "3"
@@ -796264,7 +796264,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -796409,7 +796409,7 @@
       "home": "Ceara",
       "away": "Juventude",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -796458,10 +796458,10 @@
       "home": "Rivadavia",
       "away": "Tigre",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -797438,10 +797438,10 @@
       "home": "Castellon Ii",
       "away": "Deportiva Miner",
       "mbs": 3,
-      "status": 0,
+      "status": 9,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -800231,10 +800231,10 @@
       "home": "Alcoyano",
       "away": "Elche Ii",
       "mbs": 3,
-      "status": 0,
+      "status": 9,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -818606,10 +818606,10 @@
       "home": "Sligo Rovers",
       "away": "Dundalk",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -832424,7 +832424,7 @@
       "home": "Philadelphia",
       "away": "Charlotte",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -832671,7 +832671,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -832718,10 +832718,10 @@
       "home": "Platense",
       "away": "Lanus",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -832767,10 +832767,10 @@
       "home": "Minnesota Utd",
       "away": "St. Louis City",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -840509,7 +840509,7 @@
       "home": "Tristan",
       "away": "Patronato",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -841783,7 +841783,7 @@
       "home": "Fc Rangers",
       "away": "Fc Ordino",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -844380,7 +844380,7 @@
       "home": "La Louvière",
       "away": "Rfc Liege",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "0"
@@ -844429,7 +844429,7 @@
       "home": "Excelsior Virt",
       "away": "Genk",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -844478,7 +844478,7 @@
       "home": "Club Brugge",
       "away": "Lokeren-Temse",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -845311,7 +845311,7 @@
       "home": "Zulte Waregem",
       "away": "Rfc Seraing",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "0"
@@ -856485,7 +856485,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -870879,6 +870879,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-17T19:46:13.261Z"
+    },
+    {
+      "code": "4555608",
+      "week": 24141,
+      "date": "18.10.2026",
+      "time": "08:00",
+      "league": "HK2",
+      "home": "Supreme Fc",
+      "away": "Tai Ching",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 14.8,
+        "msX": 7.59,
+        "ms2": 1,
+        "cs1X": 3.96,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.58,
+        "kgYok": 1.67,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-17T20:46:15.891Z"
     }
   ]
 }
