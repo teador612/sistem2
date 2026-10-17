@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-17T22:01:30.374Z",
+  "updatedAt": "2026-10-17T22:16:20.110Z",
   "matches": [
     {
       "code": "5847028",
@@ -796507,7 +796507,7 @@
       "home": "Botafogo",
       "away": "Chapecoense",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -818802,14 +818802,14 @@
       "home": "Universitario ",
       "away": "San Antonio Bul",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.44,
@@ -832669,7 +832669,7 @@
       "home": "Cavalry",
       "away": "Pacific Fc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "2"
@@ -832769,7 +832769,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -832816,7 +832816,7 @@
       "home": "Colon Santa Fe",
       "away": "Almirante",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -841195,7 +841195,7 @@
       "home": "Maringa",
       "away": "Ferroviaria",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -843204,10 +843204,10 @@
       "home": "Real Pilar",
       "away": "Ituzaingo",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -843351,10 +843351,10 @@
       "home": "Dep. Merlo",
       "away": "Talleres",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -843400,7 +843400,7 @@
       "home": "Cacahuatique",
       "away": "Alianza",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -843596,7 +843596,7 @@
       "home": "Platense",
       "away": "Depor Motagua",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -851191,10 +851191,10 @@
       "home": "Richmond Kicke",
       "away": "Corpus Christi",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -851240,10 +851240,10 @@
       "home": "Forward Madiso",
       "away": "Portland Hearts",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
