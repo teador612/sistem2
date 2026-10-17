@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-17T21:01:31.360Z",
+  "updatedAt": "2026-10-17T21:16:14.019Z",
   "matches": [
     {
       "code": "5847028",
@@ -796411,8 +796411,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -796507,10 +796507,10 @@
       "home": "Botafogo",
       "away": "Chapecoense",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -818753,7 +818753,7 @@
       "home": "Zamora",
       "away": "Academia Anzoat",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -818802,10 +818802,10 @@
       "home": "Universitario ",
       "away": "San Antonio Bul",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -832522,10 +832522,10 @@
       "home": "Chico",
       "away": "Atletico Nacion",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -832571,7 +832571,7 @@
       "home": "Juan Pablo Ii ",
       "away": "Sport Boys",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -832620,7 +832620,7 @@
       "home": "Deportivo La G",
       "away": "Trujillanos",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -832669,14 +832669,14 @@
       "home": "Cavalry",
       "away": "Pacific Fc",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1,
@@ -832816,10 +832816,10 @@
       "home": "Colon Santa Fe",
       "away": "Almirante",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -840413,7 +840413,7 @@
       "mbs": 3,
       "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -840460,7 +840460,7 @@
       "home": "Columbus Crew ",
       "away": "New England Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -841195,7 +841195,7 @@
       "home": "Maringa",
       "away": "Ferroviaria",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -843400,10 +843400,10 @@
       "home": "Cacahuatique",
       "away": "Alianza",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -843596,10 +843596,10 @@
       "home": "Platense",
       "away": "Depor Motagua",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -845360,7 +845360,7 @@
       "home": "Psg (K)",
       "away": "Lyon (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "4"
@@ -846830,7 +846830,7 @@
       "home": "Difaa",
       "away": "Moghreb Tetouan",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -851142,7 +851142,7 @@
       "home": "New York Cosmo",
       "away": "One Knoxville",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -854082,14 +854082,14 @@
       "home": "Ldu Portoviejo",
       "away": "Gualaceo",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.17,
@@ -856483,7 +856483,7 @@
       "home": "Academica",
       "away": "Amarante Fc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "2"
