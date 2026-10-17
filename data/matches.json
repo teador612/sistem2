@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-17T00:16:16.684Z",
+  "updatedAt": "2026-10-17T00:31:31.256Z",
   "matches": [
     {
       "code": "5847028",
@@ -790725,10 +790725,10 @@
       "home": "Ponte Preta",
       "away": "Atletico Goiani",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -790823,14 +790823,14 @@
       "home": "Sport Recife",
       "away": "Fortaleza Ce ",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.01,
@@ -790872,10 +790872,10 @@
       "home": "Boca Juniors",
       "away": "Talleres",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -825123,9 +825123,9 @@
       "home": "Supra Du Quebe",
       "away": "Inter Toronto",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
