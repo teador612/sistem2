@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-17T21:46:08.619Z",
+  "updatedAt": "2026-10-17T22:01:30.374Z",
   "matches": [
     {
       "code": "5847028",
@@ -796507,14 +796507,14 @@
       "home": "Botafogo",
       "away": "Chapecoense",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.22,
@@ -818753,9 +818753,9 @@
       "home": "Zamora",
       "away": "Academia Anzoat",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -818804,7 +818804,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -832522,10 +832522,10 @@
       "home": "Chico",
       "away": "Atletico Nacion",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "0",
@@ -832571,9 +832571,9 @@
       "home": "Juan Pablo Ii ",
       "away": "Sport Boys",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -832620,10 +832620,10 @@
       "home": "Deportivo La G",
       "away": "Trujillanos",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -832767,9 +832767,9 @@
       "home": "Minnesota Utd",
       "away": "St. Louis City",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -832816,14 +832816,14 @@
       "home": "Colon Santa Fe",
       "away": "Almirante",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.5,
@@ -841198,7 +841198,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -843400,14 +843400,14 @@
       "home": "Cacahuatique",
       "away": "Alianza",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.96,
@@ -843596,14 +843596,14 @@
       "home": "Platense",
       "away": "Depor Motagua",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.93,
@@ -846830,9 +846830,9 @@
       "home": "Difaa",
       "away": "Moghreb Tetouan",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
@@ -851142,10 +851142,10 @@
       "home": "New York Cosmo",
       "away": "One Knoxville",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
