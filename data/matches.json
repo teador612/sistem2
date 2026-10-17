@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-17T06:31:28.866Z",
+  "updatedAt": "2026-10-17T06:46:21.343Z",
   "matches": [
     {
       "code": "5847028",
@@ -163175,21 +163175,21 @@
     },
     {
       "code": "4499980",
-      "week": null,
-      "date": "31.07.2026",
-      "time": "21:15",
-      "league": "İSVCH",
-      "home": "KRİENS",
-      "away": "WİNTERTHUR",
-      "mbs": null,
-      "status": 4,
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "19:00",
+      "league": "T2L-B",
+      "home": "Elazığspor",
+      "away": "Arnavutköy Bele",
+      "mbs": 3,
+      "status": 0,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.01,
@@ -804056,7 +804056,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -804105,7 +804105,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -804349,7 +804349,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -804496,7 +804496,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -825419,7 +825419,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -825517,7 +825517,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -825567,7 +825567,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -845999,8 +845999,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -858825,6 +858825,202 @@
         "iy2": 2.63
       },
       "openingRecordedAt": "2026-10-17T06:31:28.866Z"
+    },
+    {
+      "code": "4499698",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "14:00",
+      "league": "T2L-K",
+      "home": "1461 Trabzon F",
+      "away": "İnegölspor",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.65,
+        "msX": 3.4,
+        "ms2": 3.49,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-17T06:46:21.341Z"
+    },
+    {
+      "code": "4429602",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "16:30",
+      "league": "NOR4",
+      "home": "Strindheim",
+      "away": "Orkla",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1,
+        "msX": 9.93,
+        "ms2": 16.25,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 4.55,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.52,
+        "kgYok": 1.74,
+        "iy15Alt": 2.12,
+        "iy15Ust": 1.31,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.15,
+        "iyX": 3.74,
+        "iy2": 11
+      },
+      "openingRecordedAt": "2026-10-17T06:46:21.342Z"
+    },
+    {
+      "code": "4499976",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "19:00",
+      "league": "T2L-B",
+      "home": "Şanliurfaspor",
+      "away": "Hatayspor",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.1,
+        "msX": 5.44,
+        "ms2": 10.4,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-17T06:46:21.342Z"
+    },
+    {
+      "code": "4499697",
+      "week": 24141,
+      "date": "17.10.2026",
+      "time": "19:00",
+      "league": "T2L-K",
+      "home": "Fethiyespor",
+      "away": "Ankaragücü",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.45,
+        "msX": 3.17,
+        "ms2": 1.72,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-17T06:46:21.342Z"
     }
   ]
 }
