@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-17T22:16:20.110Z",
+  "updatedAt": "2026-10-17T22:31:26.049Z",
   "matches": [
     {
       "code": "5847028",
@@ -796458,10 +796458,10 @@
       "home": "Rivadavia",
       "away": "Tigre",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -796556,14 +796556,14 @@
       "home": "America Mineir",
       "away": "Operario",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.77,
@@ -796605,14 +796605,14 @@
       "home": "Atletico Mg",
       "away": "Coritiba",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.36,
@@ -818802,7 +818802,7 @@
       "home": "Universitario ",
       "away": "San Antonio Bul",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -818851,14 +818851,14 @@
       "home": "Aucas",
       "away": "Ldu Quito",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.01,
@@ -832718,7 +832718,7 @@
       "home": "Platense",
       "away": "Lanus",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -832769,7 +832769,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -832865,10 +832865,10 @@
       "home": "Carabobo",
       "away": "Depor Tachira",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -843353,7 +843353,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -843599,7 +843599,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -851194,7 +851194,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -854082,7 +854082,7 @@
       "home": "Ldu Portoviejo",
       "away": "Gualaceo",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
