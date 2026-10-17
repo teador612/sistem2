@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-17T01:01:40.619Z",
+  "updatedAt": "2026-10-17T01:16:03.251Z",
   "matches": [
     {
       "code": "5847028",
@@ -790774,7 +790774,7 @@
       "home": "Mirassol",
       "away": "Internacional",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -790826,7 +790826,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -790921,10 +790921,10 @@
       "home": "Gimnasia Y Tir",
       "away": "Atlanta",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -803566,7 +803566,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -803612,10 +803612,10 @@
       "home": "Necaxa",
       "away": "Atlas",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -825123,7 +825123,7 @@
       "home": "Supra Du Quebe",
       "away": "Inter Toronto",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "0"
@@ -825172,7 +825172,7 @@
       "home": "Rafaela",
       "away": "Quilmes",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -843008,10 +843008,10 @@
       "home": "Inter Fa",
       "away": "Municipal Limen",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -850946,10 +850946,10 @@
       "home": "Cartagena U19",
       "away": "Villarreal U19",
       "mbs": 3,
-      "status": 0,
+      "status": 9,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
