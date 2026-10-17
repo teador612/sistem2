@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-17T22:31:26.049Z",
+  "updatedAt": "2026-10-17T22:46:18.348Z",
   "matches": [
     {
       "code": "5847028",
@@ -796556,7 +796556,7 @@
       "home": "America Mineir",
       "away": "Operario",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -796605,7 +796605,7 @@
       "home": "Atletico Mg",
       "away": "Coritiba",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -796654,10 +796654,10 @@
       "home": "Atletico Pr",
       "away": "Palmeiras",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -818851,7 +818851,7 @@
       "home": "Aucas",
       "away": "Ldu Quito",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -832767,7 +832767,7 @@
       "home": "Minnesota Utd",
       "away": "St. Louis City",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "2"
@@ -832818,7 +832818,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -843599,7 +843599,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
