@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-17T08:16:02.711Z",
+  "updatedAt": "2026-10-17T08:31:26.741Z",
   "matches": [
     {
       "code": "5847028",
@@ -804594,7 +804594,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -814882,14 +814882,14 @@
       "home": "Gimpo Citizen",
       "away": "Paju Citizen",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.54,
@@ -814931,14 +814931,14 @@
       "home": "Gyeongnam",
       "away": "Asan Mugunghwa",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.62,
@@ -814980,14 +814980,14 @@
       "home": "Ulsan",
       "away": "Bucheon",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.5,
@@ -825613,14 +825613,14 @@
       "home": "Yongin",
       "away": "Ansan Greeners",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.55,
@@ -825714,7 +825714,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -825812,7 +825812,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -825907,10 +825907,10 @@
       "home": "Garudayaksa",
       "away": "Arema",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -847322,7 +847322,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -847369,14 +847369,14 @@
       "home": "Shanghai Segen",
       "away": "Guangdong Mingt",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.56,
@@ -847420,7 +847420,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
