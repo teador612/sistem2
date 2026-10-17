@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-17T03:16:42.300Z",
+  "updatedAt": "2026-10-17T03:31:26.755Z",
   "matches": [
     {
       "code": "5847028",
@@ -790872,7 +790872,7 @@
       "home": "Boca Juniors",
       "away": "Talleres",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -790921,9 +790921,9 @@
       "home": "Gimnasia Y Tir",
       "away": "Atlanta",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -803563,10 +803563,10 @@
       "home": "Correcaminos U",
       "away": "Dorados",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -803612,10 +803612,10 @@
       "home": "Necaxa",
       "away": "Atlas",
       "mbs": 2,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -803661,10 +803661,10 @@
       "home": "Ca La Paz",
       "away": "Tlaxcala",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -803710,10 +803710,10 @@
       "home": "Atlante",
       "away": "Pumas Unam",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -825221,14 +825221,14 @@
       "home": "Vancouver Fc",
       "away": "Hfx Wanderers",
       "mbs": 3,
-      "status": 0,
+      "status": 3,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.91,
@@ -825270,10 +825270,10 @@
       "home": "Club Tijuana",
       "away": "Puebla",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -840019,14 +840019,14 @@
       "home": "Portland Timbe",
       "away": "St. Louis City ",
       "mbs": 3,
-      "status": 0,
+      "status": 3,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.35,
@@ -840068,14 +840068,14 @@
       "home": "Ventura County",
       "away": "Minnesota Unite",
       "mbs": 3,
-      "status": 0,
+      "status": 3,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.07,
@@ -843008,10 +843008,10 @@
       "home": "Inter Fa",
       "away": "Municipal Limen",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
