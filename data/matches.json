@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T03:46:13.250Z",
+  "updatedAt": "2026-10-18T04:01:23.717Z",
   "matches": [
     {
       "code": "5847028",
@@ -809541,7 +809541,7 @@
       "home": "Portland",
       "away": "Colorado",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -809590,7 +809590,7 @@
       "home": "San Jose",
       "away": "Nashville Sc",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -809639,14 +809639,14 @@
       "home": "Durango",
       "away": "Cd Tapatio",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.5,
@@ -833257,7 +833257,7 @@
       "home": "Wellington Pho",
       "away": "Melbourne Victo",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -833306,7 +833306,7 @@
       "home": "Los Angeles",
       "away": "San Diego",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "2"
@@ -833358,7 +833358,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "2",
@@ -833406,7 +833406,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -861775,10 +861775,10 @@
       "home": "Tiamo Hirakata",
       "away": "Grulla Morioka",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -861824,10 +861824,10 @@
       "home": "Verspah Oita",
       "away": "Criacao Shinjuk",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -865646,7 +865646,7 @@
       "home": "Auckland Unite",
       "away": "Ferrymead Bays",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
