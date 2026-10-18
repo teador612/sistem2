@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T22:01:45.835Z",
+  "updatedAt": "2026-10-18T22:31:30.964Z",
   "matches": [
     {
       "code": "5847028",
@@ -801260,7 +801260,7 @@
       "home": "Estudiantes Lp",
       "away": "San Lorenzo",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -801309,9 +801309,9 @@
       "home": "Vila Nova",
       "away": "Novorizontino",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -801358,14 +801358,14 @@
       "home": "Bahia",
       "away": "Flamengo",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.98,
@@ -821546,10 +821546,10 @@
       "home": "Alianza Atleti",
       "away": "Universitario",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "0",
@@ -821595,7 +821595,7 @@
       "home": "Birmingham Leg",
       "away": "Loudoun United",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -821644,14 +821644,14 @@
       "home": "Cincinnati",
       "away": "Columbus",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.9,
@@ -821693,14 +821693,14 @@
       "home": "The Strongest",
       "away": "Always Ready",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.79,
@@ -821742,14 +821742,14 @@
       "home": "Barcelona Gua",
       "away": "Univ Catolica (",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.98,
@@ -831052,14 +831052,14 @@
       "home": "Liverpool Mont",
       "away": "Penarol",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.98,
@@ -838010,10 +838010,10 @@
       "home": "Rio Cuarto",
       "away": "Aldosivi",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -838059,9 +838059,9 @@
       "home": "Bucaramanga",
       "away": "America De Cali",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -838108,7 +838108,7 @@
       "home": "San Martin Sj",
       "away": "Atl Temperley",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -838157,9 +838157,9 @@
       "home": "Godoy Cruz",
       "away": "Caseros",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "3",
+        "home": "5",
         "away": "2"
       },
       "halfTimeScore": {
@@ -838206,14 +838206,14 @@
       "home": "San Martin Tuc",
       "away": "Midland",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.92,
@@ -843743,7 +843743,7 @@
       "home": "Balboa",
       "away": "Aguila",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -844135,7 +844135,7 @@
       "home": "Genesis Pn",
       "away": "Estrella Roja",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -865107,7 +865107,7 @@
       "home": "Mixco",
       "away": "Coban Imperial",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -871330,7 +871330,7 @@
       "home": "Envigado",
       "away": "Barranguilla",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -875642,10 +875642,10 @@
       "home": "Chattanooga",
       "away": "New York City I",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
