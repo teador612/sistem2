@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T19:31:32.710Z",
+  "updatedAt": "2026-10-18T22:01:45.835Z",
   "matches": [
     {
       "code": "5847028",
@@ -742754,14 +742754,14 @@
       "home": "Juventus",
       "away": "Lazio",
       "mbs": 1,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.48,
@@ -742803,14 +742803,14 @@
       "home": "Real Madrid",
       "away": "Sevilla",
       "mbs": 1,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "4",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.11,
@@ -800623,7 +800623,7 @@
       "home": "Racing Club",
       "away": "Independiente",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -800672,7 +800672,7 @@
       "home": "Baltika Kalini",
       "away": "Rostov",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -800721,9 +800721,9 @@
       "home": "Nijmegen",
       "away": "Fortuna Sittard",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -800770,7 +800770,7 @@
       "home": "Twente",
       "away": "Utrecht",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -800819,10 +800819,10 @@
       "home": "Ud Logrones",
       "away": "Cultural Leones",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -800868,10 +800868,10 @@
       "home": "Nueva Chicago",
       "away": "Gimnasia Jujuy",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -800917,14 +800917,14 @@
       "home": "Lyon",
       "away": "Nice",
       "mbs": 1,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.5,
@@ -800966,14 +800966,14 @@
       "home": "Regatas",
       "away": "Botafogo Ribeir",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.42,
@@ -801015,14 +801015,14 @@
       "home": "Ferro Carril O",
       "away": "R Cordoba",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.31,
@@ -801064,14 +801064,14 @@
       "home": "Fluminense",
       "away": "Santos",
       "mbs": 1,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.86,
@@ -801113,14 +801113,14 @@
       "home": "Gremio",
       "away": "Cruzeiro",
       "mbs": 1,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": "2",
+        "away": "4"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.7,
@@ -801162,14 +801162,14 @@
       "home": "Burgos",
       "away": "Sabadell",
       "mbs": 1,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.53,
@@ -801211,14 +801211,14 @@
       "home": "Club Atletico ",
       "away": "Almagro",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3,
@@ -801260,14 +801260,14 @@
       "home": "Estudiantes Lp",
       "away": "San Lorenzo",
       "mbs": 2,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.95,
@@ -801309,14 +801309,14 @@
       "home": "Vila Nova",
       "away": "Novorizontino",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.37,
@@ -801358,10 +801358,10 @@
       "home": "Bahia",
       "away": "Flamengo",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -812873,10 +812873,10 @@
       "home": "Leones Negros",
       "away": "Alebrijes",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -812922,9 +812922,9 @@
       "home": "Universitatea ",
       "away": "Ssc Farul",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -812971,10 +812971,10 @@
       "home": "Lechia Gdansk",
       "away": "Arka Gdynia",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -821350,14 +821350,14 @@
       "home": "Nacional Potos",
       "away": "Bolivar",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.78,
@@ -821448,14 +821448,14 @@
       "home": "Rayo Zuliano",
       "away": "Caracas Fc",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.27,
@@ -821497,14 +821497,14 @@
       "home": "Ucv",
       "away": "Portuguesa",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.72,
@@ -821546,14 +821546,14 @@
       "home": "Alianza Atleti",
       "away": "Universitario",
       "mbs": 3,
-      "status": 0,
+      "status": 3,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 2.6,
@@ -821595,14 +821595,14 @@
       "home": "Birmingham Leg",
       "away": "Loudoun United",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.77,
@@ -821644,10 +821644,10 @@
       "home": "Cincinnati",
       "away": "Columbus",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -821693,10 +821693,10 @@
       "home": "The Strongest",
       "away": "Always Ready",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -821742,10 +821742,10 @@
       "home": "Barcelona Gua",
       "away": "Univ Catolica (",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -821791,10 +821791,10 @@
       "home": "Perez Zeledon",
       "away": "Herediano",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -831003,7 +831003,7 @@
       "home": "Al Shorta",
       "away": "Al Karkh",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -831052,10 +831052,10 @@
       "home": "Liverpool Mont",
       "away": "Penarol",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -837275,7 +837275,7 @@
       "home": "Sandecja Nowy ",
       "away": "Zawisza Bydgosz",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "3"
@@ -837324,9 +837324,9 @@
       "home": "Paok",
       "away": "Iraklis 1908",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -837373,7 +837373,7 @@
       "home": "Danubio",
       "away": "Central Espanol",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -837422,10 +837422,10 @@
       "home": "Celik",
       "away": "Zrinjski",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -837471,7 +837471,7 @@
       "home": "Pumas Unam (K)",
       "away": "Atlas (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -837520,10 +837520,10 @@
       "home": "Moron",
       "away": "Ca Mitre",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -837569,10 +837569,10 @@
       "home": "Fc Cajamarca",
       "away": "Deportivo Moque",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -837618,10 +837618,10 @@
       "home": "Los Andes",
       "away": "All Boys",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -837667,14 +837667,14 @@
       "home": "Rionegro Aguil",
       "away": "Deportes Tolima",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.45,
@@ -837716,14 +837716,14 @@
       "home": "Avai",
       "away": "Athletic Club",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.89,
@@ -837765,14 +837765,14 @@
       "home": "Sao Bernardo",
       "away": "Criciuma",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.56,
@@ -837814,14 +837814,14 @@
       "home": "Leones Del Nor",
       "away": "Emelec",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.96,
@@ -837863,14 +837863,14 @@
       "home": "Estudiantes Fc",
       "away": "Metropolitanos ",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.88,
@@ -837912,14 +837912,14 @@
       "home": "Academia Puert",
       "away": "Monagas",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.37,
@@ -837961,14 +837961,14 @@
       "home": "Chaco For Ever",
       "away": "Central Norte",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.58,
@@ -838010,14 +838010,14 @@
       "home": "Rio Cuarto",
       "away": "Aldosivi",
       "mbs": 2,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.43,
@@ -838059,14 +838059,14 @@
       "home": "Bucaramanga",
       "away": "America De Cali",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.33,
@@ -838108,14 +838108,14 @@
       "home": "San Martin Sj",
       "away": "Atl Temperley",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.78,
@@ -838157,14 +838157,14 @@
       "home": "Godoy Cruz",
       "away": "Caseros",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.59,
@@ -838206,10 +838206,10 @@
       "home": "San Martin Tuc",
       "away": "Midland",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -842322,10 +842322,10 @@
       "home": "Al Fateh",
       "away": "Al Khaleej",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -843743,14 +843743,14 @@
       "home": "Balboa",
       "away": "Aguila",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.35,
@@ -844135,14 +844135,14 @@
       "home": "Genesis Pn",
       "away": "Estrella Roja",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.64,
@@ -851681,7 +851681,7 @@
       "home": "Widad Temara",
       "away": "Kawkab Marrakec",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -851730,14 +851730,14 @@
       "home": "Wydad Casablan",
       "away": "Amal Tiznit",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.28,
@@ -858639,10 +858639,10 @@
       "home": "Inter Escaldes",
       "away": "Descaldes",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": "4",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -858688,10 +858688,10 @@
       "home": "Maghreb Fes",
       "away": "Asec",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -865107,14 +865107,14 @@
       "home": "Mixco",
       "away": "Coban Imperial",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.6,
@@ -865548,7 +865548,7 @@
       "home": "Paredes",
       "away": "Famalicao",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -865597,14 +865597,14 @@
       "home": "Cf Os Belenens",
       "away": "Arouca",
       "mbs": 3,
-      "status": 1,
+      "status": 6,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": "3",
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 6.59,
@@ -871330,14 +871330,14 @@
       "home": "Envigado",
       "away": "Barranguilla",
       "mbs": 3,
-      "status": 0,
+      "status": 3,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.44,
@@ -873584,14 +873584,14 @@
       "home": "Real Murcia U1",
       "away": "Mallorca U19",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.96,
@@ -875348,14 +875348,14 @@
       "home": "Teungueth",
       "away": "Colombe",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.92,
@@ -875446,10 +875446,10 @@
       "home": "Tru-Juice",
       "away": "Humble Lions",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -875495,14 +875495,14 @@
       "home": "Chapelton",
       "away": "Treasure Beach",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.96,
@@ -875544,14 +875544,14 @@
       "home": "Tivoli Gardens",
       "away": "Dunbeholden",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.51,
@@ -875593,14 +875593,14 @@
       "home": "Montego Bay Un",
       "away": "Arnett Gardens",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.53,
@@ -875642,14 +875642,14 @@
       "home": "Chattanooga",
       "away": "New York City I",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.44,
@@ -879660,14 +879660,14 @@
       "home": "Asswehly",
       "away": "Es Tunis",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 5.79,
