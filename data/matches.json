@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T04:16:29.515Z",
+  "updatedAt": "2026-10-18T04:31:26.238Z",
   "matches": [
     {
       "code": "5847028",
@@ -809690,7 +809690,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -833358,7 +833358,7 @@
       "status": 3,
       "score": {
         "home": "3",
-        "away": "4"
+        "away": "5"
       },
       "halfTimeScore": {
         "home": "2",
@@ -833404,9 +833404,9 @@
       "home": "Cruz Azul",
       "away": "Fc Juarez",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -861778,7 +861778,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -861876,7 +861876,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -865648,7 +865648,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
