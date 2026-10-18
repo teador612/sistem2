@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T04:01:23.717Z",
+  "updatedAt": "2026-10-18T04:16:29.515Z",
   "matches": [
     {
       "code": "5847028",
@@ -809443,7 +809443,7 @@
       "home": "Monterey Bay",
       "away": "Colorado Spring",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -809492,7 +809492,7 @@
       "home": "Orange County ",
       "away": "Phoenix Rising",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "3"
@@ -809592,7 +809592,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -809639,7 +809639,7 @@
       "home": "Durango",
       "away": "Cd Tapatio",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -809688,10 +809688,10 @@
       "home": "Iwaki",
       "away": "Kofu",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -819098,7 +819098,7 @@
       "mbs": 1,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -833208,7 +833208,7 @@
       "home": "Inter San Carl",
       "away": "Alajuelense",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "3"
@@ -833357,8 +833357,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
-        "away": "3"
+        "home": "3",
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "2",
@@ -833404,14 +833404,14 @@
       "home": "Cruz Azul",
       "away": "Fc Juarez",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.17,
@@ -861778,7 +861778,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -861873,10 +861873,10 @@
       "home": "Jef United (K)",
       "away": "Urawa Red (K)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -861922,10 +861922,10 @@
       "home": "Omiya (K)",
       "away": "Elfen Saitama (",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
