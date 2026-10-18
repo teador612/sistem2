@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T05:01:15.671Z",
+  "updatedAt": "2026-10-18T05:16:14.472Z",
   "matches": [
     {
       "code": "5847028",
@@ -796850,10 +796850,10 @@
       "home": "Ska-Khabarovsk",
       "away": "Volga Ulyanovsk",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -809639,7 +809639,7 @@
       "home": "Durango",
       "away": "Cd Tapatio",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "5",
         "away": "0"
@@ -809688,7 +809688,7 @@
       "home": "Iwaki",
       "away": "Kofu",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "3",
         "away": "0"
@@ -809786,10 +809786,10 @@
       "home": "Fagiano Okayam",
       "away": "Vissel Kobe",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -819295,7 +819295,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -833404,7 +833404,7 @@
       "home": "Cruz Azul",
       "away": "Fc Juarez",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "5",
         "away": "0"
@@ -841685,14 +841685,14 @@
       "home": "Us Chaouia",
       "away": "Teleghma",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.16,
@@ -842077,14 +842077,14 @@
       "home": "Mostaganem",
       "away": "Wa Tlemcen",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.37,
@@ -861040,10 +861040,10 @@
       "home": "Renofa Yamaguc",
       "away": "Kochi United",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -861089,10 +861089,10 @@
       "home": "Kamatamare San",
       "away": "Roasso Kumamoto",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -861775,7 +861775,7 @@
       "home": "Tiamo Hirakata",
       "away": "Grulla Morioka",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -861824,7 +861824,7 @@
       "home": "Verspah Oita",
       "away": "Criacao Shinjuk",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -861873,7 +861873,7 @@
       "home": "Jef United (K)",
       "away": "Urawa Red (K)",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "1"
@@ -861922,10 +861922,10 @@
       "home": "Omiya (K)",
       "away": "Elfen Saitama (",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -861971,10 +861971,10 @@
       "home": "Mio Biwako Shi",
       "away": "Sagamihara",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -862020,10 +862020,10 @@
       "home": "Mynavi Sendai ",
       "away": "Inac Kobe Leone",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -862118,10 +862118,10 @@
       "home": "Cerezo Osaka (",
       "away": "Nojima Stella (",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -862167,10 +862167,10 @@
       "home": "Sanfrecce Hiro",
       "away": "Ntv Beleza (K)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -865249,7 +865249,7 @@
       "code": "4566871",
       "week": 24141,
       "date": "18.10.2026",
-      "time": "04:00",
+      "time": "06:00",
       "league": "YZLBÖL",
       "home": "Birkenhead Uni",
       "away": "Napier",
@@ -865303,14 +865303,14 @@
       "home": "Cashmere Techn",
       "away": "Auckland Ii",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.23,
@@ -870889,10 +870889,10 @@
       "home": "Supreme Fc",
       "away": "Tai Ching",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
