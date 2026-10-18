@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T06:31:37.807Z",
+  "updatedAt": "2026-10-18T06:46:05.844Z",
   "matches": [
     {
       "code": "5847028",
@@ -809737,7 +809737,7 @@
       "home": "Sydney United",
       "away": "Canberra",
       "mbs": 2,
-      "status": 8,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -809789,7 +809789,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "3"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -819147,7 +819147,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "3",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -819196,8 +819196,8 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "4",
-        "away": "2"
+        "home": "3",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -819246,7 +819246,7 @@
       "status": 3,
       "score": {
         "home": "3",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "3",
@@ -833453,14 +833453,14 @@
       "home": "Sydney (K)",
       "away": "Adelaide United",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.52,
@@ -858149,14 +858149,14 @@
       "home": "Wse",
       "away": "Citizen",
       "mbs": 3,
-      "status": 2,
+      "status": 1,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.15,
@@ -859325,14 +859325,14 @@
       "home": "South China",
       "away": "Lucky Mile",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "3",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": "3",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1,
@@ -861092,7 +861092,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -861141,7 +861141,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -862169,7 +862169,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -870892,7 +870892,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "6"
+        "away": "5"
       },
       "halfTimeScore": {
         "home": "0",
