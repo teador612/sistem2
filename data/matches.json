@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T18:31:21.401Z",
+  "updatedAt": "2026-10-18T18:46:19.203Z",
   "matches": [
     {
       "code": "5847028",
@@ -742754,10 +742754,10 @@
       "home": "Juventus",
       "away": "Lazio",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -800525,7 +800525,7 @@
       "home": "Sv Meppen",
       "away": "Havelse",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -800574,7 +800574,7 @@
       "home": "Sampdoria",
       "away": "Arezzo",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -800623,14 +800623,14 @@
       "home": "Racing Club",
       "away": "Independiente",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.91,
@@ -800819,10 +800819,10 @@
       "home": "Ud Logrones",
       "away": "Cultural Leones",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -800868,10 +800868,10 @@
       "home": "Nueva Chicago",
       "away": "Gimnasia Jujuy",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -800917,10 +800917,10 @@
       "home": "Lyon",
       "away": "Nice",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -812826,8 +812826,8 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -812876,7 +812876,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -836344,14 +836344,14 @@
       "home": "Arnedo",
       "away": "Tudelano",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.89,
@@ -837079,14 +837079,14 @@
       "home": "Erbil Sc",
       "away": "Al Mosul",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.44,
@@ -837275,7 +837275,7 @@
       "home": "Sandecja Nowy ",
       "away": "Zawisza Bydgosz",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -837618,10 +837618,10 @@
       "home": "Los Andes",
       "away": "All Boys",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -842324,7 +842324,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -858642,7 +858642,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -863392,7 +863392,7 @@
       "home": "Js Kabylie",
       "away": "Biskra",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "1"
@@ -863441,7 +863441,7 @@
       "home": "Temouchent",
       "away": "Aso Chlef",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -863492,7 +863492,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -865548,10 +865548,10 @@
       "home": "Paredes",
       "away": "Famalicao",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -875201,9 +875201,9 @@
       "home": "Vilassar De Ma",
       "away": "Martinenc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -875299,7 +875299,7 @@
       "home": "Al Rayyan",
       "away": "Gharrafa",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -875397,9 +875397,9 @@
       "home": "Aurora",
       "away": "Deportivo San P",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
