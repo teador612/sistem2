@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T00:16:05.778Z",
+  "updatedAt": "2026-10-18T00:31:36.491Z",
   "matches": [
     {
       "code": "5847028",
@@ -796654,7 +796654,7 @@
       "home": "Atletico Pr",
       "away": "Palmeiras",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -808514,7 +808514,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -808563,7 +808563,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -808659,7 +808659,7 @@
       "home": "Guadalajara",
       "away": "Tigres Uanl",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -808708,9 +808708,9 @@
       "home": "Wellington Pho",
       "away": "Melbourne City ",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -808757,14 +808757,14 @@
       "home": "Atlanta Utd",
       "away": "Inter Miami",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.96,
@@ -808806,14 +808806,14 @@
       "home": "Rhode Island",
       "away": "Pittsburgh Rive",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.58,
@@ -808855,14 +808855,14 @@
       "home": "New England",
       "away": "Chicago",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.15,
@@ -808904,14 +808904,14 @@
       "home": "New York",
       "away": "Toronto",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.84,
@@ -808956,7 +808956,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -809002,14 +809002,14 @@
       "home": "Tampa Bay Rowd",
       "away": "Detroit City",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.62,
@@ -809051,14 +809051,14 @@
       "home": "Orlando City",
       "away": "Dc United",
       "mbs": 1,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.67,
@@ -809103,7 +809103,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -818902,7 +818902,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -818949,14 +818949,14 @@
       "home": "Blooming",
       "away": "Independiente P",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.13,
@@ -832865,7 +832865,7 @@
       "home": "Carabobo",
       "away": "Depor Tachira",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -832916,8 +832916,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -841491,7 +841491,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -844037,7 +844037,7 @@
       "home": "Juticalpa",
       "away": "Choloma",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -851387,14 +851387,14 @@
       "home": "Fort Wayne",
       "away": "Sarasota Paradi",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 1.66,
@@ -856731,7 +856731,7 @@
       "status": 3,
       "score": {
         "home": "3",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
