@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T04:31:26.238Z",
+  "updatedAt": "2026-10-18T04:46:15.366Z",
   "matches": [
     {
       "code": "5847028",
@@ -809541,7 +809541,7 @@
       "home": "Portland",
       "away": "Colorado",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -809590,7 +809590,7 @@
       "home": "San Jose",
       "away": "Nashville Sc",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -809641,7 +809641,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -819096,7 +819096,7 @@
       "home": "Seattle",
       "away": "Montreal",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -833306,7 +833306,7 @@
       "home": "Los Angeles",
       "away": "San Diego",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "2"
@@ -833355,7 +833355,7 @@
       "home": "Las Vegas Ligh",
       "away": "Lexington",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "5"
@@ -861777,7 +861777,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -861875,7 +861875,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -865648,7 +865648,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
