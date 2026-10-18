@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T07:16:19.355Z",
+  "updatedAt": "2026-10-18T07:31:19.512Z",
   "matches": [
     {
       "code": "5847028",
@@ -809837,7 +809837,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -819294,7 +819294,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -819341,10 +819341,10 @@
       "home": "Fc Seoul",
       "away": "Gimcheon Sangmu",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -819390,10 +819390,10 @@
       "home": "Pohang Steeler",
       "away": "Anyang",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -833453,10 +833453,10 @@
       "home": "Sydney (K)",
       "away": "Adelaide United",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -833894,10 +833894,10 @@
       "home": "Gangwon",
       "away": "Incheon Utd",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -833943,10 +833943,10 @@
       "home": "Busan Ipark",
       "away": "Jeonnam Dragons",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -858149,7 +858149,7 @@
       "home": "Wse",
       "away": "Citizen",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -859325,7 +859325,7 @@
       "home": "South China",
       "away": "Lucky Mile",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "1"
@@ -866038,10 +866038,10 @@
       "home": "Sham Shui Po",
       "away": "Yuen Long",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -876122,6 +876122,202 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-18T07:16:19.355Z"
+    },
+    {
+      "code": "4575150",
+      "week": 24141,
+      "date": "18.10.2026",
+      "time": "10:00",
+      "league": "ÇİNKSL",
+      "home": "Shaanxi Chang ",
+      "away": "Guangdong (K)",
+      "mbs": 3,
+      "status": 1,
+      "score": {
+        "home": "0",
+        "away": "0"
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.19,
+        "msX": 2.62,
+        "ms2": 2.54,
+        "cs1X": 1.19,
+        "cs12": 1.18,
+        "csX2": 1.28,
+        "au25Alt": 1.34,
+        "au25Ust": 2.07,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.75,
+        "kgYok": 1.51,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-18T07:31:19.510Z"
+    },
+    {
+      "code": "4574733",
+      "week": 24141,
+      "date": "19.10.2026",
+      "time": "17:00",
+      "league": "CZYR2",
+      "home": "Beni Oulbane",
+      "away": "Mo Constantine",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.54,
+        "msX": 2.66,
+        "ms2": 4.71,
+        "cs1X": 1,
+        "cs12": 1.16,
+        "csX2": 1.64,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 2.1,
+        "kgYok": 1.32,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.06,
+        "au15Ust": 1.34,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-18T07:31:19.511Z"
+    },
+    {
+      "code": "4574732",
+      "week": 24141,
+      "date": "19.10.2026",
+      "time": "17:00",
+      "league": "CZYR2",
+      "home": "Msp Batna",
+      "away": "Mo Bejaia",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.54,
+        "msX": 2.72,
+        "ms2": 4.67,
+        "cs1X": 1,
+        "cs12": 1.15,
+        "csX2": 1.65,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 2.12,
+        "kgYok": 1.31,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.06,
+        "au15Ust": 1.34,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-18T07:31:19.511Z"
+    },
+    {
+      "code": "4574741",
+      "week": 24141,
+      "date": "19.10.2026",
+      "time": "17:00",
+      "league": "CZYR2",
+      "home": "Gc Mascara",
+      "away": "Usm El Harrach",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.44,
+        "msX": 2.49,
+        "ms2": 2.37,
+        "cs1X": 1.23,
+        "cs12": 1.21,
+        "csX2": 1.21,
+        "au25Alt": 1.3,
+        "au25Ust": 2.15,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.78,
+        "kgYok": 1.49,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-18T07:31:19.511Z"
     }
   ]
 }
