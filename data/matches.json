@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T01:46:16.389Z",
+  "updatedAt": "2026-10-18T02:01:41.373Z",
   "matches": [
     {
       "code": "5847028",
@@ -796801,7 +796801,7 @@
       "home": "Sao Paulo",
       "away": "Vasco Da Gama",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -809100,10 +809100,10 @@
       "home": "Tulsa Roughnec",
       "away": "Oakland Roots",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "2"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "1",
@@ -809152,7 +809152,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -809198,7 +809198,7 @@
       "home": "Kansas",
       "away": "Salt Lake",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -809247,7 +809247,7 @@
       "home": "San Antonio",
       "away": "New Mexico Unit",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -809296,9 +809296,9 @@
       "home": "Houston",
       "away": "Dallas",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -809345,14 +809345,14 @@
       "home": "El Paso Locomo",
       "away": "Sacramento Repu",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.36,
@@ -809394,14 +809394,14 @@
       "home": "Cancun Fc",
       "away": "Venados Fc",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.6,
@@ -818998,14 +818998,14 @@
       "home": "Independiente ",
       "away": "Once Caldas",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.75,
@@ -832963,14 +832963,14 @@
       "home": "Club Leon",
       "away": "Club America",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.77,
@@ -833012,14 +833012,14 @@
       "home": "Piratas",
       "away": "Tepatitlan De M",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
@@ -833061,14 +833061,14 @@
       "home": "Toluca",
       "away": "Atletico San Lu",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.17,
@@ -833110,14 +833110,14 @@
       "home": "Monterrey (K)",
       "away": "Cruz Azul (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.11,
@@ -833159,14 +833159,14 @@
       "home": "Monarcas",
       "away": "Jaiba Brava",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.31,
@@ -843645,14 +843645,14 @@
       "home": "Isidro Metapan",
       "away": "Fuerte San Fran",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.3,
@@ -851436,14 +851436,14 @@
       "home": "Athletic Club ",
       "away": "Alta",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.23,
@@ -851485,14 +851485,14 @@
       "home": "Spokane Veloci",
       "away": "Chattanooga Red",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.66,
@@ -855503,14 +855503,14 @@
       "home": "Managua",
       "away": "Matagalpa",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.12,
