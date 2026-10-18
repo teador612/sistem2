@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-18T03:01:38.166Z",
+  "updatedAt": "2026-10-18T03:16:11.105Z",
   "matches": [
     {
       "code": "5847028",
@@ -809149,10 +809149,10 @@
       "home": "Austin",
       "away": "Vancouver",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -809198,10 +809198,10 @@
       "home": "Kansas",
       "away": "Salt Lake",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "3"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -809247,7 +809247,7 @@
       "home": "San Antonio",
       "away": "New Mexico Unit",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -809296,10 +809296,10 @@
       "home": "Houston",
       "away": "Dallas",
       "mbs": 1,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "2",
-        "away": "2"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -809345,10 +809345,10 @@
       "home": "El Paso Locomo",
       "away": "Sacramento Repu",
       "mbs": 3,
-      "status": 4,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "0",
@@ -809394,10 +809394,10 @@
       "home": "Cancun Fc",
       "away": "Venados Fc",
       "mbs": 3,
-      "status": 4,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "1",
@@ -809443,14 +809443,14 @@
       "home": "Monterey Bay",
       "away": "Colorado Spring",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 3.41,
@@ -809492,14 +809492,14 @@
       "home": "Orange County ",
       "away": "Phoenix Rising",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.79,
@@ -809541,10 +809541,10 @@
       "home": "Portland",
       "away": "Colorado",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -809590,10 +809590,10 @@
       "home": "San Jose",
       "away": "Nashville Sc",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -818998,10 +818998,10 @@
       "home": "Independiente ",
       "away": "Once Caldas",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -819047,14 +819047,14 @@
       "home": "Alianza Lima",
       "away": "Atletico Grau",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 1.17,
@@ -819096,10 +819096,10 @@
       "home": "Seattle",
       "away": "Montreal",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -833012,9 +833012,9 @@
       "home": "Piratas",
       "away": "Tepatitlan De M",
       "mbs": 3,
-      "status": 4,
+      "status": 2,
       "score": {
-        "home": "3",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -833061,10 +833061,10 @@
       "home": "Toluca",
       "away": "Atletico San Lu",
       "mbs": 2,
-      "status": 4,
+      "status": 2,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "0",
@@ -833110,9 +833110,9 @@
       "home": "Monterrey (K)",
       "away": "Cruz Azul (K)",
       "mbs": 3,
-      "status": 4,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -833159,10 +833159,10 @@
       "home": "Monarcas",
       "away": "Jaiba Brava",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "1",
@@ -833208,14 +833208,14 @@
       "home": "Inter San Carl",
       "away": "Alajuelense",
       "mbs": 3,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.75,
@@ -833257,14 +833257,14 @@
       "home": "Wellington Pho",
       "away": "Melbourne Victo",
       "mbs": 2,
-      "status": 2,
+      "status": 0,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
-        "home": "1",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.79,
@@ -833306,10 +833306,10 @@
       "home": "Los Angeles",
       "away": "San Diego",
       "mbs": 1,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -833355,10 +833355,10 @@
       "home": "Las Vegas Ligh",
       "away": "Lexington",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "1"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
@@ -843645,9 +843645,9 @@
       "home": "Isidro Metapan",
       "away": "Fuerte San Fran",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
-        "home": "2",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -844086,14 +844086,14 @@
       "home": "Atlético Indep",
       "away": "Upnfm",
       "mbs": 3,
-      "status": 3,
+      "status": 1,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": "0",
-        "away": "2"
+        "home": null,
+        "away": null
       },
       "openingOdds": {
         "ms1": 2.22,
@@ -851436,10 +851436,10 @@
       "home": "Athletic Club ",
       "away": "Alta",
       "mbs": 3,
-      "status": 3,
+      "status": 2,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "1",
@@ -851485,9 +851485,9 @@
       "home": "Spokane Veloci",
       "away": "Chattanooga Red",
       "mbs": 3,
-      "status": 4,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
@@ -855503,10 +855503,10 @@
       "home": "Managua",
       "away": "Matagalpa",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
-        "home": "4",
-        "away": "1"
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": "1",
@@ -865646,10 +865646,10 @@
       "home": "Auckland Unite",
       "away": "Ferrymead Bays",
       "mbs": 3,
-      "status": 1,
+      "status": 0,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": null,
+        "away": null
       },
       "halfTimeScore": {
         "home": null,
