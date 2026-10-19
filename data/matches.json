@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-19T03:46:16.939Z",
+  "updatedAt": "2026-10-19T05:01:29.007Z",
   "matches": [
     {
       "code": "5847028",
@@ -875887,10 +875887,10 @@
       "home": "Marquense",
       "away": "Suchitepequez",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
