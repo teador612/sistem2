@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-19T02:46:15.018Z",
+  "updatedAt": "2026-10-19T03:46:16.939Z",
   "matches": [
     {
       "code": "5847028",
@@ -821987,7 +821987,7 @@
       "home": "Deportivo Cali",
       "away": "Atletico Junior",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -838402,7 +838402,7 @@
       "home": "Monterrey",
       "away": "Pachuca",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -838451,7 +838451,7 @@
       "home": "América (K)",
       "away": "Pachuca (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -866136,14 +866136,14 @@
       "home": "Ujpest Ii",
       "away": "Iii Keruleti Tv",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.26,
@@ -875887,14 +875887,14 @@
       "home": "Marquense",
       "away": "Suchitepequez",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.28,
