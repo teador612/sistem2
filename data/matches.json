@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-19T21:16:19.117Z",
+  "updatedAt": "2026-10-19T21:46:22.299Z",
   "matches": [
     {
       "code": "5847028",
@@ -802191,7 +802191,7 @@
       "home": "Braga",
       "away": "Gil Vicente",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "2"
@@ -822820,14 +822820,14 @@
       "home": "Mushuc Runa",
       "away": "Orense",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.63,
@@ -843890,7 +843890,7 @@
       "home": "12 De Junio Vh",
       "away": "Guairena",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
