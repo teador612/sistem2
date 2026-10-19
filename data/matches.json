@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-19T10:16:20.105Z",
+  "updatedAt": "2026-10-19T10:31:27.851Z",
   "matches": [
     {
       "code": "5847028",
@@ -858786,10 +858786,10 @@
       "home": "Lee Man",
       "away": "Kitchee Footbal",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -868584,7 +868584,7 @@
       "time": "13:30",
       "league": "MAC3",
       "home": "Dvsc Deac",
-      "away": "",
+      "away": "Salgotarjani",
       "mbs": 3,
       "status": 4,
       "score": {
@@ -870838,7 +870838,7 @@
       "time": "17:00",
       "league": "İSTL",
       "home": "Calasancio",
-      "away": "",
+      "away": "Varea",
       "mbs": 3,
       "status": 4,
       "score": {
@@ -878825,7 +878825,7 @@
       "time": "15:00",
       "league": "MAKE1",
       "home": "Aresimi",
-      "away": "",
+      "away": "Tikves",
       "mbs": 3,
       "status": 0,
       "score": {
