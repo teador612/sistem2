@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-19T22:46:13.784Z",
+  "updatedAt": "2026-10-19T23:16:18.070Z",
   "matches": [
     {
       "code": "5847028",
@@ -802240,14 +802240,14 @@
       "home": "Sarmiento",
       "away": "Barracas",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.02,
@@ -802289,14 +802289,14 @@
       "home": "Newells Old Bo",
       "away": "Corboda Santiag",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.81,
@@ -802387,10 +802387,10 @@
       "home": "Corinthians",
       "away": "Vitoria Bahia",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -831101,10 +831101,10 @@
       "home": "Nacional Df",
       "away": "Deportivo Maldo",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -879513,10 +879513,10 @@
       "home": "Real Cartagena",
       "away": "Patriotas",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -879905,7 +879905,7 @@
       "home": "Internacional ",
       "away": "Union Magdalena",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -879954,14 +879954,14 @@
       "home": "Orsomarso",
       "away": "Bogota",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.9,
@@ -889999,9 +889999,9 @@
       "home": "Deportivo Cali",
       "away": "Nacional (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
