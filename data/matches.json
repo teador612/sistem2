@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-19T05:16:15.287Z",
+  "updatedAt": "2026-10-19T06:01:21.732Z",
   "matches": [
     {
       "code": "5847028",
@@ -880189,6 +880189,55 @@
         "iy2": 4.52
       },
       "openingRecordedAt": "2026-10-18T19:31:32.710Z"
+    },
+    {
+      "code": "4574742",
+      "week": 24141,
+      "date": "19.10.2026",
+      "time": "17:00",
+      "league": "CZYR2",
+      "home": "Rc Arbaa",
+      "away": "Widad Amel",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.48,
+        "msX": 3.04,
+        "ms2": 4.29,
+        "cs1X": 1,
+        "cs12": 1.11,
+        "csX2": 1.71,
+        "au25Alt": 1.49,
+        "au25Ust": 1.78,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.73,
+        "kgYok": 1.53,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-19T06:01:21.732Z"
     }
   ]
 }
