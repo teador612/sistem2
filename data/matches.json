@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-19T08:46:18.073Z",
+  "updatedAt": "2026-10-19T10:16:20.105Z",
   "matches": [
     {
       "code": "5847028",
@@ -838500,10 +838500,10 @@
       "home": "Fc Kharkiv",
       "away": "Livyi Bereh",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -858737,14 +858737,14 @@
       "home": "Wofoo Tai Po",
       "away": "Sd Rsa",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "4",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.6,
@@ -878582,10 +878582,10 @@
       "home": "Santa Clara U2",
       "away": "Sporting Braga ",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -888568,6 +888568,153 @@
         "iy2": 5.22
       },
       "openingRecordedAt": "2026-10-19T08:46:18.072Z"
+    },
+    {
+      "code": "4565257",
+      "week": 24141,
+      "date": "20.10.2026",
+      "time": "16:15",
+      "league": "IRANAZ",
+      "home": "Ario Eslamshah",
+      "away": "Nb Abbas",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.28,
+        "msX": 2.39,
+        "ms2": 2.66,
+        "cs1X": 1.17,
+        "cs12": 1.23,
+        "csX2": 1.25,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-19T10:16:20.104Z"
+    },
+    {
+      "code": "4523155",
+      "week": 24141,
+      "date": "20.10.2026",
+      "time": "17:00",
+      "league": "PORU23",
+      "home": "Marítimo U23",
+      "away": "Famalicão U23",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.73,
+        "msX": 3.55,
+        "ms2": 1.47,
+        "cs1X": 1.74,
+        "cs12": 1.07,
+        "csX2": 1,
+        "au25Alt": 2.03,
+        "au25Ust": 1.35,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.38,
+        "kgYok": 1.97,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.36,
+        "au35Ust": 2,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-19T10:16:20.105Z"
+    },
+    {
+      "code": "4523151",
+      "week": 24141,
+      "date": "20.10.2026",
+      "time": "17:00",
+      "league": "PORU23",
+      "home": "Academico Vise",
+      "away": "Penafiel U23",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.67,
+        "msX": 3.21,
+        "ms2": 3.12,
+        "cs1X": 1.1,
+        "cs12": 1.1,
+        "csX2": 1.54,
+        "au25Alt": 2,
+        "au25Ust": 1.36,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.32,
+        "kgYok": 2.1,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.35,
+        "au35Ust": 2.03,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-19T10:16:20.105Z"
     }
   ]
 }
