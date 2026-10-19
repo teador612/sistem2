@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-19T20:31:22.285Z",
+  "updatedAt": "2026-10-19T21:01:45.798Z",
   "matches": [
     {
       "code": "5847028",
@@ -801995,7 +801995,7 @@
       "home": "Rodez Aveyron",
       "away": "Montpellier",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "3"
@@ -802044,7 +802044,7 @@
       "home": "Parma",
       "away": "Torino",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "3"
@@ -802093,7 +802093,7 @@
       "home": "Getafe",
       "away": "Vallecano",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -802142,9 +802142,9 @@
       "home": "Tottenham",
       "away": "Coventry",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -802194,7 +802194,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -821401,8 +821401,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
-        "away": "1"
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -822722,9 +822722,9 @@
       "home": "Waterford",
       "away": "Galway United",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -822771,7 +822771,7 @@
       "home": "Derry City",
       "away": "St Patricks",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -822820,10 +822820,10 @@
       "home": "Mushuc Runa",
       "away": "Orense",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -843841,9 +843841,9 @@
       "home": "Depor Santani",
       "away": "3 De Noviembre",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -843890,7 +843890,7 @@
       "home": "12 De Junio Vh",
       "away": "Guairena",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -843939,10 +843939,10 @@
       "home": "Encarnacion",
       "away": "General Caballe",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": "3",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -877553,7 +877553,7 @@
       "home": "Real Santander",
       "away": "Leones Fc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -879464,10 +879464,10 @@
       "home": "Aveley",
       "away": "Maldon And Tipt",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -879905,10 +879905,10 @@
       "home": "Internacional ",
       "away": "Union Magdalena",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
