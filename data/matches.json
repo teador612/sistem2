@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-19T12:31:28.549Z",
+  "updatedAt": "2026-10-19T13:01:43.081Z",
   "matches": [
     {
       "code": "5847028",
@@ -822038,7 +822038,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -877259,10 +877259,10 @@
       "home": "Transmara Suga",
       "away": "Mombasa United",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -877308,7 +877308,7 @@
       "home": "Clb Tp Ho Chi ",
       "away": "Viettel",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -877357,14 +877357,14 @@
       "home": "Ballkani",
       "away": "Prishtina",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.25,
@@ -878827,14 +878827,14 @@
       "home": "Aresimi",
       "away": "Tikves",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.99,
@@ -878876,14 +878876,14 @@
       "home": "Mes Shahr-E Ba",
       "away": "Persepolis",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 8.36,
@@ -884854,10 +884854,10 @@
       "home": "Zhejiang (K)",
       "away": "Beijing Bg Phoe",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -889695,6 +889695,153 @@
         "iy2": 7.55
       },
       "openingRecordedAt": "2026-10-19T12:31:28.549Z"
+    },
+    {
+      "code": "4571924",
+      "week": 24141,
+      "date": "20.10.2026",
+      "time": "15:00",
+      "league": "ETH",
+      "home": "Ethiopia Elect",
+      "away": "Sheger Ketema",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.58,
+        "msX": 2.15,
+        "ms2": 2.63,
+        "cs1X": 1.18,
+        "cs12": 1.29,
+        "csX2": 1.19,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 2.11,
+        "kgYok": 1.32,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 1.78,
+        "au15Ust": 1.49,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.37,
+        "iyX": 1.54,
+        "iy2": 3.44
+      },
+      "openingRecordedAt": "2026-10-19T13:01:43.081Z"
+    },
+    {
+      "code": "4538701",
+      "week": 24141,
+      "date": "20.10.2026",
+      "time": "18:20",
+      "league": "SUUD1",
+      "home": "Al Orubah Club",
+      "away": "Al Bukayriyah",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.41,
+        "msX": 3.27,
+        "ms2": 4.57,
+        "cs1X": 1,
+        "cs12": 1.08,
+        "csX2": 1.81,
+        "au25Alt": 1.49,
+        "au25Ust": 1.78,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.8,
+        "kgYok": 1.48,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.93,
+        "iyX": 1.93,
+        "iy2": 5.11
+      },
+      "openingRecordedAt": "2026-10-19T13:01:43.081Z"
+    },
+    {
+      "code": "4538702",
+      "week": 24141,
+      "date": "20.10.2026",
+      "time": "19:50",
+      "league": "SUUD1",
+      "home": "Al Akhdoud",
+      "away": "Al Adalah",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.8,
+        "msX": 3.17,
+        "ms2": 2.77,
+        "cs1X": 1.15,
+        "cs12": 1.1,
+        "csX2": 1.45,
+        "au25Alt": 1.75,
+        "au25Ust": 1.51,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.43,
+        "kgYok": 1.87,
+        "iy15Alt": 1.28,
+        "iy15Ust": 2.19,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.33,
+        "iyX": 1.99,
+        "iy2": 3.31
+      },
+      "openingRecordedAt": "2026-10-19T13:01:43.081Z"
     }
   ]
 }
