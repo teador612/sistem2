@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-19T13:01:43.081Z",
+  "updatedAt": "2026-10-19T13:31:33.897Z",
   "matches": [
     {
       "code": "5847028",
@@ -822036,14 +822036,14 @@
       "home": "Belshina Bobru",
       "away": "Slavia Mozyr",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.65,
@@ -851779,10 +851779,10 @@
       "home": "Petrovac",
       "away": "Otrant",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -852661,10 +852661,10 @@
       "home": "Fajr Sepasi",
       "away": "Peykan",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -877357,10 +877357,10 @@
       "home": "Ballkani",
       "away": "Prishtina",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -877406,10 +877406,10 @@
       "home": "Bandari",
       "away": "3k",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -878631,10 +878631,10 @@
       "home": "Us Ksour Sef",
       "away": "Ariana",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -878827,7 +878827,7 @@
       "home": "Aresimi",
       "away": "Tikves",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
@@ -878876,7 +878876,7 @@
       "home": "Mes Shahr-E Ba",
       "away": "Persepolis",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -878925,10 +878925,10 @@
       "home": "Al Nahda",
       "away": "Sur",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -889842,6 +889842,153 @@
         "iy2": 3.31
       },
       "openingRecordedAt": "2026-10-19T13:01:43.081Z"
+    },
+    {
+      "code": "4429789",
+      "week": 24141,
+      "date": "19.10.2026",
+      "time": "20:00",
+      "league": "NOR4",
+      "home": "Asane Ii",
+      "away": "",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.76,
+        "msX": 3.58,
+        "ms2": 2.59,
+        "cs1X": 1.18,
+        "cs12": 1.07,
+        "csX2": 1.47,
+        "au25Alt": 2.87,
+        "au25Ust": 1.13,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.15,
+        "kgYok": 2.8,
+        "iy15Alt": 1.65,
+        "iy15Ust": 1.6,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.74,
+        "au35Ust": 1.52,
+        "gol01": 7.33,
+        "gol23": 2.22,
+        "gol46": 2.31,
+        "gol7": 4.03,
+        "iy1": 2.14,
+        "iyX": 2.38,
+        "iy2": 2.9
+      },
+      "openingRecordedAt": "2026-10-19T13:31:33.897Z"
+    },
+    {
+      "code": "4429601",
+      "week": 24141,
+      "date": "19.10.2026",
+      "time": "20:00",
+      "league": "NOR4",
+      "home": "Melhus",
+      "away": "Ranheim Ii",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.14,
+        "msX": 3.83,
+        "ms2": 1.53,
+        "cs1X": 1.66,
+        "cs12": 1,
+        "csX2": 1.1,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.09,
+        "kgYok": 3.15,
+        "iy15Alt": 1.85,
+        "iy15Ust": 1.45,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.34,
+        "iyX": 2.59,
+        "iy2": 1.83
+      },
+      "openingRecordedAt": "2026-10-19T13:31:33.897Z"
+    },
+    {
+      "code": "4540466",
+      "week": 24141,
+      "date": "20.10.2026",
+      "time": "21:00",
+      "league": "İNPLK",
+      "home": "Millwall U21",
+      "away": "Sheffield Unite",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.09,
+        "msX": 3.83,
+        "ms2": 1.54,
+        "cs1X": 1.65,
+        "cs12": 1,
+        "csX2": 1.1,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.28,
+        "kgYok": 2.19,
+        "iy15Alt": 1.46,
+        "iy15Ust": 1.82,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.45,
+        "au35Ust": 1.84,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.5,
+        "iyX": 2.22,
+        "iy2": 2.01
+      },
+      "openingRecordedAt": "2026-10-19T13:31:33.897Z"
     }
   ]
 }
