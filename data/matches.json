@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-20T07:31:33.433Z",
+  "updatedAt": "2026-10-20T09:31:33.930Z",
   "matches": [
     {
       "code": "5847028",
@@ -885148,14 +885148,14 @@
       "home": "Farmel",
       "away": "Malut United",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.83,
@@ -891418,7 +891418,7 @@
       "time": "15:00",
       "league": "UEGL",
       "home": "As Roma U19",
-      "away": "",
+      "away": "Slovan U19",
       "mbs": 2,
       "status": 0,
       "score": {
@@ -892831,6 +892831,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-20T07:31:33.433Z"
+    },
+    {
+      "code": "4540476",
+      "week": 24142,
+      "date": "21.10.2026",
+      "time": "21:00",
+      "league": "İNPLK",
+      "home": "Norwich City U",
+      "away": "Bristol City U2",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.72,
+        "msX": 3.65,
+        "ms2": 2.65,
+        "cs1X": 1.17,
+        "cs12": 1.06,
+        "csX2": 1.49,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.3,
+        "kgYok": 2.16,
+        "iy15Alt": 1.41,
+        "iy15Ust": 1.9,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.39,
+        "au35Ust": 1.95,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.23,
+        "iyX": 2.14,
+        "iy2": 3.14
+      },
+      "openingRecordedAt": "2026-10-20T09:31:33.930Z"
     }
   ]
 }
