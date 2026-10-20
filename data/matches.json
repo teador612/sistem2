@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-20T21:31:27.920Z",
+  "updatedAt": "2026-10-20T21:46:13.697Z",
   "matches": [
     {
       "code": "5847028",
@@ -886618,14 +886618,14 @@
       "home": "Hanworth Villa",
       "away": "Chippenham Town",
       "mbs": 3,
-      "status": 9,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.57,
@@ -886667,10 +886667,10 @@
       "home": "Pereira",
       "away": "Chico",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -889411,10 +889411,10 @@
       "home": "Union La Caler",
       "away": "Coquimbo Unido",
       "mbs": 3,
-      "status": 0,
+      "status": 9,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
