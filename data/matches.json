@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-20T11:01:44.721Z",
+  "updatedAt": "2026-10-20T11:46:08.914Z",
   "matches": [
     {
       "code": "5847028",
@@ -891324,7 +891324,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -893027,6 +893027,153 @@
         "iy2": 3.9
       },
       "openingRecordedAt": "2026-10-20T09:46:19.481Z"
+    },
+    {
+      "code": "4565255",
+      "week": 24142,
+      "date": "20.10.2026",
+      "time": "14:30",
+      "league": "IRANAZ",
+      "home": "Besat Kermansh",
+      "away": "Pars Jam Busheh",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.6,
+        "msX": 2.71,
+        "ms2": 1.71,
+        "cs1X": 1.5,
+        "cs12": 1.16,
+        "csX2": 1.07,
+        "au25Alt": 1.3,
+        "au25Ust": 2.15,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.89,
+        "kgYok": 1.41,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.19,
+        "au15Ust": 1.28,
+        "au35Alt": 1,
+        "au35Ust": 4.03,
+        "gol01": 2.19,
+        "gol23": 1.73,
+        "gol46": 4.97,
+        "gol7": 31,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-20T11:46:08.914Z"
+    },
+    {
+      "code": "4552960",
+      "week": 24142,
+      "date": "21.10.2026",
+      "time": "21:30",
+      "league": "İKPL1",
+      "home": "Celtic (K)",
+      "away": "Hearts (K)",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.86,
+        "msX": 3.07,
+        "ms2": 1.79,
+        "cs1X": 1.45,
+        "cs12": 1.12,
+        "csX2": 1.14,
+        "au25Alt": 1.9,
+        "au25Ust": 1.41,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.35,
+        "kgYok": 2.03,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-20T11:46:08.914Z"
+    },
+    {
+      "code": "4552961",
+      "week": 24142,
+      "date": "21.10.2026",
+      "time": "21:35",
+      "league": "İKPL1",
+      "home": "Glas. City (K)",
+      "away": "Rangers (K)",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.04,
+        "msX": 3.24,
+        "ms2": 2.3,
+        "cs1X": 1.24,
+        "cs12": 1.1,
+        "csX2": 1.33,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.23,
+        "kgYok": 2.36,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.45,
+        "au35Ust": 1.84,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-20T11:46:08.914Z"
     }
   ]
 }
