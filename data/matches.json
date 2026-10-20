@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-20T17:46:19.314Z",
+  "updatedAt": "2026-10-20T18:01:42.211Z",
   "matches": [
     {
       "code": "5847028",
@@ -657396,14 +657396,14 @@
       "home": "Levante Ii",
       "away": "Crevillente",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.44,
@@ -877602,7 +877602,7 @@
       "home": "Fenerbahçe",
       "away": "Slavia Prag",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "1"
@@ -877651,10 +877651,10 @@
       "home": "Sabah",
       "away": "B.Dortmund",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -885687,14 +885687,14 @@
       "home": "Norrkoping",
       "away": "Orebro",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.55,
@@ -885736,14 +885736,14 @@
       "home": "Wadi Degla",
       "away": "National Bank O",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.51,
@@ -885785,14 +885785,14 @@
       "home": "El Geish",
       "away": "Pyramids Fc",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
-        "away": "3"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 5.58,
@@ -885834,10 +885834,10 @@
       "home": "Al Nassr (Riya",
       "away": "Neom Sc",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -885883,10 +885883,10 @@
       "home": "Al Ettifaq",
       "away": "Al Ittihad (Cid",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -888872,9 +888872,9 @@
       "home": "Isa Town",
       "away": "Umm Al Hassam",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -888921,10 +888921,10 @@
       "home": "Boreham Wood",
       "away": "Middlesbrough (",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -888970,10 +888970,10 @@
       "home": "Wealdstone",
       "away": "Nottingham Fore",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -889803,7 +889803,7 @@
       "home": "Al Akhdoud",
       "away": "Al Adalah",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
@@ -895134,6 +895134,55 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-20T17:46:19.314Z"
+    },
+    {
+      "code": "4575442",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "03:30",
+      "league": "CONOAK",
+      "home": "Firpo",
+      "away": "Deportivo Sapri",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 3.23,
+        "msX": 2.99,
+        "ms2": 1.7,
+        "cs1X": 1.51,
+        "cs12": 1.12,
+        "csX2": 1.09,
+        "au25Alt": 1.6,
+        "au25Ust": 1.64,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.53,
+        "kgYok": 1.73,
+        "iy15Alt": 1.24,
+        "iy15Ust": 2.35,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.76,
+        "iyX": 1.93,
+        "iy2": 2.22
+      },
+      "openingRecordedAt": "2026-10-20T18:01:42.211Z"
     }
   ]
 }
