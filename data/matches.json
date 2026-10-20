@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-20T22:31:17.490Z",
+  "updatedAt": "2026-10-20T22:46:16.407Z",
   "matches": [
     {
       "code": "5847028",
@@ -886667,7 +886667,7 @@
       "home": "Pereira",
       "away": "Chico",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -886716,14 +886716,14 @@
       "home": "Paraguari",
       "away": "Fernando De La ",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.36,
