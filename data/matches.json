@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-20T21:46:13.697Z",
+  "updatedAt": "2026-10-20T22:16:08.723Z",
   "matches": [
     {
       "code": "5847028",
@@ -886669,7 +886669,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -886716,10 +886716,10 @@
       "home": "Paraguari",
       "away": "Fernando De La ",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -886765,10 +886765,10 @@
       "home": "Tacuary",
       "away": "Indep Cambo Gra",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -890881,7 +890881,7 @@
       "home": "Atletico Fc",
       "away": "Quindio",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -891273,7 +891273,7 @@
       "home": "Independiente ",
       "away": "Centauros",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "0"
