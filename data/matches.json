@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-20T00:01:48.918Z",
+  "updatedAt": "2026-10-20T00:16:12.933Z",
   "matches": [
     {
       "code": "5847028",
@@ -802240,7 +802240,7 @@
       "home": "Sarmiento",
       "away": "Barracas",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -802387,7 +802387,7 @@
       "home": "Corinthians",
       "away": "Vitoria Bahia",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -831101,7 +831101,7 @@
       "home": "Nacional Df",
       "away": "Deportivo Maldo",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -838745,10 +838745,10 @@
       "home": "Riestra",
       "away": "Union Santa Fe",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -842471,7 +842471,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -879513,7 +879513,7 @@
       "home": "Real Cartagena",
       "away": "Patriotas",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -879954,7 +879954,7 @@
       "home": "Orsomarso",
       "away": "Bogota",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -890099,7 +890099,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
