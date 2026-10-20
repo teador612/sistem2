@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-20T10:31:34.461Z",
+  "updatedAt": "2026-10-20T11:01:44.721Z",
   "matches": [
     {
       "code": "5847028",
@@ -891322,10 +891322,10 @@
       "home": "Porto U19",
       "away": "Psv Eindhoven U",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -891371,10 +891371,10 @@
       "home": "Sabah U19",
       "away": "B. Dortmund U19",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
