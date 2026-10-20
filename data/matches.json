@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-20T20:46:16.182Z",
+  "updatedAt": "2026-10-20T21:31:27.920Z",
   "matches": [
     {
       "code": "5847028",
@@ -877700,9 +877700,9 @@
       "home": "Psg",
       "away": "Barcelona",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "2"
       },
       "halfTimeScore": {
@@ -877749,10 +877749,10 @@
       "home": "Napoli",
       "away": "Bodo Glimt",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "3",
-        "away": "2"
+        "home": "4",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "2",
@@ -877798,7 +877798,7 @@
       "home": "Manchester Cit",
       "away": "Aek",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "5",
         "away": "1"
@@ -877847,7 +877847,7 @@
       "home": "Roma",
       "away": "Slovan Bratisla",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "0"
@@ -877896,7 +877896,7 @@
       "home": "Porto",
       "away": "Psv Eindhoven",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -877945,7 +877945,7 @@
       "home": "Stuttgart",
       "away": "Atletico Madrid",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -877994,7 +877994,7 @@
       "home": "Liverpool",
       "away": "Villarreal",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "3"
@@ -881130,9 +881130,9 @@
       "home": "Bath City",
       "away": "Havant And W.",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -881718,9 +881718,9 @@
       "home": "Taunton Town",
       "away": "Bracknell Town",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -881963,7 +881963,7 @@
       "home": "Gillingham",
       "away": "Port Vale",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -886030,7 +886030,7 @@
       "home": "Wingate",
       "away": "Carshalton Athl",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "2"
@@ -886422,7 +886422,7 @@
       "home": "Brentwood Town",
       "away": "Dartford",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "0"
@@ -889068,7 +889068,7 @@
       "home": "Stafford Range",
       "away": "Gateshead",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "5",
         "away": "0"
@@ -890342,7 +890342,7 @@
       "home": "Cray Wanderers",
       "away": "Bedford Town",
       "mbs": 3,
-      "status": 3,
+      "status": 5,
       "score": {
         "home": "1",
         "away": "1"
@@ -890440,7 +890440,7 @@
       "home": "Tadley Calleva",
       "away": "Aldershot",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -890832,7 +890832,7 @@
       "home": "Tigres Fc",
       "away": "Real Cundinamar",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -890881,14 +890881,14 @@
       "home": "Atletico Fc",
       "away": "Quindio",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.83,
@@ -890979,10 +890979,10 @@
       "home": "Institute Fc",
       "away": "Loughgall Fc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -891126,10 +891126,10 @@
       "home": "Dundela",
       "away": "Moyola Park",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "1",
@@ -891273,14 +891273,14 @@
       "home": "Independiente ",
       "away": "Centauros",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.58,
@@ -891763,7 +891763,7 @@
       "home": "Ballinamallard",
       "away": "Queens Universi",
       "mbs": 3,
-      "status": 3,
+      "status": 5,
       "score": {
         "home": "1",
         "away": "1"
@@ -893380,10 +893380,10 @@
       "home": "Strabane Athle",
       "away": "Glenavon",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "3"
+        "away": "5"
       },
       "halfTimeScore": {
         "home": "0",
