@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-20T12:46:19.963Z",
+  "updatedAt": "2026-10-20T13:16:22.314Z",
   "matches": [
     {
       "code": "5847028",
@@ -880341,15 +880341,15 @@
       "code": "4489919",
       "week": 24142,
       "date": "20.10.2026",
-      "time": "21:45",
+      "time": "16:00",
       "league": "İN2",
       "home": "Cheltenham",
       "away": "Fleetwood Town",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -885197,14 +885197,14 @@
       "home": "Bhayangkara Su",
       "away": "Psim Yogyakarta",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.45,
@@ -885246,14 +885246,14 @@
       "home": "Dewa United",
       "away": "Persijap",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.06,
@@ -888774,14 +888774,14 @@
       "home": "Police",
       "away": "Leopards Sc",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.13,
@@ -888818,15 +888818,15 @@
       "code": "4540655",
       "week": 24142,
       "date": "20.10.2026",
-      "time": "15:00",
+      "time": "16:00",
       "league": "INGPDL",
       "home": "Fleetwood Town",
       "away": "Barnsley U21",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -889705,14 +889705,14 @@
       "home": "Ethiopia Elect",
       "away": "Sheger Ketema",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.58,
@@ -890146,14 +890146,14 @@
       "home": "Wigan Athletic",
       "away": "Bolton U21",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "3"
       },
       "openingOdds": {
         "ms1": 2.18,
@@ -890195,10 +890195,10 @@
       "home": "Maroons",
       "away": "Kataka",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -890244,10 +890244,10 @@
       "home": "Coventry City ",
       "away": "Swansea (B)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -891322,9 +891322,9 @@
       "home": "Porto U19",
       "away": "Psv Eindhoven U",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -891371,7 +891371,7 @@
       "home": "Sabah U19",
       "away": "B. Dortmund U19",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -891420,14 +891420,14 @@
       "home": "As Roma U19",
       "away": "Slovan U19",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
@@ -891469,14 +891469,14 @@
       "home": "Paris Sg U19",
       "away": "Barcelona U19",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.25,
@@ -891518,14 +891518,14 @@
       "home": "Napoli U19",
       "away": "Bodo / Glimt U1",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
@@ -891567,10 +891567,10 @@
       "home": "Vfb Stuttgart ",
       "away": "Atl Madrid U19",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -892596,10 +892596,10 @@
       "home": "Halaba Ketema",
       "away": "Fasil Kenema",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -893037,14 +893037,14 @@
       "home": "Besat Kermansh",
       "away": "Pars Jam Busheh",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 3.6,
