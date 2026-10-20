@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-20T22:46:16.407Z",
+  "updatedAt": "2026-10-20T23:01:26.567Z",
   "matches": [
     {
       "code": "5847028",
@@ -886765,14 +886765,14 @@
       "home": "Tacuary",
       "away": "Indep Cambo Gra",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.27,
@@ -891812,10 +891812,10 @@
       "home": "Independiente ",
       "away": "Aurora",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
