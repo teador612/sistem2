@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-20T00:46:16.298Z",
+  "updatedAt": "2026-10-20T02:01:36.946Z",
   "matches": [
     {
       "code": "5847028",
@@ -802387,7 +802387,7 @@
       "home": "Corinthians",
       "away": "Vitoria Bahia",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -831101,10 +831101,10 @@
       "home": "Nacional Df",
       "away": "Deportivo Maldo",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -838745,14 +838745,14 @@
       "home": "Riestra",
       "away": "Union Santa Fe",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.04,
@@ -838794,14 +838794,14 @@
       "home": "Deportivo Past",
       "away": "Alianza Petrole",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.56,
@@ -838843,10 +838843,10 @@
       "home": "Liberia",
       "away": "Puntarenas Fc",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -842469,14 +842469,14 @@
       "home": "Sporting San J",
       "away": "Ad San Carlos",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "3",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.44,
@@ -843841,7 +843841,7 @@
       "home": "Depor Santani",
       "away": "3 De Noviembre",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "0"
@@ -843939,10 +843939,10 @@
       "home": "Encarnacion",
       "away": "General Caballe",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -843988,14 +843988,14 @@
       "home": "Toluca (K)",
       "away": "Santos Laguna (",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.09,
@@ -844184,14 +844184,14 @@
       "home": "León (K)",
       "away": "Atlante (K)",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.14,
@@ -879513,7 +879513,7 @@
       "home": "Real Cartagena",
       "away": "Patriotas",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "0"
@@ -880150,14 +880150,14 @@
       "home": "Antigua Guatem",
       "away": "Xelaju",
       "mbs": 3,
-      "status": 0,
+      "status": 2,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.47,
@@ -890048,14 +890048,14 @@
       "home": "Ldu Quito (K)",
       "away": "",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.67,
@@ -890097,14 +890097,14 @@
       "home": "Libertad (K)",
       "away": "Universidad De ",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.52,
