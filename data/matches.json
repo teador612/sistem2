@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24141,
-  "updatedAt": "2026-10-20T02:31:36.227Z",
+  "updatedAt": "2026-10-20T04:16:19.896Z",
   "matches": [
     {
       "code": "5847028",
@@ -838794,7 +838794,7 @@
       "home": "Deportivo Past",
       "away": "Alianza Petrole",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -838843,14 +838843,14 @@
       "home": "Liberia",
       "away": "Puntarenas Fc",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.35,
@@ -844184,9 +844184,9 @@
       "home": "León (K)",
       "away": "Atlante (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -880150,9 +880150,9 @@
       "home": "Antigua Guatem",
       "away": "Xelaju",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
