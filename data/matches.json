@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-20T16:16:06.302Z",
+  "updatedAt": "2026-10-20T16:46:19.195Z",
   "matches": [
     {
       "code": "5847028",
@@ -877602,10 +877602,10 @@
       "home": "Fenerbahçe",
       "away": "Slavia Prag",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -877651,10 +877651,10 @@
       "home": "Sabah",
       "away": "B.Dortmund",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -885540,7 +885540,7 @@
       "home": "Asa Targu Mure",
       "away": "Targoviste",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "4"
@@ -885638,7 +885638,7 @@
       "home": "Al Taawon",
       "away": "Al-Qadsiah",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -889754,9 +889754,9 @@
       "home": "Al Orubah Club",
       "away": "Al Bukayriyah",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -890293,10 +890293,10 @@
       "home": "Hajer",
       "away": "Al Najma",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "2"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "2",
@@ -894889,6 +894889,55 @@
         "iy2": 5.55
       },
       "openingRecordedAt": "2026-10-20T16:16:06.301Z"
+    },
+    {
+      "code": "4575967",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "01:00",
+      "league": "VENK",
+      "home": "Deportivo La G",
+      "away": "Aragua",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.37,
+        "msX": 3.5,
+        "ms2": 4.62,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-20T16:46:19.195Z"
     }
   ]
 }
