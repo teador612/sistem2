@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-20T22:16:08.723Z",
+  "updatedAt": "2026-10-20T22:31:17.490Z",
   "matches": [
     {
       "code": "5847028",
@@ -886667,14 +886667,14 @@
       "home": "Pereira",
       "away": "Chico",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.9,
@@ -886767,7 +886767,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -886814,10 +886814,10 @@
       "home": "Londrina",
       "away": "Cuiaba",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -890342,7 +890342,7 @@
       "home": "Cray Wanderers",
       "away": "Bedford Town",
       "mbs": 3,
-      "status": 5,
+      "status": 8,
       "score": {
         "home": "1",
         "away": "1"
@@ -890881,10 +890881,10 @@
       "home": "Atletico Fc",
       "away": "Quindio",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -891763,7 +891763,7 @@
       "home": "Ballinamallard",
       "away": "Queens Universi",
       "mbs": 3,
-      "status": 5,
+      "status": 8,
       "score": {
         "home": "1",
         "away": "1"
@@ -893184,7 +893184,7 @@
       "home": "Rathfriland Ra",
       "away": "Ards Fc",
       "mbs": 3,
-      "status": 5,
+      "status": 8,
       "score": {
         "home": "0",
         "away": "0"
