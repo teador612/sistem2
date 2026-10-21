@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-21T01:01:34.608Z",
+  "updatedAt": "2026-10-21T01:16:13.810Z",
   "matches": [
     {
       "code": "5847028",
@@ -882015,7 +882015,7 @@
       "status": 1,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": null,
@@ -886863,7 +886863,7 @@
       "home": "Inter Bogota",
       "away": "Fortaleza",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -886961,7 +886961,7 @@
       "home": "Guadalajara",
       "away": "Necaxa",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -887010,10 +887010,10 @@
       "home": "Fc Juarez",
       "away": "Atlante",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
