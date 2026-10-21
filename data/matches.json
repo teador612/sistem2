@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-21T01:16:13.810Z",
+  "updatedAt": "2026-10-21T01:46:13.333Z",
   "matches": [
     {
       "code": "5847028",
@@ -770292,10 +770292,10 @@
       "home": "Los Millionari",
       "away": "Once Caldas",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -882012,14 +882012,14 @@
       "home": "Vasco Da Gama",
       "away": "Boca Juniors",
       "mbs": 1,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 2.32,
@@ -886912,7 +886912,7 @@
       "home": "Depor Cucuta",
       "away": "Atletico Nacion",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
