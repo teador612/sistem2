@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-21T20:31:29.258Z",
+  "updatedAt": "2026-10-21T21:16:02.025Z",
   "matches": [
     {
       "code": "5847028",
@@ -878092,7 +878092,7 @@
       "home": "Club Brugge",
       "away": "Lens",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "0"
@@ -878141,9 +878141,9 @@
       "home": "Sporting Cp",
       "away": "Lask Linz",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "3"
       },
       "halfTimeScore": {
@@ -878190,10 +878190,10 @@
       "home": "B.Münih",
       "away": "Arsenal",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "1",
@@ -878239,7 +878239,7 @@
       "home": "Real Betis",
       "away": "Feyenoord",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -878288,9 +878288,9 @@
       "home": "Inter",
       "away": "Shakhtar Donets",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -878337,10 +878337,10 @@
       "home": "Real Madrid",
       "away": "Rb Leipzig",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": "4",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -878386,10 +878386,10 @@
       "home": "Aston Villa",
       "away": "Viking",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -883090,14 +883090,14 @@
       "home": "Reading",
       "away": "Leyton Orient",
       "mbs": 2,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.29,
@@ -887696,7 +887696,7 @@
       "home": "Avro",
       "away": "Ashton United",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "2"
@@ -887745,10 +887745,10 @@
       "home": "Afc Whyteleafe",
       "away": "Burgess Hill To",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "2",
@@ -892939,7 +892939,7 @@
       "home": "Warrenpoint To",
       "away": "Crusaders",
       "mbs": 3,
-      "status": 3,
+      "status": 5,
       "score": {
         "home": "2",
         "away": "2"
@@ -894556,7 +894556,7 @@
       "home": "Arenal",
       "away": "Manacor",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -894605,7 +894605,7 @@
       "home": "Spartans (K)",
       "away": "Hibernian (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -894703,9 +894703,9 @@
       "home": "Liverpool Mont",
       "away": "Cerro Largo",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -894997,10 +894997,10 @@
       "home": "Estudiantes Fc",
       "away": "Caracas Fc",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -896119,15 +896119,15 @@
       "code": "4575394",
       "week": 24142,
       "date": "21.10.2026",
-      "time": "23:30",
+      "time": "23:45",
       "league": "LKUW",
       "home": "Colo Colo (K)",
       "away": "Caracas (K)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -896173,14 +896173,14 @@
       "home": "Santa Fe (K)",
       "away": "Corinthians (K)",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 5.07,
