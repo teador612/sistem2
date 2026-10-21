@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-21T00:16:14.049Z",
+  "updatedAt": "2026-10-21T01:01:34.608Z",
   "matches": [
     {
       "code": "5847028",
@@ -882012,10 +882012,10 @@
       "home": "Vasco Da Gama",
       "away": "Boca Juniors",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -886814,7 +886814,7 @@
       "home": "Londrina",
       "away": "Cuiaba",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -886863,10 +886863,10 @@
       "home": "Inter Bogota",
       "away": "Fortaleza",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -886912,14 +886912,14 @@
       "home": "Depor Cucuta",
       "away": "Atletico Nacion",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 4.58,
@@ -886961,14 +886961,14 @@
       "home": "Guadalajara",
       "away": "Necaxa",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.23,
@@ -887059,10 +887059,10 @@
       "home": "Atletico San L",
       "away": "Queretaro",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -891812,9 +891812,9 @@
       "home": "Independiente ",
       "away": "Aurora",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
