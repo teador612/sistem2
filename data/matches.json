@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-21T08:46:15.003Z",
+  "updatedAt": "2026-10-21T09:16:05.886Z",
   "matches": [
     {
       "code": "5847028",
@@ -887208,7 +887208,7 @@
       "mbs": 3,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -894648,8 +894648,8 @@
     {
       "code": "4575433",
       "week": 24142,
-      "date": "21.10.2026",
-      "time": "22:00",
+      "date": "23.10.2026",
+      "time": "03:00",
       "league": "BOLPLK",
       "home": "Always Ready",
       "away": "The Strongest",
