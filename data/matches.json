@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-21T08:01:35.393Z",
+  "updatedAt": "2026-10-21T08:46:15.003Z",
   "matches": [
     {
       "code": "5847028",
@@ -887206,10 +887206,10 @@
       "home": "Bali United",
       "away": "Garudayaksa",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -896506,6 +896506,251 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-21T08:01:35.392Z"
+    },
+    {
+      "code": "4576110",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "16:00",
+      "league": "BAECK",
+      "home": "Al Wasl",
+      "away": "Al Ittihad Kalb",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.19,
+        "msX": 4.4,
+        "ms2": 6,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.32,
+        "au25Alt": 2.31,
+        "au25Ust": 1.25,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.45,
+        "kgYok": 1.84,
+        "iy15Alt": 1.5,
+        "iy15Ust": 1.77,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.47,
+        "au35Ust": 1.8,
+        "gol01": 5.24,
+        "gol23": 1.96,
+        "gol46": 2.52,
+        "gol7": 5.86,
+        "iy1": 1.54,
+        "iyX": 2.46,
+        "iy2": 5.6
+      },
+      "openingRecordedAt": "2026-10-21T08:46:15.003Z"
+    },
+    {
+      "code": "4576111",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "16:00",
+      "league": "BAECK",
+      "home": "Al Jazira",
+      "away": "Ajman",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.26,
+        "msX": 4.02,
+        "ms2": 5.27,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.13,
+        "au25Alt": 2.05,
+        "au25Ust": 1.34,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.49,
+        "kgYok": 1.77,
+        "iy15Alt": 1.41,
+        "iy15Ust": 1.92,
+        "au15Alt": 3.96,
+        "au15Ust": 1,
+        "au35Alt": 1.34,
+        "au35Ust": 2.04,
+        "gol01": 4.37,
+        "gol23": 1.86,
+        "gol46": 2.72,
+        "gol7": 7.49,
+        "iy1": 1.65,
+        "iyX": 2.29,
+        "iy2": 5.22
+      },
+      "openingRecordedAt": "2026-10-21T08:46:15.003Z"
+    },
+    {
+      "code": "4571277",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "18:00",
+      "league": "ÜRD",
+      "home": "Al-Hussein",
+      "away": "Doqarah",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.14,
+        "msX": 4.62,
+        "ms2": 7.17,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.53,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.56,
+        "kgYok": 1.68,
+        "iy15Alt": 1.47,
+        "iy15Ust": 1.81,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.41,
+        "au35Ust": 1.89,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.48,
+        "iyX": 2.48,
+        "iy2": 6.47
+      },
+      "openingRecordedAt": "2026-10-21T08:46:15.003Z"
+    },
+    {
+      "code": "4540905",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "19:00",
+      "league": "IRAK",
+      "home": "Al Gharraf",
+      "away": "Naft",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.65,
+        "msX": 2.61,
+        "ms2": 2.11,
+        "cs1X": 1.3,
+        "cs12": 1.18,
+        "csX2": 1.17,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.85,
+        "kgYok": 1.44,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.14,
+        "au15Ust": 1.3,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.47,
+        "iyX": 1.67,
+        "iy2": 2.86
+      },
+      "openingRecordedAt": "2026-10-21T08:46:15.003Z"
+    },
+    {
+      "code": "4576112",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "19:00",
+      "league": "BAECK",
+      "home": "Al Ahli Dubai",
+      "away": "Al Ain",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.13,
+        "msX": 3.07,
+        "ms2": 2.28,
+        "cs1X": 1.25,
+        "cs12": 1.12,
+        "csX2": 1.29,
+        "au25Alt": 1.79,
+        "au25Ust": 1.48,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.39,
+        "kgYok": 1.94,
+        "iy15Alt": 1.3,
+        "iy15Ust": 2.16,
+        "au15Alt": 3.43,
+        "au15Ust": 1.06,
+        "au35Alt": 1.23,
+        "au35Ust": 2.37,
+        "gol01": 3.6,
+        "gol23": 1.77,
+        "gol46": 3.04,
+        "gol7": 10.2,
+        "iy1": 2.66,
+        "iyX": 1.99,
+        "iy2": 2.82
+      },
+      "openingRecordedAt": "2026-10-21T08:46:15.003Z"
     }
   ]
 }
