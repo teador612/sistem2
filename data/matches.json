@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-21T15:01:34.909Z",
+  "updatedAt": "2026-10-21T15:46:00.899Z",
   "matches": [
     {
       "code": "5847028",
@@ -887353,10 +887353,10 @@
       "home": "Ghazl El Mehal",
       "away": "Al Ittihad Al S",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -887402,14 +887402,14 @@
       "home": "Harju Jalgpall",
       "away": "Flora Tallinn",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 3.21,
@@ -890538,10 +890538,10 @@
       "home": "Al Anwar",
       "away": "Al Wahda",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -893233,10 +893233,10 @@
       "home": "Real Madrid U1",
       "away": "Rb Leipzig U19",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "2",
-        "away": "1"
+        "home": "5",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -893282,10 +893282,10 @@
       "home": "Zlate Moravce",
       "away": "Kfc Komarno",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -893821,9 +893821,9 @@
       "home": "Internazionale",
       "away": "S. Donetsk U19",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -893870,10 +893870,10 @@
       "home": "Bayern München",
       "away": "Arsenal Fc U19",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "3",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "3",
@@ -894262,10 +894262,10 @@
       "home": "Cherno More",
       "away": "Lokomotiv Plovd",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -895979,8 +895979,8 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
-        "away": "0"
+        "home": "3",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -896026,10 +896026,10 @@
       "home": "Pk-35 Ry",
       "away": "Jaro",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -897153,10 +897153,10 @@
       "home": "San Bartolomé",
       "away": "Playas Sotavent",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -897202,10 +897202,10 @@
       "home": "Villaverde Nor",
       "away": "Union Sur Yaiza",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -897486,6 +897486,104 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-21T15:01:34.908Z"
+    },
+    {
+      "code": "4575404",
+      "week": 24142,
+      "date": "23.10.2026",
+      "time": "03:00",
+      "league": "LKUW",
+      "home": "",
+      "away": "Cruzeiro (K)",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 5.84,
+        "msX": 4.05,
+        "ms2": 1.22,
+        "cs1X": 2.21,
+        "cs12": 1,
+        "csX2": 1,
+        "au25Alt": 1.88,
+        "au25Ust": 1.42,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.62,
+        "kgYok": 1.62,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-21T15:46:00.899Z"
+    },
+    {
+      "code": "4575413",
+      "week": 24142,
+      "date": "23.10.2026",
+      "time": "03:00",
+      "league": "LKUW",
+      "home": "Ldu Quito (K)",
+      "away": "Bolívar (K)",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.23,
+        "msX": 4.27,
+        "ms2": 5.34,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.19,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.43,
+        "kgYok": 1.87,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.43,
+        "au35Ust": 1.87,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-21T15:46:00.899Z"
     }
   ]
 }
