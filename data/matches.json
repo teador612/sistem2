@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-21T05:01:37.793Z",
+  "updatedAt": "2026-10-21T06:01:42.031Z",
   "matches": [
     {
       "code": "5847028",
@@ -882061,10 +882061,10 @@
       "home": "Yamagata",
       "away": "Sapporo",
       "mbs": 2,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -887108,7 +887108,7 @@
       "home": "Tigres Uanl",
       "away": "Club Leon",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -887157,7 +887157,7 @@
       "home": "Guadalajara (K",
       "away": "Necaxa (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "7",
         "away": "0"
@@ -892106,10 +892106,10 @@
       "home": "Parceiro Nagan",
       "away": "Ryukyu",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -892155,10 +892155,10 @@
       "home": "Fukushima Unit",
       "away": "Gira Kitakyushu",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -892694,9 +892694,9 @@
       "home": "Tochigi Sc",
       "away": "Mio Biwako Shig",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -892743,9 +892743,9 @@
       "home": "Elfen Saitama ",
       "away": "Mynavi Sendai (",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
