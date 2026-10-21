@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-21T14:31:28.004Z",
+  "updatedAt": "2026-10-21T15:01:34.909Z",
   "matches": [
     {
       "code": "5847028",
@@ -765294,7 +765294,7 @@
       "home": "Gasogi United",
       "away": "Gorilla",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -887353,14 +887353,14 @@
       "home": "Ghazl El Mehal",
       "away": "Al Ittihad Al S",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.49,
@@ -887402,10 +887402,10 @@
       "home": "Harju Jalgpall",
       "away": "Flora Tallinn",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -893233,14 +893233,14 @@
       "home": "Real Madrid U1",
       "away": "Rb Leipzig U19",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1,
@@ -893429,7 +893429,7 @@
       "home": "Lugazi Municip",
       "away": "Express",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -893625,7 +893625,7 @@
       "home": "Aston Villa U1",
       "away": "Viking U19",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -893674,7 +893674,7 @@
       "home": "Bul",
       "away": "Nec",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "2",
         "away": "1"
@@ -893723,9 +893723,9 @@
       "home": "Club Brugge U1",
       "away": "Lens U19",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "2"
       },
       "halfTimeScore": {
@@ -893772,10 +893772,10 @@
       "home": "Sporting Cp U1",
       "away": "Lask U19",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -893821,14 +893821,14 @@
       "home": "Internazionale",
       "away": "S. Donetsk U19",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.31,
@@ -893870,14 +893870,14 @@
       "home": "Bayern München",
       "away": "Arsenal Fc U19",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.39,
@@ -895928,7 +895928,7 @@
       "home": "Real Betis U19",
       "away": "Feyenoord U19",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "4"
@@ -895977,14 +895977,14 @@
       "home": "Aalesund B",
       "away": "Nardo",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.9,
@@ -897388,6 +897388,104 @@
         "iy2": 6.12
       },
       "openingRecordedAt": "2026-10-21T14:31:28.004Z"
+    },
+    {
+      "code": "4532807",
+      "week": 24142,
+      "date": "21.10.2026",
+      "time": "19:00",
+      "league": "İSTL",
+      "home": "Llerenense",
+      "away": "Santa Amalia",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.54,
+        "msX": 3.01,
+        "ms2": 3.99,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 1.49,
+        "au25Ust": 1.78,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-21T15:01:34.908Z"
+    },
+    {
+      "code": "4547646",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "16:00",
+      "league": "UGA",
+      "home": "Kigezi Home Bo",
+      "away": "Entebbe Uppc",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 5.13,
+        "msX": 3.04,
+        "ms2": 1.41,
+        "cs1X": 1.81,
+        "cs12": 1.11,
+        "csX2": 1,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-21T15:01:34.908Z"
     }
   ]
 }
