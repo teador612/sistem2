@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-21T14:16:16.962Z",
+  "updatedAt": "2026-10-21T14:31:28.004Z",
   "matches": [
     {
       "code": "5847028",
@@ -893235,7 +893235,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -893676,7 +893676,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -893726,7 +893726,7 @@
       "status": 3,
       "score": {
         "home": "3",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "3",
@@ -893872,7 +893872,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -895931,7 +895931,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "1",
@@ -897339,6 +897339,55 @@
         "iy2": 1.85
       },
       "openingRecordedAt": "2026-10-21T14:16:16.962Z"
+    },
+    {
+      "code": "4447635",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "16:30",
+      "league": "ÖZB",
+      "home": "Bunyodkor",
+      "away": "Mashal Muborak",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.21,
+        "msX": 3.89,
+        "ms2": 6.54,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.25,
+        "au25Alt": 1.91,
+        "au25Ust": 1.41,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.62,
+        "kgYok": 1.62,
+        "iy15Alt": 1.37,
+        "iy15Ust": 1.99,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.57,
+        "iyX": 2.3,
+        "iy2": 6.12
+      },
+      "openingRecordedAt": "2026-10-21T14:31:28.004Z"
     }
   ]
 }
