@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-21T11:16:14.328Z",
+  "updatedAt": "2026-10-21T11:31:32.961Z",
   "matches": [
     {
       "code": "5847028",
@@ -882308,7 +882308,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -882407,7 +882407,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -882455,7 +882455,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -882652,7 +882652,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -882700,7 +882700,7 @@
       "mbs": 2,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -882750,7 +882750,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -882897,7 +882897,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -882943,14 +882943,14 @@
       "home": "Urawa",
       "away": "Jef Utd Chiba",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.47,
@@ -892255,7 +892255,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "1"
       },
       "halfTimeScore": {
@@ -892304,7 +892304,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -892792,7 +892792,7 @@
       "home": "Nojima Stella ",
       "away": "Albirex Niigata",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -893529,7 +893529,7 @@
       "mbs": 2,
       "status": 1,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -896898,6 +896898,251 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-21T11:16:14.328Z"
+    },
+    {
+      "code": "4561268",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "18:00",
+      "league": "ÜRD1",
+      "home": "Al Yarmouk",
+      "away": "Al Sahl Horan",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.09,
+        "msX": 2.65,
+        "ms2": 2.65,
+        "cs1X": 1.17,
+        "cs12": 1.18,
+        "csX2": 1.31,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-21T11:31:32.961Z"
+    },
+    {
+      "code": "4547546",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "21:30",
+      "league": "EKV2",
+      "home": "Cuniburo Fc",
+      "away": "Independiente J",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.63,
+        "msX": 2.86,
+        "ms2": 3.69,
+        "cs1X": 1.06,
+        "cs12": 1.14,
+        "csX2": 1.56,
+        "au25Alt": 1.34,
+        "au25Ust": 2.04,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.86,
+        "kgYok": 1.44,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-21T11:31:32.961Z"
+    },
+    {
+      "code": "4547548",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "21:30",
+      "league": "EKV2",
+      "home": "San Antonio",
+      "away": "9 De Octubre",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.96,
+        "msX": 2.57,
+        "ms2": 1.98,
+        "cs1X": 1.35,
+        "cs12": 1.19,
+        "csX2": 1.13,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.89,
+        "kgYok": 1.41,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 2.09,
+        "au15Ust": 1.33,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-21T11:31:32.961Z"
+    },
+    {
+      "code": "4547547",
+      "week": 24142,
+      "date": "22.10.2026",
+      "time": "21:30",
+      "league": "EKV2",
+      "home": "Deportivo Cuen",
+      "away": "Atletico Fc",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.02,
+        "msX": 2.66,
+        "ms2": 2.75,
+        "cs1X": 1.15,
+        "cs12": 1.17,
+        "csX2": 1.34,
+        "au25Alt": 1.31,
+        "au25Ust": 2.13,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.81,
+        "kgYok": 1.47,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-21T11:31:32.961Z"
+    },
+    {
+      "code": "4575973",
+      "week": 24142,
+      "date": "23.10.2026",
+      "time": "02:30",
+      "league": "VENK",
+      "home": "Ucv",
+      "away": "Atletico Barina",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.35,
+        "msX": 3.57,
+        "ms2": 4.7,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-21T11:31:32.961Z"
     }
   ]
 }
