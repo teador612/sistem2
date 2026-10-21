@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-21T04:16:13.321Z",
+  "updatedAt": "2026-10-21T04:31:29.157Z",
   "matches": [
     {
       "code": "5847028",
@@ -887108,7 +887108,7 @@
       "home": "Tigres Uanl",
       "away": "Club Leon",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -887159,7 +887159,7 @@
       "mbs": 3,
       "status": 3,
       "score": {
-        "home": "3",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
