@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-22T02:01:33.640Z",
+  "updatedAt": "2026-10-22T02:16:13.559Z",
   "matches": [
     {
       "code": "5847028",
@@ -883191,7 +883191,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -887941,7 +887941,7 @@
       "home": "Puebla",
       "away": "Monterrey",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "3"
@@ -887990,7 +887990,7 @@
       "home": "Toluca",
       "away": "Club Tijuana",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -888039,7 +888039,7 @@
       "home": "Atlas",
       "away": "Club America",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
