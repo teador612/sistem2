@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-22T14:01:40.996Z",
+  "updatedAt": "2026-10-22T14:31:20.834Z",
   "matches": [
     {
       "code": "5847028",
@@ -888284,7 +888284,7 @@
       "home": "Bihor",
       "away": "Csm Resita",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
         "away": "0"
@@ -888382,10 +888382,10 @@
       "home": "Kairat Almaty",
       "away": "Panathinaikos",
       "mbs": 1,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -888431,10 +888431,10 @@
       "home": "Shahaniya",
       "away": "Al Sadd",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -891962,7 +891962,7 @@
       "status": 1,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -894164,9 +894164,9 @@
       "home": "Mornar Bar",
       "away": "Mladost Dg",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
@@ -895340,7 +895340,7 @@
       "home": "Welayta Dicha",
       "away": "Bahardar",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -895389,7 +895389,7 @@
       "home": "Awassa Kenema",
       "away": "Cbe",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -895438,7 +895438,7 @@
       "home": "Cand",
       "away": "Thanh Hoa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -895490,7 +895490,7 @@
       "status": 3,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -895539,7 +895539,7 @@
       "status": 3,
       "score": {
         "home": "1",
-        "away": "3"
+        "away": "5"
       },
       "halfTimeScore": {
         "home": "1",
@@ -895634,7 +895634,7 @@
       "home": "Sc Villa",
       "away": "Mbarara City",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -895683,10 +895683,10 @@
       "home": "Zakho",
       "away": "Erbil Sc",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -896467,10 +896467,10 @@
       "home": "Mega Sport",
       "away": "Tanta",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -896516,7 +896516,7 @@
       "home": "Al Wasl",
       "away": "Al Ittihad Kalb",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -896565,7 +896565,7 @@
       "home": "Al Jazira",
       "away": "Ajman",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -897349,14 +897349,14 @@
       "home": "Bunyodkor",
       "away": "Mashal Muborak",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.21,
@@ -897447,7 +897447,7 @@
       "home": "Kigezi Home Bo",
       "away": "Entebbe Uppc",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "1"
@@ -897692,7 +897692,7 @@
       "home": "Tukums Ii",
       "away": "Super Nova Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "3"
@@ -951488,7 +951488,7 @@
     {
       "code": "4503507",
       "week": 24142,
-      "date": "26.10.2026",
+      "date": "25.10.2026",
       "time": "02:00",
       "league": "MEK2",
       "home": "Cd Tapatio",
