@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-22T17:46:14.781Z",
+  "updatedAt": "2026-10-22T18:31:31.685Z",
   "matches": [
     {
       "code": "5847028",
@@ -883237,9 +883237,9 @@
       "home": "Juventus",
       "away": "Rennes",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "2"
       },
       "halfTimeScore": {
@@ -883286,7 +883286,7 @@
       "home": "Sturm Graz",
       "away": "Marsilya",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -883335,10 +883335,10 @@
       "home": "Getafe",
       "away": "Lugano",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
-        "away": "3"
+        "home": "2",
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "1",
@@ -883433,10 +883433,10 @@
       "home": "Inter Escaldes",
       "away": "Universitatea C",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "2"
+        "home": "1",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -883482,10 +883482,10 @@
       "home": "Kauno Zalgiris",
       "away": "Brann",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "3"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "1",
@@ -883531,10 +883531,10 @@
       "home": "Ararat-Armenia",
       "away": "Az Alkmaar",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "0",
@@ -883580,9 +883580,9 @@
       "home": "Nordsjaelland",
       "away": "Cska Sofia",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "1"
       },
       "halfTimeScore": {
@@ -883629,10 +883629,10 @@
       "home": "Dinamo Zagreb",
       "away": "Nijmegen",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
-        "away": "2"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "2",
@@ -883678,9 +883678,9 @@
       "home": "Union St.G",
       "away": "Hapoel Beer She",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "4",
         "away": "0"
       },
       "halfTimeScore": {
@@ -883727,9 +883727,9 @@
       "home": "Fc Iberia",
       "away": "Mjallby",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -883776,9 +883776,9 @@
       "home": "Trabzonspor",
       "away": "Hearts",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -883825,9 +883825,9 @@
       "home": "Ferencvaros",
       "away": "Torreense",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "4",
         "away": "1"
       },
       "halfTimeScore": {
@@ -883874,10 +883874,10 @@
       "home": "Kizilyildiz",
       "away": "Kopenhag",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "2",
@@ -883923,7 +883923,7 @@
       "home": "Ofi",
       "away": "B.Leverkusen",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
@@ -888480,10 +888480,10 @@
       "home": "Pafos Fc",
       "away": "Riga Fc",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -889558,9 +889558,9 @@
       "home": "Lech Poznan",
       "away": "Sunderland",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -890734,7 +890734,7 @@
       "home": "Birkirkara",
       "away": "Floriana",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -890783,10 +890783,10 @@
       "home": "Hibernians",
       "away": "Gzira United",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -892057,9 +892057,9 @@
       "home": "Flora Tallinn ",
       "away": "Nomme United Ii",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
+        "home": "3",
         "away": "2"
       },
       "halfTimeScore": {
@@ -893331,10 +893331,10 @@
       "home": "Gharrafa",
       "away": "Al Ahli",
       "mbs": 2,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "2",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "2",
@@ -894850,10 +894850,10 @@
       "home": "Buducnost",
       "away": "Fk Arsenal Tiva",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
-        "away": "2"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -895732,9 +895732,9 @@
       "home": "Al Najma Manam",
       "away": "Aali Fc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "2"
       },
       "halfTimeScore": {
@@ -895781,9 +895781,9 @@
       "home": "Sitra",
       "away": "Al Rifaa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "3"
       },
       "halfTimeScore": {
@@ -895879,14 +895879,14 @@
       "home": "Al Talaba",
       "away": "Al Jawiya",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.51,
@@ -896663,7 +896663,7 @@
       "home": "Al Gharraf",
       "away": "Naft",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -896712,7 +896712,7 @@
       "home": "Al Ahli Dubai",
       "away": "Al Ain",
       "mbs": 3,
-      "status": 3,
+      "status": 5,
       "score": {
         "home": "2",
         "away": "2"
@@ -896957,10 +896957,10 @@
       "home": "Cuniburo Fc",
       "away": "Independiente J",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -897055,10 +897055,10 @@
       "home": "Deportivo Cuen",
       "away": "Atletico Fc",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -952219,6 +952219,251 @@
         "iy2": 0
       },
       "openingRecordedAt": "2026-10-22T17:46:14.780Z"
+    },
+    {
+      "code": "4506376",
+      "week": 24142,
+      "date": "23.10.2026",
+      "time": "20:00",
+      "league": "ALMBÖL",
+      "home": "Buchbach",
+      "away": "Burghausen",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.92,
+        "msX": 3.31,
+        "ms2": 2.44,
+        "cs1X": 1.21,
+        "cs12": 1.09,
+        "csX2": 1.38,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.22,
+        "kgYok": 2.4,
+        "iy15Alt": 1.48,
+        "iy15Ust": 1.79,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.48,
+        "au35Ust": 1.79,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 2.34,
+        "iyX": 2.2,
+        "iy2": 2.83
+      },
+      "openingRecordedAt": "2026-10-22T18:31:31.683Z"
+    },
+    {
+      "code": "4507614",
+      "week": 24142,
+      "date": "23.10.2026",
+      "time": "20:00",
+      "league": "ALMBÖL",
+      "home": "Offenbach",
+      "away": "Sgv Freiberg",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.72,
+        "msX": 3.21,
+        "ms2": 1.81,
+        "cs1X": 1.44,
+        "cs12": 1.1,
+        "csX2": 1.16,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.28,
+        "kgYok": 2.19,
+        "iy15Alt": 1.41,
+        "iy15Ust": 1.91,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.38,
+        "au35Ust": 1.98,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.11,
+        "iyX": 2.13,
+        "iy2": 2.26
+      },
+      "openingRecordedAt": "2026-10-22T18:31:31.683Z"
+    },
+    {
+      "code": "4507311",
+      "week": 24142,
+      "date": "23.10.2026",
+      "time": "20:30",
+      "league": "ALMBÖL",
+      "home": "Gutersloh",
+      "away": "Wiedenbruck",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.23,
+        "msX": 4.3,
+        "ms2": 5.34,
+        "cs1X": 1,
+        "cs12": 1,
+        "csX2": 2.2,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.38,
+        "kgYok": 1.97,
+        "iy15Alt": 1.53,
+        "iy15Ust": 1.73,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.52,
+        "au35Ust": 1.74,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 1.59,
+        "iyX": 2.46,
+        "iy2": 5.1
+      },
+      "openingRecordedAt": "2026-10-22T18:31:31.683Z"
+    },
+    {
+      "code": "4510979",
+      "week": 24142,
+      "date": "24.10.2026",
+      "time": "15:00",
+      "league": "DAN3",
+      "home": "Naesby",
+      "away": "Holbæk",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 2.75,
+        "msX": 3.22,
+        "ms2": 1.79,
+        "cs1X": 1.45,
+        "cs12": 1.1,
+        "csX2": 1.15,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 1.21,
+        "kgYok": 2.47,
+        "iy15Alt": 1.52,
+        "iy15Ust": 1.74,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 1.54,
+        "au35Ust": 1.73,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 3.04,
+        "iyX": 2.26,
+        "iy2": 2.17
+      },
+      "openingRecordedAt": "2026-10-22T18:31:31.683Z"
+    },
+    {
+      "code": "4574507",
+      "week": 24142,
+      "date": "24.10.2026",
+      "time": "16:00",
+      "league": "CAFKK",
+      "home": "Azam Fc",
+      "away": "Zed",
+      "mbs": 3,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "halfTimeScore": {
+        "home": null,
+        "away": null
+      },
+      "openingOdds": {
+        "ms1": 1.93,
+        "msX": 2.81,
+        "ms2": 2.79,
+        "cs1X": 0,
+        "cs12": 0,
+        "csX2": 0,
+        "au25Alt": 0,
+        "au25Ust": 0,
+        "handicap": null,
+        "handicap1": 0,
+        "handicapX": 0,
+        "handicap2": 0,
+        "kgVar": 0,
+        "kgYok": 0,
+        "iy15Alt": 0,
+        "iy15Ust": 0,
+        "au15Alt": 0,
+        "au15Ust": 0,
+        "au35Alt": 0,
+        "au35Ust": 0,
+        "gol01": 0,
+        "gol23": 0,
+        "gol46": 0,
+        "gol7": 0,
+        "iy1": 0,
+        "iyX": 0,
+        "iy2": 0
+      },
+      "openingRecordedAt": "2026-10-22T18:31:31.683Z"
     }
   ]
 }
