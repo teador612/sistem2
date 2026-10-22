@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-22T03:46:12.157Z",
+  "updatedAt": "2026-10-22T04:46:00.998Z",
   "matches": [
     {
       "code": "5847028",
@@ -888088,14 +888088,14 @@
       "home": "Pachuca",
       "away": "Cruz Azul",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 2.49,
@@ -888137,14 +888137,14 @@
       "home": "Santos Laguna",
       "away": "Pumas Unam",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.91,
@@ -896761,7 +896761,7 @@
       "home": "Cs Cartagines",
       "away": "Depor. Olimpia",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
