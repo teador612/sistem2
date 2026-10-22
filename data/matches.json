@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-22T22:16:15.850Z",
+  "updatedAt": "2026-10-22T23:31:31.650Z",
   "matches": [
     {
       "code": "5847028",
@@ -897104,10 +897104,10 @@
       "home": "Ucv",
       "away": "Atletico Barina",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
