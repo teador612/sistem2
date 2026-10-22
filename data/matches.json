@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-22T05:16:06.843Z",
+  "updatedAt": "2026-10-22T06:45:58.819Z",
   "matches": [
     {
       "code": "5847028",
@@ -767450,14 +767450,14 @@
       "home": "Cincinnati",
       "away": "Dc United",
       "mbs": 1,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 1.49,
@@ -890538,7 +890538,7 @@
       "home": "Al Anwar",
       "away": "Al Wahda",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "1"
