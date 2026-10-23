@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-23T01:01:46.640Z",
+  "updatedAt": "2026-10-23T03:16:08.965Z",
   "matches": [
     {
       "code": "5847028",
@@ -884805,14 +884805,14 @@
       "home": "Flamengo",
       "away": "Estudiantes Lp",
       "mbs": 1,
-      "status": 1,
+      "status": 8,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.23,
@@ -889607,14 +889607,14 @@
       "home": "Alebrijes",
       "away": "Cruz Azul Hidal",
       "mbs": 3,
-      "status": 1,
+      "status": 4,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.76,
@@ -894654,10 +894654,10 @@
       "home": "Always Ready",
       "away": "The Strongest",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -897104,10 +897104,10 @@
       "home": "Ucv",
       "away": "Atletico Barina",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "2",
-        "away": "2"
+        "home": "5",
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -897300,14 +897300,14 @@
       "home": "Atlas (K)",
       "away": "León (K)",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 4.06,
@@ -897496,10 +897496,10 @@
       "home": "",
       "away": "Cruzeiro (K)",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "0",
@@ -897545,9 +897545,9 @@
       "home": "Ldu Quito (K)",
       "away": "Bolívar (K)",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "3",
+        "home": "6",
         "away": "0"
       },
       "halfTimeScore": {
@@ -927925,14 +927925,14 @@
       "home": "Depor Motagua",
       "away": "Alajuelense",
       "mbs": 3,
-      "status": 0,
+      "status": 4,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.93,
