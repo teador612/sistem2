@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-23T09:46:18.178Z",
+  "updatedAt": "2026-10-23T10:01:34.425Z",
   "matches": [
     {
       "code": "5847028",
@@ -891861,7 +891861,7 @@
       "home": "Malacateco",
       "away": "Comunicaciones",
       "mbs": 3,
-      "status": 4,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -904503,14 +904503,14 @@
       "home": "Brisbane Roar",
       "away": "Perth Glory",
       "mbs": 2,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.89,
@@ -932828,7 +932828,7 @@
       "status": 3,
       "score": {
         "home": "0",
-        "away": "1"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
