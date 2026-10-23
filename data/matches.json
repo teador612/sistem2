@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-23T21:16:16.112Z",
+  "updatedAt": "2026-10-23T22:01:50.106Z",
   "matches": [
     {
       "code": "5847028",
@@ -907884,14 +907884,14 @@
       "home": "Indep. Jose Te",
       "away": "Univ Catolica (",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.45,
@@ -928758,9 +928758,9 @@
       "home": "Raja Casablanc",
       "away": "El Kanemi Warri",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -938558,7 +938558,7 @@
       "home": "Pacos Ferreira",
       "away": "Leca",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -938607,9 +938607,9 @@
       "home": "Guimaraes",
       "away": "Maritimo",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "3",
+        "home": "5",
         "away": "0"
       },
       "halfTimeScore": {
@@ -938656,10 +938656,10 @@
       "home": "Atletico Grau",
       "away": "Adt",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -950465,10 +950465,10 @@
       "home": "Indep Cambo Gr",
       "away": "Paraguari",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
