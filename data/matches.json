@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-23T20:45:59.296Z",
+  "updatedAt": "2026-10-23T21:16:16.112Z",
   "matches": [
     {
       "code": "5847028",
@@ -891861,7 +891861,7 @@
       "home": "Malacateco",
       "away": "Comunicaciones",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -897986,7 +897986,7 @@
       "home": "Bolton",
       "away": "Middlesbrough",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "5"
@@ -898035,9 +898035,9 @@
       "home": "Alaves",
       "away": "Malaga",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "1"
       },
       "halfTimeScore": {
@@ -898084,7 +898084,7 @@
       "home": "Ipswich",
       "away": "Nottingham F",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -898133,10 +898133,10 @@
       "home": "Europa",
       "away": "Zaragoza",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -907786,7 +907786,7 @@
       "home": "Caernarfon",
       "away": "Briton Ferry",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "3",
         "away": "1"
@@ -907884,10 +907884,10 @@
       "home": "Indep. Jose Te",
       "away": "Univ Catolica (",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -909451,7 +909451,7 @@
       "league": "ÇİNSL",
       "home": "Liaoning Tiere",
       "away": "Zhejiang G. Fc",
-      "mbs": 2,
+      "mbs": 3,
       "status": 0,
       "score": {
         "home": null,
@@ -928709,7 +928709,7 @@
       "home": "Shamrock Rover",
       "away": "Sligo Rovers",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "4",
         "away": "0"
@@ -928758,14 +928758,14 @@
       "home": "Raja Casablanc",
       "away": "El Kanemi Warri",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1,
@@ -936059,7 +936059,7 @@
       "home": "Newry City Afc",
       "away": "Newington Yc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "2"
@@ -938509,7 +938509,7 @@
       "home": "Psg (K)",
       "away": "Montpellier (K)",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -938607,9 +938607,9 @@
       "home": "Guimaraes",
       "away": "Maritimo",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -938656,14 +938656,14 @@
       "home": "Atletico Grau",
       "away": "Adt",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.44,
