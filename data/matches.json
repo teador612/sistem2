@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-23T11:01:34.916Z",
+  "updatedAt": "2026-10-23T11:31:14.735Z",
   "matches": [
     {
       "code": "5847028",
@@ -904552,10 +904552,10 @@
       "home": "Araz",
       "away": "Qabala",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -932874,7 +932874,7 @@
       "home": "Lg Hn Acb",
       "away": "Slna",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -932923,9 +932923,9 @@
       "home": "Polessya",
       "away": "Obolon-Brovar",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -932972,9 +932972,9 @@
       "home": "Dynamo Kiev",
       "away": "Kudrivka",
       "mbs": 3,
-      "status": 2,
+      "status": 11,
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "0"
       },
       "halfTimeScore": {
@@ -933016,15 +933016,15 @@
       "code": "4508186",
       "week": 24142,
       "date": "23.10.2026",
-      "time": "13:00",
+      "time": "14:00",
       "league": "UKR",
       "home": "Veres Rivne",
       "away": "Kolos Kovalivka",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -936990,10 +936990,10 @@
       "home": "Ipswich Town U",
       "away": "Birmingham City",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "2",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
