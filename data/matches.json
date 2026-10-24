@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-24T00:31:24.573Z",
+  "updatedAt": "2026-10-24T01:16:17.786Z",
   "matches": [
     {
       "code": "5847028",
@@ -908031,14 +908031,14 @@
       "home": "Sport Recife",
       "away": "Criciuma",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 2.09,
@@ -908129,10 +908129,10 @@
       "home": "Tepatitlan De ",
       "away": "Cancun Fc",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -928807,7 +928807,7 @@
       "home": "Audax Italiano",
       "away": "Huachipato",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "1"
@@ -938705,7 +938705,7 @@
       "home": "Operario",
       "away": "Athletic Club",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -938754,9 +938754,9 @@
       "home": "Chico",
       "away": "Bucaramanga",
       "mbs": 3,
-      "status": 2,
+      "status": 4,
       "score": {
-        "home": "0",
+        "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
@@ -938803,7 +938803,7 @@
       "home": "Cruzeiro",
       "away": "Remo",
       "mbs": 1,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
         "away": "0"
@@ -938852,7 +938852,7 @@
       "home": "Juventud Dl Pi",
       "away": "Penarol",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "0"
@@ -938901,14 +938901,14 @@
       "home": "Inca-Aruba",
       "away": "Inter Fa",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 4.1,
@@ -938950,10 +938950,10 @@
       "home": "Necaxa",
       "away": "Fc Juarez",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -938999,10 +938999,10 @@
       "home": "Auckland City",
       "away": "Auckland United",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -950514,10 +950514,10 @@
       "home": "Olancho",
       "away": "Estrella Roja",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
