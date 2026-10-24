@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-24T01:46:17.774Z",
+  "updatedAt": "2026-10-24T02:16:16.331Z",
   "matches": [
     {
       "code": "5847028",
@@ -908031,10 +908031,10 @@
       "home": "Sport Recife",
       "away": "Criciuma",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
-        "away": "0"
+        "home": "2",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "0",
@@ -908080,14 +908080,14 @@
       "home": "Tigre",
       "away": "Atletico Tucuma",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.54,
@@ -908129,14 +908129,14 @@
       "home": "Tepatitlan De ",
       "away": "Cancun Fc",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "2"
       },
       "openingOdds": {
         "ms1": 3.36,
@@ -938950,14 +938950,14 @@
       "home": "Necaxa",
       "away": "Fc Juarez",
       "mbs": 2,
-      "status": 1,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.49,
@@ -938999,7 +938999,7 @@
       "home": "Auckland City",
       "away": "Auckland United",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -939048,10 +939048,10 @@
       "home": "Liberia",
       "away": "Sporting San Jo",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
