@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-24T00:01:37.482Z",
+  "updatedAt": "2026-10-24T00:16:03.624Z",
   "matches": [
     {
       "code": "5847028",
@@ -908031,10 +908031,10 @@
       "home": "Sport Recife",
       "away": "Criciuma",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -938803,7 +938803,7 @@
       "home": "Cruzeiro",
       "away": "Remo",
       "mbs": 1,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
         "away": "0"
@@ -938852,7 +938852,7 @@
       "home": "Juventud Dl Pi",
       "away": "Penarol",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "0",
         "away": "0"
@@ -938901,10 +938901,10 @@
       "home": "Inca-Aruba",
       "away": "Inter Fa",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
