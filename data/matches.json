@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-24T03:01:38.994Z",
+  "updatedAt": "2026-10-24T03:46:16.033Z",
   "matches": [
     {
       "code": "5847028",
@@ -939048,10 +939048,10 @@
       "home": "Liberia",
       "away": "Sporting San Jo",
       "mbs": 3,
-      "status": 2,
+      "status": 3,
       "score": {
         "home": "1",
-        "away": "1"
+        "away": "3"
       },
       "halfTimeScore": {
         "home": "1",
@@ -939146,10 +939146,10 @@
       "home": "Ntv Beleza (K)",
       "away": "Elfen Saitama (",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "3",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -939195,10 +939195,10 @@
       "home": "Western Sydney",
       "away": "Brisbane Roar (",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
@@ -951935,10 +951935,10 @@
       "home": "Tijuana (K)",
       "away": "Pumas Unam (K)",
       "mbs": 3,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
         "home": null,
