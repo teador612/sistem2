@@ -1,7 +1,7 @@
 {
   "source": "https://arsiv.mackolik.com/Genis-Iddaa-Programi",
   "week": 24142,
-  "updatedAt": "2026-10-24T02:16:16.331Z",
+  "updatedAt": "2026-10-24T03:01:38.994Z",
   "matches": [
     {
       "code": "5847028",
@@ -908080,7 +908080,7 @@
       "home": "Tigre",
       "away": "Atletico Tucuma",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
         "away": "1"
@@ -908129,10 +908129,10 @@
       "home": "Tepatitlan De ",
       "away": "Cancun Fc",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "2"
+        "away": "4"
       },
       "halfTimeScore": {
         "home": "0",
@@ -938901,10 +938901,10 @@
       "home": "Inca-Aruba",
       "away": "Inter Fa",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "0",
-        "away": "0"
+        "away": "2"
       },
       "halfTimeScore": {
         "home": "0",
@@ -938950,10 +938950,10 @@
       "home": "Necaxa",
       "away": "Fc Juarez",
       "mbs": 2,
-      "status": 3,
+      "status": 4,
       "score": {
         "home": "1",
-        "away": "0"
+        "away": "1"
       },
       "halfTimeScore": {
         "home": "1",
@@ -938999,9 +938999,9 @@
       "home": "Auckland City",
       "away": "Auckland United",
       "mbs": 3,
-      "status": 3,
+      "status": 4,
       "score": {
-        "home": "1",
+        "home": "3",
         "away": "0"
       },
       "halfTimeScore": {
@@ -939048,14 +939048,14 @@
       "home": "Liberia",
       "away": "Sporting San Jo",
       "mbs": 3,
-      "status": 1,
+      "status": 2,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "1",
+        "away": "1"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "1"
       },
       "openingOdds": {
         "ms1": 3.5,
@@ -939097,10 +939097,10 @@
       "home": "Atlante",
       "away": "Atletico San Lu",
       "mbs": 2,
-      "status": 0,
+      "status": 1,
       "score": {
-        "home": null,
-        "away": null
+        "home": "0",
+        "away": "0"
       },
       "halfTimeScore": {
         "home": null,
@@ -950514,14 +950514,14 @@
       "home": "Olancho",
       "away": "Estrella Roja",
       "mbs": 3,
-      "status": 1,
+      "status": 3,
       "score": {
-        "home": "0",
-        "away": "0"
+        "home": "3",
+        "away": "2"
       },
       "halfTimeScore": {
-        "home": null,
-        "away": null
+        "home": "1",
+        "away": "0"
       },
       "openingOdds": {
         "ms1": 1.43,
